@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Bogstaveligt talt</title>
@@ -7,7 +6,7 @@
 
 Vært og tilrettelægger: Molly Balsby
 Medtilrettelægger og producer: Kamille Jahncke</description>
-    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/image.jpg?t=1700824412&amp;size=Medium"/>
+    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/image.jpg?t=1700824412&amp;size=Medium" />
     <item>
       <title>’Generationen, der skal redde verden – med lidt hjælp fra os andre’ med Emilia van Hauen</title>
       <description>Afsnit 9. I dette afsnit får vi besøg af sociologen Emilia van Hauen, der er aktuel med fagbogen ’Generationen, der skal redde verden – med lidt hjælp fra os andre’. Bogen er en undersøgelse af, hvordan den nye generation Z, der er født mellem 1995 og 2010, agerer i samfundet - og i særdeleshed på arbejdsmarkedet. 
@@ -20,7 +19,7 @@ Vært og tilrettelægger: Molly Balsby 
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Wed, 21 Feb 2024 05:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/8edf2abe-6714-4179-9af6-b11c0110346c/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiOGVkZjJhYmUtNjcxNC00MTc5LTlhZjYtYjExYzAxMTAzNDZjIiwia2V5IjoiKiIsImlhdCI6MTcwODQ5MTkxOH0.1UnMjcFOPGX9fCwYYu9rHffccT53w6T5SPYOMw8SHUg" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/8edf2abe-6714-4179-9af6-b11c0110346c/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiOGVkZjJhYmUtNjcxNC00MTc5LTlhZjYtYjExYzAxMTAzNDZjIiwia2V5IjoiKiIsImlhdCI6MTcwODQ5MTkxOH0.1UnMjcFOPGX9fCwYYu9rHffccT53w6T5SPYOMw8SHUg" length="0" type="audio/mpeg" />
       <itunes:duration>56:11</itunes:duration>
     </item>
     <item>
@@ -39,7 +38,7 @@ Vært og tilrettelægger: Molly Balsby
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Wed, 07 Feb 2024 05:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/52985149-b025-411b-bca5-b10e010ab31f/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiNTI5ODUxNDktYjAyNS00MTFiLWJjYTUtYjEwZTAxMGFiMzFmIiwia2V5IjoiKiIsImlhdCI6MTcwNzI4MjM3Mn0.gFOEqqeko0EM9vcm8947y6VvW2sNlXfKtij-uY-Q0Gs" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/52985149-b025-411b-bca5-b10e010ab31f/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiNTI5ODUxNDktYjAyNS00MTFiLWJjYTUtYjEwZTAxMGFiMzFmIiwia2V5IjoiKiIsImlhdCI6MTcwNzI4MjM3Mn0.gFOEqqeko0EM9vcm8947y6VvW2sNlXfKtij-uY-Q0Gs" length="0" type="audio/mpeg" />
       <itunes:duration>01:03:39</itunes:duration>
     </item>
     <item>
@@ -56,7 +55,7 @@ Vært og tilrettelægger: Molly Balsby 
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Wed, 24 Jan 2024 16:25:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/7e47efd3-4381-4377-a76b-b10100e42eac/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiN2U0N2VmZDMtNDM4MS00Mzc3LWE3NmItYjEwMTAwZTQyZWFjIiwia2V5IjoiKiIsImlhdCI6MTcwNjExMzgzNn0.pXuP04Iq1kEpsLCmlRhZSAZpzqvEQk-F2tmQcqMibXg" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/7e47efd3-4381-4377-a76b-b10100e42eac/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiN2U0N2VmZDMtNDM4MS00Mzc3LWE3NmItYjEwMTAwZTQyZWFjIiwia2V5IjoiKiIsImlhdCI6MTcwNjExMzgzNn0.pXuP04Iq1kEpsLCmlRhZSAZpzqvEQk-F2tmQcqMibXg" length="0" type="audio/mpeg" />
       <itunes:duration>01:01:15</itunes:duration>
     </item>
     <item>
@@ -73,7 +72,7 @@ Vært og tilrettelægger: Molly Balsby 
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Wed, 10 Jan 2024 16:30:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/319edf1f-047b-47a1-a2be-b0f300cc7a1b/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiMzE5ZWRmMWYtMDQ3Yi00N2ExLWEyYmUtYjBmMzAwY2M3YTFiIiwia2V5IjoiKiIsImlhdCI6MTcwNDkwNDU2OX0.MwrBPIUK7vure_EVoTdGoc6XL8u2FqRkN0JSmjPM_oE" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/319edf1f-047b-47a1-a2be-b0f300cc7a1b/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiMzE5ZWRmMWYtMDQ3Yi00N2ExLWEyYmUtYjBmMzAwY2M3YTFiIiwia2V5IjoiKiIsImlhdCI6MTcwNDkwNDU2OX0.MwrBPIUK7vure_EVoTdGoc6XL8u2FqRkN0JSmjPM_oE" length="0" type="audio/mpeg" />
       <itunes:duration>58:42</itunes:duration>
     </item>
     <item>
@@ -90,7 +89,7 @@ Vært og tilrettelægger: Molly Balsby 
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Fri, 22 Dec 2023 13:05:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/a4c5a8eb-9aa8-47a8-b27a-b0df01075c99/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiYTRjNWE4ZWItOWFhOC00N2E4LWIyN2EtYjBkZjAxMDc1Yzk5Iiwia2V5IjoiKiIsImlhdCI6MTcwMzI1MDY3OX0.F7DCnop0Ce1GNsbLaTpw40rPJfSaFz1xaJiPrWzDk-c" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/a4c5a8eb-9aa8-47a8-b27a-b0df01075c99/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiYTRjNWE4ZWItOWFhOC00N2E4LWIyN2EtYjBkZjAxMDc1Yzk5Iiwia2V5IjoiKiIsImlhdCI6MTcwMzI1MDY3OX0.F7DCnop0Ce1GNsbLaTpw40rPJfSaFz1xaJiPrWzDk-c" length="0" type="audio/mpeg" />
       <itunes:duration>59:44</itunes:duration>
     </item>
     <item>
@@ -107,7 +106,7 @@ Vært og tilrettelægger: Molly Balsby
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Fri, 15 Dec 2023 13:05:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/3b8db070-1d6e-4e11-91af-b0d900c9e5d4/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiM2I4ZGIwNzAtMWQ2ZS00ZTExLTkxYWYtYjBkOTAwYzllNWQ0Iiwia2V5IjoiKiIsImlhdCI6MTcwMjY0NTkzNH0.SqxCLYZMIbgUOcB5P8y0CaLuu6uzByumftsxstFjc-4" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/3b8db070-1d6e-4e11-91af-b0d900c9e5d4/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiM2I4ZGIwNzAtMWQ2ZS00ZTExLTkxYWYtYjBkOTAwYzllNWQ0Iiwia2V5IjoiKiIsImlhdCI6MTcwMjY0NTkzNH0.SqxCLYZMIbgUOcB5P8y0CaLuu6uzByumftsxstFjc-4" length="0" type="audio/mpeg" />
       <itunes:duration>58:35</itunes:duration>
     </item>
     <item>
@@ -124,7 +123,7 @@ Vært og tilrettelægger: Molly Balsby
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Fri, 08 Dec 2023 13:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/dcde31b9-27d5-4539-8628-b0d200c0dc02/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiZGNkZTMxYjktMjdkNS00NTM5LTg2MjgtYjBkMjAwYzBkYzAyIiwia2V5IjoiKiIsImlhdCI6MTcwMjQ2MDE3MX0.ToAPSF5As5k_BnkA3XOFtXxvlAwzdVXFmZHpI7CDBYU" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/dcde31b9-27d5-4539-8628-b0d200c0dc02/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiZGNkZTMxYjktMjdkNS00NTM5LTg2MjgtYjBkMjAwYzBkYzAyIiwia2V5IjoiKiIsImlhdCI6MTcwMjQ2MDE3MX0.ToAPSF5As5k_BnkA3XOFtXxvlAwzdVXFmZHpI7CDBYU" length="0" type="audio/mpeg" />
       <itunes:duration>58:58</itunes:duration>
     </item>
     <item>
@@ -141,7 +140,7 @@ Vært og tilrettelægger: Molly Balsby
 
 Medtilrettelægger og producer: Kamille Jahncke</description>
       <pubDate>Fri, 01 Dec 2023 13:15:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/30087656-f2c8-439d-a1e4-b0cb00c267a0/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiMzAwODc2NTYtZjJjOC00MzlkLWExZTQtYjBjYjAwYzI2N2EwIiwia2V5IjoiKiIsImlhdCI6MTcwMTQzNjg5N30.BElMzeM7RBrIYFBTPholtspBpvxMLWKnESCmQc-2Qx8" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/30087656-f2c8-439d-a1e4-b0cb00c267a0/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiMzAwODc2NTYtZjJjOC00MzlkLWExZTQtYjBjYjAwYzI2N2EwIiwia2V5IjoiKiIsImlhdCI6MTcwMTQzNjg5N30.BElMzeM7RBrIYFBTPholtspBpvxMLWKnESCmQc-2Qx8" length="0" type="audio/mpeg" />
       <itunes:duration>01:07:44</itunes:duration>
     </item>
     <item>
@@ -150,8 +149,23 @@ Medtilrettelægger og producer: Kamille Jahncke</description>
 
 Med i studiet er også bogens helt, Oskar Plougmand, der som inspektør i Børneforsorgen afslørede forholdene på de danske børnehjem. Men udover dette er Plougmand også grunden til, at Øvig overhovedet har kunnet skrive historien. Før Øvig hørte om Plougmand og hans rolle, ville han ikke skrive historien. Den var simpelthen for mørk.</description>
       <pubDate>Fri, 24 Nov 2023 13:03:57 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/7a1a35fa-46b4-43c9-aefd-b0c400b978a2/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiN2ExYTM1ZmEtNDZiNC00M2M5LWFlZmQtYjBjNDAwYjk3OGEyIiwia2V5IjoiKiIsImlhdCI6MTcwMDgzNzY3OH0.0SMNbIVrVpegJi4QSp266UuuJB8HVXYikZ5ERkTdGaQ" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/7a1a35fa-46b4-43c9-aefd-b0c400b978a2/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiN2ExYTM1ZmEtNDZiNC00M2M5LWFlZmQtYjBjNDAwYjk3OGEyIiwia2V5IjoiKiIsImlhdCI6MTcwMDgzNzY3OH0.0SMNbIVrVpegJi4QSp266UuuJB8HVXYikZ5ERkTdGaQ" length="0" type="audio/mpeg" />
       <itunes:duration>50:11</itunes:duration>
     </item>
-  </channel>
+  <item><title>På Krimimessen med Ole Christian Madsen, Lisa Holmfjord og Walther Rebernik</title>
+  <description>Sæson 2 - afsnit 1. Bogstaveligt talt er taget på studietur til Krimimessen i det nedlagte Horsens Statsfængsel.
+
+Vi bevæger os ind i den store messehal sammen med filminstruktør og romandebutant Ole Christian Madsen, der har udgivet ’Manden fra mørket’, et efterkrigstidsdrama, der – blandt andet - handler om dobbeltmordet på Peter Bangs Vej.
+
+Vi taler også med Lisa Holmfjord, der er aktuel med tredje bind i sin serie om velfærdsdanmarks vrangside, ’Pigen ingen savnede’, og Walther Rebernik, der med ’Satans datter’ har påbegyndt sin romanserie om forsvarsadvokaten Jan Rose. De fortæller om, hvordan de anvender deres erhvervserfaring som henholdsvis socialrådgiver og advokat i deres romaner.
+
+Litteraturprogrammet ‘Bogstaveligt talt’ er et samarbejde mellem r8Dio og Gyldendal, der i hvert program dykker ned i aktuelle udgivelser fra forlaget. Vært er Molly Balsby, digter og kulturjournalist, og sammen med gæster, forfattere og eksperter slår hun op på side 1 og udfolder værkerne.
+
+Vært og tilrettelægger: Molly Balsby
+
+Medtilrettelægger og producer: Kamille Jahncke</description>
+  <pubDate>Wed, 20 Mar 2024 05:00:00 +0000</pubDate>
+  <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/e85b5f86-259e-449f-adba-b138016df9a1/audio.mp3?utm_source=Podcast&amp;in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiZTg1YjVmODYtMjU5ZS00NDlmLWFkYmEtYjEzODAxNmRmOWExIiwia2V5IjoiKiIsImlhdCI6MTcxMDkxMTE2M30.juj3IOV43zF3afjFwnU1lsQG-kWciTmiSY4syYXCK28" length="0" type="audio/mpeg" />
+  <itunes:duration>01:07:55</itunes:duration>
+</item></channel>
 </rss>

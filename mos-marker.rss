@@ -1,71 +1,70 @@
-<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Mos &amp; marker</title>
     <link>https://r8dio.demo.supertusch.com/podcasts/mos-marker/episodes</link>
     <description>Mos og marker er programmet om naturen og haven omkring os. r8Dios egen direktør, Klavs Bundgaard er vært for programmet og guider lytteren gennem havens forunderlige liv hele året rundt. Han får hjælp af blandt andre naturvejlederen, Morten DD og den økologiske landmand, Flemming Skov.</description>
-    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/image.jpg?t=1675677251&amp;size=Medium"/>
+    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/image.jpg?t=1675677251&amp;size=Medium" />
     <item>
       <title>Afsnit 9 - Nye kyllinger</title>
       <description>Klavs Bundgaard har fået et nyt kuld små kyllinger i sin hønsegård. Derfor har han lavet denne særudgave af Mos &amp; maker.</description>
       <pubDate>Sat, 06 May 2023 09:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/4029bc43-2b6a-40e4-b335-aff800f29bc8/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiNDAyOWJjNDMtMmI2YS00MGU0LWIzMzUtYWZmODAwZjI5YmM4Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.Ck68-Z1loRUCCtwg3M2u6gqsRZq7yIWaN07zr1SoGeg" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/4029bc43-2b6a-40e4-b335-aff800f29bc8/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiNDAyOWJjNDMtMmI2YS00MGU0LWIzMzUtYWZmODAwZjI5YmM4Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.Ck68-Z1loRUCCtwg3M2u6gqsRZq7yIWaN07zr1SoGeg" length="0" type="audio/mpeg" />
       <itunes:duration>43:22</itunes:duration>
     </item>
     <item>
       <title>Afsnit 8 - Vintergæk og høns</title>
       <description>Klavs Bundgaard er tilbage i det grønne. Denne gang handler programmet blandt andet om vintergæk, høns og Jakob Ellemann-Schmidt.</description>
       <pubDate>Thu, 09 Feb 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/45bdd422-0f9d-42fc-b7fa-afa400ff9193/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiNDViZGQ0MjItMGY5ZC00MmZjLWI3ZmEtYWZhNDAwZmY5MTkzIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.SACjYMdZH6rPzAkLmd3OMNT9oDzxO_PSEt9S7RojDd8" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/45bdd422-0f9d-42fc-b7fa-afa400ff9193/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiNDViZGQ0MjItMGY5ZC00MmZjLWI3ZmEtYWZhNDAwZmY5MTkzIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.SACjYMdZH6rPzAkLmd3OMNT9oDzxO_PSEt9S7RojDd8" length="0" type="audio/mpeg" />
       <itunes:duration>48:38</itunes:duration>
     </item>
     <item>
       <title>Afsnit 7 - Kyndelmisse</title>
       <description>I dette afsnit handler det om vinterens fugle. Vært, Klavs Bundgaard, har hængt en beholder med fuglekugler ud foran sit køkkenvindue. Lidt aparte er lytterne også med, når Klavs tager kontakt til kulturministeriet.</description>
       <pubDate>Thu, 02 Feb 2023 16:38:52 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/126c5f3c-dc14-4ed0-9b7f-af9d01104418/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiMTI2YzVmM2MtZGMxNC00ZWQwLTliN2YtYWY5ZDAxMTA0NDE4Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.CqnzaHCFDHD-vmmzrauybIhm9SH0D7xqD3RkVBiBNV4" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/126c5f3c-dc14-4ed0-9b7f-af9d01104418/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiMTI2YzVmM2MtZGMxNC00ZWQwLTliN2YtYWY5ZDAxMTA0NDE4Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.CqnzaHCFDHD-vmmzrauybIhm9SH0D7xqD3RkVBiBNV4" length="0" type="audio/mpeg" />
       <itunes:duration>45:35</itunes:duration>
     </item>
     <item>
       <title>Afsnit 6 - Stedsegrønt</title>
       <description>I dette afsnit er vi taget ud på landevejen. Nærmere bestemt til Limfjorden. En tur gennem et fascinerende landskab og nær byer med navne som Vindblæs, Aggersund, Løgstør og Fjerritslev. Allan Sindberg agerer chauffør og SoMe assistent, mens Klavs beskriver tur og landskab. Og så lærer han et nyt ord af Allan.</description>
       <pubDate>Thu, 26 Jan 2023 18:05:51 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/7d0c9690-f642-44bb-a5d4-af9601285a6d/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiN2QwYzk2OTAtZjY0Mi00NGJiLWE1ZDQtYWY5NjAxMjg1YTZkIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.ZqVNGUimXmiMfZCteOAvjFmwE2mK7ZE_v5S0ntkIvno" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/7d0c9690-f642-44bb-a5d4-af9601285a6d/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiN2QwYzk2OTAtZjY0Mi00NGJiLWE1ZDQtYWY5NjAxMjg1YTZkIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.ZqVNGUimXmiMfZCteOAvjFmwE2mK7ZE_v5S0ntkIvno" length="0" type="audio/mpeg" />
       <itunes:duration>47:57</itunes:duration>
     </item>
     <item>
       <title>Afsnit 5 - Gødning</title>
       <description>Klavs er taget ud i en skov i dagens afsnit af Mos &amp; Marker. Temaet er gødning, og til sidst skal der selvfølgelig lyttes til nogle høns, der spiser.</description>
       <pubDate>Thu, 19 Jan 2023 15:33:48 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/96b1b15b-7b0e-44d0-b5c0-af8f00fe9766/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiOTZiMWIxNWItN2IwZS00NGQwLWI1YzAtYWY4ZjAwZmU5NzY2Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.b75SMz7TvxasCPpiOV4KGc1jn_A0AZYykMU3HCBPh_M" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/96b1b15b-7b0e-44d0-b5c0-af8f00fe9766/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiOTZiMWIxNWItN2IwZS00NGQwLWI1YzAtYWY4ZjAwZmU5NzY2Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.b75SMz7TvxasCPpiOV4KGc1jn_A0AZYykMU3HCBPh_M" length="0" type="audio/mpeg" />
       <itunes:duration>50:34</itunes:duration>
     </item>
     <item>
       <title>Afsnit 4 - Allans Gave</title>
       <description>I dette afsnit får Klavs og producer Rune Ingemann besøg i haven af Allan Sindberg. Denne er blevet bedt om at tage en gave med til Klavs’ have. Derudover står den på påfyldning af pillefyr, lytter-synergering, Lasse Spang og sultne høns.</description>
       <pubDate>Tue, 03 Jan 2023 13:44:31 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/0da202c3-9cc1-4d7d-a088-af7f00e00b42/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiMGRhMjAyYzMtOWNjMS00ZDdkLWEwODgtYWY3ZjAwZTAwYjQyIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.qfgfQAotNPMGUi_rWKicnKMk-IpyknOoTaLXY6unq9w" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/0da202c3-9cc1-4d7d-a088-af7f00e00b42/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiMGRhMjAyYzMtOWNjMS00ZDdkLWEwODgtYWY3ZjAwZTAwYjQyIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.qfgfQAotNPMGUi_rWKicnKMk-IpyknOoTaLXY6unq9w" length="0" type="audio/mpeg" />
       <itunes:duration>59:20</itunes:duration>
     </item>
     <item>
       <title>Afsnit 3 - Snegl og regn i Skuldborg (LIVE)</title>
       <description>I Dette afsnit er Klavs taget ud i sin have for at beskæftige sig med snegle, høns og sin lydmand Rune. Der ringes desuden til Morten DD, og så skal der selvfølgelig lyttes til regn, blæst, fugle og trafik fra en bænk i tørvejr.</description>
       <pubDate>Mon, 02 Jan 2023 15:53:53 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/b8fcae02-0db2-4cba-b3bf-af7e00f76740/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiYjhmY2FlMDItMGRiMi00Y2JhLWIzYmYtYWY3ZTAwZjc2NzQwIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.q2NVbbYBYrHIm3BsUT8o0Lh-8bGBvNZZkPkhQh_R7gg" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/b8fcae02-0db2-4cba-b3bf-af7e00f76740/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiYjhmY2FlMDItMGRiMi00Y2JhLWIzYmYtYWY3ZTAwZjc2NzQwIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.q2NVbbYBYrHIm3BsUT8o0Lh-8bGBvNZZkPkhQh_R7gg" length="0" type="audio/mpeg" />
       <itunes:duration>01:01:26</itunes:duration>
     </item>
     <item>
       <title>Afsnit 2 - Efterår, slåen og snaps</title>
       <description>I dette efterårsafsnit er der fokus på det bitre og søde bær, slåen. Vært, Klavs Bundgaard, tager lytteren med ud på et hemmeligt slåenbusk-sted nær Skuldborg Nørreskov. Lidt senere får han hjælp til sit snapsebryggerprojekt af brygmester, Reinhart Weiphauer. Og til sidst er der gode råd fra husbiologen, Morten DD.</description>
       <pubDate>Tue, 16 Nov 2021 17:42:00 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/38fd1045-42ff-4e90-8626-ade200c70ce5/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiMzhmZDEwNDUtNDJmZi00ZTkwLTg2MjYtYWRlMjAwYzcwY2U1Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.A4kgGPV9WqHqP-3xFxra9Pyv6R2_lioKyyJ3sSTJKtA" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/38fd1045-42ff-4e90-8626-ade200c70ce5/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiMzhmZDEwNDUtNDJmZi00ZTkwLTg2MjYtYWRlMjAwYzcwY2U1Iiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.A4kgGPV9WqHqP-3xFxra9Pyv6R2_lioKyyJ3sSTJKtA" length="0" type="audio/mpeg" />
       <itunes:duration>36:28</itunes:duration>
     </item>
     <item>
       <title>Afsnit 1 - Sensommerdag</title>
       <description>Klavs Bundgaard tager i dette første program lytterne med ud i sin have. Da tempoet sættes ned vælter oplevelserne pludselig frem. En bille har lavet miner i et blad, skovduen kurer og hindbærbusken høstes. Klavs taler med landmanden, Flemming Skov og med sin barndomsven Morten DD, der giver vejledning.</description>
       <pubDate>Wed, 29 Sep 2021 21:30:20 +0000</pubDate>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/9dbdafa3-7341-462d-bc83-adb20160f2a3/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiOWRiZGFmYTMtNzM0MS00NjJkLWJjODMtYWRiMjAxNjBmMmEzIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.P8mbPH_PC5siHumQtVWWH83WMgfPsHrntWG4TTk5z4I" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/9dbdafa3-7341-462d-bc83-adb20160f2a3/audio.mp3?utm_source=Podcast&amp;in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiOWRiZGFmYTMtNzM0MS00NjJkLWJjODMtYWRiMjAxNjBmMmEzIiwia2V5IjoiKiIsImlhdCI6MTcwODAwMjM4OH0.P8mbPH_PC5siHumQtVWWH83WMgfPsHrntWG4TTk5z4I" length="0" type="audio/mpeg" />
       <itunes:duration>40:58</itunes:duration>
     </item>
   </channel>
