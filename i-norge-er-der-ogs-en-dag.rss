@@ -34,5 +34,10 @@ De har besluttet at tage toget til Norge for at finde inspiration. Her går de i
       <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a9e91716-bcf4-422e-b191-b11d00c292e5/fb92f88d-8387-4f07-9995-b11d011776d5/audio.mp3?utm_source=Podcast&amp;in_playlist=48f4f636-e4df-4e52-a48a-b11d0116fb90&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjJ1NkU4cFJoSFU2QThMRWRBUmZwT1EifQ.eyJjbGlwIjoiZmI5MmY4OGQtODM4Ny00ZjA3LTk5OTUtYjExZDAxMTc3NmQ1Iiwia2V5IjoiKiIsImlhdCI6MTcwODU4ODk0MH0.fuKfFFbvVllcouscnUxRNC5OdOct5MIoXkjKAjBbAXk" length="0" type="audio/mpeg" />
       <itunes:duration>25:44</itunes:duration>
     </item>
-  </channel>
+  <item><title>Strangers in the Night</title>
+  <description>Afsnit 5. Anja og Kristoffer tager på en god gammeldags druktur i Bergens natteliv. Efter at have drukket lækre cocktails med kirsebær på toppen, er der dagen derpå tømmermænd og traumesnak på programmet. Spørgsmålet er, om Anja har levet hele sit liv på en løgn?</description>
+  <pubDate>Thu, 21 Mar 2024 05:00:00 +0000</pubDate>
+  <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a9e91716-bcf4-422e-b191-b11d00c292e5/113995c5-e732-45cc-90cf-b139010165ba/audio.mp3?utm_source=Podcast&amp;in_playlist=48f4f636-e4df-4e52-a48a-b11d0116fb90&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjJ1NkU4cFJoSFU2QThMRWRBUmZwT1EifQ.eyJjbGlwIjoiMTEzOTk1YzUtZTczMi00NWNjLTkwY2YtYjEzOTAxMDE2NWJhIiwia2V5IjoiKiIsImlhdCI6MTcxMDk5NzQzM30.mIkIXja39aDqQoWVl3DwVko4i3Cw0ShUYyJKvcf1G2E" length="0" type="audio/mpeg" />
+  <itunes:duration>31:50</itunes:duration>
+</item></channel>
 </rss>

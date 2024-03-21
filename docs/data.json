@@ -4156,6 +4156,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/i-norge-er-der-ogs-en-dag/episodes",
         "episodes": [
             {
+                "id": 951,
+                "createdAt": "2024-03-21T05:03:24.318Z",
+                "updatedAt": "2024-03-21T05:13:24.382Z",
+                "publishedAt": "2024-03-21T05:00:00.000Z",
+                "published": true,
+                "title": "Strangers in the Night",
+                "slug": "strangers-in-the-night",
+                "content": "Afsnit 5. Anja og Kristoffer tager p\u00e5 en god gammeldags druktur i Bergens natteliv. Efter at have drukket l\u00e6kre cocktails med kirseb\u00e6r p\u00e5 toppen, er der dagen derp\u00e5 t\u00f8mmerm\u00e6nd og traumesnak p\u00e5 programmet. Sp\u00f8rgsm\u00e5let er, om Anja har levet hele sit liv p\u00e5 en l\u00f8gn?",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a9e91716-bcf4-422e-b191-b11d00c292e5/113995c5-e732-45cc-90cf-b139010165ba/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a9e91716-bcf4-422e-b191-b11d00c292e5/113995c5-e732-45cc-90cf-b139010165ba/audio.mp3?utm_source=Podcast&in_playlist=48f4f636-e4df-4e52-a48a-b11d0116fb90&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjJ1NkU4cFJoSFU2QThMRWRBUmZwT1EifQ.eyJjbGlwIjoiMTEzOTk1YzUtZTczMi00NWNjLTkwY2YtYjEzOTAxMDE2NWJhIiwia2V5IjoiKiIsImlhdCI6MTcxMDk5NzQzM30.mIkIXja39aDqQoWVl3DwVko4i3Cw0ShUYyJKvcf1G2E",
+                "duration": 1910.204,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "113995c5-e732-45cc-90cf-b139010165ba",
+                "podcastId": 47,
+                "season": 1,
+                "episode": 5,
+                "premium": true
+            },
+            {
                 "id": 940,
                 "createdAt": "2024-03-14T05:03:00.757Z",
                 "updatedAt": "2024-03-14T05:13:00.834Z",
