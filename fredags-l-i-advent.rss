@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Fredagsøl i advent</title>
@@ -5,7 +6,7 @@
     <description>Fredagsøl i Advent er radiodirektør Klavs Bundgaards ølsmagnings- / adventsprogram, hvor han sammen med sin kyndige programchef, Allan Sindberg, smager på øl fra Skuldborg Bryghus' øljulekalender.
 
 Der bliver skålet, der bliver hygget og der bliver skrålet i dette program, hvor ølanmelderen Valkyrien Elise Bøhmert er et fast indslag ligesom lytterinddragelse, andre gæster og så fremdeles også er det.</description>
-    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/image.jpg?t=1701447109&amp;size=Medium" />
+    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/image.jpg?t=1701447109&amp;size=Medium"/>
     <item>
       <title>22. december</title>
       <description>Afsnit 4. Det er fredag, det er jul og der er øl i Stjernen i Skuldborg, hvor Klavs Bundgaard sidder klar med craftbeer Valkyrie / ølanmelder Elise Bøhmert. 
@@ -15,7 +16,7 @@ Dagens øl i øljulekalenderen er ‘Havmunken’ og dagens tema er 'julestress'
 Glædelig jul og skål.</description>
       <pubDate>Fri, 22 Dec 2023 16:01:18 +0000</pubDate>
       <guid>809</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/b18fa2d8-5339-40db-b928-b0e001056da3/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiYjE4ZmEyZDgtNTMzOS00MGRiLWI5MjgtYjBlMDAxMDU2ZGEzIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2Njk2MH0.cYBCtgrK9nmFSJG72fVmHkRhnpL8GxVFV8E8ailtDlU" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/b18fa2d8-5339-40db-b928-b0e001056da3/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiYjE4ZmEyZDgtNTMzOS00MGRiLWI5MjgtYjBlMDAxMDU2ZGEzIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2Njk2MH0.cYBCtgrK9nmFSJG72fVmHkRhnpL8GxVFV8E8ailtDlU" length="0" type="audio/mpeg"/>
       <itunes:duration>01:09:41</itunes:duration>
     </item>
     <item>
@@ -27,7 +28,7 @@ Glædelig jul og skål.</description>
 Det og meget mere i dette afsnit, hvor der bliver skålet og skrålet fra Skuldborg.</description>
       <pubDate>Fri, 15 Dec 2023 15:35:26 +0000</pubDate>
       <guid>796</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/09ef5a0b-b80f-4900-9e70-b0d900fecaa2/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiMDllZjVhMGItYjgwZi00OTAwLTllNzAtYjBkOTAwZmVjYWEyIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2NzA0OX0.HQy6J3nDn2pbZg_PkNiHCeLhhl3z2YWWU0Pa46nYtXw" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/09ef5a0b-b80f-4900-9e70-b0d900fecaa2/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiMDllZjVhMGItYjgwZi00OTAwLTllNzAtYjBkOTAwZmVjYWEyIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2NzA0OX0.HQy6J3nDn2pbZg_PkNiHCeLhhl3z2YWWU0Pa46nYtXw" length="0" type="audio/mpeg"/>
       <itunes:duration>56:29</itunes:duration>
     </item>
     <item>
@@ -36,7 +37,7 @@ Det og meget mere i dette afsnit, hvor der bliver skålet og skrålet fra Skuldb
 I programmet kommer også musikeren Adi Zukanovic, som har taget en harmonika med. Derudover udloddes der også en øljulekalender til en lytter der ringer ind med det korrekte svar. Det og meget mere i dette andet afsnit af Fredagsøl i advent</description>
       <pubDate>Fri, 08 Dec 2023 15:57:28 +0000</pubDate>
       <guid>783</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/9a0b23bf-b5f5-4b63-bc24-b0d20103f5ac/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiOWEwYjIzYmYtYjVmNS00YjYzLWJjMjQtYjBkMjAxMDNmNWFjIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2Njk1OX0.NkCEhY6HyjmdH112NTOkhDDvRRdj0cZGTDljK0A9rbI" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/9a0b23bf-b5f5-4b63-bc24-b0d20103f5ac/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiOWEwYjIzYmYtYjVmNS00YjYzLWJjMjQtYjBkMjAxMDNmNWFjIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2Njk1OX0.NkCEhY6HyjmdH112NTOkhDDvRRdj0cZGTDljK0A9rbI" length="0" type="audio/mpeg"/>
       <itunes:duration>55:11</itunes:duration>
     </item>
     <item>
@@ -47,7 +48,7 @@ Heldigvis har Klavs sin erfarende programchef som medvært, smørstemmen fra Ika
 Inden nisseafbrændingen skal der dog drikkes øl, og til at anmelde er ølanmelder Elise Bøhmert aka. Valkyrien. Før anmeldelsen skal der dog først siges farvel til en praktikant og snakkes med lidt lyttere og så fremdeles</description>
       <pubDate>Fri, 01 Dec 2023 16:27:06 +0000</pubDate>
       <guid>767</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/2a9be62d-df39-4e43-bd5f-b0cb010b1ab2/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiMmE5YmU2MmQtZGYzOS00ZTQzLWJkNWYtYjBjYjAxMGIxYWIyIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2NjcxN30.OE0M-FaLS9O7M3IilVZYS9HlP0O9naAcbRav_tXXkDM" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bede628a-2f51-4947-93a2-b0cb0109f391/2a9be62d-df39-4e43-bd5f-b0cb010b1ab2/audio.mp3?utm_source=Podcast&amp;in_playlist=96ed0fc9-ebe5-421d-a68d-b0cb010aeb12&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRUT19FdEhiLUVpN1c3RExBU1JYYVEifQ.eyJjbGlwIjoiMmE5YmU2MmQtZGYzOS00ZTQzLWJkNWYtYjBjYjAxMGIxYWIyIiwia2V5IjoiKiIsImlhdCI6MTcwNDk2NjcxN30.OE0M-FaLS9O7M3IilVZYS9HlP0O9naAcbRav_tXXkDM" length="0" type="audio/mpeg"/>
       <itunes:duration>55:58</itunes:duration>
     </item>
   </channel>

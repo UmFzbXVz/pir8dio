@@ -1,9 +1,10 @@
+<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Puttetid</title>
     <link>https://r8dio.demo.supertusch.com/podcasts/puttetid/episodes</link>
     <description>Puttetid er programmet, hvor r8Dios tekniske chef og vært igennem oplæsninger af eventyr m.m. får lytterne i så dyb en søvn, at de næsten ikke fatter det.</description>
-    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/image.jpg?t=1689690603&amp;size=Medium" />
+    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/image.jpg?t=1689690603&amp;size=Medium"/>
     <item>
       <title>Genboen - Matador # 2</title>
       <description>Rune Ingemann sidder veloplagt og træt klar til at få dig i så dyb en søvn, at du næsten ikke fatter det. Han har begivet sig ud i en genfortælling af andet afsnit af den folkekære tv-serie &gt;&gt;Matador&lt;&lt;, som også bliver analyseret en smule. 
@@ -11,7 +12,7 @@ Afsnittet, der bærer titlen 'Genboen', er f.eks. skrevet af Jens Louis Petersen
 Gør som Maud og gå op og læg dig - og så kan du passende høre dette afsnit af Puttetid. Sov godt.</description>
       <pubDate>Wed, 13 Mar 2024 20:00:00 +0000</pubDate>
       <guid>939</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/1e21d86c-ace8-4f38-940f-b13200cd5ccf/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiMWUyMWQ4NmMtYWNlOC00ZjM4LTk0MGYtYjEzMjAwY2Q1Y2NmIiwia2V5IjoiKiIsImlhdCI6MTcxMDM2MDI2MX0.lfroHaoJ5SZRPW494j-ScaSLRTPoWt-nMgmTox8sM44" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/1e21d86c-ace8-4f38-940f-b13200cd5ccf/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiMWUyMWQ4NmMtYWNlOC00ZjM4LTk0MGYtYjEzMjAwY2Q1Y2NmIiwia2V5IjoiKiIsImlhdCI6MTcxMDM2MDI2MX0.lfroHaoJ5SZRPW494j-ScaSLRTPoWt-nMgmTox8sM44" length="0" type="audio/mpeg"/>
       <itunes:duration>46:24</itunes:duration>
     </item>
     <item>
@@ -23,7 +24,7 @@ Rune Ingemann giver en grundig præsentation af Matador før han begiver sig ud 
 Sov godt kære lytter.</description>
       <pubDate>Wed, 28 Feb 2024 20:00:00 +0000</pubDate>
       <guid>908</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/e3fff097-2bba-47f1-bd69-b124010992de/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiZTNmZmYwOTctMmJiYS00N2YxLWJkNjktYjEyNDAxMDk5MmRlIiwia2V5IjoiKiIsImlhdCI6MTcwOTczNTMxNH0.IXhIdjUNTJaamGn_-xAfXYubBQp8g2Gp4Iy-EEaOdnI" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/e3fff097-2bba-47f1-bd69-b124010992de/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiZTNmZmYwOTctMmJiYS00N2YxLWJkNjktYjEyNDAxMDk5MmRlIiwia2V5IjoiKiIsImlhdCI6MTcwOTczNTMxNH0.IXhIdjUNTJaamGn_-xAfXYubBQp8g2Gp4Iy-EEaOdnI" length="0" type="audio/mpeg"/>
       <itunes:duration>43:54</itunes:duration>
     </item>
     <item>
@@ -31,7 +32,7 @@ Sov godt kære lytter.</description>
       <description>Rune Ingemann er tilbage efter barsel og klar til at få dig i så dyb en søvn, at du næsten ikke fatter det. Som noget nyt har Rune en lille anbefaling med til din puttetid, før han veloplagt fra sin seng påbegynder godnat-historien. I dette afsnit er historien frit fortolket ud fra den fynske forfatter H.C. Andersens eventyr 'Snedronningen' som blev udgivet første gang i 1844.</description>
       <pubDate>Wed, 14 Feb 2024 22:25:52 +0000</pubDate>
       <guid>887</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/5f330020-816d-4709-9ceb-b116016d9a92/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiNWYzMzAwMjAtODE2ZC00NzA5LTljZWItYjExNjAxNmQ5YTkyIiwia2V5IjoiKiIsImlhdCI6MTcwODE2OTYwOX0.aUczj-erMRBVaaNDTBOYvEgF-60aeoFFs7JfeQqvVaw" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/5f330020-816d-4709-9ceb-b116016d9a92/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiNWYzMzAwMjAtODE2ZC00NzA5LTljZWItYjExNjAxNmQ5YTkyIiwia2V5IjoiKiIsImlhdCI6MTcwODE2OTYwOX0.aUczj-erMRBVaaNDTBOYvEgF-60aeoFFs7JfeQqvVaw" length="0" type="audio/mpeg"/>
       <itunes:duration>55:03</itunes:duration>
     </item>
     <item>
@@ -41,7 +42,7 @@ Sov godt kære lytter.</description>
 Sov godt og glædelig jul.</description>
       <pubDate>Wed, 20 Dec 2023 20:43:57 +0000</pubDate>
       <guid>804</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/889fa56a-afd4-4833-8c36-b0de013d7db0/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiODg5ZmE1NmEtYWZkNC00ODMzLThjMzYtYjBkZTAxM2Q3ZGIwIiwia2V5IjoiKiIsImlhdCI6MTcwMzEwNTEwN30.NiPn-J2_oeWecPN7nVtd1NT9q0PpdXtCQuAGzaVqdiA" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/889fa56a-afd4-4833-8c36-b0de013d7db0/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiODg5ZmE1NmEtYWZkNC00ODMzLThjMzYtYjBkZTAxM2Q3ZGIwIiwia2V5IjoiKiIsImlhdCI6MTcwMzEwNTEwN30.NiPn-J2_oeWecPN7nVtd1NT9q0PpdXtCQuAGzaVqdiA" length="0" type="audio/mpeg"/>
       <itunes:duration>41:00</itunes:duration>
     </item>
     <item>
@@ -50,7 +51,7 @@ Sov godt og glædelig jul.</description>
 Det vækker minder hos Rune, der havde en håndboldtræner som barn der forelskede sig i en kone fra Bogense, som minder meget om konen fra det populære eventyr der også går under navnet 'Fiskeren og hans kone'</description>
       <pubDate>Wed, 06 Dec 2023 20:46:39 +0000</pubDate>
       <guid>777</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/6346a346-3166-4161-beaa-b0d0010fc3cd/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiNjM0NmEzNDYtMzE2Ni00MTYxLWJlYWEtYjBkMDAxMGZjM2NkIiwia2V5IjoiKiIsImlhdCI6MTcwMTg5NTY3MH0.N3UFKJwJW_H1i4oXh_w4A9e62AJxrwfOlJFH6JnQ8o0" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/6346a346-3166-4161-beaa-b0d0010fc3cd/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiNjM0NmEzNDYtMzE2Ni00MTYxLWJlYWEtYjBkMDAxMGZjM2NkIiwia2V5IjoiKiIsImlhdCI6MTcwMTg5NTY3MH0.N3UFKJwJW_H1i4oXh_w4A9e62AJxrwfOlJFH6JnQ8o0" length="0" type="audio/mpeg"/>
       <itunes:duration>43:21</itunes:duration>
     </item>
     <item>
@@ -59,7 +60,7 @@ Det vækker minder hos Rune, der havde en håndboldtræner som barn der forelske
 I dette afsnit har Rune lyttet til et ønske fra en lytter, som ønsker Rune går i gang med god-nat sange. Derfor kan du I dette afsnit falde i søvn til Runes udgave af klassikeren 'Langt ude i skoven'</description>
       <pubDate>Thu, 23 Nov 2023 12:53:52 +0000</pubDate>
       <guid>753</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a4efed06-dd57-438e-994f-b0c300d2fdcc/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiYTRlZmVkMDYtZGQ1Ny00MzhlLTk5NGYtYjBjMzAwZDJmZGNjIiwia2V5IjoiKiIsImlhdCI6MTcwMDc0NDA2Nn0.BMKqG0XpP3mzv57kCwOHVaIYRGqIs1R2qhEjwrLl5_w" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a4efed06-dd57-438e-994f-b0c300d2fdcc/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiYTRlZmVkMDYtZGQ1Ny00MzhlLTk5NGYtYjBjMzAwZDJmZGNjIiwia2V5IjoiKiIsImlhdCI6MTcwMDc0NDA2Nn0.BMKqG0XpP3mzv57kCwOHVaIYRGqIs1R2qhEjwrLl5_w" length="0" type="audio/mpeg"/>
       <itunes:duration>29:15</itunes:duration>
     </item>
     <item>
@@ -70,7 +71,7 @@ Valget på ugens godnat-historie er faldet på eventyret 'Dyrene i Hakkebakkesko
 Sov godt, kære r8Dio-lytter.</description>
       <pubDate>Wed, 08 Nov 2023 20:54:42 +0000</pubDate>
       <guid>739</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a3a6cf4b-9f13-408c-b954-b0b400f0679a/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiYTNhNmNmNGItOWYxMy00MDhjLWI5NTQtYjBiNDAwZjA2NzlhIiwia2V5IjoiKiIsImlhdCI6MTY5OTQ3Njk0Mn0.eqkSlrD2dCRnmM0gr14aGPrHabE9wdntXhhJo9Yt6Dg" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a3a6cf4b-9f13-408c-b954-b0b400f0679a/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiYTNhNmNmNGItOWYxMy00MDhjLWI5NTQtYjBiNDAwZjA2NzlhIiwia2V5IjoiKiIsImlhdCI6MTY5OTQ3Njk0Mn0.eqkSlrD2dCRnmM0gr14aGPrHabE9wdntXhhJo9Yt6Dg" length="0" type="audio/mpeg"/>
       <itunes:duration>55:13</itunes:duration>
     </item>
     <item>
@@ -80,7 +81,7 @@ Sov godt, kære r8Dio-lytter.</description>
 Hvis du har en ide til hvad det kunne være, er vigtigt for Rune at pointere at det i fremtiden, ikke er nok at kommentere på et facebookopslag, men send en mail med din ide til Puttetid@r8Dio.dk</description>
       <pubDate>Wed, 25 Oct 2023 19:49:42 +0000</pubDate>
       <guid>723</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/90b3c02f-4852-4819-9e0b-b0a600d849b8/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiOTBiM2MwMmYtNDg1Mi00ODE5LTllMGItYjBhNjAwZDg0OWI4Iiwia2V5IjoiKiIsImlhdCI6MTY5ODI2MzQzMH0.QTh4CMw3GiogTmu-GnJyLhWjUm1fLDi4BGU6BoWdePg" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/90b3c02f-4852-4819-9e0b-b0a600d849b8/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiOTBiM2MwMmYtNDg1Mi00ODE5LTllMGItYjBhNjAwZDg0OWI4Iiwia2V5IjoiKiIsImlhdCI6MTY5ODI2MzQzMH0.QTh4CMw3GiogTmu-GnJyLhWjUm1fLDi4BGU6BoWdePg" length="0" type="audio/mpeg"/>
       <itunes:duration>46:04</itunes:duration>
     </item>
     <item>
@@ -90,19 +91,19 @@ Hvis du har en ide til hvad det kunne være, er vigtigt for Rune at pointere at 
 Sov godt kære r8Dio lytter</description>
       <pubDate>Wed, 11 Oct 2023 19:51:21 +0000</pubDate>
       <guid>706</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/16fda3ff-473b-43dd-ace1-b09800861e81/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiMTZmZGEzZmYtNDczYi00M2RkLWFjZTEtYjA5ODAwODYxZTgxIiwia2V5IjoiKiIsImlhdCI6MTY5NzA1Mzk0OH0.bWwVDpHppIzTrScWsr4V-6dyTGqIipcrvv2_dzy42Rs" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/16fda3ff-473b-43dd-ace1-b09800861e81/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiMTZmZGEzZmYtNDczYi00M2RkLWFjZTEtYjA5ODAwODYxZTgxIiwia2V5IjoiKiIsImlhdCI6MTY5NzA1Mzk0OH0.bWwVDpHppIzTrScWsr4V-6dyTGqIipcrvv2_dzy42Rs" length="0" type="audio/mpeg"/>
       <itunes:duration>45:44</itunes:duration>
     </item>
     <item>
       <title>Afsnit 6 - Klods Hans</title>
       <description>Så blev det Puttetid igen og denne gang er Rune Ingemann disket op med sit yndlingseventyr 'Klods Hans' af den fynske forfatter H.C. Andersen.
 
-"Klods Hans" er skrevet i 1855, men man ved ikke præcist hvornår at historien udspiller sig. 
+&quot;Klods Hans&quot; er skrevet i 1855, men man ved ikke præcist hvornår at historien udspiller sig. 
 
 God nat og sov godt.</description>
       <pubDate>Wed, 27 Sep 2023 19:54:44 +0000</pubDate>
       <guid>687</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/0a1c4daa-1682-4448-99fc-b08a0110d198/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiMGExYzRkYWEtMTY4Mi00NDQ4LTk5ZmMtYjA4YTAxMTBkMTk4Iiwia2V5IjoiKiIsImlhdCI6MTY5NTg0NDU1NH0.KIXHdrCMtJCbvElucVdsBgmLqFng1fnt8D69Yvd9BUk" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/0a1c4daa-1682-4448-99fc-b08a0110d198/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiMGExYzRkYWEtMTY4Mi00NDQ4LTk5ZmMtYjA4YTAxMTBkMTk4Iiwia2V5IjoiKiIsImlhdCI6MTY5NTg0NDU1NH0.KIXHdrCMtJCbvElucVdsBgmLqFng1fnt8D69Yvd9BUk" length="0" type="audio/mpeg"/>
       <itunes:duration>48:33</itunes:duration>
     </item>
     <item>
@@ -113,7 +114,7 @@ Denne gang er det fra den fynske forfatter H.C. Andersen, der i 1852 udgav histo
 Sov godt r8Dio ven</description>
       <pubDate>Wed, 13 Sep 2023 19:39:14 +0000</pubDate>
       <guid>668</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/3f682b13-a4b2-47ae-8318-b07c00a53275/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiM2Y2ODJiMTMtYTRiMi00N2FlLTgzMTgtYjA3YzAwYTUzMjc1Iiwia2V5IjoiKiIsImlhdCI6MTY5NDYzOTg1MX0.KrYlwWNktcopvLh6cdEI0s7mvSsbUr0Z-UDj4SrK2MA" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/3f682b13-a4b2-47ae-8318-b07c00a53275/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiM2Y2ODJiMTMtYTRiMi00N2FlLTgzMTgtYjA3YzAwYTUzMjc1Iiwia2V5IjoiKiIsImlhdCI6MTY5NDYzOTg1MX0.KrYlwWNktcopvLh6cdEI0s7mvSsbUr0Z-UDj4SrK2MA" length="0" type="audio/mpeg"/>
       <itunes:duration>34:34</itunes:duration>
     </item>
     <item>
@@ -123,7 +124,7 @@ Sov godt r8Dio ven</description>
 I Rune Ingemanns version får alle karakterne navne, hvilket kan have utilsigtet henvisninger til det aktuelle politiske billede i Danmark.</description>
       <pubDate>Wed, 30 Aug 2023 20:04:30 +0000</pubDate>
       <guid>652</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/88005f75-d4c4-469b-955a-b06e00caa383/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiODgwMDVmNzUtZDRjNC00NjliLTk1NWEtYjA2ZTAwY2FhMzgzIiwia2V5IjoiKiIsImlhdCI6MTY5MzQyNTg5OH0.coD8po5zWfVkPRHDjxyV_DIxILRutmIQmJD5K2vfUmU" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/88005f75-d4c4-469b-955a-b06e00caa383/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiODgwMDVmNzUtZDRjNC00NjliLTk1NWEtYjA2ZTAwY2FhMzgzIiwia2V5IjoiKiIsImlhdCI6MTY5MzQyNTg5OH0.coD8po5zWfVkPRHDjxyV_DIxILRutmIQmJD5K2vfUmU" length="0" type="audio/mpeg"/>
       <itunes:duration>48:46</itunes:duration>
     </item>
     <item>
@@ -131,7 +132,7 @@ I Rune Ingemanns version får alle karakterne navne, hvilket kan have utilsigtet
       <description>Den fynske forfatter H.C. Andersen skrev i 1837 eventyret 'Kejserens nye klæder', som Rune Ingemann i denne udgave af Puttetid frit fortolker.</description>
       <pubDate>Wed, 16 Aug 2023 19:55:08 +0000</pubDate>
       <guid>643</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a779a674-000c-4065-a97d-b06000cd882a/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiYTc3OWE2NzQtMDAwYy00MDY1LWE5N2QtYjA2MDAwY2Q4ODJhIiwia2V5IjoiKiIsImlhdCI6MTY5MjIxNTczOH0.MvTi9SINoNN08739nIPK7Uphs0XH3QFfc_eBe6WnvKI" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a779a674-000c-4065-a97d-b06000cd882a/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiYTc3OWE2NzQtMDAwYy00MDY1LWE5N2QtYjA2MDAwY2Q4ODJhIiwia2V5IjoiKiIsImlhdCI6MTY5MjIxNTczOH0.MvTi9SINoNN08739nIPK7Uphs0XH3QFfc_eBe6WnvKI" length="0" type="audio/mpeg"/>
       <itunes:duration>52:54</itunes:duration>
     </item>
     <item>
@@ -139,7 +140,7 @@ I Rune Ingemanns version får alle karakterne navne, hvilket kan have utilsigtet
       <description>‘Fyrtøjet’ er et eventyr af den fynske forfatter H.C. Andersen. I Rune Ingemanns godnat-oplæsnings-version kan det måske fornemmes, at Rune har rod i musikbranchen. Sov godt, kære r8Dio ven.</description>
       <pubDate>Wed, 02 Aug 2023 20:31:26 +0000</pubDate>
       <guid>634</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/e8fe5dd8-2d7c-46d4-84f1-b05000b75606/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiZThmZTVkZDgtMmQ3Yy00NmQ0LTg0ZjEtYjA1MDAwYjc1NjA2Iiwia2V5IjoiKiIsImlhdCI6MTY5MTAwODM3OH0.RNKckdG2nsWtCWyNhxFn5GAEfvbh2llhVnkTVZprQ1M" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/e8fe5dd8-2d7c-46d4-84f1-b05000b75606/audio.mp3?utm_source=Podcast&amp;in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiZThmZTVkZDgtMmQ3Yy00NmQ0LTg0ZjEtYjA1MDAwYjc1NjA2Iiwia2V5IjoiKiIsImlhdCI6MTY5MTAwODM3OH0.RNKckdG2nsWtCWyNhxFn5GAEfvbh2llhVnkTVZprQ1M" length="0" type="audio/mpeg"/>
       <itunes:duration>01:12:41</itunes:duration>
     </item>
     <item>
@@ -147,7 +148,7 @@ I Rune Ingemanns version får alle karakterne navne, hvilket kan have utilsigtet
       <description>‘Prinsessen på ærten' er et eventyr af den fynske forfatter HC Andersen, der egentlig er ganske kort, men I Rune Ingemanns god nat-læsnings version bliver der altid gået op i detaljer, forhistorier og paralleller til nutidens samfund.</description>
       <pubDate>Wed, 19 Jul 2023 19:45:00 +0000</pubDate>
       <guid>625</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/47ee2075-9466-4347-ac0c-b04300ef1cbd/audio.mp3?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Im5PcEd3STNfNjBHTUtMQkRBT19TWHciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiNDdlZTIwNzUtOTQ2Ni00MzQ3LWFjMGMtYjA0MzAwZWYxY2JkIiwiYWRzIjowfQ.LeFMwvjsk5Rl1lcTQP3Gabg3wthAOuP92Q_l8NBdQTc" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/47ee2075-9466-4347-ac0c-b04300ef1cbd/audio.mp3?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Im5PcEd3STNfNjBHTUtMQkRBT19TWHciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiNDdlZTIwNzUtOTQ2Ni00MzQ3LWFjMGMtYjA0MzAwZWYxY2JkIiwiYWRzIjowfQ.LeFMwvjsk5Rl1lcTQP3Gabg3wthAOuP92Q_l8NBdQTc" length="0" type="audio/mpeg"/>
       <itunes:duration>38:44</itunes:duration>
     </item>
   </channel>
