@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Once in a lifetime</title>
@@ -6,7 +5,7 @@
     <description>'Once in a lifetime' er r8Dios legeplads, hvor du får en mosaik af spændende programmer, der ikke nødvendigvis har en sammenhæng. 
 
 Det er en række af once in a lifetime-oplevelser, der med sikkerhed vil være i gulvhøjde med dig.</description>
-    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/image.jpg?t=1684499198&amp;size=Medium"/>
+    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/image.jpg?t=1684499198&amp;size=Medium" />
     <item>
       <title>Afsnit 5 - Fazerval backstage II</title>
       <description>Rune Ingemann har udsendt en invitation til alle store bands, der spiller i Jylland i denne uge. Efter deres koncerter skal de nemlig være velkommen i Fazervals backstage område, som Rune har prøvet at gøre til Danmarks bedste backstage.
@@ -14,7 +13,7 @@ Det er en række af once in a lifetime-oplevelser, der med sikkerhed vil være i
 Om bandet PATINA kan lokkes kan man høre i dette afsnit, hvor Rune også møder sin barndomsven Yepha.</description>
       <pubDate>Sat, 05 Aug 2023 13:43:25 +0000</pubDate>
       <guid>636</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/bddd8754-c023-4334-a7f2-b055009606b9/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiYmRkZDg3NTQtYzAyMy00MzM0LWE3ZjItYjA1NTAwOTYwNmI5Iiwia2V5IjoiKiIsImlhdCI6MTY5MTI0MzAzN30.CDGPtERtOgMB22pMQpqUkKK5i6jgigAzpPSqkpxpsLo" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/bddd8754-c023-4334-a7f2-b055009606b9/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiYmRkZDg3NTQtYzAyMy00MzM0LWE3ZjItYjA1NTAwOTYwNmI5Iiwia2V5IjoiKiIsImlhdCI6MTY5MTI0MzAzN30.CDGPtERtOgMB22pMQpqUkKK5i6jgigAzpPSqkpxpsLo" length="0" type="audio/mpeg" />
       <itunes:duration>40:18</itunes:duration>
     </item>
     <item>
@@ -22,7 +21,7 @@ Om bandet PATINA kan lokkes kan man høre i dette afsnit, hvor Rune også møder
       <description>Rune Ingemann er på arbejde på Fazerval, hvor han har ambitionen om at lave verdens bedste backstage område. Thomas og Simon fra ‘Jonah Blacksmith’ kommer forbi på vej til Smukfest, og ved sin side har Rune selvfølgelig den altid hjælpsomme Emil Liller.</description>
       <pubDate>Wed, 02 Aug 2023 14:39:46 +0000</pubDate>
       <guid>633</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/f11c6f7c-e043-4281-9264-b05200f05c91/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiZjExYzZmN2MtZTA0My00MjgxLTkyNjQtYjA1MjAwZjA1YzkxIiwia2V5IjoiKiIsImlhdCI6MTY5MDk4NzIyM30.RAo3sGBseddU9sxrpjbS3go92pgJITqU1yYdn5p9CVo" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/f11c6f7c-e043-4281-9264-b05200f05c91/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiZjExYzZmN2MtZTA0My00MjgxLTkyNjQtYjA1MjAwZjA1YzkxIiwia2V5IjoiKiIsImlhdCI6MTY5MDk4NzIyM30.RAo3sGBseddU9sxrpjbS3go92pgJITqU1yYdn5p9CVo" length="0" type="audio/mpeg" />
       <itunes:duration>36:11</itunes:duration>
     </item>
     <item>
@@ -33,7 +32,7 @@ Om bandet PATINA kan lokkes kan man høre i dette afsnit, hvor Rune også møder
 I dette afsnit af Once in a lifetime får du en masse store nyheder fra ledelsen hos r8Dio forud for en højspændt sommer med masser af forskellige aktiviteter.</description>
       <pubDate>Fri, 26 May 2023 14:52:57 +0000</pubDate>
       <guid>564</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/0e592344-df3a-4401-8017-b00e00f3efaa/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiMGU1OTIzNDQtZGYzYS00NDAxLTgwMTctYjAwZTAwZjNlZmFhIiwia2V5IjoiKiIsImlhdCI6MTY4NTEzMzkxMX0.p3fREsJz_mEfjfSJ-NEFvRV7RO45wmzyiQnhW3nH5As" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/0e592344-df3a-4401-8017-b00e00f3efaa/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiMGU1OTIzNDQtZGYzYS00NDAxLTgwMTctYjAwZTAwZjNlZmFhIiwia2V5IjoiKiIsImlhdCI6MTY4NTEzMzkxMX0.p3fREsJz_mEfjfSJ-NEFvRV7RO45wmzyiQnhW3nH5As" length="0" type="audio/mpeg" />
       <itunes:duration>38:30</itunes:duration>
     </item>
     <item>
@@ -45,7 +44,7 @@ De lægger sig flat ned - ned i gulvhøjde, hvor de hygger om dig her i den sød
 Lyt med og bliv mumset godt ind i smør og honning.</description>
       <pubDate>Wed, 05 Apr 2023 14:38:50 +0000</pubDate>
       <guid>506</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/3dc2b9b3-9c09-4b05-b415-afdb00eecf26/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiM2RjMmI5YjMtOWMwOS00YjA1LWI0MTUtYWZkYjAwZWVjZjI2Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkyNjY3Nn0.5OrIwDX6qfUfGjlHoj3OT5CRCmus6OfY0o2hDsshR3Y" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/3dc2b9b3-9c09-4b05-b415-afdb00eecf26/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiM2RjMmI5YjMtOWMwOS00YjA1LWI0MTUtYWZkYjAwZWVjZjI2Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkyNjY3Nn0.5OrIwDX6qfUfGjlHoj3OT5CRCmus6OfY0o2hDsshR3Y" length="0" type="audio/mpeg" />
       <itunes:duration>56:07</itunes:duration>
     </item>
     <item>
@@ -53,7 +52,7 @@ Lyt med og bliv mumset godt ind i smør og honning.</description>
       <description>Radiodirektør, Klavs Bundgaard, og programchef, Allan Sindberg, er taget til Fanø. Her møder de nogle af de lokale fannikker, og så spiser de pandekager.</description>
       <pubDate>Tue, 04 Apr 2023 14:21:25 +0000</pubDate>
       <guid>504</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/344698e9-4435-4e61-b15b-afda00ea6f81/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiMzQ0Njk4ZTktNDQzNS00ZTYxLWIxNWItYWZkYTAwZWE2ZjgxIiwia2V5IjoiKiIsImlhdCI6MTcwNDQ5ODgzMH0.pvVMfxlLYvwWlFcmY-tkJllO4irPeoT6DC6qdgaeCbs" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/344698e9-4435-4e61-b15b-afda00ea6f81/audio.mp3?utm_source=Podcast&amp;in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiMzQ0Njk4ZTktNDQzNS00ZTYxLWIxNWItYWZkYTAwZWE2ZjgxIiwia2V5IjoiKiIsImlhdCI6MTcwNDQ5ODgzMH0.pvVMfxlLYvwWlFcmY-tkJllO4irPeoT6DC6qdgaeCbs" length="0" type="audio/mpeg" />
       <itunes:duration>56:49</itunes:duration>
     </item>
   </channel>
