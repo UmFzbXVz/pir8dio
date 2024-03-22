@@ -1691,5 +1691,14 @@ Og hvad med Stjernen? Har den stadig fuld opbakning fra byens spidser?</descript
       <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/eb0933a9-71e2-4046-9fe9-abca00c0536b/audio.mp3?utm_source=Podcast&amp;in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiZWIwOTMzYTktNzFlMi00MDQ2LTlmZTktYWJjYTAwYzA1MzZiIiwia2V5IjoiKiIsImlhdCI6MTcwNjYyODkyOH0.vsIid4BsSld5dhx5DYlLD1fS9yxf96soELXXt_EalYo" length="0" type="audio/mpeg" />
       <itunes:duration>13:29</itunes:duration>
     </item>
-  </channel>
+  <item><title>Glemmer Du...</title>
+  <description>Afsnittet er blevet til i samarbejde med JF Sommerhuse
+
+Hos https://www.jfsommerhuse.dk kan du gå ind og leje et sommerhus til din næste ferie. John Frederiksen har over 6000 sommerhuse at vælge i mellem, så det er bare med at komme i gang. Verden er blevet et usikkert sted at holde ferie i, så hvorfor ikke bare blive i Danmark. I et sommerhus fra https://www.jfsommerhuse.dk kan du trygt slappe af. Bare kom i gang. Det er ikke for sjov. Bare kom i gang. Kom nu!
+
+NB. Du støtter r8Dio ved at booke dit sommerhus gennem https://www.jfsommerhuse.dk Mvh. Klavs Bundgaard</description>
+  <pubDate>Fri, 22 Mar 2024 05:00:00 +0000</pubDate>
+  <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/75816778-67bb-4374-a709-b13a0177f43d/audio.mp3?utm_source=Podcast&amp;in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiNzU4MTY3NzgtNjdiYi00Mzc0LWE3MDktYjEzYTAxNzdmNDNkIiwia2V5IjoiKiIsImlhdCI6MTcxMTA4Mzk2MH0.GY0slzZY9Le1AUs7wMMd-XhpdSUufe6nyQV280mG4MQ" length="0" type="audio/mpeg" />
+  <itunes:duration>55:06</itunes:duration>
+</item></channel>
 </rss>
