@@ -1,9 +1,10 @@
+<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sarah &amp; panelet</title>
     <link>https://r8dio.demo.supertusch.com/podcasts/sara-og-panelet/episodes</link>
     <description>Sarah Bo fra r8Dios eget talenthold er vært på dette program, hvor kendte gæster fra Skuldborg og omegn diskuterer lytternes dilemmaer.</description>
-    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/image.jpg?t=1666961999&amp;size=Medium" />
+    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/image.jpg?t=1666961999&amp;size=Medium"/>
     <item>
       <title>Afsnit 33 - Nytårsspecial med Rune Ingemann, John Frederiksen og Gertrud Højlund</title>
       <description>Det er nytårsaftensdag, og Sarah Bo har tilkaldt hjælp i studiet, for r8Dios lyttere har nogle nytårsdilemmaer, der skal nå at blive løst! I studiet i dag sidder Rune Ingemann, John Frederiksen og Gertrud Højlund.
@@ -13,7 +14,7 @@ Ida har fået tilbudt en udvekslingsplads i Argentina, hvor hendes gamle flamme 
 Brian og Ingrid er naboer til et ungt par, der igen i år skal holde en vild abefest med fyrværkeri, som hyler Ingrid og Brians hund Bobby helt ud af den.</description>
       <pubDate>Sun, 31 Dec 2023 10:04:24 +0000</pubDate>
       <guid isPermaLink="false">815</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/19648aa8-91db-4075-b74f-b0e8018a7baf/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMTk2NDhhYTgtOTFkYi00MDc1LWI3NGYtYjBlODAxOGE3YmFmIiwia2V5IjoiKiIsImlhdCI6MTcwNDAxNzEwNH0.b0JwUjdjHss7q-YBBA-SHGcEEk1VSbfF08AEQ3ZYmN4" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/19648aa8-91db-4075-b74f-b0e8018a7baf/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMTk2NDhhYTgtOTFkYi00MDc1LWI3NGYtYjBlODAxOGE3YmFmIiwia2V5IjoiKiIsImlhdCI6MTcwNDAxNzEwNH0.b0JwUjdjHss7q-YBBA-SHGcEEk1VSbfF08AEQ3ZYmN4" length="0" type="audio/mpeg"/>
       <itunes:duration>56:31</itunes:duration>
     </item>
     <item>
@@ -25,7 +26,7 @@ Freja er begyndt at date Alexander, og de har rigtig god kemi. Men Freja har net
 Victor og kæresten, Stinna, overvejer at tage til Marokko og holde jul. Men Victor lovede i sin julefrokost-brandert sidste år at holde jul med familien.</description>
       <pubDate>Sun, 24 Dec 2023 10:09:52 +0000</pubDate>
       <guid isPermaLink="false">810</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/a4efac67-221f-4fe6-a31b-b0e2000802e9/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYTRlZmFjNjctMjIxZi00ZmU2LWEzMWItYjBlMjAwMDgwMmU5Iiwia2V5IjoiKiIsImlhdCI6MTcwMzY2ODg4M30.ndq0nXfAILRp0pMzUCQ-VL_9tdDZQu3m4O9NR24fYfc" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/a4efac67-221f-4fe6-a31b-b0e2000802e9/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYTRlZmFjNjctMjIxZi00ZmU2LWEzMWItYjBlMjAwMDgwMmU5Iiwia2V5IjoiKiIsImlhdCI6MTcwMzY2ODg4M30.ndq0nXfAILRp0pMzUCQ-VL_9tdDZQu3m4O9NR24fYfc" length="0" type="audio/mpeg"/>
       <itunes:duration>01:04:56</itunes:duration>
     </item>
     <item>
@@ -41,7 +42,7 @@ Mette er alenemor til Konrad som har ADHD og står nu i et stort dilemma om hun 
 God formiddag og velkommen indenfor.</description>
       <pubDate>Sun, 29 Oct 2023 10:04:24 +0000</pubDate>
       <guid isPermaLink="false">727</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/9f18ace1-bc6f-4032-b2c9-b0a9010daaa6/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiOWYxOGFjZTEtYmM2Zi00MDMyLWIyYzktYjBhOTAxMGRhYWE2Iiwia2V5IjoiKiIsImlhdCI6MTY5ODU3MzkwMX0.oj7AjgfdMy5Mj0DM9IAvwLWaiIwHmgRwQa7Ya6ypgdw" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/9f18ace1-bc6f-4032-b2c9-b0a9010daaa6/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiOWYxOGFjZTEtYmM2Zi00MDMyLWIyYzktYjBhOTAxMGRhYWE2Iiwia2V5IjoiKiIsImlhdCI6MTY5ODU3MzkwMX0.oj7AjgfdMy5Mj0DM9IAvwLWaiIwHmgRwQa7Ya6ypgdw" length="0" type="audio/mpeg"/>
       <itunes:duration>58:39</itunes:duration>
     </item>
     <item>
@@ -55,7 +56,7 @@ Den retarderede er udviklingshæmmet og har i et år nu forsøgt at tage ordet �
 Mike er chef for en mindre virksomhed og vil nu gerne date sin medarbejders mor. Dog er medarbejderen, Pernille, stærkt imod dette koncept. Mike føler dog, at han har en ægte connection med Pernilles mor.</description>
       <pubDate>Sun, 22 Oct 2023 09:10:50 +0000</pubDate>
       <guid isPermaLink="false">718</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/b1081135-ba51-4330-bf1d-b0a3001431c8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYjEwODExMzUtYmE1MS00MzMwLWJmMWQtYjBhMzAwMTQzMWM4Iiwia2V5IjoiKiIsImlhdCI6MTY5Nzk2NTg2N30.zzV1xfDjp6sCz8Lt08W53zw6nyhDEf5miALOSDzFLBo" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/b1081135-ba51-4330-bf1d-b0a3001431c8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYjEwODExMzUtYmE1MS00MzMwLWJmMWQtYjBhMzAwMTQzMWM4Iiwia2V5IjoiKiIsImlhdCI6MTY5Nzk2NTg2N30.zzV1xfDjp6sCz8Lt08W53zw6nyhDEf5miALOSDzFLBo" length="0" type="audio/mpeg"/>
       <itunes:duration>01:05:53</itunes:duration>
     </item>
     <item>
@@ -73,7 +74,7 @@ Og så har Kasper også skrevet ind. Han ved ikke, hvordan han skal deale med de
 Velkommen indenfor.</description>
       <pubDate>Sun, 15 Oct 2023 09:03:44 +0000</pubDate>
       <guid isPermaLink="false">711</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/c4036bc3-5ac8-4eff-97a9-b09b0171d292/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYzQwMzZiYzMtNWFjOC00ZWZmLTk3YTktYjA5YjAxNzFkMjkyIiwia2V5IjoiKiIsImlhdCI6MTY5NzM2MDY2MX0.X_7ggBPQV8uEwTVmNVoNUo8G_Th7Yeqv2Qif275GAOM" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/c4036bc3-5ac8-4eff-97a9-b09b0171d292/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYzQwMzZiYzMtNWFjOC00ZWZmLTk3YTktYjA5YjAxNzFkMjkyIiwia2V5IjoiKiIsImlhdCI6MTY5NzM2MDY2MX0.X_7ggBPQV8uEwTVmNVoNUo8G_Th7Yeqv2Qif275GAOM" length="0" type="audio/mpeg"/>
       <itunes:duration>58:33</itunes:duration>
     </item>
     <item>
@@ -93,7 +94,7 @@ Og så skal der selvfølgelig uddeles en r8Dio-kop til dagens bedste dilemma.
 Velkommen indenfor.</description>
       <pubDate>Sun, 08 Oct 2023 09:14:22 +0000</pubDate>
       <guid isPermaLink="false">700</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/26948297-3fb4-44b3-b811-b094012d28f6/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMjY5NDgyOTctM2ZiNC00NGIzLWI4MTEtYjA5NDAxMmQyOGY2Iiwia2V5IjoiKiIsImlhdCI6MTY5Njc1NjUxOH0.8cxiItARgTpvCREuFfz5hB4NL7EelPhDork3w5vqQTA" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/26948297-3fb4-44b3-b811-b094012d28f6/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMjY5NDgyOTctM2ZiNC00NGIzLWI4MTEtYjA5NDAxMmQyOGY2Iiwia2V5IjoiKiIsImlhdCI6MTY5Njc1NjUxOH0.8cxiItARgTpvCREuFfz5hB4NL7EelPhDork3w5vqQTA" length="0" type="audio/mpeg"/>
       <itunes:duration>59:38</itunes:duration>
     </item>
     <item>
@@ -105,7 +106,7 @@ Vi hører blandt andet fra den krystal-sælgende Laila, som har sat sig selv i e
 God formiddag og velkommen indenfor.</description>
       <pubDate>Sun, 01 Oct 2023 09:03:34 +0000</pubDate>
       <guid isPermaLink="false">692</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/a3226eda-9eb6-43a3-99e1-b08e00082175/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYTMyMjZlZGEtOWViNi00M2EzLTk5ZTEtYjA4ZTAwMDgyMTc1Iiwia2V5IjoiKiIsImlhdCI6MTY5NjIyMDk0NH0.VSCwKLPnyy3RkCct4MYj-lkFm5zIDsoDEmKwbjsw-Pg" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/a3226eda-9eb6-43a3-99e1-b08e00082175/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYTMyMjZlZGEtOWViNi00M2EzLTk5ZTEtYjA4ZTAwMDgyMTc1Iiwia2V5IjoiKiIsImlhdCI6MTY5NjIyMDk0NH0.VSCwKLPnyy3RkCct4MYj-lkFm5zIDsoDEmKwbjsw-Pg" length="0" type="audio/mpeg"/>
       <itunes:duration>54:53</itunes:duration>
     </item>
     <item>
@@ -121,7 +122,7 @@ Søren har skrevet ind, da han er i et dilemma om, hvorvidt han skal bruge en go
 Kristian har inviteret sine to bedste venner, Kim og Emil, ned i hans ferielejlighed i Tyrkiet, men nu føler han sig holdt udenfor og overvejer at bede dem rejse hjem, så han kan nå at nyde resten af sin ferie alene.</description>
       <pubDate>Sat, 29 Jul 2023 09:14:28 +0000</pubDate>
       <guid isPermaLink="false">630</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/63720a76-684d-4889-8ba1-b04e007cedaf/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNjM3MjBhNzYtNjg0ZC00ODg5LThiYTEtYjA0ZTAwN2NlZGFmIiwia2V5IjoiKiIsImlhdCI6MTY5MDYyMjEwM30.wRrunpzCaFaAal2yrTryD8fd9T5swryXYfPtfzzkjKY" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/63720a76-684d-4889-8ba1-b04e007cedaf/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNjM3MjBhNzYtNjg0ZC00ODg5LThiYTEtYjA0ZTAwN2NlZGFmIiwia2V5IjoiKiIsImlhdCI6MTY5MDYyMjEwM30.wRrunpzCaFaAal2yrTryD8fd9T5swryXYfPtfzzkjKY" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:58</itunes:duration>
     </item>
     <item>
@@ -137,7 +138,7 @@ Dennis er tæt på at lukke en aftale med et forlag, som vil udgive hans digte. 
 Anne Katrine har en medvært, der altid kommer for sent, når de skal optage deres podcast. Medværten er altid godt forberedt, men forsinkelserne irriterer Anne Katrine, og nu ved hun ikke, om hun skal sige noget eller sluge den.</description>
       <pubDate>Sat, 22 Jul 2023 09:04:05 +0000</pubDate>
       <guid isPermaLink="false">627</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/ebedcdf5-5782-46f6-a6fe-b0470001e99c/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZWJlZGNkZjUtNTc4Mi00NmY2LWE2ZmUtYjA0NzAwMDFlOTljIiwia2V5IjoiKiIsImlhdCI6MTY5MDAxNjcxMH0.7n-9sBSkO0Bnr8Gs66iHav4e7Y2WAUWgn-4yZYgXf04" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/ebedcdf5-5782-46f6-a6fe-b0470001e99c/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZWJlZGNkZjUtNTc4Mi00NmY2LWE2ZmUtYjA0NzAwMDFlOTljIiwia2V5IjoiKiIsImlhdCI6MTY5MDAxNjcxMH0.7n-9sBSkO0Bnr8Gs66iHav4e7Y2WAUWgn-4yZYgXf04" length="0" type="audio/mpeg"/>
       <itunes:duration>48:48</itunes:duration>
     </item>
     <item>
@@ -153,7 +154,7 @@ Frank har hooket up med to piger i samme camp på Roskilde Festival, som nu spre
 Amanda har brugt mange år på at spare op til en udbetaling på en lejlighed, men nu er hun kommet i tvivl om, hvorvidt hun hellere skal bruge pengene på en jordomrejse.</description>
       <pubDate>Sat, 15 Jul 2023 09:14:51 +0000</pubDate>
       <guid isPermaLink="false">622</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/21c4db43-cdea-4fd6-95b2-b03f017adff8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMjFjNGRiNDMtY2RlYS00ZmQ2LTk1YjItYjAzZjAxN2FkZmY4Iiwia2V5IjoiKiIsImlhdCI6MTY4OTQxMjU0OH0.BVvDAYsDaY_AjZKwdjLB0HvEnf79wP64RAkm0zx0nXI" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/21c4db43-cdea-4fd6-95b2-b03f017adff8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMjFjNGRiNDMtY2RlYS00ZmQ2LTk1YjItYjAzZjAxN2FkZmY4Iiwia2V5IjoiKiIsImlhdCI6MTY4OTQxMjU0OH0.BVvDAYsDaY_AjZKwdjLB0HvEnf79wP64RAkm0zx0nXI" length="0" type="audio/mpeg"/>
       <itunes:duration>01:02:37</itunes:duration>
     </item>
     <item>
@@ -169,7 +170,7 @@ Den naturlige kvinde har skrevet ind, fordi hun oplever, at folk ikke kan lade v
 Jimmy har været i Sydafrika og har købt to afrikanske kunststykker med hjem, der forestiller to sorte afrikanske hjem. Nu siger hans venner, at han som hvid mand ikke kan tillade sig at eje og have dem på display i sin lejlighed.</description>
       <pubDate>Sat, 08 Jul 2023 09:19:52 +0000</pubDate>
       <guid isPermaLink="false">617</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/584f94db-6453-4e44-b383-b038017ef0b5/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNTg0Zjk0ZGItNjQ1My00ZTQ0LWIzODMtYjAzODAxN2VmMGI1Iiwia2V5IjoiKiIsImlhdCI6MTY4ODgwODA1OX0.tk2W6epLJjOVKOTQV76hxUONa2hefyL8i15h3rpK8js" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/584f94db-6453-4e44-b383-b038017ef0b5/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNTg0Zjk0ZGItNjQ1My00ZTQ0LWIzODMtYjAzODAxN2VmMGI1Iiwia2V5IjoiKiIsImlhdCI6MTY4ODgwODA1OX0.tk2W6epLJjOVKOTQV76hxUONa2hefyL8i15h3rpK8js" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:31</itunes:duration>
     </item>
     <item>
@@ -183,7 +184,7 @@ Bitten vil have sin trofaste følgesvend og bedste ven, border collien Connie, m
 Den bekymrede ven er træt af at låne penge til vennen Mark, som står i gæld for 10.000 kroner til ham, og så er den udkørte kontormus kommet meget i tvivl om, hvorvidt det er tid til at skifte til et nyt job, selvom hun prøver at blive gravid.</description>
       <pubDate>Sat, 01 Jul 2023 09:20:24 +0000</pubDate>
       <guid isPermaLink="false">612</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/a9093ce0-5d7b-482e-91bd-b03101799732/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYTkwOTNjZTAtNWQ3Yi00ODJlLTkxYmQtYjAzMTAxNzk5NzMyIiwia2V5IjoiKiIsImlhdCI6MTY4ODIwMzI2MX0.FgnoVY5NaArXnWhtFB3A86AM1AUj_1Z0p3ajNT9bY6Y" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/a9093ce0-5d7b-482e-91bd-b03101799732/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYTkwOTNjZTAtNWQ3Yi00ODJlLTkxYmQtYjAzMTAxNzk5NzMyIiwia2V5IjoiKiIsImlhdCI6MTY4ODIwMzI2MX0.FgnoVY5NaArXnWhtFB3A86AM1AUj_1Z0p3ajNT9bY6Y" length="0" type="audio/mpeg"/>
       <itunes:duration>54:37</itunes:duration>
     </item>
     <item>
@@ -191,7 +192,7 @@ Den bekymrede ven er træt af at låne penge til vennen Mark, som står i gæld 
       <description>Sarah &amp; Panelet sæson 2 bliver åbnet med en special-live-episode foran publikum på Onkel Dannys Plads i København. Sarah Bo har inviteret John Frederiksen, Jonna Lukovic og Kristoffer Lind ind i dagens anledning til at diskutere r8Dios lytteres dilemmaer.</description>
       <pubDate>Sat, 24 Jun 2023 15:52:55 +0000</pubDate>
       <guid isPermaLink="false">601</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/b5fc098d-93ca-41f8-8e62-b02b010408f0/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYjVmYzA5OGQtOTNjYS00MWY4LThlNjItYjAyYjAxMDQwOGYwIiwia2V5IjoiKiIsImlhdCI6MTY4NzYyMjAzMH0.UaBTRgl3HORBgu61b6FT9PIsrt-aAhMX2h2RyvnFGIM" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/b5fc098d-93ca-41f8-8e62-b02b010408f0/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYjVmYzA5OGQtOTNjYS00MWY4LThlNjItYjAyYjAxMDQwOGYwIiwia2V5IjoiKiIsImlhdCI6MTY4NzYyMjAzMH0.UaBTRgl3HORBgu61b6FT9PIsrt-aAhMX2h2RyvnFGIM" length="0" type="audio/mpeg"/>
       <itunes:duration>56:32</itunes:duration>
     </item>
     <item>
@@ -205,7 +206,7 @@ Michael er i tvivl om navngivningen af deres nyfødte datter. Konen foreslår et
 Sarah &amp; Panelet holder en sæsonpause, men kommer stærkt igen til juli. Ligger du inde med et dilemma, du gerne vil have panelets take på, så er indbakken åben på sarah@r8dio.dk.</description>
       <pubDate>Sat, 25 Mar 2023 10:15:00 +0000</pubDate>
       <guid isPermaLink="false">494</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/f6f4362b-38a3-436e-be31-afcf018828fe/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZjZmNDM2MmItMzhhMy00MzZlLWJlMzEtYWZjZjAxODgyOGZlIiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNjQwMH0.F64t831qZw8R91S_UGF-2IRBB9zW9Ms6HhUuLY2xy9s" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/f6f4362b-38a3-436e-be31-afcf018828fe/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZjZmNDM2MmItMzhhMy00MzZlLWJlMzEtYWZjZjAxODgyOGZlIiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNjQwMH0.F64t831qZw8R91S_UGF-2IRBB9zW9Ms6HhUuLY2xy9s" length="0" type="audio/mpeg"/>
       <itunes:duration>47:28</itunes:duration>
     </item>
     <item>
@@ -219,7 +220,7 @@ Esben er fysioterapeut og er blevet lun på sin patient. Han overvejer at invite
 Sidder du selv med et dilemma, du gerne vil have panelets hjælp til, kan du skrive det ind til sarah@r8dio.dk.</description>
       <pubDate>Sat, 18 Mar 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">484</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/384c4dc5-78df-4f26-8fe6-afc801078d48/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMzg0YzRkYzUtNzhkZi00ZjI2LThmZTYtYWZjODAxMDc4ZDQ4Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkyNjYxNn0.dvb8IImNUx1fHOqv96I8ubNgWRKpvHKebvNhGJJBzxE" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/384c4dc5-78df-4f26-8fe6-afc801078d48/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMzg0YzRkYzUtNzhkZi00ZjI2LThmZTYtYWZjODAxMDc4ZDQ4Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkyNjYxNn0.dvb8IImNUx1fHOqv96I8ubNgWRKpvHKebvNhGJJBzxE" length="0" type="audio/mpeg"/>
       <itunes:duration>54:37</itunes:duration>
     </item>
     <item>
@@ -227,7 +228,7 @@ Sidder du selv med et dilemma, du gerne vil have panelets hjælp til, kan du skr
       <description>Sarah Bo har endnu engang inviteret et væld af gode folk ind til at hjælpe r8Dios lyttere med deres dilemmaer. I panelet sidder Henrik Qvortrup, Sally Rosenkilde-Bille og Rune Ingemann. Tommy har skrevet ind og er tvivl, om han skal tabe en lejeindtægt på 10.000 kr., fordi underboen er usikker ved, at fire lettiske mænd lejer sig ind i Tommys lejlighed, mens deres teenagedatter tilbringer mange timer alene i lejligheden nedenunder. Lotte er en del af en forskningsgruppe på 25 Ph.D.-studerende, der bliver terroriseret af deres forskningsleder. Nu overvejer Lotte, hvordan hun kan sige fra overfor lederen, uden at få sit ry ødelagt i branchen.</description>
       <pubDate>Sat, 11 Mar 2023 10:20:00 +0000</pubDate>
       <guid isPermaLink="false">477</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/f151d217-d00a-43f1-a765-afc10186a959/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZjE1MWQyMTctZDAwYS00M2YxLWE3NjUtYWZjMTAxODZhOTU5Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNDU2Nn0.UOiDoHQrd3P09bL7AD9NAETaY89gB4J-KXxMgKsxkCc" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/f151d217-d00a-43f1-a765-afc10186a959/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZjE1MWQyMTctZDAwYS00M2YxLWE3NjUtYWZjMTAxODZhOTU5Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNDU2Nn0.UOiDoHQrd3P09bL7AD9NAETaY89gB4J-KXxMgKsxkCc" length="0" type="audio/mpeg"/>
       <itunes:duration>59:24</itunes:duration>
     </item>
     <item>
@@ -241,7 +242,7 @@ Werner-Aage blev fyret fra sit job i en lederstilling. Nu kan den nye leder, Emi
 Sidder du selv med et dilemma, du gerne vil have panelets hjælp til, så send dit dilemma til sarah@r8dio.dk.</description>
       <pubDate>Sat, 04 Mar 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">469</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/e09e67c9-6144-4caf-ab92-afba00e2ef02/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZTA5ZTY3YzktNjE0NC00Y2FmLWFiOTItYWZiYTAwZTJlZjAyIiwia2V5IjoiKiIsImlhdCI6MTY4NDkyNjg4OH0.bk9kL2sUV0DtXUcsfnPWTyIeidbEyOsKF9XKpS-DIqI" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/e09e67c9-6144-4caf-ab92-afba00e2ef02/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZTA5ZTY3YzktNjE0NC00Y2FmLWFiOTItYWZiYTAwZTJlZjAyIiwia2V5IjoiKiIsImlhdCI6MTY4NDkyNjg4OH0.bk9kL2sUV0DtXUcsfnPWTyIeidbEyOsKF9XKpS-DIqI" length="0" type="audio/mpeg"/>
       <itunes:duration>01:10:37</itunes:duration>
     </item>
     <item>
@@ -251,7 +252,7 @@ Sidder du selv med et dilemma, du gerne vil have panelets hjælp til, så send d
 Sidder du selv med et dilemma, og vil du gerne have panelets besyv med, så send dit dilemma ind på sarah@r8dio.dk.</description>
       <pubDate>Sat, 25 Feb 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">462</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/03897e52-c5d2-40fa-ac26-afb40005e619/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMDM4OTdlNTItYzVkMi00MGZhLWFjMjYtYWZiNDAwMDVlNjE5Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNTc5OX0.g5jpxq9DZfS1atlTJASn3sOA1dVDmkYvpYOrNSVIMko" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/03897e52-c5d2-40fa-ac26-afb40005e619/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMDM4OTdlNTItYzVkMi00MGZhLWFjMjYtYWZiNDAwMDVlNjE5Iiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNTc5OX0.g5jpxq9DZfS1atlTJASn3sOA1dVDmkYvpYOrNSVIMko" length="0" type="audio/mpeg"/>
       <itunes:duration>57:04</itunes:duration>
     </item>
     <item>
@@ -263,7 +264,7 @@ Svend har byttet sin bingoplade ud med Ditlevs’ plade og har nu vundet en week
 Husk, du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <pubDate>Sat, 18 Feb 2023 10:20:00 +0000</pubDate>
       <guid isPermaLink="false">456</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/7d90ac1a-8374-4512-a7d4-afac01682182/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiN2Q5MGFjMWEtODM3NC00NTEyLWE3ZDQtYWZhYzAxNjgyMTgyIiwia2V5IjoiKiIsImlhdCI6MTY4NDkxMzA5MH0.Ur4GAm0XgTuzahLgXaiYltDY-1i8j0I9wIuiqPR33EM" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/7d90ac1a-8374-4512-a7d4-afac01682182/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiN2Q5MGFjMWEtODM3NC00NTEyLWE3ZDQtYWZhYzAxNjgyMTgyIiwia2V5IjoiKiIsImlhdCI6MTY4NDkxMzA5MH0.Ur4GAm0XgTuzahLgXaiYltDY-1i8j0I9wIuiqPR33EM" length="0" type="audio/mpeg"/>
       <itunes:duration>50:17</itunes:duration>
     </item>
     <item>
@@ -273,7 +274,7 @@ Husk, du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
 Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <pubDate>Sat, 11 Feb 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">450</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/748bc403-bb36-481c-9a1f-afa50170b742/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNzQ4YmM0MDMtYmIzNi00ODFjLTlhMWYtYWZhNTAxNzBiNzQyIiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNjcwMn0.8-7u05P_okqRvJkUY92lz-523g0BfktcLRkDVPpB5a4" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/748bc403-bb36-481c-9a1f-afa50170b742/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNzQ4YmM0MDMtYmIzNi00ODFjLTlhMWYtYWZhNTAxNzBiNzQyIiwia2V5IjoiKiIsImlhdCI6MTY4NDkxNjcwMn0.8-7u05P_okqRvJkUY92lz-523g0BfktcLRkDVPpB5a4" length="0" type="audio/mpeg"/>
       <itunes:duration>54:51</itunes:duration>
     </item>
     <item>
@@ -283,7 +284,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
 Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <pubDate>Sat, 04 Feb 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">429</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/65a32fde-4075-4ed7-8000-af9e0175b785/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNjVhMzJmZGUtNDA3NS00ZWQ3LTgwMDAtYWY5ZTAxNzViNzg1Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDI2M30.oZc4NAqQEtoL-hbtYi50i4zTAghV2-E4HsZ_c9xeYuk" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/65a32fde-4075-4ed7-8000-af9e0175b785/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNjVhMzJmZGUtNDA3NS00ZWQ3LTgwMDAtYWY5ZTAxNzViNzg1Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDI2M30.oZc4NAqQEtoL-hbtYi50i4zTAghV2-E4HsZ_c9xeYuk" length="0" type="audio/mpeg"/>
       <itunes:duration>58:42</itunes:duration>
     </item>
     <item>
@@ -291,7 +292,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 12. I panelet i dag hjælper Torben Steno, Inge Ravnkjær og Speaker Allan r8Dios lyttere med at få styr på dilemmaerne, der presser sig på. Den anonyme mor er i tvivl, om hun kan tillade sig at klæde sin hvide, lyshårede søn ud som fodboldspilleren Mbappé. Og Andreas har svært ved at sætte sig i respekt overfor sin dårligt betalende kunde, der er op til et halvt år bagud med fakturabetalinger. Sarah Bo byder velkommen indenfor i studiet til endnu en lørdag formiddag i dilemmaets tegn. Du kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <pubDate>Sat, 28 Jan 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">417</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/d2b0688b-34c2-4855-93ab-af9700fafdf8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZDJiMDY4OGItMzRjMi00ODU1LTkzYWItYWY5NzAwZmFmZGY4Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDI2Mn0.ZzNna0tvMV-L8KP2wpRQ3EVQcF-ZSrr5HXoLHiQVLlU" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/d2b0688b-34c2-4855-93ab-af9700fafdf8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZDJiMDY4OGItMzRjMi00ODU1LTkzYWItYWY5NzAwZmFmZGY4Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDI2Mn0.ZzNna0tvMV-L8KP2wpRQ3EVQcF-ZSrr5HXoLHiQVLlU" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:09</itunes:duration>
     </item>
     <item>
@@ -299,7 +300,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 11. Sarah Bo har i dag inviteret Anja Zophia Jackson Winther Jensen, Lasse Spang Olsen og Kristoffer Lind i studiet til at hjælpe lytterne med deres dilemmaer. Vi har blandt andet fået mail fra Hanne, der har købt en deletrailer med sin nabo Henning, men nu er Henning begyndt at slacke på deres aftale om at holde den ren. Vi hører også fra lytteren Dennis, der har sat sig selv i den moralske skærsild efter at have fantaseret om sin kærestes mor. Panelet hjælper som altid både med livets store og små dilemmaer. Vil du have panelets råd til det dilemma, du står i, så kan du skrive det ind på sarah@r8dio.dk.</description>
       <pubDate>Sat, 21 Jan 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">406</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/aaa35bdd-3e32-4e8f-9a96-af9001870c1e/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYWFhMzViZGQtM2UzMi00ZThmLTlhOTYtYWY5MDAxODcwYzFlIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDIzMn0.CguA0PT49KYjkw9exX2R-Cyru5vA5TitnOZudRT_F_I" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/aaa35bdd-3e32-4e8f-9a96-af9001870c1e/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYWFhMzViZGQtM2UzMi00ZThmLTlhOTYtYWY5MDAxODcwYzFlIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDIzMn0.CguA0PT49KYjkw9exX2R-Cyru5vA5TitnOZudRT_F_I" length="0" type="audio/mpeg"/>
       <itunes:duration>58:10</itunes:duration>
     </item>
     <item>
@@ -307,7 +308,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 10. I panelet i dag sidder Sally Rosenkilde-Bille, Ulrik Brøndal og Kristian Henriksen klar til at besvare lytternes dilemmaer. Vi har blandt andet fået mail fra den hygiejnefikserede jæger, der er træt af hans makkers uhumske køkkenvaner, når de laver mad i det fri. Vi hører også fra et par veninder, der i fuldskab har haft en trekant med deres fælles venindes storebror, selvom han har en kæreste. Panelet hjælper som altid både med livets store og små dilemmaer. Du kan som altid sende dit dilemma ind til sarah@r8dio.dk.</description>
       <pubDate>Sat, 14 Jan 2023 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">394</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/e3b8a02b-7cc3-46dd-b604-af8900fefbd8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZTNiOGEwMmItN2NjMy00NmRkLWI2MDQtYWY4OTAwZmVmYmQ4Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDIzM30.7wNNxYMcYm3kOXeo7QKX3T7TNIuJvTo1inbXcK5PQxI" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/e3b8a02b-7cc3-46dd-b604-af8900fefbd8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZTNiOGEwMmItN2NjMy00NmRkLWI2MDQtYWY4OTAwZmVmYmQ4Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDIzM30.7wNNxYMcYm3kOXeo7QKX3T7TNIuJvTo1inbXcK5PQxI" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:44</itunes:duration>
     </item>
     <item>
@@ -315,7 +316,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 9. I panelet i dag har Sarah Bo besøg af Laust Bundgaard, Henriette ‘Hønse’ Karlsen og Emil Liller. Et nyt år kalder også på nye dilemmaer fra r8Dios lyttere. Vi skal blandt andet høre fra den hjemmegående husmor Anne-Mette, der er træt af at manden ikke hjælper til derhjemme. Joakim har ryddet ud i garagen for sine forældre og sat ting til salg på DBA. Det viser sig, at han er kommet til at sælge sin oldefars lighter, som er et arvestykke. Nu kræver køber, at Joakim skal lægge 500 kr., hvis han vil have lighteren igen. Der diskuteres som altid både livets store og små dilemmaer. Velkommen indenfor.</description>
       <pubDate>Sat, 07 Jan 2023 10:20:00 +0000</pubDate>
       <guid isPermaLink="false">387</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/fdd0490b-9702-4133-99a1-af8201033c40/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZmRkMDQ5MGItOTcwMi00MTMzLTk5YTEtYWY4MjAxMDMzYzQwIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDE3Mn0.F-3dyU94CbR5uK337FnNImut3w6vqUnF-xCgrCjhcPQ" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/fdd0490b-9702-4133-99a1-af8201033c40/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZmRkMDQ5MGItOTcwMi00MTMzLTk5YTEtYWY4MjAxMDMzYzQwIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDE3Mn0.F-3dyU94CbR5uK337FnNImut3w6vqUnF-xCgrCjhcPQ" length="0" type="audio/mpeg"/>
       <itunes:duration>59:53</itunes:duration>
     </item>
     <item>
@@ -323,7 +324,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 8. I panelet i dag sidder Amalie Nielsen, Rasmus Bruun og Anni Fønsby klar til at hjælpe r8Dios lyttere med deres dilemmaer. Vi starter med et haste-dilemma fra Magnus, der har dobbeltbooket sin nytårsaften - nu ved han ikke, hvilken fest han skal tage til. Lytteren Lærke har også skrevet ind med et dilemma. Hun er kommet til at kysse med hendes venindes far. Nu er hun lun på, at der skal ske mere mellem dem, og det er der måske chance for, da Lærkes venindes forældre har inviteret dem på Ødegårds-getaway til Sverige. Jeres vært, Sarah Bo, styrer panelet sikkert gennem dagens dilemmaer. Godt nytår!</description>
       <pubDate>Sat, 31 Dec 2022 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">380</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/6548daaf-63cf-4867-9ade-af7a0128e49a/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNjU0OGRhYWYtNjNjZi00ODY3LTlhZGUtYWY3YTAxMjhlNDlhIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDE3MX0.52UPhjyoBa9JKYeZ5k-mC5qbKx91Ex2QjJqopkUi4Ps" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/6548daaf-63cf-4867-9ade-af7a0128e49a/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiNjU0OGRhYWYtNjNjZi00ODY3LTlhZGUtYWY3YTAxMjhlNDlhIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDE3MX0.52UPhjyoBa9JKYeZ5k-mC5qbKx91Ex2QjJqopkUi4Ps" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:47</itunes:duration>
     </item>
     <item>
@@ -331,7 +332,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 7. I panelet i dag har Sarah Bo inviteret John Frederiksen, Kevin Kloster Rantzau og Ditte Okman indenfor i studiet til at hjælpe r8Dios lyttere med deres dilemmaer. En lytter ved navn Ditte har skrevet ind, da hun er i tvivl om, hvordan hun skal tage kontakt til den søde fyr i læsesalen, da hun føler sig romantisk begrænset af det faktum, at hun sidder i kørestol. Vi har også fået brev fra Anders, der har fået en anmodning fra sin kæreste om at tilføje veganske muligheder på juleaftensmenuen, hvilket han synes er meget dårligt timet.</description>
       <pubDate>Sat, 24 Dec 2022 13:30:00 +0000</pubDate>
       <guid isPermaLink="false">368</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/ebc3ca89-e9e7-4ea0-8879-af7401782a7c/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZWJjM2NhODktZTllNy00ZWEwLTg4NzktYWY3NDAxNzgyYTdjIiwia2V5IjoiKiIsImlhdCI6MTcwNzc0NzM1Nn0.Eqexi3LwRmQ6Q-uCE6xsjMehU2BdMXex6BYA9moWWlI" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/ebc3ca89-e9e7-4ea0-8879-af7401782a7c/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZWJjM2NhODktZTllNy00ZWEwLTg4NzktYWY3NDAxNzgyYTdjIiwia2V5IjoiKiIsImlhdCI6MTcwNzc0NzM1Nn0.Eqexi3LwRmQ6Q-uCE6xsjMehU2BdMXex6BYA9moWWlI" length="0" type="audio/mpeg"/>
       <itunes:duration>47:53</itunes:duration>
     </item>
     <item>
@@ -339,7 +340,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 6. I panelet i dag har Sarah Bo inviteret Mickey Meny, Stine Agnete Skjold Sørensen og Mia Pedersen i studiet for at hjælpe r8Dios lyttere med deres dilemmaer. Vi hører blandt andet fra enkemanden Torben, der nu dater en ny kvinde, som trigger hans sorg. Og så er fødselsdagsbarnet træt af veninden, som vil have madpakke med til hendes fødselsdagsfest i stedet for at spise pizza ligesom de andre gæster. Panelet hjælper som altid med både de store og små dilemmaer livet rummer. Velkommen indenfor i Sarah &amp; Panelet.</description>
       <pubDate>Sat, 17 Dec 2022 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">358</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/bdf86831-5435-4baa-94e4-af6d015dc950/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYmRmODY4MzEtNTQzNS00YmFhLTk0ZTQtYWY2ZDAxNWRjOTUwIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDA4MX0.wWhXKZ0BvoteJ7Ah8F53J9AvkglwJuJACofe2vyQTYM" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/bdf86831-5435-4baa-94e4-af6d015dc950/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiYmRmODY4MzEtNTQzNS00YmFhLTk0ZTQtYWY2ZDAxNWRjOTUwIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDA4MX0.wWhXKZ0BvoteJ7Ah8F53J9AvkglwJuJACofe2vyQTYM" length="0" type="audio/mpeg"/>
       <itunes:duration>53:35</itunes:duration>
     </item>
     <item>
@@ -347,7 +348,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 5. I denne uges panel har Sarah Bo inviteret Per Madsen, Randi Hansen og Rune Ingemann ind i studiet for at hjælpe r8Dios lyttere med deres dilemmaer. Vi har blandt andet fået post fra lytteren Ludvig, der er lodret uenig med kæresten om, hvorvidt man skal prioritere levende lys på juletræet, når sikkerhedsrisikoen er høj, og LED er lige så flot. Og så er Niels ved at være godt og grundig træt af sin roommate, der er en furry.</description>
       <pubDate>Sat, 10 Dec 2022 10:15:00 +0000</pubDate>
       <guid isPermaLink="false">348</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/00b2ae65-d6f7-4cf9-ae62-af66017580b1/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMDBiMmFlNjUtZDZmNy00Y2Y5LWFlNjItYWY2NjAxNzU4MGIxIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDE0MX0.TQaLI8iYksRRG4IpawxD_DT1EaufqXEAXlgYmyAoiPM" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/00b2ae65-d6f7-4cf9-ae62-af66017580b1/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiMDBiMmFlNjUtZDZmNy00Y2Y5LWFlNjItYWY2NjAxNzU4MGIxIiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDE0MX0.TQaLI8iYksRRG4IpawxD_DT1EaufqXEAXlgYmyAoiPM" length="0" type="audio/mpeg"/>
       <itunes:duration>56:35</itunes:duration>
     </item>
     <item>
@@ -355,7 +356,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 4. I panelet i dag har Sarah Bo besøg af Steen Langeberg, Sally Rosenkilde-Bille og Speaker-Allan. De tre sidder i dag klar til at knuse lytternes dilemmaer. Der bliver blandt andet diskuteret Pernilles liberale slik-politik i hjemmet og Thomas’ vævende moral efter at have kørt naboens kat, Pelle ned.</description>
       <pubDate>Sat, 03 Dec 2022 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">335</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/9008f5d5-9618-4465-ae2b-af5f01720ff8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiOTAwOGY1ZDUtOTYxOC00NDY1LWFlMmItYWY1ZjAxNzIwZmY4Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDAyMX0.Fj1U5EVAfI9mSFdeVkO4po5vQA0BsEcvEo54Wn5sp64" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/9008f5d5-9618-4465-ae2b-af5f01720ff8/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiOTAwOGY1ZDUtOTYxOC00NDY1LWFlMmItYWY1ZjAxNzIwZmY4Iiwia2V5IjoiKiIsImlhdCI6MTcwNzczNDAyMX0.Fj1U5EVAfI9mSFdeVkO4po5vQA0BsEcvEo54Wn5sp64" length="0" type="audio/mpeg"/>
       <itunes:duration>43:45</itunes:duration>
     </item>
     <item>
@@ -363,7 +364,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 3 . I panelet i dag har Sarah Bo besøg af Klavs Bundgaard, Henriette ‘Hønse’ Karlsen og Reinhard Weibhauer. Der bliver diskuteret dilemmaer i alle skalaer i dag. Vi får blandt andet panelets besyv med, når de diskuterer, om man virkelig kan tillade sig at kommentere på sin kærestes ansigtsbehåring. Og så bliver der uddelt en r8Dio-kop til dagens bedste dilemma.</description>
       <pubDate>Sat, 26 Nov 2022 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">326</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/9e40ff85-4c0d-48f6-a541-af58011313b2/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiOWU0MGZmODUtNGMwZC00OGY2LWE1NDEtYWY1ODAxMTMxM2IyIiwia2V5IjoiKiIsImlhdCI6MTcwNzczMzc0OX0.pM59mQ2aHdV0E5UzFHiTxOYqi90-VluneghOO67CjSM" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/9e40ff85-4c0d-48f6-a541-af58011313b2/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiOWU0MGZmODUtNGMwZC00OGY2LWE1NDEtYWY1ODAxMTMxM2IyIiwia2V5IjoiKiIsImlhdCI6MTcwNzczMzc0OX0.pM59mQ2aHdV0E5UzFHiTxOYqi90-VluneghOO67CjSM" length="0" type="audio/mpeg"/>
       <itunes:duration>37:18</itunes:duration>
     </item>
     <item>
@@ -371,7 +372,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 2. Sarah Bo fra r8Dios eget talenthold er vært på dette program, hvor kendte gæster fra Skuldborg og omegn diskuterer lytternes dilemmaer. I dette afsnit sidder i panelet: Allan Sindberg, John Frederiksen og Inge Ravnkjær. Vært: Sarah Bo.</description>
       <pubDate>Sat, 12 Nov 2022 10:13:00 +0000</pubDate>
       <guid isPermaLink="false">318</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/da3b254e-ba03-4293-af28-af4b00010282/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZGEzYjI1NGUtYmEwMy00MjkzLWFmMjgtYWY0YjAwMDEwMjgyIiwia2V5IjoiKiIsImlhdCI6MTcwNzczMzY4OX0.ihxU2gsBQ9Es1xcwHdihI66qUCTBxXLwVENW9OK_FI0" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/da3b254e-ba03-4293-af28-af4b00010282/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiZGEzYjI1NGUtYmEwMy00MjkzLWFmMjgtYWY0YjAwMDEwMjgyIiwia2V5IjoiKiIsImlhdCI6MTcwNzczMzY4OX0.ihxU2gsBQ9Es1xcwHdihI66qUCTBxXLwVENW9OK_FI0" length="0" type="audio/mpeg"/>
       <itunes:duration>24:52</itunes:duration>
     </item>
     <item>
@@ -379,7 +380,7 @@ Husk du altid kan skrive ind med dit dilemma på sarah@r8dio.dk.</description>
       <description>Afsnit 1. Sarah Bo fra r8Dios eget talenthold er vært på dette program, hvor kendte gæster fra Skuldborg og omegn diskuterer lytternes dilemmaer. I dette afsnit sidder i panelet: Amalie Nielsen, Kristoffer Lind og Jonna Lukovic. Vært: Sarah Bo.</description>
       <pubDate>Sat, 29 Oct 2022 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">296</guid>
-      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/ca5c3599-b23d-4254-90f1-af3c00d64dcb/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiY2E1YzM1OTktYjIzZC00MjU0LTkwZjEtYWYzYzAwZDY0ZGNiIiwia2V5IjoiKiIsImlhdCI6MTcwNzczMzYyOX0.W9unD-9MylJGnKAOL2Uk6IExdEhUj1eABMdd-9OBmeY" length="0" type="audio/mpeg" />
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/cc467923-77aa-4b57-a627-af3c00d51caa/ca5c3599-b23d-4254-90f1-af3c00d64dcb/audio.mp3?utm_source=Podcast&amp;in_playlist=bb8894f4-207e-4f96-bdbf-af3c00d63afc&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im9oUjZnZk0tNWtxek83QUxBUFdPZWcifQ.eyJjbGlwIjoiY2E1YzM1OTktYjIzZC00MjU0LTkwZjEtYWYzYzAwZDY0ZGNiIiwia2V5IjoiKiIsImlhdCI6MTcwNzczMzYyOX0.W9unD-9MylJGnKAOL2Uk6IExdEhUj1eABMdd-9OBmeY" length="0" type="audio/mpeg"/>
       <itunes:duration>30:49</itunes:duration>
     </item>
   </channel>
