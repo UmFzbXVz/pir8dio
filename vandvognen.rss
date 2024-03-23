@@ -110,5 +110,10 @@ Hør om den våde tid i 00’erne på TV2 og meget mere i dette første afsnit a
       <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/f441a065-1672-4168-a71e-b0ee01861e01/audio.mp3?utm_source=Podcast&amp;in_playlist=8c2642ef-776a-450d-8625-b0ee0185905d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkViQUpsbWpaaFUyTURyRHVBWWQyRXcifQ.eyJjbGlwIjoiZjQ0MWEwNjUtMTY3Mi00MTY4LWE3MWUtYjBlZTAxODYxZTAxIiwia2V5IjoiKiIsImlhdCI6MTcwNDU1NzEyMn0.m_oANJ_9-E-g3rgify0-fG0_eiJQitrJRHd_PJlRcB4" length="0" type="audio/mpeg" />
       <itunes:duration>56:43</itunes:duration>
     </item>
-  </channel>
+  <item><title>Barbar Siddiqi</title>
+  <description>Barbar er af pakistansk ophav, men vokset op i Danmark. Efter han blev introduceret til alkoholen i teenageårene oplevede Barbar at han kunne være mere. Som han blev ældre blev forbruget vildere, og da hans arbejdsliv syntes at harmonere med hans personlighed når han drak skulle det hele snart køre af sporet.</description>
+  <pubDate>Sat, 23 Mar 2024 05:00:00 +0000</pubDate>
+  <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/b95ec8d8-353b-453d-95d6-b13a00ec17dd/audio.mp3?utm_source=Podcast&amp;in_playlist=8c2642ef-776a-450d-8625-b0ee0185905d&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkViQUpsbWpaaFUyTURyRHVBWWQyRXcifQ.eyJjbGlwIjoiYjk1ZWM4ZDgtMzUzYi00NTNkLTk1ZDYtYjEzYTAwZWMxN2RkIiwia2V5IjoiKiIsImlhdCI6MTcxMTE3MDM0MH0.81ksFYCJSaZ49C9zs7rVxsTv_z0vsjq9wFBxpdy_X9U" length="0" type="audio/mpeg" />
+  <itunes:duration>01:00:18</itunes:duration>
+</item></channel>
 </rss>
