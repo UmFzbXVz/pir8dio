@@ -6075,6 +6075,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/kirsten-ringer-til-rasmus/episodes",
         "episodes": [
             {
+                "id": 955,
+                "createdAt": "2024-03-24T05:04:07.857Z",
+                "updatedAt": "2024-03-24T05:14:07.914Z",
+                "publishedAt": "2024-03-24T05:00:00.000Z",
+                "published": true,
+                "title": "Alene i vildmarken",
+                "slug": "alene-i-vildmarken",
+                "content": "Afsnit 26. Kirsten og Rasmus er tilbage fra deres ryste sammen-tur i USA, og sikke en tur, de har haft. De har uden tvivl l\u00e6rt nye sider af hinanden at kende. De skal bare lige blive enige om, hvad der er sket, og hvad der ikke er sket.\u00a0\n\nDet betyder samtidig, at de to gode venner nu igen kan sende 'Kirsten ringer til Rasmus', hvilket lytterne i den grad m\u00e5 have savnet.\u00a0\n\nI dagens afsnit er de n\u00f8dt til at vende hele 14 dagens begivenheder, og snakken kommer forbi de mest fantastiske emner. S\u00f8ren Pape, June Belli og s\u00e5 selvf\u00f8lgelig 'Alene i Vildmarken.' Det snakker alle om for tiden.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/a96e3ae6-34e2-4387-9338-b13c0135bd7d/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/a96e3ae6-34e2-4387-9338-b13c0135bd7d/audio.mp3?utm_source=Podcast&in_playlist=86659c7c-fb9b-4393-935f-b0b501735343&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InFyN1VJUkJLUlV5WkFyQzFBWG9RNkEifQ.eyJjbGlwIjoiYTk2ZTNhZTYtMzRlMi00Mzg3LTkzMzgtYjEzYzAxMzViZDdkIiwia2V5IjoiKiIsImlhdCI6MTcxMTI1Njg1N30.UKet-peGSix0WqNTMcky9eEUzP9pJMOfpQaRCCAa9bw",
+                "duration": 2605.923,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "a96e3ae6-34e2-4387-9338-b13c0135bd7d",
+                "podcastId": 36,
+                "season": 1,
+                "episode": 26,
+                "premium": true
+            },
+            {
                 "id": 938,
                 "createdAt": "2024-03-13T18:03:49.745Z",
                 "updatedAt": "2024-03-21T10:18:16.439Z",
@@ -11734,6 +11754,26 @@
         "slug": "klunketid",
         "url": "https://r8dio.demo.supertusch.com/podcasts/klunketid/episodes",
         "episodes": [
+            {
+                "id": 956,
+                "createdAt": "2024-03-24T05:04:38.256Z",
+                "updatedAt": "2024-03-24T05:14:38.316Z",
+                "publishedAt": "2024-03-24T05:00:00.000Z",
+                "published": true,
+                "title": "Oliver Zahle",
+                "slug": "oliver-zahle",
+                "content": "S\u00e6son 2 - afsnit 4. I denne udgave af Klunketid kan du h\u00f8re satiriker og forfatter med meget mere, Oliver Zahle, tale ud om sine besv\u00e6rlige teenage\u00e5r, om sin f\u00f8rste gang og om at f\u00e5 barn nummer to i en sen alder.\n\nDet leder naturligt samtalen hen p\u00e5 livet i 50\u2019erne, om at blive \u00e6ldre i en hurtig mediebranche og ikke mindst den fam\u00f8se midtlivskrise. Er den overst\u00e5et, eller st\u00e5r han midt i den?\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/0d618b83-f6a8-4ba7-a709-ae3200accc19/03bb72cf-e761-4a59-a45d-b13d003405c0/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/0d618b83-f6a8-4ba7-a709-ae3200accc19/03bb72cf-e761-4a59-a45d-b13d003405c0/audio.mp3?utm_source=Podcast&in_playlist=352d3e79-37d7-4633-a223-ae3200adf0dc&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImIzZVBub1AyV1VxVlliQUxBTmx2VncifQ.eyJjbGlwIjoiMDNiYjcyY2YtZTc2MS00YTU5LWE0NWQtYjEzZDAwMzQwNWMwIiwia2V5IjoiKiIsImlhdCI6MTcxMTI1NjY3OH0.Cz_GRMahiw9RH8KKSrXNOissY7yx7tL9LAou_mtt6M4",
+                "duration": 2937.835,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "03bb72cf-e761-4a59-a45d-b13d003405c0",
+                "podcastId": 16,
+                "season": 2,
+                "episode": 13,
+                "premium": true
+            },
             {
                 "id": 945,
                 "createdAt": "2024-03-17T14:36:30.963Z",
