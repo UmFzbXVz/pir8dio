@@ -4285,6 +4285,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/ugen-der-blev-spist/episodes",
         "episodes": [
             {
+                "id": 959,
+                "createdAt": "2024-03-26T05:03:12.516Z",
+                "updatedAt": "2024-03-26T05:13:12.583Z",
+                "publishedAt": "2024-03-26T05:00:00.000Z",
+                "published": true,
+                "title": "Umut Sakarya",
+                "slug": "umut-sakarya",
+                "content": "Afsnit 8. I denne uge m\u00f8der v\u00e6rt Marie Holm kok Umut Sakarya, der har anden gastronomisk baggrund end dansk og alligevel er mest kendt for sit fl\u00e6skede danskerk\u00f8kken.\n\nVi taler bl.a. Umuts tyrkiske barndomsmad, f\u00e5rehovedkogning, m\u00f8det med rugbr\u00f8d og b\u00e6rlykke p\u00e5 en fynsk villavej. Men ogs\u00e5 fedtsugning og v\u00e6gtkontrol og om hvor nederen det er, n\u00e5r der g\u00e5r nationalistisk politik i dansk mad.\n\nMarie serverer suppe med kylling, hvide b\u00f8nner, ramsl\u00f8g og spinat. Og opskriften, siger du m\u00e5ske? Den f\u00e5r du som altid i slutningen af programmet.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f4f00dfc-199f-47dd-8c01-b10d015a52de/f17daaa4-4560-4fb6-b5fd-b13b00ee44cb/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f4f00dfc-199f-47dd-8c01-b10d015a52de/f17daaa4-4560-4fb6-b5fd-b13b00ee44cb/audio.mp3?utm_source=Podcast&in_playlist=dad59177-729f-480e-819f-b10d015c3c5b&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InhmbXplc2NPUVVDcUg3RU5BVjI0cGcifQ.eyJjbGlwIjoiZjE3ZGFhYTQtNDU2MC00ZmI2LWI1ZmQtYjEzYjAwZWU0NGNiIiwia2V5IjoiKiIsImlhdCI6MTcxMTQyOTM5Mn0.QcxJ6tU5DB6RIano9PucNPUje4jKaSFP3L8FS8n___k",
+                "duration": 4192.078,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "f17daaa4-4560-4fb6-b5fd-b13b00ee44cb",
+                "podcastId": 46,
+                "season": 1,
+                "episode": 8,
+                "premium": true
+            },
+            {
                 "id": 948,
                 "createdAt": "2024-03-19T05:03:53.377Z",
                 "updatedAt": "2024-03-19T05:13:53.442Z",
@@ -7099,6 +7119,26 @@
         "slug": "la-kaj-om-det",
         "url": "https://r8dio.demo.supertusch.com/podcasts/la-kaj-om-det/episodes",
         "episodes": [
+            {
+                "id": 958,
+                "createdAt": "2024-03-26T05:03:11.924Z",
+                "updatedAt": "2024-03-26T05:13:11.981Z",
+                "publishedAt": "2024-03-26T05:00:00.000Z",
+                "published": true,
+                "title": "Det Royale Sp\u00f8rgeminut",
+                "slug": "det-royale-sp-rgeminut",
+                "content": "Afsnit 10. I dette afsnit af La\u2019kaj om det vil Kaj Ove Ovesenfors\u00f8ge besvare lytternes mange spr\u00f8gsm\u00e5l om livet bag slottets murer.\n\nL\u00e6s og se mere p\u00e5 Instagram @historier_fra_en_anden_tid",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/5c5da84f-19a4-4da9-8754-b00a00f4733d/6f551413-616c-4f6c-b133-b13e00b03ae8/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/5c5da84f-19a4-4da9-8754-b00a00f4733d/6f551413-616c-4f6c-b133-b13e00b03ae8/audio.mp3?utm_source=Podcast&in_playlist=62007413-9e3f-4908-b146-b00a00f54d40&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InU1ZnVObkNvZmttS3k3QXVBTV9pb2cifQ.eyJjbGlwIjoiNmY1NTE0MTMtNjE2Yy00ZjZjLWIxMzMtYjEzZTAwYjAzYWU4Iiwia2V5IjoiKiIsImlhdCI6MTcxMTQyOTM5MX0.aNG5VbBXXD6SAvSJVPV1rcRHXQfawlqmD3JeicP4o1I",
+                "duration": 886.988,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "6f551413-616c-4f6c-b133-b13e00b03ae8",
+                "podcastId": 31,
+                "season": 1,
+                "episode": 10,
+                "premium": true
+            },
             {
                 "id": 905,
                 "createdAt": "2024-02-27T05:02:40.810Z",
