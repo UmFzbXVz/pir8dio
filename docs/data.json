@@ -12064,6 +12064,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/proud/episodes",
         "episodes": [
             {
+                "id": 960,
+                "createdAt": "2024-03-27T05:07:10.680Z",
+                "updatedAt": "2024-03-27T05:17:10.741Z",
+                "publishedAt": "2024-03-27T05:00:00.000Z",
+                "published": true,
+                "title": "En debat, et digt, en dans",
+                "slug": "en-debat-et-digt-en-dans",
+                "content": "Afsnit 14. Der er meget p\u00e5 programmet, n\u00e5r Laust og hans medv\u00e6rt Barbara, en sen weekend-aften p\u00e5 Aarhus efterskole \u00e5bner op for mikrofonerne i ungdomsprogrammet Proud.\n\nProgrammet behandler s\u00e5ledes emner som kinesisk i ungdommen, en ungdomspoesiklub, et datingkultur-opr\u00e5b og en debat p\u00e5 baggrund af en klage fra sidste program, om hvorvidt man kan kalde Miles Davis for en bebop-stjerne?\n\nDesuden er der kun tre m\u00e5neder tilbage af efterskole\u00e5ret, og det fylder - is\u00e6r hos Barbara.\n\nNattestemningen bliver endnu mere udtalt da afsnittet lukker ned med et s\u00e5kaldt \"godnat-debatindl\u00e6g.\"\n\nMedv\u00e6rt: Barbara Kamatari",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/4cdb4d68-4898-4053-84ba-adf900ef6bbb/db69f438-5f86-4f1f-934d-b13f011a69a2/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/4cdb4d68-4898-4053-84ba-adf900ef6bbb/db69f438-5f86-4f1f-934d-b13f011a69a2/audio.mp3?utm_source=Podcast&in_playlist=6d7d26d1-26ec-458e-8dc4-adf900f49c56&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImhlQkRUb0cyV0VXNTVMQUxBTnQtdmcifQ.eyJjbGlwIjoiZGI2OWY0MzgtNWY4Ni00ZjFmLTkzNGQtYjEzZjAxMWE2OWEyIiwia2V5IjoiKiIsImlhdCI6MTcxMTUxNjAzMH0.oIRdeiXcpR_kjdtyOTdV99rUOHJlurvSQ2cwua4ZP_4",
+                "duration": 4564.01,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "db69f438-5f86-4f1f-934d-b13f011a69a2",
+                "podcastId": 15,
+                "season": 1,
+                "episode": 14,
+                "premium": true
+            },
+            {
                 "id": 888,
                 "createdAt": "2024-02-15T16:05:56.176Z",
                 "updatedAt": "2024-02-15T16:15:56.236Z",
