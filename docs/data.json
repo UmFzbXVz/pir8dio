@@ -6653,6 +6653,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/puttetid/episodes",
         "episodes": [
             {
+                "id": 961,
+                "createdAt": "2024-03-27T20:04:55.963Z",
+                "updatedAt": "2024-03-27T20:14:56.055Z",
+                "publishedAt": "2024-03-27T20:00:00.000Z",
+                "published": true,
+                "title": "Skiftedag -  Matador # 3",
+                "slug": "skiftedag-matador-3",
+                "content": "Rune Ingemann sidder klar i studiet til at f\u00e5 dig i s\u00e5 dyb en s\u00f8vn, at du n\u00e6sten ikke fatter det. I sin gennemgang af Matador er Rune n\u00e5et til afsnit 3, der ligesom afsnit 2 heller ikke er skrevet af Lise N\u00f8rgaard. \nDet er store skiftedag i Korsb\u00e6k, og det betyder at folk stopper med at komme i den ene butik og istedet v\u00e6lger den anden. Det er... gab ... ogs\u00e5 afsnittet... hvor... ZzzZzzzz ....",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a4191e18-dd0e-4522-b968-b140010f6972/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/a4191e18-dd0e-4522-b968-b140010f6972/audio.mp3?utm_source=Podcast&in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiYTQxOTFlMTgtZGQwZS00NTIyLWI5NjgtYjE0MDAxMGY2OTcyIiwia2V5IjoiKiIsImlhdCI6MTcxMTU2OTg5NX0.9Jgw1Sx5YO_ZFGiR438iCjYQtD24HCiK4Hylgac0FOg",
+                "duration": 2342.139,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "a4191e18-dd0e-4522-b968-b140010f6972",
+                "podcastId": 34,
+                "season": 2,
+                "episode": 16,
+                "premium": true
+            },
+            {
                 "id": 939,
                 "createdAt": "2024-03-13T20:04:21.214Z",
                 "updatedAt": "2024-03-13T20:14:21.293Z",
