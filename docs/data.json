@@ -4176,6 +4176,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/i-norge-er-der-ogs-en-dag/episodes",
         "episodes": [
             {
+                "id": 962,
+                "createdAt": "2024-03-28T05:03:38.374Z",
+                "updatedAt": "2024-03-28T05:13:38.486Z",
+                "publishedAt": "2024-03-28T05:00:00.000Z",
+                "published": true,
+                "title": "Russisk roulette med \u00e6rlighed",
+                "slug": "russisk-roulette-med-rlighed",
+                "content": "Afsnit 6. I sovevognen p\u00e5 vej hjem mod Danmark spiller de to venner russisk roulette med \u00e6rlighed. Nu skal sandhederne p\u00e5 bordet. De st\u00f8rste traumer frem i lyset. Men er Kristoffer klar til selv at dele ud af sine f\u00f8lelser?\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a9e91716-bcf4-422e-b191-b11d00c292e5/3d100175-6dde-4718-82c5-b14001862754/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a9e91716-bcf4-422e-b191-b11d00c292e5/3d100175-6dde-4718-82c5-b14001862754/audio.mp3?utm_source=Podcast&in_playlist=48f4f636-e4df-4e52-a48a-b11d0116fb90&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjJ1NkU4cFJoSFU2QThMRWRBUmZwT1EifQ.eyJjbGlwIjoiM2QxMDAxNzUtNmRkZS00NzE4LTgyYzUtYjE0MDAxODYyNzU0Iiwia2V5IjoiKiIsImlhdCI6MTcxMTYwMjIxOH0.OsDvbNi_jzvLbIzdmzAsGStjcu2b0wkfxjK5U_NLbG4",
+                "duration": 2046.407,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "3d100175-6dde-4718-82c5-b14001862754",
+                "podcastId": 47,
+                "season": 1,
+                "episode": 6,
+                "premium": true
+            },
+            {
                 "id": 951,
                 "createdAt": "2024-03-21T05:03:24.318Z",
                 "updatedAt": "2024-03-21T05:13:24.382Z",
