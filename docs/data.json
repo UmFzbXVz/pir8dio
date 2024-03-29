@@ -7,16 +7,36 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/undskyld-vi-roder/episodes",
         "episodes": [
             {
+                "id": 963,
+                "createdAt": "2024-03-29T05:04:58.811Z",
+                "updatedAt": "2024-03-29T05:14:58.875Z",
+                "publishedAt": "2024-03-29T05:00:00.000Z",
+                "published": true,
+                "title": "P\u00e5skefrokost hos direkt\u00f8ren",
+                "slug": "p-skefrokost-hos-direkt-ren",
+                "content": "Hele Danmarks snakke-, sludre- og taleradio i parket- og h\u00e6ve/s\u00e6nkegulvsh\u00f8jde, r8Dio holder P\u00e5skefrokost. Direkt\u00f8ren har inviteret Sm\u00f8rstemmen Allan Sindberg, teknikchef Rune Ingemann og den frivillige medarbejder Emil Liller hjem i privaten. Han f\u00e5r hj\u00e6lp af sin lillebror Laust i k\u00f8kkenet. Laust har bl.a. en helt s\u00e6rlig gr\u00e6sk leverpostej klar. Men selvom det er P\u00e5ske holder r8Dio ikke fri. Det betyder at der skal optages en special P\u00e5ske episode af Morgensutterne i forbindelse med frokosten ligesom programchef Allan Sindberg inden da har v\u00e6ret i studiet for at indspille et spot om Supporting Cast, som kan g\u00f8re livet nemmere for r8Dio\u00b4s abonnenter aka. vennevenner.\u00a0\n\nDet anbefales at man efter denne episode af Undskyld Vi Roder husker at h\u00f8re Morgensutterne P\u00e5skespecial, som sendes 2. p\u00e5skedag.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/304336c1-be80-4473-a7c0-b14101841fb8/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/304336c1-be80-4473-a7c0-b14101841fb8/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiMzA0MzM2YzEtYmU4MC00NDczLWE3YzAtYjE0MTAxODQxZmI4Iiwia2V5IjoiKiIsImlhdCI6MTcxMTY4ODY5OH0.eUjEB27FW8TukELGJ1bfO1wHBJVFSzesqRux1uJtetM",
+                "duration": 3187.749,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "304336c1-be80-4473-a7c0-b14101841fb8",
+                "podcastId": 1,
+                "season": 8,
+                "episode": 209,
+                "premium": true
+            },
+            {
                 "id": 952,
                 "createdAt": "2024-03-22T05:06:00.221Z",
-                "updatedAt": "2024-03-22T05:16:00.293Z",
-                "publishedAt": "2024-03-22T05:00:00.000Z",
+                "updatedAt": "2024-03-29T05:01:28.077Z",
+                "publishedAt": "2024-03-29T05:00:00.000Z",
                 "published": true,
                 "title": "Glemmer Du...",
                 "slug": "glemmer-du",
                 "content": "Afsnittet er blevet til i samarbejde med JF Sommerhuse\n\nHos https://www.jfsommerhuse.dk kan du g\u00e5 ind og leje et sommerhus til din n\u00e6ste ferie. John Frederiksen har over 6000 sommerhuse at v\u00e6lge i mellem, s\u00e5 det er bare med at komme i gang. Verden er blevet et usikkert sted at holde ferie i, s\u00e5 hvorfor ikke bare blive i Danmark. I et sommerhus fra https://www.jfsommerhuse.dk kan du trygt slappe af. Bare kom i gang. Det er ikke for sjov. Bare kom i gang. Kom nu!\n\nNB. Du st\u00f8tter r8Dio ved at booke dit sommerhus gennem https://www.jfsommerhuse.dk Mvh. Klavs Bundgaard",
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/75816778-67bb-4374-a709-b13a0177f43d/audio.mp3",
-                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/75816778-67bb-4374-a709-b13a0177f43d/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiNzU4MTY3NzgtNjdiYi00Mzc0LWE3MDktYjEzYTAxNzdmNDNkIiwia2V5IjoiKiIsImlhdCI6MTcxMTA4Mzk2MH0.GY0slzZY9Le1AUs7wMMd-XhpdSUufe6nyQV280mG4MQ",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/75816778-67bb-4374-a709-b13a0177f43d/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiNzU4MTY3NzgtNjdiYi00Mzc0LWE3MDktYjEzYTAxNzdmNDNkIiwia2V5IjoiKiIsImlhdCI6MTcxMTY4ODQ4OH0.d-IKhjwZdv8qYW5hMtKiMIS4wbQVMw7-FsscN1WpbMI",
                 "duration": 3306.214,
                 "didNotifyUsers": true,
                 "providerId": "r8Dio",
@@ -24,7 +44,7 @@
                 "podcastId": 1,
                 "season": 8,
                 "episode": 208,
-                "premium": true
+                "premium": false
             },
             {
                 "id": 942,
