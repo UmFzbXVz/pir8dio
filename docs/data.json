@@ -5001,6 +5001,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/vandvognen/episodes",
         "episodes": [
             {
+                "id": 964,
+                "createdAt": "2024-03-30T05:06:03.010Z",
+                "updatedAt": "2024-03-30T05:16:03.070Z",
+                "publishedAt": "2024-03-30T05:00:00.000Z",
+                "published": true,
+                "title": "Sigurd Bergan",
+                "slug": "sigurd-bergan",
+                "content": "S\u00e6son 1, Afsnit 13. \nSigurd er vokset op lidt udenfor Aarhus, men har stort set altid v\u00e6ret glad for at tage i byen. Siden han blev 15 fik han lov til at drikke, og Sigurd holdte sig ikke tilbage. Det blev hurtigt til mere end druk og stofferne tog langsomt over. Sigurd lider nemlig af sv\u00e6r AD/HD og det har v\u00e6ret sv\u00e6rt for ham at komme ud af sin afh\u00e6ngighed af bl.a. den \u00e5rsag.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/646df15f-21d9-495c-a301-b1400112ea41/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/646df15f-21d9-495c-a301-b1400112ea41/audio.mp3?utm_source=Podcast&in_playlist=8c2642ef-776a-450d-8625-b0ee0185905d&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkViQUpsbWpaaFUyTURyRHVBWWQyRXcifQ.eyJjbGlwIjoiNjQ2ZGYxNWYtMjFkOS00OTVjLWEzMDEtYjE0MDAxMTJlYTQxIiwia2V5IjoiKiIsImlhdCI6MTcxMTc3NTE2M30.F_-yI_BVZgRUHu6OLEDnnzbTd_9uuDxr-zVCvmzBFPA",
+                "duration": 3640.216,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "646df15f-21d9-495c-a301-b1400112ea41",
+                "podcastId": 42,
+                "season": 1,
+                "episode": 13,
+                "premium": true
+            },
+            {
                 "id": 944,
                 "createdAt": "2024-03-16T05:05:13.050Z",
                 "updatedAt": "2024-03-16T05:15:13.151Z",
