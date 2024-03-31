@@ -11875,6 +11875,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/klunketid/episodes",
         "episodes": [
             {
+                "id": 965,
+                "createdAt": "2024-03-31T04:07:45.536Z",
+                "updatedAt": "2024-03-31T04:17:45.841Z",
+                "publishedAt": "2024-03-31T04:00:00.000Z",
+                "published": true,
+                "title": "Oliver Bjerrehuus",
+                "slug": "oliver-bjerrehuus",
+                "content": "S\u00e6son 2 - afsnit 5. Hvordan er det at n\u00e6rme sig de 50 \u00e5r, n\u00e5r man har levet af sit udseende og ungdommelige opf\u00f8rsel hele livet?\n\nOliver Bjerrehuus fort\u00e6ller i dette interview om at leve med en masse fordomme om sin person, fors\u00f8ge at v\u00e6re et godt menneske for sine n\u00e6rmeste, f\u00f8le sig fremmedgjort over for samfundets enorme fokus p\u00e5 penge, og et liv, som foreg\u00e5r p\u00e5 din telefon.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/0d618b83-f6a8-4ba7-a709-ae3200accc19/6021f89f-fc5a-4571-bcec-b14100b77831/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/0d618b83-f6a8-4ba7-a709-ae3200accc19/6021f89f-fc5a-4571-bcec-b14100b77831/audio.mp3?utm_source=Podcast&in_playlist=352d3e79-37d7-4633-a223-ae3200adf0dc&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImIzZVBub1AyV1VxVlliQUxBTmx2VncifQ.eyJjbGlwIjoiNjAyMWY4OWYtZmM1YS00NTcxLWJjZWMtYjE0MTAwYjc3ODMxIiwia2V5IjoiKiIsImlhdCI6MTcxMTg1ODA2NX0.jDLYRJp9RBezsInPyjYVIlFcmdIi7m7I6rF1mIieMdg",
+                "duration": 2927.099,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "6021f89f-fc5a-4571-bcec-b14100b77831",
+                "podcastId": 16,
+                "season": 2,
+                "episode": 14,
+                "premium": true
+            },
+            {
                 "id": 956,
                 "createdAt": "2024-03-24T05:04:38.256Z",
                 "updatedAt": "2024-03-24T05:14:38.316Z",
