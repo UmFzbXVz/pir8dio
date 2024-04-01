@@ -7958,6 +7958,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/morgensutterne/episodes",
         "episodes": [
             {
+                "id": 966,
+                "createdAt": "2024-04-01T05:34:30.505Z",
+                "updatedAt": "2024-04-01T05:44:30.560Z",
+                "publishedAt": "2024-04-01T05:30:00.000Z",
+                "published": true,
+                "title": "P\u00e5skespecial",
+                "slug": "p-skespecial",
+                "content": "S\u00e6son 2 - afsnit 12. Det er p\u00e5ske, og helligdagen skal jo som bekendt kommes i hu. Derfor er dagens udsendelse live-on-tape hjemme fra direkt\u00f8ren selv, hvor han har inviteret til p\u00e5skefrokost.\u00a0\n\nKlavs, Allan, Rune og lidt Emil har s\u00f8rget for, at du, k\u00e6re ven, naturligvis kan starte din mandag morgen pr\u00e6cis, som du plejer - selvom du m\u00e5ske skulle have fri.\u00a0\n\nGl\u00e6delig p\u00e5ske, venneven.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/f5fd7fdb-e7f6-42a6-a794-b144016aeae6/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/f5fd7fdb-e7f6-42a6-a794-b144016aeae6/audio.mp3?utm_source=Podcast&in_playlist=fd30f5a6-7014-4670-a35c-afee006d2c1b&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imd0VXpQeFp3QVVXZmZMQUxBTmtHU2cifQ.eyJjbGlwIjoiZjVmZDdmZGItZTdmNi00MmE2LWE3OTQtYjE0NDAxNmFlYWU2Iiwia2V5IjoiKiIsImlhdCI6MTcxMTk0OTc1OX0.Tv-72miLzrWX2tJAYyXB4z0DJUG8-LAJM1B3LZmdp_A",
+                "duration": 3059.722,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "f5fd7fdb-e7f6-42a6-a794-b144016aeae6",
+                "podcastId": 29,
+                "season": 2,
+                "episode": 41,
+                "premium": true
+            },
+            {
                 "id": 957,
                 "createdAt": "2024-03-25T08:59:01.920Z",
                 "updatedAt": "2024-03-25T09:09:01.992Z",
