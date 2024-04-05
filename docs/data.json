@@ -4603,6 +4603,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/nyhedsbrevet/episodes",
         "episodes": [
             {
+                "id": 971,
+                "createdAt": "2024-04-05T14:01:34.832Z",
+                "updatedAt": "2024-04-05T14:01:34.833Z",
+                "publishedAt": "2024-04-05T14:00:00.000Z",
+                "published": true,
+                "title": "Et dementi",
+                "slug": "et-dementi",
+                "content": "K\u00e6re lytter og ven af r8Dio\n\nJeg h\u00e5ber, du har haft en god P\u00e5ske. Det har jeg saks-suse-mig. Herligt, at se p\u00e5skeliljerne piple frem. Det minder os om liv og sommer. Herligt!\n\nDette Nyhedsbrev bliver lidt anderledes, apropos ting der pibler frem. For ligesom p\u00e5skeliljerne s\u00e5 vokser der ogs\u00e5 ukrudt og andet stads op af jorden lige for tiden. Og rent tankem\u00e6ssigt m\u00e5 jeg indr\u00f8mme, at det ikke altid er p\u00e5skeliljer, jeg fabrikerer i mit lille for\u00e5rshoved. Og nu n\u00e6rmer vi os liljens l\u00f8g.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/7d91d5b7-6cb7-4b0b-8f77-b14900e46ee8/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/7d91d5b7-6cb7-4b0b-8f77-b14900e46ee8/audio.mp3?utm_source=Podcast&in_playlist=a2ca760d-cb17-4c52-a53e-b0fc00eee7d1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ijd5Z2xPRHViYVVDbEJyRDhBTy1GUEEifQ.eyJjbGlwIjoiN2Q5MWQ1YjctNmNiNy00YjBiLThmNzctYjE0OTAwZTQ2ZWU4Iiwia2V5IjoiKiIsImlhdCI6MTcxMjMyNTY5NH0.Mk0Lr70vt3pcuj_3NsiU1z5wwXa3JynBVKbSy7e4b-U",
+                "duration": 267.833,
+                "didNotifyUsers": false,
+                "providerId": "r8Dio",
+                "foreignId": "7d91d5b7-6cb7-4b0b-8f77-b14900e46ee8",
+                "podcastId": 44,
+                "season": 1,
+                "episode": 11,
+                "premium": true
+            },
+            {
                 "id": 953,
                 "createdAt": "2024-03-22T15:03:15.088Z",
                 "updatedAt": "2024-03-22T15:13:15.148Z",
