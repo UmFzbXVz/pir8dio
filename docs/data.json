@@ -5061,6 +5061,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/vandvognen/episodes",
         "episodes": [
             {
+                "id": 972,
+                "createdAt": "2024-04-06T04:04:37.809Z",
+                "updatedAt": "2024-04-06T04:14:37.866Z",
+                "publishedAt": "2024-04-06T04:00:00.000Z",
+                "published": true,
+                "title": "Thomas Warberg",
+                "slug": "thomas-warberg",
+                "content": "S\u00e6son 1, afsnit 14\nThomas Warberg kunne dette for\u00e5r fejre kobberbryllup som \u00e6dru alkoholiker. Hans fortid p\u00e5 flasken var forholdsvis kortvarig men intens. Efter Thomas havde gennemg\u00e5et et forl\u00f8b p\u00e5 en talentskole i Billund, flyttede han til K\u00f8benhavn hvor han fandt sit kald; stand up comedy. I samme omgang fandt han ogs\u00e5 festen efter en optr\u00e6den og eftersom Thomas optr\u00e5dte meget, blev der ogs\u00e5 festet oftere og oftere. H\u00f8r hele hans historie med alkohol i dette afsnit af Vandvognen.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/34f6837c-e9bb-4609-8a22-b14900b29614/audio.mp3",
+                "premiumAudio": null,
+                "duration": 3369.221,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "34f6837c-e9bb-4609-8a22-b14900b29614",
+                "podcastId": 42,
+                "season": 1,
+                "episode": 14,
+                "premium": true
+            },
+            {
                 "id": 964,
                 "createdAt": "2024-03-30T05:06:03.010Z",
                 "updatedAt": "2024-04-02T09:22:44.314Z",
