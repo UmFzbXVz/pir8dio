@@ -4605,7 +4605,7 @@
             {
                 "id": 971,
                 "createdAt": "2024-04-05T14:01:34.832Z",
-                "updatedAt": "2024-04-05T14:01:34.833Z",
+                "updatedAt": "2024-04-05T14:11:34.901Z",
                 "publishedAt": "2024-04-05T14:00:00.000Z",
                 "published": true,
                 "title": "Et dementi",
@@ -4614,7 +4614,7 @@
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/7d91d5b7-6cb7-4b0b-8f77-b14900e46ee8/audio.mp3",
                 "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/7d91d5b7-6cb7-4b0b-8f77-b14900e46ee8/audio.mp3?utm_source=Podcast&in_playlist=a2ca760d-cb17-4c52-a53e-b0fc00eee7d1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ijd5Z2xPRHViYVVDbEJyRDhBTy1GUEEifQ.eyJjbGlwIjoiN2Q5MWQ1YjctNmNiNy00YjBiLThmNzctYjE0OTAwZTQ2ZWU4Iiwia2V5IjoiKiIsImlhdCI6MTcxMjMyNTY5NH0.Mk0Lr70vt3pcuj_3NsiU1z5wwXa3JynBVKbSy7e4b-U",
                 "duration": 267.833,
-                "didNotifyUsers": false,
+                "didNotifyUsers": true,
                 "providerId": "r8Dio",
                 "foreignId": "7d91d5b7-6cb7-4b0b-8f77-b14900e46ee8",
                 "podcastId": 44,
