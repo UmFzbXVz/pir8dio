@@ -6255,6 +6255,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/kirsten-ringer-til-rasmus/episodes",
         "episodes": [
             {
+                "id": 973,
+                "createdAt": "2024-04-07T04:03:26.600Z",
+                "updatedAt": "2024-04-07T04:13:26.676Z",
+                "publishedAt": "2024-04-07T04:00:00.000Z",
+                "published": true,
+                "title": "Ulovlig, usjov satire",
+                "slug": "ulovlig-usjov-satire",
+                "content": "Det er ikke nogen hemmelighed, at Kirsten i mange \u00e5r har v\u00e6ret en af landets absolut skarpeste satirikere. Folk er vilde med hendes bidende humor. Men nu er hun imidlertid blevet bange for, om det kan komme til bide hende selv bag i. Efter en 28-\u00e5rig mand er blevet id\u00f8mt syv dages betinget f\u00e6ngsel for at have drevet to hjemmesider med racistiske vittigheder, frygter hun nemlig at satirepolitiet fra Midt- og Vestjyllands politi ogs\u00e5 har sendt agenter efter hende.\u00a0\n\nHun g\u00e5et i flyverskjul, og da Rasmus m\u00e5 siges ogs\u00e5 at have en stor del af ansvaret for deres 'Satirsdag' bliver han klar over, at det nok er bedst, hvis de holder lav profil.\u00a0\n\nDerfor er der desv\u00e6rre ikke 'Kirsten ringer til Rasmus' til lytterne denne uge.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/3ae5e5da-5307-4e3f-b847-b14a01553a7d/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/3ae5e5da-5307-4e3f-b847-b14a01553a7d/audio.mp3?utm_source=Podcast&in_playlist=86659c7c-fb9b-4393-935f-b0b501735343&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InFyN1VJUkJLUlV5WkFyQzFBWG9RNkEifQ.eyJjbGlwIjoiM2FlNWU1ZGEtNTMwNy00ZTNmLWI4NDctYjE0YTAxNTUzYTdkIiwia2V5IjoiKiIsImlhdCI6MTcxMjQ2MjYwNn0.ZREdDJAieG6pEtpwrUkv188-yR2xAwZZlpXO5-kNtkE",
+                "duration": 1760.209,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "3ae5e5da-5307-4e3f-b847-b14a01553a7d",
+                "podcastId": 36,
+                "season": 1,
+                "episode": 27,
+                "premium": true
+            },
+            {
                 "id": 955,
                 "createdAt": "2024-03-24T05:04:07.857Z",
                 "updatedAt": "2024-03-24T05:14:07.914Z",
