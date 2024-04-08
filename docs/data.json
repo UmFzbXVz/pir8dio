@@ -8678,6 +8678,26 @@
                 "premium": true
             },
             {
+                "id": 974,
+                "createdAt": "2024-04-08T06:38:41.566Z",
+                "updatedAt": "2024-04-08T06:48:41.630Z",
+                "publishedAt": "2024-04-08T06:37:44.610Z",
+                "published": true,
+                "title": "Ramadan-klippe-klister",
+                "slug": "ramadan-klippe-klister",
+                "content": "S\u00e6son 2, afsnit 13\nAllan Sindberg sidder klar i studiet i Skuldborg med Rune Ingemann, praktikanten Alma Kjer Agergaard og alt muligt manden/drengen Emil Liller. \nSom altid skal der synges morgensang og i dag er det 80'er klassikeren 'Sj\u00e6l i flammer' af Kasper Winding. Derudover rummer dette program ogs\u00e5 lytterhilsner, lokale nyheder og indslag fra praktikanten. God morgen du. ",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/97e5c181-8f91-4af3-873a-b14c00699514/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/97e5c181-8f91-4af3-873a-b14c00699514/audio.mp3?utm_source=Podcast&in_playlist=fd30f5a6-7014-4670-a35c-afee006d2c1b&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imd0VXpQeFp3QVVXZmZMQUxBTmtHU2cifQ.eyJjbGlwIjoiOTdlNWMxODEtOGY5MS00YWYzLTg3M2EtYjE0YzAwNjk5NTE0Iiwia2V5IjoiKiIsImlhdCI6MTcxMjU1ODMyMX0.3x0lewM0F9B-ISfDJSehaHrR5LzfRg88Kz6RrlGd3sE",
+                "duration": 3794.077,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "97e5c181-8f91-4af3-873a-b14c00699514",
+                "podcastId": 29,
+                "season": 2,
+                "episode": 13,
+                "premium": true
+            },
+            {
                 "id": 645,
                 "createdAt": "2023-08-21T06:47:21.051Z",
                 "updatedAt": "2024-03-25T09:06:32.702Z",
