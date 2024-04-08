@@ -4534,6 +4534,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/det-g-r-over-min-forstander/episodes",
         "episodes": [
             {
+                "id": 975,
+                "createdAt": "2024-04-08T14:21:47.883Z",
+                "updatedAt": "2024-04-08T14:31:47.944Z",
+                "publishedAt": "2024-04-08T14:21:03.600Z",
+                "published": true,
+                "title": "Et dystert emne p\u00e5 en lys for\u00e5rs dag",
+                "slug": "et-dystert-emne-p-en-lys-for-rs-dag",
+                "content": "Afsnit 4. I dag handler 'Det g\u00e5r over min forstander' om det \u00e6ldre, men stadig meget realvante emne 1. verdenskrig. Om hvordan krigen b\u00e5de var med til at p\u00e5virke verden og Danmark kulturelt, politisk og geografisk.\n\nDer er ikke nogen speciel anledning, som Rasmus Bro siger, men man kan altid bruge lidt historisk fakta p\u00e5 en mandag formiddag.\n\nKontrasten er dog stor, n\u00e5r Rasmus bro snakker om det dystre emne, som 1. verdenskrig er, n\u00e5r solen skinner udenfor, og for\u00e5ret blomstrer.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a4346284-eec0-4544-be39-b0ff0094090a/0d6f9826-de98-419b-bbfd-b14c00eaea94/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a4346284-eec0-4544-be39-b0ff0094090a/0d6f9826-de98-419b-bbfd-b14c00eaea94/audio.mp3?utm_source=Podcast&in_playlist=3153ac02-e46d-4522-8d76-b0ff0095b619&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IndkTU9xR1FnbGtXelJiRF9BSmFUalEifQ.eyJjbGlwIjoiMGQ2Zjk4MjYtZGU5OC00MTliLWJiZmQtYjE0YzAwZWFlYTk0Iiwia2V5IjoiKiIsImlhdCI6MTcxMjU4NjEwN30.tIdy5yE0Y_s7AiySrp6jc3wFHIyhp0xUd6-zWlX_LIw",
+                "duration": 2569.012,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "0d6f9826-de98-419b-bbfd-b14c00eaea94",
+                "podcastId": 45,
+                "season": 1,
+                "episode": 4,
+                "premium": true
+            },
+            {
                 "id": 947,
                 "createdAt": "2024-03-18T11:05:15.558Z",
                 "updatedAt": "2024-03-18T11:15:15.614Z",
