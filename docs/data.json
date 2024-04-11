@@ -17898,6 +17898,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/her-vogter-jeg/episodes",
         "episodes": [
             {
+                "id": 978,
+                "createdAt": "2024-04-11T04:03:08.947Z",
+                "updatedAt": "2024-04-11T04:13:09.009Z",
+                "publishedAt": "2024-04-11T04:00:00.000Z",
+                "published": true,
+                "title": "P\u00e5 efteruddannelse hos Mark Svale 2. del",
+                "slug": "p-efteruddannelse-hos-mark-svale-2-del",
+                "content": "Afsnit 26. Per gik over stregen, og Mark v\u00e6lger at g\u00e5 et par skridt tilbage. Det viser sig at v\u00e6re mere end bare et par skridt. Per kommer helt tilbage til barndommen, og her er der ting, der v\u00e6lter ud af skabene.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bfa6dd06-1284-4d1f-830d-ada900316387/159654e3-0cab-456a-a772-b14e00bb5c64/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bfa6dd06-1284-4d1f-830d-ada900316387/159654e3-0cab-456a-a772-b14e00bb5c64/audio.mp3?utm_source=Podcast&in_playlist=9abda03d-ea54-49b5-b1a5-ada9003305de&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdSbU1malYwUVU2N2VyQUxBTTdWbWcifQ.eyJjbGlwIjoiMTU5NjU0ZTMtMGNhYi00NTZhLWE3NzItYjE0ZTAwYmI1YzY0Iiwia2V5IjoiKiIsImlhdCI6MTcxMjgwODE4OH0.h2D77OZNJgYLl8yPDlzm0RV8lAVhKipekcyGVk3nCoA",
+                "duration": 1170.077,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "159654e3-0cab-456a-a772-b14e00bb5c64",
+                "podcastId": 6,
+                "season": 1,
+                "episode": 26,
+                "premium": true
+            },
+            {
                 "id": 941,
                 "createdAt": "2024-03-14T05:03:32.448Z",
                 "updatedAt": "2024-04-03T15:07:39.546Z",
