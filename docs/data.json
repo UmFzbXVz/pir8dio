@@ -29,14 +29,14 @@
             {
                 "id": 970,
                 "createdAt": "2024-04-05T04:08:45.710Z",
-                "updatedAt": "2024-04-12T04:01:51.669Z",
+                "updatedAt": "2024-04-12T06:39:17.335Z",
                 "publishedAt": "2024-04-12T04:00:00.000Z",
                 "published": true,
                 "title": "I Skuldborg er der endnu en dag",
                 "slug": "i-skuldborg-er-der-endnu-en-dag",
                 "content": "Afsnit 210. Kulturkongen Klavs Bundgaard g\u00e5r altid efter toppen. S\u00e5ledes ogs\u00e5 n\u00e5r han vil undes\u00f8ge mulighederne for at r8Dio kan f\u00e5 nallerne i nye udbudsmillioner. Han ringer naturligvis til kulturministeren. Klavs skal ogs\u00e5 have fat i Meny\u00b4s boss, Richo Boss. Og s\u00e5 har han et m\u00f8de med r8Dio\u00b4s nye direkt\u00f8r pedel inden en spirende omgang podagra sender kulturkongen hjem. Imens har programchef Allan Sindberg igen indspillet en speak i bestr\u00e6belserne for at f\u00e5 folk til at f\u00e5 endnu mere ud af hele Danmarks r8dio.\u00a0\n\nDenne episode er lavet i samarbejde med Skuldborg Bryghus nye \u00f8l B\u00f8v\u00d8l og Meny.\u00a0",
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/33047d39-afd5-4971-8f3c-b14801793bc9/audio.mp3",
-                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/33047d39-afd5-4971-8f3c-b14801793bc9/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiMzMwNDdkMzktYWZkNS00OTcxLThmM2MtYjE0ODAxNzkzYmM5Iiwia2V5IjoiKiIsImlhdCI6MTcxMjg5NDUxMX0.NaYlWYpYcS1O2oB9SSu5uxh_66DDQFoDz1cs3xhG3_A",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/33047d39-afd5-4971-8f3c-b14801793bc9/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiMzMwNDdkMzktYWZkNS00OTcxLThmM2MtYjE0ODAxNzkzYmM5Iiwia2V5IjoiKiIsImlhdCI6MTcxMjkwMzk1N30.zEGvxmGQUtCFrU__-qUbFuETWjXGvfZQpbqdhtyMKEM",
                 "duration": 4076.121,
                 "didNotifyUsers": true,
                 "providerId": "r8Dio",
@@ -44,7 +44,7 @@
                 "podcastId": 1,
                 "season": 8,
                 "episode": 210,
-                "premium": true
+                "premium": false
             },
             {
                 "id": 963,
