@@ -4663,6 +4663,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/nyhedsbrevet/episodes",
         "episodes": [
             {
+                "id": 980,
+                "createdAt": "2024-04-12T14:13:39.325Z",
+                "updatedAt": "2024-04-12T14:23:39.382Z",
+                "publishedAt": "2024-04-12T14:10:00.000Z",
+                "published": true,
+                "title": "Mink mig her, mink mig der",
+                "slug": "mink-mig-her-mink-mig-der",
+                "content": "Afsnit 12. Hej k\u00e6re lytter og ven af r8dio \u2013 har du haft en god uge? D\u00e9t har jeg. I virkeligheden er det jo faktisk TO uger siden, at du sidst fik et rigtigt nyhedsbrev fra mig. Har du v\u00e6ret godt Klavs-line i mellemtiden?\n\nHeldigvis er der ikke sket det store ude i verden. Jeg har det til geng\u00e6ld glimrende. Det er forunderligt med tiden, ikke sandt. For nylig var det jul, men nu er vi lige pludselig i april. Snart bliver det da ogs\u00e5 grills\u00e6son, hva?! Personligt har jeg fantaseret meget om at spise en meget, meget stor skinke, s\u00e5dan en honningglaseret \u00e9n, m\u00e5ske med nogle kartofler til. Jeg ved ikke, om det er godt at lave en meget, meget stor skinke p\u00e5 en Weber-grill, men min mund l\u00f8ber alts\u00e5 n\u00e6sten i vand ved tanken om det \u2013 og du ved, hvad man siger, k\u00e6re lytter og ven af R8dio \u2013 vo intet vover, intet vinder skinke. Haha.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/b94dcbd3-4ef9-4314-8533-b15000cedb8b/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/b94dcbd3-4ef9-4314-8533-b15000cedb8b/audio.mp3?utm_source=Podcast&in_playlist=a2ca760d-cb17-4c52-a53e-b0fc00eee7d1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ijd5Z2xPRHViYVVDbEJyRDhBTy1GUEEifQ.eyJjbGlwIjoiYjk0ZGNiZDMtNGVmOS00MzE0LTg1MzMtYjE1MDAwY2VkYjhiIiwia2V5IjoiKiIsImlhdCI6MTcxMjkzMTIxOX0.WW2Al78hLd9s31Uuc0whmZo1IZScLAQonm-AGdO8jmw",
+                "duration": 1174.021,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "b94dcbd3-4ef9-4314-8533-b15000cedb8b",
+                "podcastId": 44,
+                "season": 1,
+                "episode": 12,
+                "premium": true
+            },
+            {
                 "id": 971,
                 "createdAt": "2024-04-05T14:01:34.832Z",
                 "updatedAt": "2024-04-05T14:11:34.901Z",
