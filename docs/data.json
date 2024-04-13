@@ -5141,6 +5141,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/vandvognen/episodes",
         "episodes": [
             {
+                "id": 981,
+                "createdAt": "2024-04-13T04:06:20.413Z",
+                "updatedAt": "2024-04-13T04:16:20.495Z",
+                "publishedAt": "2024-04-13T04:00:00.000Z",
+                "published": true,
+                "title": "Jesper Skibby",
+                "slug": "jesper-skibby",
+                "content": "S\u00e6son 1, afsnit 15: \nJesper Skibby vandt som professionel cykelrytter og etapesejre i nogle af verdens st\u00f8rste cykell\u00f8b indtil et grusomt styrt, gjorde en ende p\u00e5 en flot karriere. Han fortsatte med at cykle efter l\u00f8bet, men p\u00e5 st\u00e6rke medikamenter og det blev starten p\u00e5 en tur ud i helvede med stoffer og alkohol.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/00b161cb-fe6e-4fbc-b0d2-b14f00b55bd6/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/00b161cb-fe6e-4fbc-b0d2-b14f00b55bd6/audio.mp3?utm_source=Podcast&in_playlist=8c2642ef-776a-450d-8625-b0ee0185905d&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkViQUpsbWpaaFUyTURyRHVBWWQyRXcifQ.eyJjbGlwIjoiMDBiMTYxY2ItZmU2ZS00ZmJjLWIwZDItYjE0ZjAwYjU1YmQ2Iiwia2V5IjoiKiIsImlhdCI6MTcxMjk4MTE4MH0.sSdvkRtxKLgKSU1j0uvgUR80mBsyHsVZsrkUTWy05ds",
+                "duration": 3559.471,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "00b161cb-fe6e-4fbc-b0d2-b14f00b55bd6",
+                "podcastId": 42,
+                "season": 1,
+                "episode": 15,
+                "premium": true
+            },
+            {
                 "id": 972,
                 "createdAt": "2024-04-06T04:04:37.809Z",
                 "updatedAt": "2024-04-06T08:03:23.106Z",
