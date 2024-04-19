@@ -4685,7 +4685,7 @@
             {
                 "id": 986,
                 "createdAt": "2024-04-19T14:20:17.658Z",
-                "updatedAt": "2024-04-19T14:20:17.659Z",
+                "updatedAt": "2024-04-19T14:30:17.721Z",
                 "publishedAt": "2024-04-19T14:18:00.000Z",
                 "published": true,
                 "title": "B\u00e5l, brand og ballade",
@@ -4694,7 +4694,7 @@
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/7041a66f-8a43-4db8-b0ac-b15700d4b162/audio.mp3",
                 "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/7041a66f-8a43-4db8-b0ac-b15700d4b162/audio.mp3?utm_source=Podcast&in_playlist=a2ca760d-cb17-4c52-a53e-b0fc00eee7d1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ijd5Z2xPRHViYVVDbEJyRDhBTy1GUEEifQ.eyJjbGlwIjoiNzA0MWE2NmYtOGE0My00ZGI4LWIwYWMtYjE1NzAwZDRiMTYyIiwia2V5IjoiKiIsImlhdCI6MTcxMzUzNjQxN30.pwRDsaimB-ve0rtm0WErU7fRnte6gnZCxx-LvAUKXBs",
                 "duration": 1284.728,
-                "didNotifyUsers": false,
+                "didNotifyUsers": true,
                 "providerId": "r8Dio",
                 "foreignId": "7041a66f-8a43-4db8-b0ac-b15700d4b162",
                 "podcastId": 44,
