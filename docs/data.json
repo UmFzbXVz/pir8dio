@@ -7,16 +7,36 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/undskyld-vi-roder/episodes",
         "episodes": [
             {
+                "id": 985,
+                "createdAt": "2024-04-19T04:06:44.607Z",
+                "updatedAt": "2024-04-19T04:16:44.664Z",
+                "publishedAt": "2024-04-19T04:00:00.000Z",
+                "published": true,
+                "title": "Wedding Planer",
+                "slug": "wedding-planer",
+                "content": "Et vaske\u00e6gte r8Dio bryllup st\u00e5r snart for d\u00f8ren og den allestedsn\u00e6rv\u00e6rende programchef Allan Sindberg har taget projektlederrollen i den forbindelse. Som bekendt er der dog allerede rigeligt p\u00e5 Sm\u00f8rstemmen tallerken, s\u00e5 han har sammen med Randi hyret en s\u00e5kaldt Wedding Planer. Direkt\u00f8r Klavs Bundgaard har m\u00f8der p\u00e5 tapetet. Ikke mindst med advokat Henrik Bruun, som skal hj\u00e6lpe med at f\u00e5 styr p\u00e5 de fake annoncer med nyhedschef Rasmus Bruun i hovedrollen, som huserer p\u00e5 diverse social media platforme.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/abee6fed-505b-457e-89c7-b15601602019/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/abee6fed-505b-457e-89c7-b15601602019/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiYWJlZTZmZWQtNTA1Yi00NTdlLTg5YzctYjE1NjAxNjAyMDE5Iiwia2V5IjoiKiIsImlhdCI6MTcxMzQ5OTYzN30.LjH2DwYfVY7r249zq5ybYCRhlLjjRTvbCNwrGthtF2k",
+                "duration": 3598.994,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "abee6fed-505b-457e-89c7-b15601602019",
+                "podcastId": 1,
+                "season": 8,
+                "episode": 212,
+                "premium": true
+            },
+            {
                 "id": 979,
                 "createdAt": "2024-04-12T04:05:22.264Z",
-                "updatedAt": "2024-04-17T11:33:36.941Z",
-                "publishedAt": "2024-04-12T04:00:00.000Z",
+                "updatedAt": "2024-04-19T04:01:14.925Z",
+                "publishedAt": "2024-04-19T04:00:00.000Z",
                 "published": true,
                 "title": "Russere og den lille  r8Diomus",
                 "slug": "russere-og-den-lille-r8diomus",
                 "content": "Afsnit 211. Klavs og Emil skal holde et sk\u00e6bnesvangert m\u00f8de med en udenlandsk interessent, men inden da ringer Klavs til Mickey Meny for at beklage en lille h\u00e6ndelse under lanceringsfesten for den nye \u00f8l, B\u00f8v\u00f8l. Alle har ellers v\u00e6ret enige om, at det var en fantastisk begivenhed og genialt af Mickey at mixe en hundeudstilling, musik og B\u00f8v\u00f8l i m\u00e5ske \u00e9n af de st\u00f8rste Meny\u2019er i verden.\n\nHerefter giver Rasmus Bruun en status. Han er efterh\u00e5nden ved at v\u00e6re tilbage i topform. Dog viser det sig senere, at ting p\u00e5 internettet m\u00e5ske kan v\u00e6lte den lille mus.\n\nProgrammet er lavet i samarbejde med Meny.\u00a0",
-                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/8dcbf36c-d9be-4d28-9306-b14f013dd275/audio.mp3",
-                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/8dcbf36c-d9be-4d28-9306-b14f013dd275/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiOGRjYmYzNmMtZDliZS00ZDI4LTkzMDYtYjE0ZjAxM2RkMjc1Iiwia2V5IjoiKiIsImlhdCI6MTcxMzM1MzYxNn0.UuSkyCNBCy-TYJUSoNqSceDYR0PAXWz60TYzQc4R74Y",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/8dcbf36c-d9be-4d28-9306-b14f013dd275/audio.mp3?in_playlist=6af053db-da47-47dc-aee5-abca00c013d7",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/8dcbf36c-d9be-4d28-9306-b14f013dd275/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiOGRjYmYzNmMtZDliZS00ZDI4LTkzMDYtYjE0ZjAxM2RkMjc1Iiwia2V5IjoiKiIsImlhdCI6MTcxMzQ5OTI3NH0.KAeYjTmsRmUPesrNSuBOkU7lTjk2XEn7RJ7_iVhaNrE",
                 "duration": 2934.805,
                 "didNotifyUsers": true,
                 "providerId": "r8Dio",
@@ -24,7 +44,7 @@
                 "podcastId": 1,
                 "season": 8,
                 "episode": 211,
-                "premium": true
+                "premium": false
             },
             {
                 "id": 970,
@@ -5919,14 +5939,14 @@
             {
                 "id": 984,
                 "createdAt": "2024-04-17T04:05:58.920Z",
-                "updatedAt": "2024-04-17T04:15:58.997Z",
+                "updatedAt": "2024-04-18T07:05:13.748Z",
                 "publishedAt": "2024-04-17T04:00:00.000Z",
                 "published": true,
                 "title": "\u2019Varme h\u00e6nder\u2019 med Stine Askov",
                 "slug": "varme-h-nder-med-stine-askov",
                 "content": "S\u00e6son 2 - afsnit 3.\u00a0I romanen \u2019Varme h\u00e6nder\u2019 unders\u00f8ger forfatter Stine Askov magtforholdet mellem en handikaphj\u00e6lper og den borger, hun skal hj\u00e6lpe. Romanens hovedperson, p\u00e6dagogen Camilla, bliver ansat som hj\u00e6lper for forfatteren Mathilde, som sidder i k\u00f8restol. Det starter alt sammen godt, men Camilla finder hurtigt ud af, at jobbet ikke er helt s\u00e5 let, som hun havde forestillet sig.\u00a0\n\nStine Askov, der selv har arbejdet som p\u00e6dagog og handikaphj\u00e6lper, fort\u00e6ller i programmet om det sv\u00e6re omsorgsarbejde, og om hvorfor hun er tr\u00e6t af udtrykket \u2019varme h\u00e6nder\u2019.\u00a0\n\nLitteraturprogrammet \u2018Bogstaveligt talt\u2019 er et samarbejde mellem r8Dio og Gyldendal, der hver uge dykker ned i aktuelle udgivelser fra forlaget. V\u00e6rt er Molly Balsby, digter og kulturjournalist, og sammen med g\u00e6ster, forfattere og eksperter, sl\u00e5r hun op p\u00e5 side 1 og udfolder v\u00e6rkerne.\n\nV\u00e6rt og tilrettel\u00e6gger: Molly Balsby\u00a0\n\nMedtilrettel\u00e6gger og producer: Kamille Jahncke\u00a0",
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/a21f70b3-3965-4d91-a419-b15400c279ed/audio.mp3",
-                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/a21f70b3-3965-4d91-a419-b15400c279ed/audio.mp3?utm_source=Podcast&in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiYTIxZjcwYjMtMzk2NS00ZDkxLWE0MTktYjE1NDAwYzI3OWVkIiwia2V5IjoiKiIsImlhdCI6MTcxMzMyNjc1OH0.0kmO7AaupQ0oZCU9EQ_gBF1os984j3j1TGwnsvpuctQ",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/a21f70b3-3965-4d91-a419-b15400c279ed/audio.mp3?utm_source=Podcast&in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiYTIxZjcwYjMtMzk2NS00ZDkxLWE0MTktYjE1NDAwYzI3OWVkIiwia2V5IjoiKiIsImlhdCI6MTcxMzQyMzkxM30.9qt44Kh2_evn75SGVVEUSxQMpghojekqyIy5sZbsH9o",
                 "duration": 3033.051,
                 "didNotifyUsers": true,
                 "providerId": "r8Dio",
@@ -5934,7 +5954,7 @@
                 "podcastId": 38,
                 "season": 2,
                 "episode": 12,
-                "premium": true
+                "premium": false
             },
             {
                 "id": 969,
