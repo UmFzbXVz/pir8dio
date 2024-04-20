@@ -5181,6 +5181,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/vandvognen/episodes",
         "episodes": [
             {
+                "id": 987,
+                "createdAt": "2024-04-20T04:04:50.639Z",
+                "updatedAt": "2024-04-20T04:14:50.702Z",
+                "publishedAt": "2024-04-20T04:00:00.000Z",
+                "published": true,
+                "title": "Stefan Pagels",
+                "slug": "stefan-pagels",
+                "content": "S\u00e6son 1, Afsnit 16\nStefan Pagels blev landskendt i en tidlig alder som skuespiller i b\u00f8rne-ungdomsfilmen 'Miraklet'. Som mange b\u00f8rnestjerner f\u00f8r ham, k\u00e6mpede Stefan en ind\u00e6dt kamp med ber\u00f8mmelsen der fulgte med. Alle d\u00f8rene var \u00e5bne for den unge teenager, der hurtigt fik smag for hash, alkohol og kokain.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/968541ee-649b-4f4d-b4cf-b15700b059ec/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/968541ee-649b-4f4d-b4cf-b15700b059ec/audio.mp3?utm_source=Podcast&in_playlist=8c2642ef-776a-450d-8625-b0ee0185905d&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkViQUpsbWpaaFUyTURyRHVBWWQyRXcifQ.eyJjbGlwIjoiOTY4NTQxZWUtNjQ5Yi00ZjRkLWI0Y2YtYjE1NzAwYjA1OWVjIiwia2V5IjoiKiIsImlhdCI6MTcxMzU4NTg5MH0.IkCp6s7w7YA5eskvquAmt_5-B-bcSF3ejnWdxj1B254",
+                "duration": 3613.231,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "968541ee-649b-4f4d-b4cf-b15700b059ec",
+                "podcastId": 42,
+                "season": 1,
+                "episode": 16,
+                "premium": true
+            },
+            {
                 "id": 981,
                 "createdAt": "2024-04-13T04:06:20.413Z",
                 "updatedAt": "2024-04-15T06:44:46.912Z",
