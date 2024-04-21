@@ -6435,6 +6435,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/kirsten-ringer-til-rasmus/episodes",
         "episodes": [
             {
+                "id": 988,
+                "createdAt": "2024-04-21T04:04:43.577Z",
+                "updatedAt": "2024-04-21T04:14:43.645Z",
+                "publishedAt": "2024-04-21T04:00:00.000Z",
+                "published": true,
+                "title": "'Mennesket er fra Afrika'",
+                "slug": "mennesket-er-fra-afrika",
+                "content": "Kirsten har hidkaldt Rasmus for at f\u00e5 hans moralske syn p\u00e5 en forestilling, hun har brygget p\u00e5 i 36 \u00e5r. Et show om den fantastiske n-ordsmusik fra Afrika. Rasmus har nemlig en rigtig godt f\u00f8ling med tids\u00e5nden.\u00a0\n\nHjemme i Kirstens bunker f\u00e5r de sammen tilpasset, hvordan Kirsten bedst kan f\u00e5 fortalt folk om den dejlige musiks historie - uden at tr\u00e6de nogen over t\u00e6erne, vel at m\u00e6rke.\u00a0\n\nDet er en sv\u00e6r n\u00f8d at kn\u00e6kke.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/758150c9-f42c-42a8-8c00-b15700dbc179/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/758150c9-f42c-42a8-8c00-b15700dbc179/audio.mp3?utm_source=Podcast&in_playlist=86659c7c-fb9b-4393-935f-b0b501735343&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InFyN1VJUkJLUlV5WkFyQzFBWG9RNkEifQ.eyJjbGlwIjoiNzU4MTUwYzktZjQyYy00MmE4LThjMDAtYjE1NzAwZGJjMTc5Iiwia2V5IjoiKiIsImlhdCI6MTcxMzY3MjMxNH0.2Qd4W_vJato7zm272mA8HFfWO2qSaXCUMBxFuzHq-Gw",
+                "duration": 3619.971,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "758150c9-f42c-42a8-8c00-b15700dbc179",
+                "podcastId": 36,
+                "season": 1,
+                "episode": 29,
+                "premium": true
+            },
+            {
                 "id": 982,
                 "createdAt": "2024-04-14T04:05:05.179Z",
                 "updatedAt": "2024-04-14T04:15:05.259Z",
