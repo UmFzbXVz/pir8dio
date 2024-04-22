@@ -8338,6 +8338,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/morgensutterne/episodes",
         "episodes": [
             {
+                "id": 989,
+                "createdAt": "2024-04-22T06:36:49.535Z",
+                "updatedAt": "2024-04-22T06:46:49.589Z",
+                "publishedAt": "2024-04-22T06:36:37.513Z",
+                "published": true,
+                "title": "Det store f\u00f8dselsdagsafsnit",
+                "slug": "det-store-f-dselsdagsafsnit",
+                "content": "S\u00e6son 2, Afsnit 15 \nAllan Sindberg sidder klar i studiet i Skuldborg med sin medv\u00e6rt Rune Ingemann og Emil Liller. Der l\u00e6gges ud med et af Bob Dylans st\u00f8rste hits til morgensang og herefter byder programmet p\u00e5 lokale nyheder, f\u00f8dselsdagsfest og indslag om alt fra klovne til antikmesser. ",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/ff61e7ad-667e-473f-805c-b15a006919d1/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/ff61e7ad-667e-473f-805c-b15a006919d1/audio.mp3?utm_source=Podcast&in_playlist=fd30f5a6-7014-4670-a35c-afee006d2c1b&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imd0VXpQeFp3QVVXZmZMQUxBTmtHU2cifQ.eyJjbGlwIjoiZmY2MWU3YWQtNjY3ZS00NzNmLTgwNWMtYjE1YTAwNjkxOWQxIiwia2V5IjoiKiIsImlhdCI6MTcxMzc2NzgwOX0.83DklX4zOdiAEkiEd0d7F72NF_KX55WgT8mnt7u0W4g",
+                "duration": 3872.731,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "ff61e7ad-667e-473f-805c-b15a006919d1",
+                "podcastId": 29,
+                "season": 2,
+                "episode": 44,
+                "premium": true
+            },
+            {
                 "id": 983,
                 "createdAt": "2024-04-15T06:41:15.193Z",
                 "updatedAt": "2024-04-17T10:15:14.206Z",
