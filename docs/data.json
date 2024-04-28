@@ -6528,6 +6528,26 @@
         "program_url": "https://r8dio.dk/program/kirsten-ringer-til-rasmus",
         "episodes": [
             {
+                "id": 995,
+                "createdAt": "2024-04-28T04:05:11.236Z",
+                "updatedAt": "2024-04-28T04:15:11.320Z",
+                "publishedAt": "2024-04-28T04:00:00.000Z",
+                "published": true,
+                "title": "Jeg har ADHD",
+                "slug": "jeg-har-adhd",
+                "content": "Afsnit 30. De gode venner Kirsten og Rasmus taler sammen nok en gang, og denne gang kan Kirsten fort\u00e6lle, at hun er blevet diagnosticeret med ADHD. T\u00e6nk sig. Pludselig giver det mening, hvorfor hun altid har kedet sig s\u00e5dan, n\u00e5r andre har talt til hende. Heldigvis har andre ikke lagt m\u00e6rke til det, og det har heller ikke p\u00e5virket hende negativt, fordi hun er s\u00e5 intelligent. Faktisk kan det v\u00e6re en fordel, n\u00e5r man er s\u00e5 klog.\u00a0\n\nDesuden har Kirsten besluttet sig for, at hendes show alligevel er n\u00f8dt til at have et andet navn. Og n\u00e5r der nu er et musikalsk element med og m\u00e5ske lidt fis, hvorfor s\u00e5 ikke kalde det 'Musik og Fis'.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/ca3eb524-e0de-4440-806c-b15e01158a3e/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/ca3eb524-e0de-4440-806c-b15e01158a3e/audio.mp3?utm_source=Podcast&in_playlist=86659c7c-fb9b-4393-935f-b0b501735343&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InFyN1VJUkJLUlV5WkFyQzFBWG9RNkEifQ.eyJjbGlwIjoiY2EzZWI1MjQtZTBkZS00NDQwLTgwNmMtYjE1ZTAxMTU4YTNlIiwia2V5IjoiKiIsImlhdCI6MTcxNDI3NzExMX0.dVcTV9I0V6oox2RI7kwBHD8H9Zn0YNGTGsZxe1x96mY",
+                "duration": 2941.153,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "ca3eb524-e0de-4440-806c-b15e01158a3e",
+                "podcastId": 36,
+                "season": 1,
+                "episode": 30,
+                "premium": true
+            },
+            {
                 "id": 988,
                 "createdAt": "2024-04-21T04:04:43.577Z",
                 "updatedAt": "2024-04-21T04:14:43.645Z",
