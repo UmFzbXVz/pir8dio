@@ -6068,6 +6068,26 @@
         "program_url": "https://r8dio.dk/program/bogstavelig-talt",
         "episodes": [
             {
+                "id": 997,
+                "createdAt": "2024-05-01T04:05:59.570Z",
+                "updatedAt": "2024-05-01T04:05:59.570Z",
+                "publishedAt": "2024-05-01T04:00:00.000Z",
+                "published": true,
+                "title": "Heste-special: \u2019Kirstens h\u00e6vn\u2019 og \u2019Hvad jeg ved om kvinder p\u00e5 heste\u2019",
+                "slug": "heste-special-kirstens-h-vn-og-hvad-jeg-ved-om-kvi",
+                "content": "S\u00e6son 2 - afsnit 4. Hyp hyp! Forfatter Bj\u00f8rn Rasmussen har netop udgivet \u2019Kirstens h\u00e6vn\u2019 med undertitlen \u2019Hestepigeroman\u2019, en fort\u00e6lling om h\u00e6vn, seksualitet og ikke mindst heste.\n\nLitteraturanmelder p\u00e5 Politiken Felix Thorsen Katzenelson introducerer os til Bj\u00f8rn Rasmussens forfatterskab, som netop startede p\u00e5 en rideskole.\u00a0\n\nVi taler ogs\u00e5 med Kim L\u00f8venborg Ingtrup, der har v\u00e6ret daglig leder af det sociale medie Heste-nettet.dk siden 1995. Han fort\u00e6ller om hjemmesidens storhedstid, vilde stridigheder i kommentarsporet og om hvilken rolle, landets hestepiger m\u00e5ske kommer til at spille i de danske AI-sprogmodeller.\n\nOg ikke mindst bes\u00f8ger vi forfatter og journalist p\u00e5 Weekendavisen Pernille Stensgaard og hendes hest, Felix, i Tisvilde. Stensgaard udgav sidste \u00e5r den selvbiografiske bog \u2019Hvad jeg ved om kvinder p\u00e5 heste\u2019, der handler om at genfinde hestek\u00e6rligheden efter 30 \u00e5r.\n\nLitteraturprogrammet \u2018Bogstaveligt talt\u2019 er et samarbejde mellem r8Dio og Gyldendal, der hver uge dykker ned i aktuelle udgivelser fra forlaget.\nV\u00e6rt er Molly Balsby, digter og kulturjournalist, og sammen med g\u00e6ster, forfattere og eksperter, sl\u00e5r hun op p\u00e5 side 1 og udfolder v\u00e6rkerne.\n\nV\u00e6rt og tilrettel\u00e6gger: Molly Balsby\u00a0\u00a0\n\nMedtilrettel\u00e6gger og producer: Kamille Jahncke\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/42beaffb-b4d9-4eb7-86c3-b16200978f39/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/42beaffb-b4d9-4eb7-86c3-b16200978f39/audio.mp3?utm_source=Podcast&in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiNDJiZWFmZmItYjRkOS00ZWI3LTg2YzMtYjE2MjAwOTc4ZjM5Iiwia2V5IjoiKiIsImlhdCI6MTcxNDUzNjM1OX0.P8EPANjNP0epqS9svZ8rLAWv0VftfMT7EBi8V69DQGQ",
+                "duration": 3700.689,
+                "didNotifyUsers": false,
+                "providerId": "r8Dio",
+                "foreignId": "42beaffb-b4d9-4eb7-86c3-b16200978f39",
+                "podcastId": 38,
+                "season": 2,
+                "episode": 13,
+                "premium": false
+            },
+            {
                 "id": 984,
                 "createdAt": "2024-04-17T04:05:58.920Z",
                 "updatedAt": "2024-04-18T07:05:13.748Z",
