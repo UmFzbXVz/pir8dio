@@ -6070,7 +6070,7 @@
             {
                 "id": 997,
                 "createdAt": "2024-05-01T04:05:59.570Z",
-                "updatedAt": "2024-05-01T04:05:59.570Z",
+                "updatedAt": "2024-05-01T04:15:59.633Z",
                 "publishedAt": "2024-05-01T04:00:00.000Z",
                 "published": true,
                 "title": "Heste-special: \u2019Kirstens h\u00e6vn\u2019 og \u2019Hvad jeg ved om kvinder p\u00e5 heste\u2019",
@@ -6079,7 +6079,7 @@
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/42beaffb-b4d9-4eb7-86c3-b16200978f39/audio.mp3",
                 "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/42beaffb-b4d9-4eb7-86c3-b16200978f39/audio.mp3?utm_source=Podcast&in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiNDJiZWFmZmItYjRkOS00ZWI3LTg2YzMtYjE2MjAwOTc4ZjM5Iiwia2V5IjoiKiIsImlhdCI6MTcxNDUzNjM1OX0.P8EPANjNP0epqS9svZ8rLAWv0VftfMT7EBi8V69DQGQ",
                 "duration": 3700.689,
-                "didNotifyUsers": false,
+                "didNotifyUsers": true,
                 "providerId": "r8Dio",
                 "foreignId": "42beaffb-b4d9-4eb7-86c3-b16200978f39",
                 "podcastId": 38,
