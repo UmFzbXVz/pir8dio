@@ -12838,6 +12838,26 @@
         "program_url": "https://r8dio.dk/program/proud",
         "episodes": [
             {
+                "id": 998,
+                "createdAt": "2024-05-02T06:20:20.692Z",
+                "updatedAt": "2024-05-02T06:30:20.756Z",
+                "publishedAt": "2024-05-02T06:19:17.873Z",
+                "published": true,
+                "title": "Klimageneration-z har ordet",
+                "slug": "klimageneration-z-har-ordet",
+                "content": "Afsnit 15. Verdens unge er bange for klimaet og g\u00e5r op i det over hele Danmark, ja hele verden. Eller hvad? Det sp\u00f8rgsm\u00e5l er et af dem, Laust og hans medv\u00e6rt Aske stiller sig selv og andre i Proud i denne udgave.\n\nDet betyder blandt andet et interview med forfatter, musiker, journalist m.m. Kristian Leth om klima, h\u00e5b og ungdom.\n\nDerudover skal vi i genbrugsbutikker med to efterskoleelver, h\u00f8re musik og genaktivere et venskab.\n\nAlt sammen sker i studiet p\u00e5 Aarhus Efterskole, hvor de to drenge nyder for\u00e5ret.\n\nMedv\u00e6rt: Aske Edvard Br\u00f8gger Nielsen",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/4cdb4d68-4898-4053-84ba-adf900ef6bbb/e38fb973-d9c8-4c2a-a489-b1640065e9f2/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/4cdb4d68-4898-4053-84ba-adf900ef6bbb/e38fb973-d9c8-4c2a-a489-b1640065e9f2/audio.mp3?utm_source=Podcast&in_playlist=6d7d26d1-26ec-458e-8dc4-adf900f49c56&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImhlQkRUb0cyV0VXNTVMQUxBTnQtdmcifQ.eyJjbGlwIjoiZTM4ZmI5NzMtZDljOC00YzJhLWE0ODktYjE2NDAwNjVlOWYyIiwia2V5IjoiKiIsImlhdCI6MTcxNDYzMDgyMH0.t18dDDOvxKcFlAUNLDm3r1O29ty-FTNiR8BF7UqtSuY",
+                "duration": 4530.678,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "e38fb973-d9c8-4c2a-a489-b1640065e9f2",
+                "podcastId": 15,
+                "season": 1,
+                "episode": 15,
+                "premium": true
+            },
+            {
                 "id": 960,
                 "createdAt": "2024-03-27T05:07:10.680Z",
                 "updatedAt": "2024-03-27T05:17:10.741Z",
