@@ -9428,6 +9428,26 @@
         "program_url": "https://r8dio.dk/program/once-in-a-lifetime",
         "episodes": [
             {
+                "id": 1000,
+                "createdAt": "2024-05-03T14:04:06.406Z",
+                "updatedAt": "2024-05-03T14:04:06.407Z",
+                "publishedAt": "2024-05-03T14:00:00.000Z",
+                "published": true,
+                "title": "Pressem\u00f8de ang\u00e5ende fake news",
+                "slug": "pressem-de-ang-ende-fake-news",
+                "content": "Afsnit 6. Som mange andre medier er r8Dio ogs\u00e5 blevet udsat for fake news p\u00e5 sociale medier. Derfor har ledelsen inviteret til pressem\u00f8de for at f\u00e5 afklaret, hvad der er op og ned.\n\nDette afsnits mikrofonholder er Rune Ingemann, og fra pressen kan man blandt andet h\u00f8re Henrik Qvortrup, Ditte Okman og Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/ab244fc7-9a6b-486c-9aff-b16500c8fada/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/d1fcd03d-896a-4317-9b4b-afda00e8e485/ab244fc7-9a6b-486c-9aff-b16500c8fada/audio.mp3?utm_source=Podcast&in_playlist=b17fb020-57f1-4c40-b5c4-afda00ea611d&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdHb0NNVnZMRGtpaERyQUxBTm9lNkEifQ.eyJjbGlwIjoiYWIyNDRmYzctOWE2Yi00ODZjLTlhZmYtYjE2NTAwYzhmYWRhIiwia2V5IjoiKiIsImlhdCI6MTcxNDc0NTA0Nn0.QAXcjkpl4vmafmRfXDBwBoYZ7pBZ64iPmbCILINxElo",
+                "duration": 2126.393,
+                "didNotifyUsers": false,
+                "providerId": "r8Dio",
+                "foreignId": "ab244fc7-9a6b-486c-9aff-b16500c8fada",
+                "podcastId": 28,
+                "season": 1,
+                "episode": 6,
+                "premium": true
+            },
+            {
                 "id": 636,
                 "createdAt": "2023-08-05T13:43:57.072Z",
                 "updatedAt": "2024-04-23T13:14:40.827Z",
