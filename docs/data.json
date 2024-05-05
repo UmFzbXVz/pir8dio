@@ -6608,6 +6608,26 @@
         "program_url": "https://r8dio.dk/program/kirsten-ringer-til-rasmus",
         "episodes": [
             {
+                "id": 1003,
+                "createdAt": "2024-05-05T04:05:26.836Z",
+                "updatedAt": "2024-05-05T04:15:26.934Z",
+                "publishedAt": "2024-05-05T04:00:00.000Z",
+                "published": true,
+                "title": "En doven nikker",
+                "slug": "en-doven-nikker",
+                "content": "Afsnit 31. Rasmus er p\u00e5 vej til doorstep p\u00e5 r8Dios ambassade i K\u00f8dbyen i K\u00f8benhavn, da Kirsten ringer til ham for at, ja, lave 'Kirsten ringer til Rasmus', og derfor synes han ikke det passer s\u00e5 godt. Han har desuden ikke forberedt sig, s\u00e5 han lidt nerv\u00f8s for, hvad han skal sige til de fremm\u00f8dte journalister.\u00a0\n\nDet pudsige er, at Kirsten allerede sidder p\u00e5 r8Dios ambassade, fordi hun skal til samme doorstep - hun er der dog ikke som en del af r8Dio, men rent faktisk som en del af pressen.\u00a0\n\nLytterne skal dog have nyt content fra deres yndlingsvennepar, og Kirsten f\u00e5r overtalt Rasmus til at optage et afsnit, mens han k\u00f8rer i sin bil. Hun har nemlig et godt trick til, hvordan man kommer igennem et doorstep/pressem\u00f8de, hvis man ikke ved, hvad man skal sige.\u00a0\n\nOg s\u00e5 er der desuden sket mange skidesk\u00f8re ting i den forgangne uge. Eksempelvis er en haj p\u00e5 m\u00e6rkv\u00e6rdigvis endt p\u00e5 en cykelsti ved Ringk\u00f8bing.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/82899f10-25e8-4592-99cb-b165010c5bb6/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/82899f10-25e8-4592-99cb-b165010c5bb6/audio.mp3?utm_source=Podcast&in_playlist=86659c7c-fb9b-4393-935f-b0b501735343&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InFyN1VJUkJLUlV5WkFyQzFBWG9RNkEifQ.eyJjbGlwIjoiODI4OTlmMTAtMjVlOC00NTkyLTk5Y2ItYjE2NTAxMGM1YmI2Iiwia2V5IjoiKiIsImlhdCI6MTcxNDg4MTkyNn0.unfKSo2nWSvX_DIa01ABVwuxiQmw8s7YbJwqvzMe0Q8",
+                "duration": 2674.965,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "82899f10-25e8-4592-99cb-b165010c5bb6",
+                "podcastId": 36,
+                "season": 1,
+                "episode": 31,
+                "premium": true
+            },
+            {
                 "id": 995,
                 "createdAt": "2024-04-28T04:05:11.236Z",
                 "updatedAt": "2024-04-28T04:15:11.320Z",
