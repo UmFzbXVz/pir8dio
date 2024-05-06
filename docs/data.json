@@ -8578,6 +8578,26 @@
         "program_url": "https://r8dio.dk/program/morgensutterne",
         "episodes": [
             {
+                "id": 1004,
+                "createdAt": "2024-05-06T06:33:24.655Z",
+                "updatedAt": "2024-05-06T06:43:24.718Z",
+                "publishedAt": "2024-05-06T06:32:42.243Z",
+                "published": true,
+                "title": "Pip pip Galla",
+                "slug": "pip-pip-galla",
+                "content": "S\u00e6son 2, afsnit 17;\nI Skuldborg sidder Allan Sindberg klar foran mikrofonen med sin medv\u00e6rt Rune Ingemann og ved sin side Emil Liller.\nDenne morgen er morgensangen valgt at Rune Ingemann og der skal synges 'Magi i Luften' af Halberg Larsen. Derudover er der lokalnyt fra bl.a. Fyn og s\u00e5 er der premiere p\u00e5 et nyt indslag og v\u00e6rten er igennem p\u00e5 en telefon. Det og meget mere i dette afsnit af Morgensutterne.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/2b37a48c-caf9-496c-a95e-b1680065f7d2/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/2b37a48c-caf9-496c-a95e-b1680065f7d2/audio.mp3?utm_source=Podcast&in_playlist=fd30f5a6-7014-4670-a35c-afee006d2c1b&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imd0VXpQeFp3QVVXZmZMQUxBTmtHU2cifQ.eyJjbGlwIjoiMmIzN2E0OGMtY2FmOS00OTZjLWE5NWUtYjE2ODAwNjVmN2QyIiwia2V5IjoiKiIsImlhdCI6MTcxNDk3NzIwNH0.MvRvPbXv5aN8iONiuAykkxCPZV7TbTqjucT-3JouNQ4",
+                "duration": 3643.951,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "2b37a48c-caf9-496c-a95e-b1680065f7d2",
+                "podcastId": 29,
+                "season": 2,
+                "episode": 46,
+                "premium": true
+            },
+            {
                 "id": 996,
                 "createdAt": "2024-04-29T06:36:01.592Z",
                 "updatedAt": "2024-04-29T06:46:01.663Z",
