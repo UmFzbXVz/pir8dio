@@ -4638,6 +4638,26 @@
         "program_url": "https://r8dio.dk/program/det-g-r-over-min-forstander",
         "episodes": [
             {
+                "id": 1006,
+                "createdAt": "2024-05-07T12:27:36.788Z",
+                "updatedAt": "2024-05-07T12:37:36.871Z",
+                "publishedAt": "2024-05-07T12:25:25.283Z",
+                "published": true,
+                "title": "K\u00e6rlighedssange p\u00e5 en gr\u00e5 mandag",
+                "slug": "k-rlighedssange-p-en-gr-mandag",
+                "content": "Afsnit 6. Eksamener og det gr\u00e5, triste vejr fylder p\u00e5 Aarhus efterskole p\u00e5 denne mandag og de n\u00e6ste par dage. Men det skal ikke holde os fra at h\u00f8re om et opmuntrende emne som k\u00e6rlighed.\n\nRasmus Bro leder os igennem endnu en fort\u00e6lletime, hvor vi synger en masse sange og h\u00f8rer om forhold, forelskelse og Inger Christensen - som s\u00e6dvanlig.\n\n(Lyden skratter en smule i starten, det beklager vi.)",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a4346284-eec0-4544-be39-b0ff0094090a/98408013-04e9-4ed7-ad19-b16900cae5ff/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a4346284-eec0-4544-be39-b0ff0094090a/98408013-04e9-4ed7-ad19-b16900cae5ff/audio.mp3?utm_source=Podcast&in_playlist=3153ac02-e46d-4522-8d76-b0ff0095b619&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IndkTU9xR1FnbGtXelJiRF9BSmFUalEifQ.eyJjbGlwIjoiOTg0MDgwMTMtMDRlOS00ZWQ3LWFkMTktYjE2OTAwY2FlNWZmIiwia2V5IjoiKiIsImlhdCI6MTcxNTA4NDg1Nn0.qzdhNN3g0rCmHCOgHzWyBDpIioYT6BSzlnJIf-QrZPo",
+                "duration": 2387.827,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "98408013-04e9-4ed7-ad19-b16900cae5ff",
+                "podcastId": 45,
+                "season": 1,
+                "episode": 6,
+                "premium": true
+            },
+            {
                 "id": 990,
                 "createdAt": "2024-04-22T12:44:52.658Z",
                 "updatedAt": "2024-04-22T12:54:52.729Z",
