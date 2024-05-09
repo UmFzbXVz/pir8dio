@@ -7308,6 +7308,26 @@
         "program_url": "https://r8dio.dk/program/puttetid",
         "episodes": [
             {
+                "id": 1007,
+                "createdAt": "2024-05-08T19:04:06.739Z",
+                "updatedAt": "2024-05-08T19:14:06.800Z",
+                "publishedAt": "2024-05-08T19:00:00.000Z",
+                "published": true,
+                "title": "Opmarch - Matador # 6",
+                "slug": "opmarch-matador-6",
+                "content": "S\u00e6son 2, afsnit 7 \nI sin gennemgang af den danske TV-klassiker 'Matador' er Rune Ingemann nu n\u00e5et til sidste afsnit af f\u00f8rste s\u00e6son. Rune g\u00e5r i dybden med karakternes udvikling, imens han gabende drager paralleller til nutidens samfund. Det er aldrig til at vide, hvilke emner der bliver ber\u00f8rt n\u00e5r Rune Ingemanns mund \u00e5bner, og derfor skal det ogs\u00e5 tilf\u00f8jes at alle udtalelser st\u00e5r helt for Rune Ingemanns egen regning.\n\nSov godt du.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/8accc3c7-e15f-4837-a8fd-b16a00f2bcaf/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f529e306-a5b1-4590-96b0-b04300edd729/8accc3c7-e15f-4837-a8fd-b16a00f2bcaf/audio.mp3?utm_source=Podcast&in_playlist=2414aee1-b1a4-4bc1-9f73-b04300eef82e&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdDbG1KazRZZ0VHUmliQlNBSEk2N2cifQ.eyJjbGlwIjoiOGFjY2MzYzctZTE1Zi00ODM3LWE4ZmQtYjE2YTAwZjJiY2FmIiwia2V5IjoiKiIsImlhdCI6MTcxNTE5NTA0Nn0.0mOIOpgaP5DRhFuiaW1o1TXRkAfCNVv8F9Ilz8jD5us",
+                "duration": 3014.269,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "8accc3c7-e15f-4837-a8fd-b16a00f2bcaf",
+                "podcastId": 34,
+                "season": 2,
+                "episode": 19,
+                "premium": true
+            },
+            {
                 "id": 991,
                 "createdAt": "2024-04-24T19:04:12.304Z",
                 "updatedAt": "2024-05-08T14:54:53.768Z",
@@ -18477,6 +18497,26 @@
         "url": "https://r8dio.demo.supertusch.com/podcasts/her-vogter-jeg/episodes",
         "program_url": "https://r8dio.dk/program/her-vogter-jeg",
         "episodes": [
+            {
+                "id": 1008,
+                "createdAt": "2024-05-09T04:03:17.964Z",
+                "updatedAt": "2024-05-09T04:13:18.041Z",
+                "publishedAt": "2024-05-09T04:00:00.000Z",
+                "published": true,
+                "title": "Her vogter vi",
+                "slug": "her-vogter-vi",
+                "content": "Afsnit 27. Per har inviteret Berit-Joy til et m\u00f8de omkring fremtiden for deres respektive programmer.\u00a0\nUdover lidt drilleri i starten opn\u00e5r de hurtigt dels gl\u00e6de, dels inspiration og forh\u00e5bninger for kommende programmer.\u00a0\n\nTag med ned i saferoom hvor fremtiden formes.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bfa6dd06-1284-4d1f-830d-ada900316387/7a7f8ee6-4c8f-4f85-8014-b16a014b478a/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/bfa6dd06-1284-4d1f-830d-ada900316387/7a7f8ee6-4c8f-4f85-8014-b16a014b478a/audio.mp3?utm_source=Podcast&in_playlist=9abda03d-ea54-49b5-b1a5-ada9003305de&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjdSbU1malYwUVU2N2VyQUxBTTdWbWcifQ.eyJjbGlwIjoiN2E3ZjhlZTYtNGM4Zi00Zjg1LTgwMTQtYjE2YTAxNGI0NzhhIiwia2V5IjoiKiIsImlhdCI6MTcxNTIyNzQyOH0.9FOvT7JLdriIU5I_ybS38kyZ_WARbqSpvDtvdBGiUbQ",
+                "duration": 1984.967,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "7a7f8ee6-4c8f-4f85-8014-b16a014b478a",
+                "podcastId": 6,
+                "season": 1,
+                "episode": 27,
+                "premium": true
+            },
             {
                 "id": 978,
                 "createdAt": "2024-04-11T04:03:08.947Z",
