@@ -6668,6 +6668,26 @@
         "program_url": "https://r8dio.dk/program/kirsten-ringer-til-rasmus",
         "episodes": [
             {
+                "id": 1011,
+                "createdAt": "2024-05-12T10:58:58.532Z",
+                "updatedAt": "2024-05-12T11:08:58.594Z",
+                "publishedAt": "2024-05-12T10:58:12.383Z",
+                "published": true,
+                "title": "Kirstens Tycho Brahes-dag",
+                "slug": "kirstens-tycho-brahes-dag",
+                "content": "Afsnit 32. Kirsten har kimet Rasmus ned hele weekenden i fors\u00f8get p\u00e5 at f\u00e5 lavet et nyt afsnit af \u2018Kirsten ringer til Rasmus\u2019, og da det endelig lykkes s\u00f8ndag morgen, viser det sig, at Rasmus med vilje ikke har taget telefonen p\u00e5 grund af kristi himmelfartsferie-fri.\u00a0\n\nMen s\u00e5 kan det hele ogs\u00e5 v\u00e6re ligemeget, mener Kirsten - Hun laver det bare selv. For lytterne skal naturligvis have, hvad de fortjener, og hun har en rigtig godt historie fra det, der er startet som en rigtig Tycho Brahes-dag.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/82b584f4-be50-4aa0-a26b-b16e00b3bc9b/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/82b584f4-be50-4aa0-a26b-b16e00b3bc9b/audio.mp3?utm_source=Podcast&in_playlist=86659c7c-fb9b-4393-935f-b0b501735343&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InFyN1VJUkJLUlV5WkFyQzFBWG9RNkEifQ.eyJjbGlwIjoiODJiNTg0ZjQtYmU1MC00YWEwLWEyNmItYjE2ZTAwYjNiYzliIiwia2V5IjoiKiIsImlhdCI6MTcxNTUxMTUzOH0.DiMr9fZtYTjTbUg8Z9tIggF4HOhect6dn9AMuCGuMJQ",
+                "duration": 1619.722,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "82b584f4-be50-4aa0-a26b-b16e00b3bc9b",
+                "podcastId": 36,
+                "season": 1,
+                "episode": 32,
+                "premium": true
+            },
+            {
                 "id": 1003,
                 "createdAt": "2024-05-05T04:05:26.836Z",
                 "updatedAt": "2024-05-05T04:15:26.934Z",
