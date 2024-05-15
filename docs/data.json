@@ -6208,6 +6208,26 @@
         "program_url": "https://r8dio.dk/program/bogstavelig-talt",
         "episodes": [
             {
+                "id": 1015,
+                "createdAt": "2024-05-15T04:04:31.767Z",
+                "updatedAt": "2024-05-15T04:14:31.844Z",
+                "publishedAt": "2024-05-15T04:00:00.000Z",
+                "published": true,
+                "title": "\u2019Brystets biografi\u2019 med Mette Byriel-Thygesen",
+                "slug": "brystets-biografi-med-mette-byriel-thygesen",
+                "content": "S\u00e6son 2 - afsnit 5.\u00a0Babser, meloner, jader, kasser. K\u00e6r kropsdel har mange (\u00f8ge)navne.\n\nEtnolog og museumsinspekt\u00f8r p\u00e5 Nationalmuseet Mette Byriel-Thygesen har netop udgivet \u2019Brystets biografi\u2019, en kulturhistorisk unders\u00f8gelse af brysternes betydning gennem tiden. Hun fort\u00e6ller om kropsdelen, der b\u00e5de kan v\u00e6re kontroversiel, beg\u00e6ret, politisk og moderlig.\u00a0\n\nVi taler ogs\u00e5 med Maria Teglkamp, marketingschef hos privathospitalet AK Nygart, som fort\u00e6ller om firmaets omdebatterede reklamekampagne \u2019Nye bryster\u2019, og om hvilke bryster der er p\u00e5 mode i dag.\u00a0\n\nOg s\u00e5 kommer journalist og v\u00e6rt p\u00e5 \u2019Det, vi taler om\u2019, Ditte Okman, tilf\u00e6ldigt forbi til en kort snak om det at v\u00e6re indehaver af en barm.\u00a0\n\nLitteraturprogrammet \u2018Bogstaveligt talt\u2019 er et samarbejde mellem r8Dio og Gyldendal, der hver uge dykker ned i aktuelle udgivelser fra forlaget. V\u00e6rt er Molly Balsby, digter og kulturjournalist, og sammen med g\u00e6ster, forfattere og eksperter, sl\u00e5r hun op p\u00e5 side 1 og udfolder v\u00e6rkerne.\n\nV\u00e6rt og tilrettel\u00e6gger: Molly Balsby\u00a0\n\nMedtilrettel\u00e6gger og producer: Kamille Jahncke\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/44f93c6c-40a7-4b5d-bf1e-b17100010edb/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/44f93c6c-40a7-4b5d-bf1e-b17100010edb/audio.mp3?utm_source=Podcast&in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiNDRmOTNjNmMtNDBhNy00YjVkLWJmMWUtYjE3MTAwMDEwZWRiIiwia2V5IjoiKiIsImlhdCI6MTcxNTc0NTkzMn0.B-3HO-i33N_gKcRRIF7LCDVAmzxICmV27S7dd92ZmXw",
+                "duration": 3802.593,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "44f93c6c-40a7-4b5d-bf1e-b17100010edb",
+                "podcastId": 38,
+                "season": 2,
+                "episode": 14,
+                "premium": false
+            },
+            {
                 "id": 997,
                 "createdAt": "2024-05-01T04:05:59.570Z",
                 "updatedAt": "2024-05-01T04:15:59.633Z",
