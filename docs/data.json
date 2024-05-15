@@ -4788,6 +4788,26 @@
         "program_url": "https://r8dio.dk/program/nyhedsbrevet",
         "episodes": [
             {
+                "id": 1014,
+                "createdAt": "2024-05-14T15:03:16.766Z",
+                "updatedAt": "2024-05-14T15:13:16.824Z",
+                "publishedAt": "2024-05-14T15:00:00.000Z",
+                "published": true,
+                "title": "Pallietter og powerbanks",
+                "slug": "pallietter-og-powerbanks",
+                "content": "Afsnit 16. Hej ven og lytter af R8dio \u2013 har du haft en god uge? D\u00e9t har jeg! Der har selvf\u00f8lgelig lige v\u00e6ret lidt b\u00f8vl efter vores pressem\u00f8de om fake news, som vi holdt i forrige uge, og som blev afbrudt af propal\u00e6stinensiske demonstranter, men ellers g\u00e5r det s\u00e5 godt, s\u00e5 godt. For det er jo stadig maj!\n\nSolen skinner, fuglene synger, what is not to like, som man siger p\u00e5 engelsk.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/5f3c70e1-98b9-4cac-b65b-b17000f327a0/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/5f3c70e1-98b9-4cac-b65b-b17000f327a0/audio.mp3?utm_source=Podcast&in_playlist=a2ca760d-cb17-4c52-a53e-b0fc00eee7d1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ijd5Z2xPRHViYVVDbEJyRDhBTy1GUEEifQ.eyJjbGlwIjoiNWYzYzcwZTEtOThiOS00Y2FjLWI2NWItYjE3MDAwZjMyN2EwIiwia2V5IjoiKiIsImlhdCI6MTcxNTY5ODk5Nn0.Glo5plTRlmxAm_QOjNV2Hg415CAw12LUonh5aAwUmuw",
+                "duration": 1176.869,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "5f3c70e1-98b9-4cac-b65b-b17000f327a0",
+                "podcastId": 44,
+                "season": 1,
+                "episode": 16,
+                "premium": true
+            },
+            {
                 "id": 1001,
                 "createdAt": "2024-05-03T14:17:07.568Z",
                 "updatedAt": "2024-05-03T14:27:07.629Z",
