@@ -8,16 +8,36 @@
         "program_url": "https://r8dio.dk/program/undskyld-vi-roder",
         "episodes": [
             {
+                "id": 1017,
+                "createdAt": "2024-05-17T04:05:28.079Z",
+                "updatedAt": "2024-05-17T04:15:28.140Z",
+                "publishedAt": "2024-05-17T04:00:00.000Z",
+                "published": true,
+                "title": "Hugorm, Goodiepal, & AHA",
+                "slug": "hugorm-goodiepal-aha",
+                "content": "Green-Skuld-Ture eller Gr\u00f8n-Skuld-Tur. Klavs og til dels Allan arbejder p\u00e5 h\u00f8jtryk for at synergere kulturen og dengr\u00f8n \u00f8konomi i Skuldborg. F\u00f8rst et m\u00f8de med Skuldborgs nye Artist of Residence, Goodiepal. Han s\u00f8rger for finkulturen. Og hern\u00e6st st\u00e5r den p\u00e5 mainstreame programudvikling med Hugorm. Et m\u00f8de der til sidst skal prales med over for Hr. N\u00f8rres\u00f8.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/7e78ed6b-cdff-4c05-a6df-b1720167c890/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/7e78ed6b-cdff-4c05-a6df-b1720167c890/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiN2U3OGVkNmItY2RmZi00YzA1LWE2ZGYtYjE3MjAxNjdjODkwIiwia2V5IjoiKiIsImlhdCI6MTcxNTkxODcyOH0.ISrazJIgjwFiBGkdtHcT-B4LpBJRj9VjeV1uFS20kjA",
+                "duration": 3788.617,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "7e78ed6b-cdff-4c05-a6df-b1720167c890",
+                "podcastId": 1,
+                "season": 8,
+                "episode": 216,
+                "premium": true
+            },
+            {
                 "id": 1009,
                 "createdAt": "2024-05-10T04:05:04.826Z",
-                "updatedAt": "2024-05-10T04:15:04.889Z",
-                "publishedAt": "2024-05-10T04:00:00.000Z",
+                "updatedAt": "2024-05-17T04:01:30.025Z",
+                "publishedAt": "2024-05-17T04:00:00.000Z",
                 "published": true,
                 "title": "Syrekaffe & Polterabend",
                 "slug": "syrekaffe-polterabend",
                 "content": "Alt imens Klavs har taget SoMe-Holger med til Nordsj\u00e6lland for at optage reklamefilm, s\u00e5 knokler Allan Sindberg hjemme i Skuldborg for at arrangere en god polterabend for Randi.\u00a0\nBegge projekter rummer en del udfordringer.",
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/c49147e9-de0c-4537-a5f3-b16b013ae88a/audio.mp3",
-                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/c49147e9-de0c-4537-a5f3-b16b013ae88a/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiYzQ5MTQ3ZTktZGUwYy00NTM3LWE1ZjMtYjE2YjAxM2FlODhhIiwia2V5IjoiKiIsImlhdCI6MTcxNTMxMzkwNH0.oauNXbUf6O2Gc5r66jm6RzWhRgywotZecRcV7xyaG9A",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/c49147e9-de0c-4537-a5f3-b16b013ae88a/audio.mp3?utm_source=Podcast&in_playlist=6af053db-da47-47dc-aee5-abca00c013d7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5xTExiRDQzOUUyZ3BxM0RBWWpSSncifQ.eyJjbGlwIjoiYzQ5MTQ3ZTktZGUwYy00NTM3LWE1ZjMtYjE2YjAxM2FlODhhIiwia2V5IjoiKiIsImlhdCI6MTcxNTkxODQ5MH0.Sd7Am9aGky7JIV8n-oI37dWemuEhg3654XF729yEDR8",
                 "duration": 3368.856,
                 "didNotifyUsers": true,
                 "providerId": "r8Dio",
@@ -25,7 +45,7 @@
                 "podcastId": 1,
                 "season": 8,
                 "episode": 215,
-                "premium": true
+                "premium": false
             },
             {
                 "id": 999,
@@ -4316,7 +4336,28 @@
         "slug": "l-r-klokken-med-goodiepal",
         "url": "https://r8dio.demo.supertusch.com/podcasts/l-r-klokken-med-goodiepal/episodes",
         "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
-        "episodes": []
+        "episodes": [
+            {
+                "id": 1016,
+                "createdAt": "2024-05-17T04:03:58.610Z",
+                "updatedAt": "2024-05-17T04:13:58.681Z",
+                "publishedAt": "2024-05-17T04:00:00.000Z",
+                "published": true,
+                "title": "Henrik Plenge Jacobsen - klokken er kosmisk!",
+                "slug": "henrik-penge-jakobsen-klokken-er-kosmisk",
+                "content": "Afsnit 1. Henrik Plenge Jacobsen er g\u00e6st, vi taler store urv\u00e6rker og masser af mekanik, godt hjulpet p\u00e5 vej af den danske mekanik- og musikmester, den muligt prisvindende radiov\u00e6rt Onkel Pruttipal.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/9f5084b0-4d9d-4f08-98e0-b1720104245b/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/9f5084b0-4d9d-4f08-98e0-b1720104245b/audio.mp3?utm_source=Podcast&in_playlist=f5106089-d81b-4942-bb04-b172010266cd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlRIaXFSNTBPMVV5VzhMRnlBUVVvdGcifQ.eyJjbGlwIjoiOWY1MDg0YjAtNGQ5ZC00ZjA4LTk4ZTAtYjE3MjAxMDQyNDViIiwia2V5IjoiKiIsImlhdCI6MTcxNTkxODYzOH0.QHjkKJlRhclv4jQVw7xfINt_nCYVZbgbvYfBPFaSSK4",
+                "duration": 1977.678,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "9f5084b0-4d9d-4f08-98e0-b1720104245b",
+                "podcastId": 48,
+                "season": 1,
+                "episode": 1,
+                "premium": false
+            }
+        ]
     },
     {
         "title": "I Norge er der ogs\u00e5 en dag",
