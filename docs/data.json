@@ -5418,6 +5418,26 @@
         "program_url": "https://r8dio.dk/program/vandvognen",
         "episodes": [
             {
+                "id": 1019,
+                "createdAt": "2024-05-18T04:04:54.211Z",
+                "updatedAt": "2024-05-18T04:14:54.300Z",
+                "publishedAt": "2024-05-18T04:00:00.000Z",
+                "published": true,
+                "title": "Thomas Guffi",
+                "slug": "thomas-guffi",
+                "content": "S\u00e6son 1, afsnit 20\nThomas Guffi vokser op p\u00e5 Midtsj\u00e6lland i et hjem, der ikke ligner de flestes. Thomas bliver igennem hans far introduceret til v\u00e5ben, pornografi og alkohol fra en alt for tidlig alder, s\u00e5 han udvikler en fascination for det ekstreme. Det medf\u00f8rer et liv med konflikter i nynazistiske bev\u00e6gelser, rockerklubber og ikke overraskende ogs\u00e5 et stigende alkoholforbrug.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/35e4492e-4207-4df8-9063-b17300d090e1/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/a170e468-11b1-4603-abfb-b0ee018478b9/35e4492e-4207-4df8-9063-b17300d090e1/audio.mp3?utm_source=Podcast&in_playlist=8c2642ef-776a-450d-8625-b0ee0185905d&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkViQUpsbWpaaFUyTURyRHVBWWQyRXcifQ.eyJjbGlwIjoiMzVlNDQ5MmUtNDIwNy00ZGY4LTkwNjMtYjE3MzAwZDA5MGUxIiwia2V5IjoiKiIsImlhdCI6MTcxNjAwNTA5NH0.ZCSZvCftXtKvcJY3B1cu9aV4GCwrFHcxhBdfJkRPgXc",
+                "duration": 3540.088,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "35e4492e-4207-4df8-9063-b17300d090e1",
+                "podcastId": 42,
+                "season": 1,
+                "episode": 20,
+                "premium": true
+            },
+            {
                 "id": 1010,
                 "createdAt": "2024-05-11T04:05:00.343Z",
                 "updatedAt": "2024-05-11T04:15:00.664Z",
