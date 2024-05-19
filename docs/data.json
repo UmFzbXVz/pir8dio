@@ -6798,6 +6798,26 @@
         "program_url": "https://r8dio.dk/program/kirsten-ringer-til-rasmus",
         "episodes": [
             {
+                "id": 1020,
+                "createdAt": "2024-05-19T04:05:37.628Z",
+                "updatedAt": "2024-05-19T04:05:37.628Z",
+                "publishedAt": "2024-05-19T04:00:00.000Z",
+                "published": true,
+                "title": "Kirstens betragtninger",
+                "slug": "kirstens-betragtninger",
+                "content": "Afsnit 33. Ja, endnu en gang har Kirsten ikke kunne f\u00e5 fat p\u00e5 Rasmus. Derfor laver hun bare programmet selv. Eller i stedet for at lave 'Kirsten ringer til Rasmus', som det jo selvf\u00f8lgelig ikke kan hedde, da Rasmus slet ikke er med, laver hun i stedet 'Kirstens betragtninger.'\u00a0\n\nRasmus ringer dog alligevel pludselig tilbage til Kirsten, og han er godt og grundigt ked af, at han i sidste uge gik ud fra, at man holdt kristi himmelfartsferie-fri, bare fordi Henrik Qvortrup gjorde det.\u00a0\n\nTil geng\u00e6ld har han fundet p\u00e5 en fantastisk id\u00e9, som Kirsten m\u00e5ske vil synes om. Hun skal lave en 'podbook' ligesom Lars Lykke Rasmussen, hvor hun kan fort\u00e6lle om alt, hun har oplevet.\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/dee5a35c-7b82-4303-a4c5-b1730133d76a/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/f45b3c0b-a494-4cdd-a7d3-b0b5016f71b9/dee5a35c-7b82-4303-a4c5-b1730133d76a/audio.mp3?utm_source=Podcast&in_playlist=86659c7c-fb9b-4393-935f-b0b501735343&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InFyN1VJUkJLUlV5WkFyQzFBWG9RNkEifQ.eyJjbGlwIjoiZGVlNWEzNWMtN2I4Mi00MzAzLWE0YzUtYjE3MzAxMzNkNzZhIiwia2V5IjoiKiIsImlhdCI6MTcxNjA5MTUzN30.eCqzOl_FASefGIpFQX0hz8ceKI8v-l7Di5nyKr3vkqw",
+                "duration": 3256.268,
+                "didNotifyUsers": false,
+                "providerId": "r8Dio",
+                "foreignId": "dee5a35c-7b82-4303-a4c5-b1730133d76a",
+                "podcastId": 36,
+                "season": 1,
+                "episode": 33,
+                "premium": true
+            },
+            {
                 "id": 1011,
                 "createdAt": "2024-05-12T10:58:58.532Z",
                 "updatedAt": "2024-05-12T11:08:58.594Z",
