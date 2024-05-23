@@ -4338,6 +4338,26 @@
         "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
         "episodes": [
             {
+                "id": 1023,
+                "createdAt": "2024-05-23T04:04:37.413Z",
+                "updatedAt": "2024-05-23T04:14:37.479Z",
+                "publishedAt": "2024-05-23T04:00:00.000Z",
+                "published": true,
+                "title": "Autonome urmagere",
+                "slug": "autonome-urmagere",
+                "content": "Afsnit 2. Et autonomt, non-binary gender, flippende ur-milj\u00f8 i skuldborg.\n\nG\u00e6sten er Goodiepals ur-ven Brian Lykke.\n\nLige efter programmet g\u00e5r Goodiepal i gang med at ombygge en dansk Ole Mathiesen-designklassiker til et Skulborg ur\u2026 sikke han kan, den gamle prutti.\n\nMust hear!",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/bf3c68e1-502c-46dd-90aa-b17800f2e13c/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/bf3c68e1-502c-46dd-90aa-b17800f2e13c/audio.mp3?utm_source=Podcast&in_playlist=f5106089-d81b-4942-bb04-b172010266cd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlRIaXFSNTBPMVV5VzhMRnlBUVVvdGcifQ.eyJjbGlwIjoiYmYzYzY4ZTEtNTAyYy00NmRkLTkwYWEtYjE3ODAwZjJlMTNjIiwia2V5IjoiKiIsImlhdCI6MTcxNjQzNzA3N30.9-YQSFN3oP1JhJoPVO6FbRRA248VNpueQBSLHIkZiU8",
+                "duration": 2044.317,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "bf3c68e1-502c-46dd-90aa-b17800f2e13c",
+                "podcastId": 48,
+                "season": 1,
+                "episode": 2,
+                "premium": false
+            },
+            {
                 "id": 1016,
                 "createdAt": "2024-05-17T04:03:58.610Z",
                 "updatedAt": "2024-05-17T04:13:58.681Z",
