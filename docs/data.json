@@ -4878,6 +4878,26 @@
         "program_url": "https://r8dio.dk/program/nyhedsbrevet",
         "episodes": [
             {
+                "id": 1025,
+                "createdAt": "2024-05-24T14:02:51.274Z",
+                "updatedAt": "2024-05-24T14:02:51.275Z",
+                "publishedAt": "2024-05-24T14:00:00.000Z",
+                "published": true,
+                "title": "Face/OFF",
+                "slug": "face-off",
+                "content": "Afsnit 18\nK\u00e6re ven og lytter af R8dio \u2013 har du haft en god uge? D\u00e9t har jeg og s\u00e5 videre og s\u00e5 videre, solen har skinnet, men s\u00e5 regnede det ogs\u00e5 i g\u00e5r, og s\u00e5dan bliver det ved. Jeg har v\u00e6ret fanget i hamsterhjulet om dagen, og s\u00e5 har jeg ellers v\u00e6ret Klavs-line om aftenen og natten, og s\u00e5dan kan der g\u00e5 en hel uge, uden at man som s\u00e5dan bem\u00e6rker det. Men i dag, k\u00e6re ven og lytter af R8dio, der vil jeg ikke kede dig med trivialitet og hverdag. I dag vil jeg nemlig fort\u00e6lle dig en historie, som jeg aldrig har fortalt nogen f\u00f8r.\u00a0\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/b1844bef-113a-49e3-ad3b-b17a00aa96fd/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/7987fde3-b768-46aa-a1bf-b0fc00ed455c/b1844bef-113a-49e3-ad3b-b17a00aa96fd/audio.mp3?utm_source=Podcast&in_playlist=a2ca760d-cb17-4c52-a53e-b0fc00eee7d1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ijd5Z2xPRHViYVVDbEJyRDhBTy1GUEEifQ.eyJjbGlwIjoiYjE4NDRiZWYtMTEzYS00OWUzLWFkM2ItYjE3YTAwYWE5NmZkIiwia2V5IjoiKiIsImlhdCI6MTcxNjU1OTM3MX0.6BwMN6_BkZKkZ69XYyxl6hA_xLvj2frI3q0Gohh_Qj4",
+                "duration": 1344.862,
+                "didNotifyUsers": false,
+                "providerId": "r8Dio",
+                "foreignId": "b1844bef-113a-49e3-ad3b-b17a00aa96fd",
+                "podcastId": 44,
+                "season": 1,
+                "episode": 18,
+                "premium": true
+            },
+            {
                 "id": 1018,
                 "createdAt": "2024-05-17T14:13:50.862Z",
                 "updatedAt": "2024-05-17T14:23:50.926Z",
