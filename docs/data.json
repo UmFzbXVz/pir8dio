@@ -10,7 +10,7 @@
             {
                 "id": 1024,
                 "createdAt": "2024-05-24T04:05:29.705Z",
-                "updatedAt": "2024-05-24T04:05:29.706Z",
+                "updatedAt": "2024-05-24T04:15:29.786Z",
                 "publishedAt": "2024-05-24T04:00:00.000Z",
                 "published": true,
                 "title": "Gr\u00f8n Skuldtur & Kage",
@@ -19,7 +19,7 @@
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/aa9b1acb-fc7d-48f6-b067-abca00beaa16/4fdd5829-6e3e-4e8f-9cd5-b179013532d7/audio.mp3",
                 "premiumAudio": null,
                 "duration": 3891.017,
-                "didNotifyUsers": false,
+                "didNotifyUsers": true,
                 "providerId": "r8Dio",
                 "foreignId": "4fdd5829-6e3e-4e8f-9cd5-b179013532d7",
                 "podcastId": 1,
