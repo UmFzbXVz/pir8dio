@@ -8948,6 +8948,26 @@
         "program_url": "https://r8dio.dk/program/morgensutterne",
         "episodes": [
             {
+                "id": 1028,
+                "createdAt": "2024-05-27T06:49:01.185Z",
+                "updatedAt": "2024-05-27T06:59:01.250Z",
+                "publishedAt": "2024-05-27T06:47:54.097Z",
+                "published": true,
+                "title": "Svanem\u00e6rket",
+                "slug": "svanem-rket",
+                "content": "S\u00e6son 2, afsnit 19\nI Skuldborg sidder DJ Buttervoice aka. Allan Sindberg klar med sin medv\u00e6rt Rune Ingemann og ved teknikken Emil Liller. \nDagens morgensang er 'Oh babe, kom med et bud' af Preben Kaas og der er nyt fra lokale medier. Derudover er der indslag fra en antik messe og ikke mindst Skuldborg Fremad. \nDet og meget mere i dette afsnit af Morgensutterne. ",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/70761613-b1ea-49ca-8803-b17d00694642/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/db118a2e-3dbb-49a3-885c-afee006b4c45/70761613-b1ea-49ca-8803-b17d00694642/audio.mp3?utm_source=Podcast&in_playlist=fd30f5a6-7014-4670-a35c-afee006d2c1b&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imd0VXpQeFp3QVVXZmZMQUxBTmtHU2cifQ.eyJjbGlwIjoiNzA3NjE2MTMtYjFlYS00OWNhLTg4MDMtYjE3ZDAwNjk0NjQyIiwia2V5IjoiKiIsImlhdCI6MTcxNjc5MjU0MX0.Nm6joyS2KH-EcR7RMO3SmZeo3Gz1RcsOqJdnIdrj4Ys",
+                "duration": 3787.729,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "70761613-b1ea-49ca-8803-b17d00694642",
+                "podcastId": 29,
+                "season": 2,
+                "episode": 48,
+                "premium": true
+            },
+            {
                 "id": 1012,
                 "createdAt": "2024-05-13T06:41:51.914Z",
                 "updatedAt": "2024-05-13T06:51:51.973Z",
