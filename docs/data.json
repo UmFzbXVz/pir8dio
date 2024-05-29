@@ -6398,6 +6398,26 @@
         "program_url": "https://r8dio.dk/program/bogstavelig-talt",
         "episodes": [
             {
+                "id": 1031,
+                "createdAt": "2024-05-29T04:04:52.053Z",
+                "updatedAt": "2024-05-29T04:14:52.134Z",
+                "publishedAt": "2024-05-29T04:00:00.000Z",
+                "published": true,
+                "title": "'Mod midnatssolen\u2019 med Dy Plambeck",
+                "slug": "mod-midnatssolen-med-dy-plambeck",
+                "content": "S\u00e6son 2 - afsnit 6. I romanen \u2019Mod midnatssolen\u2019 skriver Dy Plambeck om den moderne sammenbragte familie, og de konflikter og f\u00f8lelser der opst\u00e5r, n\u00e5r dr\u00f8mmen om kernefamilien brister. Romanens hovedperson, Amy, rejser sammen med sine tre d\u00f8tre og to veninder til Troms\u00f8 for at deltage i en familiefest hos sin norske k\u00e6reste og hans b\u00f8rn.\n\nI programmet fort\u00e6ller Plambeck om arbejdet med romanens enorme persongalleri, der blandt andet inkluderer en moderkage, der bliver fragtet nord for polarcirklen, og om hendes erkendelse af at alle vores tidligere relationer for evigt vil leve i os.\u00a0\u00a0\n\nLitteraturprogrammet \u2018Bogstaveligt talt\u2019 er et samarbejde mellem r8Dio og Gyldendal, der hver uge dykker ned i aktuelle udgivelser fra forlaget. V\u00e6rt er Molly Balsby, digter og kulturjournalist, og sammen med g\u00e6ster, forfattere og eksperter, sl\u00e5r hun op p\u00e5 side 1 og udfolder v\u00e6rkerne.\n\nV\u00e6rt og tilrettel\u00e6gger: Molly Balsby\u00a0\n\nMedtilrettel\u00e6gger og producer: Kamille Jahncke\u00a0",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/3ef12055-4417-4a70-bc5d-b17e00fa7a81/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/2072a7c5-6b4e-4547-8588-b0c400b77418/3ef12055-4417-4a70-bc5d-b17e00fa7a81/audio.mp3?utm_source=Podcast&in_playlist=0b01950d-5f1d-437b-b622-b0c400b8fe79&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjV3SkdtYUtFREVxMWVMREVBTHJ5YncifQ.eyJjbGlwIjoiM2VmMTIwNTUtNDQxNy00YTcwLWJjNWQtYjE3ZTAwZmE3YTgxIiwia2V5IjoiKiIsImlhdCI6MTcxNjk1NTQ5Mn0.b1ymjgJpXpYkGGSzcn8O_Ng1gX7H0CcXPZ8YWwlVJXc",
+                "duration": 3505.92,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "3ef12055-4417-4a70-bc5d-b17e00fa7a81",
+                "podcastId": 38,
+                "season": 2,
+                "episode": 15,
+                "premium": false
+            },
+            {
                 "id": 1015,
                 "createdAt": "2024-05-15T04:04:31.767Z",
                 "updatedAt": "2024-05-15T04:14:31.844Z",
