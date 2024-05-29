@@ -19440,7 +19440,7 @@
             {
                 "id": 1030,
                 "createdAt": "2024-05-28T04:04:38.017Z",
-                "updatedAt": "2024-05-28T04:04:38.018Z",
+                "updatedAt": "2024-05-28T04:14:38.112Z",
                 "publishedAt": "2024-05-28T04:00:00.000Z",
                 "published": true,
                 "title": "Espehus Kro",
@@ -19449,7 +19449,7 @@
                 "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/4eaa5721-5e30-4f15-9e5a-b17d00e3fc35/audio.mp3",
                 "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/e050b9e0-bb3e-4e02-87c5-ad7801012309/4eaa5721-5e30-4f15-9e5a-b17d00e3fc35/audio.mp3?utm_source=Podcast&in_playlist=f2a09117-8c94-4d88-985e-ad7801020d00&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdUR2w4Njl2TTBHSUxyQUxBTVB2bUEifQ.eyJjbGlwIjoiNGVhYTU3MjEtNWUzMC00ZjE1LTllNWEtYjE3ZDAwZTNmYzM1Iiwia2V5IjoiKiIsImlhdCI6MTcxNjg2OTA3OH0.h6MlcCgd_916PpERpY6RMgptukVHfit7hHtxqHGR-C8",
                 "duration": 3813.068,
-                "didNotifyUsers": false,
+                "didNotifyUsers": true,
                 "providerId": "r8Dio",
                 "foreignId": "4eaa5721-5e30-4f15-9e5a-b17d00e3fc35",
                 "podcastId": 4,
