@@ -4358,6 +4358,26 @@
         "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
         "episodes": [
             {
+                "id": 1032,
+                "createdAt": "2024-05-30T04:06:19.094Z",
+                "updatedAt": "2024-05-30T04:16:19.205Z",
+                "publishedAt": "2024-05-30T04:00:00.000Z",
+                "published": true,
+                "title": "Flygtningesituationen p\u00e5 balkan nu og f\u00f8r",
+                "slug": "flygtningesituationen-p-balkan-nu-og-f-r",
+                "content": "Afsnit 3. 100 n\u00e6stek\u00e6rligheds-tekno-r8dio - vi tager pulsen p\u00e5 livet p\u00e5 gaden via undergrund, aktivist-organisationer s\u00e5 sol no make kitchen og GP&PLS\n\nAlt er ulovligt - alt er n\u00e6stek\u00e6rligt - imod systemet siden Jesu tid.",
+                "audio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/e27acaeb-87a5-4b57-9532-b17f009e9453/audio.mp3",
+                "premiumAudio": "https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/e27acaeb-87a5-4b57-9532-b17f009e9453/audio.mp3?utm_source=Podcast&in_playlist=f5106089-d81b-4942-bb04-b172010266cd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlRIaXFSNTBPMVV5VzhMRnlBUVVvdGcifQ.eyJjbGlwIjoiZTI3YWNhZWItODdhNS00YjU3LTk1MzItYjE3ZjAwOWU5NDUzIiwia2V5IjoiKiIsImlhdCI6MTcxNzA0MTk3OX0.wq7OB8dJCieumtV1cvJDrQOdqPYw9ydoEEdYjLCjYdk",
+                "duration": 4302.968,
+                "didNotifyUsers": true,
+                "providerId": "r8Dio",
+                "foreignId": "e27acaeb-87a5-4b57-9532-b17f009e9453",
+                "podcastId": 48,
+                "season": 1,
+                "episode": 3,
+                "premium": false
+            },
+            {
                 "id": 1023,
                 "createdAt": "2024-05-23T04:04:37.413Z",
                 "updatedAt": "2024-05-23T04:14:37.479Z",
