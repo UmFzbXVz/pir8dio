@@ -942,6 +942,10 @@
     "program_url": "https://r8dio.dk/program/ugen-der-blev-spist",
     "episodes": [
       {
+        "title": "S\u00f8ren Ryge Petersen",
+        "publishedAt": "2024-06-04T04:00:00.000Z"
+      },
+      {
         "title": "Jytte Vikkels\u00f8e",
         "publishedAt": "2024-04-09T04:00:00.000Z"
       },
@@ -1963,6 +1967,10 @@
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
       {
+        "title": "Den dejligste morgen meget l\u00e6nge",
+        "publishedAt": "2024-06-03T06:34:37.723Z"
+      },
+      {
         "title": "Svanem\u00e6rket",
         "publishedAt": "2024-05-27T06:47:54.097Z"
       },
@@ -2944,6 +2952,10 @@
     "slug": "proud",
     "program_url": "https://r8dio.dk/program/proud",
     "episodes": [
+      {
+        "title": "Almanak i festligheder",
+        "publishedAt": "2024-06-05T04:00:00.000Z"
+      },
       {
         "title": "Klimageneration-z har ordet",
         "publishedAt": "2024-05-02T06:19:17.873Z"
@@ -4203,6 +4215,10 @@
     "slug": "mos-marker",
     "program_url": "https://r8dio.dk/program/mos-marker",
     "episodes": [
+      {
+        "title": "Lille Sommerfugl",
+        "publishedAt": "2024-06-04T04:00:00.000Z"
+      },
       {
         "title": "Espehus Kro",
         "publishedAt": "2024-05-28T04:00:00.000Z"
