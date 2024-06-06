@@ -98,14 +98,35 @@ body {
     padding: 10px;
 }
 
-.episode {
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 10px;
-    margin-bottom: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.episode-label-div {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
 }
+
+.episode-label-div input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.episode-label-div label {
+  cursor: pointer;
+  flex-grow: 1;
+}
+
+.episode {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+}
+
+.episode:hover {
+  background-color: #e9e9e9;
+}
+
 
 .episode h4 {
     margin: 0;
