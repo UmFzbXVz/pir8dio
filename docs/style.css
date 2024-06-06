@@ -181,3 +181,21 @@ body {
 .hidden {
     display: none;
 }
+
+#markAllButton {
+  position: absolute;
+  top: 28px;
+  left: 28px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+#markAllButton:hover {
+  background-color: #0056b3;
+}
