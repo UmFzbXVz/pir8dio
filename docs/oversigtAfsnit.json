@@ -888,6 +888,10 @@
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
       {
+        "title": "Klokken Thai er tid til k\u00e6rlighed",
+        "publishedAt": "2024-06-06T04:00:00.000Z"
+      },
+      {
         "title": "100% N\u00e6stek\u00e6rligheds-TEK-r8dio",
         "publishedAt": "2024-05-30T04:00:00.000Z"
       },
@@ -1665,6 +1669,10 @@
     "slug": "puttetid",
     "program_url": "https://r8dio.dk/program/puttetid",
     "episodes": [
+      {
+        "title": "Hos Jon Pagh",
+        "publishedAt": "2024-06-05T19:00:00.000Z"
+      },
       {
         "title": "Hos Ditte Okman",
         "publishedAt": "2024-05-22T07:00:00.000Z"
