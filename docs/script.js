@@ -104,15 +104,36 @@ document.addEventListener("DOMContentLoaded", () => {
     filterPodcasts();
   }
 
-  function openModal(slug, title) {
-    const modal = document.getElementById('modalContainer');
-    const modalTitle = document.getElementById('modalTitle');
-    modalTitle.textContent = title;
-    modal.style.display = 'block';
+function openModal(slug, title) {
+  const modal = document.getElementById('modalContainer');
+  const modalTitle = document.getElementById('modalTitle');
+  modalTitle.textContent = title;
+  modal.style.display = 'block';
 
-    const podcast = JSON.parse(localStorage.getItem('podcasts')).find(podcast => podcast.slug === slug);
-    loadEpisodes(slug, podcast.episodes);
-  }
+  const markAllButton = document.createElement('button');
+  markAllButton.id = 'markAllButton';
+  markAllButton.textContent = '✓';
+  markAllButton.addEventListener('click', () => {
+    markAllEpisodes(slug);
+  });
+
+  const episodesListContainer = document.getElementById('episodesListContainer');
+  episodesListContainer.innerHTML = ''; // Clear previous content
+  episodesListContainer.appendChild(markAllButton);
+  episodesListContainer.appendChild(episodesList);
+
+  const podcast = JSON.parse(localStorage.getItem('podcasts')).find(podcast => podcast.slug === slug);
+  loadEpisodes(slug, podcast.episodes);
+}
+
+function markAllEpisodes(slug) {
+  const allCheckboxes = document.querySelectorAll(`#episodesList input[type="checkbox"]`);
+  allCheckboxes.forEach(checkbox => {
+    checkbox.checked = true;
+  });
+  updateEpisodeCount(slug);
+  filterPodcasts();
+}
 
   function closeModal() {
     const modal = document.getElementById('modalContainer');
