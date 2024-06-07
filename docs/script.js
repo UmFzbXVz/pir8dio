@@ -61,7 +61,9 @@ document.addEventListener("DOMContentLoaded", () => {
           newEpisode => !existingPodcast.episodes.some(existingEpisode => existingEpisode.title === newEpisode.title)
         );
         existingPodcast.episodes = existingPodcast.episodes.concat(newEpisodes);
+        existingPodcast.episodes.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
       } else {
+        newPodcast.episodes.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
         existingMap.set(newPodcast.slug, newPodcast);
       }
     });
@@ -141,6 +143,7 @@ function markAllEpisodes(slug) {
   }
 
   function loadEpisodes(slug, episodes) {
+    episodes.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
     localStorage.setItem(`episodes-${slug}`, JSON.stringify({
       episodes: episodes,
       count: episodes.length
