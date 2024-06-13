@@ -892,6 +892,10 @@
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
       {
+        "title": "Tid, lykkepiller og hjernerystelse",
+        "publishedAt": "2024-06-13T04:00:00.000Z"
+      },
+      {
         "title": "Klokken Thai er tid til k\u00e6rlighed",
         "publishedAt": "2024-06-06T04:00:00.000Z"
       },
@@ -4134,6 +4138,10 @@
     "slug": "her-vogter-jeg",
     "program_url": "https://r8dio.dk/program/her-vogter-jeg",
     "episodes": [
+      {
+        "title": "Overv\u00e5gning, del 1",
+        "publishedAt": "2024-06-13T04:00:00.000Z"
+      },
       {
         "title": "Her vogter vi",
         "publishedAt": "2024-05-09T04:00:00.000Z"
