@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Dialeksikon</title>
+    <link>https://r8dio.dk/program/dialeksikon</link>
+    <description>Modsat Norge, England og andre nabolande er dialekt ofte noget, vi i Danmark forbinder med skam eller pinlige episoder. Det skal der laves om på! 
+
+Dialeksikon er programmet, der dykker ned i danskernes dialekter og stemmeføring. Vært og skuespiller, Alexander Clement, er selv en dygtig herre, hvad angår tilegnelsen af dialekter. I hvert afsnit inviterer han en kendt dialekt-begavet dansker i studiet, og med hjælp fra eksperter nørdes der stemmeføring, ganemuskulatur og højnet dansk, så Alexander side for side får skrevet sit eget Dialeksikon - helt uden at skamme sig.</description>
+    <itunes:image href="https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/33f62f63-e201-42b0-b6c5-b193018369a4/image.jpg?t=1718753849&amp;size=Medium"/>
+    <item>
+      <title>Fra Nordsjælland eller København</title>
+      <description>Afsnit 1. Alexander lægger ud med sig selv. Han er født og opvokset i Københavns Nordvestkvarter, men har altid haft en mere nordsjællandsk lyd. Det ærgrer ham og han får derfor hjælp af stemmelærer ved bl.a. Aarhus Teater Nini Matessi Schou, der har udviklet en særlig metode til at tilegne sig dialekter. 
+
+Derudover ringer de til forfatter, taleskriver og ærkekøbenhavner Kaspar Colding Nielsen samt Alexanders mor.</description>
+      <pubDate>Wed, 19 Jun 2024 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1062</guid>
+      <enclosure url="https://traffic.omny.fm/d/clips/504fd940-e457-44cf-9019-abca00be97ea/33f62f63-e201-42b0-b6c5-b193018369a4/de2ceb70-f294-4881-84ae-b1930185b89d/audio.mp3?utm_source=Podcast&amp;in_playlist=a25b1f72-9aae-4018-b5b3-b193018552d1&amp;accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlNnTXZuNTlQQUVHQm83R1RBWWpWdVEifQ.eyJjbGlwIjoiZGUyY2ViNzAtZjI5NC00ODgxLTg0YWUtYjE5MzAxODViODlkIiwia2V5IjoiKiIsImlhdCI6MTcxODc2OTc1N30.UVDk5SG8WuzxBvs-PZ95VbfWjXvBYVFELfWbroIsAtA" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:58</itunes:duration>
+    </item>
+  </channel>
+</rss>
