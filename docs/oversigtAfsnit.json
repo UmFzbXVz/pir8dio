@@ -8,883 +8,1103 @@
     "episodes": [
       {
         "title": "Vores Allesammens Bryllup II",
-        "publishedAt": "2024-06-14T04:00:00.000Z"
+        "publishedAt": "2024-06-14T04:00:00.000Z",
+        "id": 1056
       },
       {
         "title": "Vores Allesammens Bryllup",
-        "publishedAt": "2024-06-14T04:00:00.000Z"
+        "publishedAt": "2024-06-14T04:00:00.000Z",
+        "id": 1046
       },
       {
         "title": "Bristede TV dr\u00f8mme",
-        "publishedAt": "2024-06-07T04:00:00.000Z"
+        "publishedAt": "2024-06-07T04:00:00.000Z",
+        "id": 1033
       },
       {
         "title": "Gr\u00f8n Skuldtur & Kage",
-        "publishedAt": "2024-05-31T04:00:00.000Z"
+        "publishedAt": "2024-05-31T04:00:00.000Z",
+        "id": 1024
       },
       {
         "title": "Hugorm, Goodiepal, & AHA",
-        "publishedAt": "2024-05-24T04:00:00.000Z"
+        "publishedAt": "2024-05-24T04:00:00.000Z",
+        "id": 1017
       },
       {
         "title": "Syrekaffe & Polterabend",
-        "publishedAt": "2024-05-17T04:00:00.000Z"
+        "publishedAt": "2024-05-17T04:00:00.000Z",
+        "id": 1009
       },
       {
         "title": "Cul-Green-ture",
-        "publishedAt": "2024-05-10T04:00:00.000Z"
+        "publishedAt": "2024-05-10T04:00:00.000Z",
+        "id": 999
       },
       {
         "title": "Fake Eller Fakta",
-        "publishedAt": "2024-05-03T04:00:00.000Z"
+        "publishedAt": "2024-05-03T04:00:00.000Z",
+        "id": 992
       },
       {
         "title": "Wedding Planer",
-        "publishedAt": "2024-04-26T04:00:00.000Z"
+        "publishedAt": "2024-04-26T04:00:00.000Z",
+        "id": 985
       },
       {
         "title": "Russere og den lille  r8Diomus",
-        "publishedAt": "2024-04-19T04:00:00.000Z"
+        "publishedAt": "2024-04-19T04:00:00.000Z",
+        "id": 979
       },
       {
         "title": "I Skuldborg er der endnu en dag",
-        "publishedAt": "2024-04-12T04:00:00.000Z"
+        "publishedAt": "2024-04-12T04:00:00.000Z",
+        "id": 970
       },
       {
         "title": "P\u00e5skefrokost hos direkt\u00f8ren",
-        "publishedAt": "2024-04-05T04:00:00.000Z"
+        "publishedAt": "2024-04-05T04:00:00.000Z",
+        "id": 963
       },
       {
         "title": "Glemmer Du...",
-        "publishedAt": "2024-03-29T05:00:00.000Z"
+        "publishedAt": "2024-03-29T05:00:00.000Z",
+        "id": 952
       },
       {
         "title": "Ledelsesseminar",
-        "publishedAt": "2024-03-22T05:00:00.000Z"
+        "publishedAt": "2024-03-22T05:00:00.000Z",
+        "id": 942
       },
       {
         "title": "Mickey er Wok",
-        "publishedAt": "2024-03-15T05:00:00.000Z"
+        "publishedAt": "2024-03-15T05:00:00.000Z",
+        "id": 922
       },
       {
         "title": "Pussy Patrol",
-        "publishedAt": "2024-03-08T05:00:00.000Z"
+        "publishedAt": "2024-03-08T05:00:00.000Z",
+        "id": 910
       },
       {
         "title": "Gode intentioner",
-        "publishedAt": "2024-02-23T05:00:00.000Z"
+        "publishedAt": "2024-02-23T05:00:00.000Z",
+        "id": 899
       },
       {
         "title": "Kyndelmisse spa",
-        "publishedAt": "2024-02-23T05:00:00.000Z"
+        "publishedAt": "2024-02-23T05:00:00.000Z",
+        "id": 889
       },
       {
         "title": "En muldvarp og lidt broderi",
-        "publishedAt": "2024-02-16T05:00:00.000Z"
+        "publishedAt": "2024-02-16T05:00:00.000Z",
+        "id": 879
       },
       {
         "title": "Klavs har en b\u00f8n",
-        "publishedAt": "2024-02-09T05:00:00.000Z"
+        "publishedAt": "2024-02-09T05:00:00.000Z",
+        "id": 878
       },
       {
         "title": "En Tur I De K\u00f8benhavnske Saloner",
-        "publishedAt": "2024-02-02T05:00:00.000Z"
+        "publishedAt": "2024-02-02T05:00:00.000Z",
+        "id": 867
       },
       {
         "title": "Jonna\u00b4s Ugh Ugh Mam Mam",
-        "publishedAt": "2024-01-26T05:00:00.000Z"
+        "publishedAt": "2024-01-26T05:00:00.000Z",
+        "id": 857
       },
       {
         "title": "Kan du stave til DNA?",
-        "publishedAt": "2024-01-19T05:00:00.000Z"
+        "publishedAt": "2024-01-19T05:00:00.000Z",
+        "id": 842
       },
       {
         "title": "Vi vil v\u00e6re et fint medie",
-        "publishedAt": "2024-01-12T05:00:00.000Z"
+        "publishedAt": "2024-01-12T05:00:00.000Z",
+        "id": 831
       },
       {
         "title": "Abesk\u00f8n V.I.P.",
-        "publishedAt": "2024-01-05T05:00:00.000Z"
+        "publishedAt": "2024-01-05T05:00:00.000Z",
+        "id": 820
       },
       {
         "title": "Forsinkede julegaver",
-        "publishedAt": "2023-12-29T05:00:00.000Z"
+        "publishedAt": "2023-12-29T05:00:00.000Z",
+        "id": 814
       },
       {
         "title": "Testamentet",
-        "publishedAt": "2023-12-22T05:00:00.000Z"
+        "publishedAt": "2023-12-22T05:00:00.000Z",
+        "id": 807
       },
       {
         "title": "Promo og Programmering",
-        "publishedAt": "2023-12-15T05:00:00.000Z"
+        "publishedAt": "2023-12-15T05:00:00.000Z",
+        "id": 794
       },
       {
         "title": "Turkish Delight",
-        "publishedAt": "2023-12-08T05:00:00.000Z"
+        "publishedAt": "2023-12-08T05:00:00.000Z",
+        "id": 781
       },
       {
         "title": "Nisseafbr\u00e6nding 2023 LIVE",
-        "publishedAt": "2023-12-01T17:11:39.977Z"
+        "publishedAt": "2023-12-01T17:11:39.977Z",
+        "id": 768
       },
       {
         "title": "r8dio orienterer",
-        "publishedAt": "2023-12-01T05:00:00.000Z"
+        "publishedAt": "2023-12-01T05:00:00.000Z",
+        "id": 765
       },
       {
         "title": "Ej mere skal han synge \"lalala\"",
-        "publishedAt": "2023-11-24T00:13:13.813Z"
+        "publishedAt": "2023-11-24T00:13:13.813Z",
+        "id": 756
       },
       {
         "title": "Stor-bror dag",
-        "publishedAt": "2023-11-17T05:00:00.000Z"
+        "publishedAt": "2023-11-17T05:00:00.000Z",
+        "id": 748
       },
       {
         "title": "Sangfugl og trusler",
-        "publishedAt": "2023-11-10T05:00:00.000Z"
+        "publishedAt": "2023-11-10T05:00:00.000Z",
+        "id": 741
       },
       {
         "title": "Generalpr\u00f8ven",
-        "publishedAt": "2023-11-02T23:06:28.960Z"
+        "publishedAt": "2023-11-02T23:06:28.960Z",
+        "id": 734
       },
       {
         "title": "Prikkerunde",
-        "publishedAt": "2023-10-27T04:00:00.000Z"
+        "publishedAt": "2023-10-27T04:00:00.000Z",
+        "id": 725
       },
       {
         "title": "Bon Camino",
-        "publishedAt": "2023-10-20T04:00:00.000Z"
+        "publishedAt": "2023-10-20T04:00:00.000Z",
+        "id": 716
       },
       {
         "title": "Kevins Lykkelige Dag",
-        "publishedAt": "2023-10-13T04:00:00.000Z"
+        "publishedAt": "2023-10-13T04:00:00.000Z",
+        "id": 709
       },
       {
         "title": "Gyldent high five",
-        "publishedAt": "2023-10-06T04:00:00.000Z"
+        "publishedAt": "2023-10-06T04:00:00.000Z",
+        "id": 698
       },
       {
         "title": "En kold skulder",
-        "publishedAt": "2023-09-29T04:00:00.000Z"
+        "publishedAt": "2023-09-29T04:00:00.000Z",
+        "id": 690
       },
       {
         "title": "En sjuft i Stjernen",
-        "publishedAt": "2023-09-22T04:00:00.000Z"
+        "publishedAt": "2023-09-22T04:00:00.000Z",
+        "id": 677
       },
       {
         "title": "Dans & Drab",
-        "publishedAt": "2023-09-15T04:00:00.000Z"
+        "publishedAt": "2023-09-15T04:00:00.000Z",
+        "id": 671
       },
       {
         "title": "Helt p\u00e5 Vrangen",
-        "publishedAt": "2023-09-08T04:00:00.000Z"
+        "publishedAt": "2023-09-08T04:00:00.000Z",
+        "id": 661
       },
       {
         "title": "EBIT penge",
-        "publishedAt": "2023-09-01T04:00:00.000Z"
+        "publishedAt": "2023-09-01T04:00:00.000Z",
+        "id": 654
       },
       {
         "title": "Businessm\u00f8de i Trianglen",
-        "publishedAt": "2023-08-25T04:00:00.000Z"
+        "publishedAt": "2023-08-25T04:00:00.000Z",
+        "id": 648
       },
       {
         "title": "Fernet Branca terapi",
-        "publishedAt": "2023-08-18T04:00:00.000Z"
+        "publishedAt": "2023-08-18T04:00:00.000Z",
+        "id": 644
       },
       {
         "title": "Vindueskigger",
-        "publishedAt": "2023-08-11T04:00:00.000Z"
+        "publishedAt": "2023-08-11T04:00:00.000Z",
+        "id": 639
       },
       {
         "title": "En svedig dag",
-        "publishedAt": "2023-08-04T04:00:00.000Z"
+        "publishedAt": "2023-08-04T04:00:00.000Z",
+        "id": 635
       },
       {
         "title": "Du danske sommer, jeg elsker dig",
-        "publishedAt": "2023-07-28T14:14:15.193Z"
+        "publishedAt": "2023-07-28T14:14:15.193Z",
+        "id": 629
       },
       {
         "title": "Vi lever bare",
-        "publishedAt": "2023-07-21T13:43:38.517Z"
+        "publishedAt": "2023-07-21T13:43:38.517Z",
+        "id": 626
       },
       {
         "title": "Ude med sn\u00f8ren",
-        "publishedAt": "2023-07-14T14:04:58.620Z"
+        "publishedAt": "2023-07-14T14:04:58.620Z",
+        "id": 621
       },
       {
         "title": "En bunke drager og Danmarks eneste rigtige rockstar",
-        "publishedAt": "2023-07-07T04:00:00.000Z"
+        "publishedAt": "2023-07-07T04:00:00.000Z",
+        "id": 616
       },
       {
         "title": "Polterabend",
-        "publishedAt": "2023-06-30T06:07:29.970Z"
+        "publishedAt": "2023-06-30T06:07:29.970Z",
+        "id": 610
       },
       {
         "title": "Dr\u00f8mmen om TV",
-        "publishedAt": "2023-06-23T04:00:00.000Z"
+        "publishedAt": "2023-06-23T04:00:00.000Z",
+        "id": 598
       },
       {
         "title": "Toiletk\u00f8",
-        "publishedAt": "2023-06-16T04:00:00.000Z"
+        "publishedAt": "2023-06-16T04:00:00.000Z",
+        "id": 589
       },
       {
         "title": "Vi skal ikke hjem, vi skal fremad!",
-        "publishedAt": "2023-06-09T04:00:00.000Z"
+        "publishedAt": "2023-06-09T04:00:00.000Z",
+        "id": 580
       },
       {
         "title": "F\u00f8rst i k\u00f8l-politik",
-        "publishedAt": "2023-06-02T04:00:00.000Z"
+        "publishedAt": "2023-06-02T04:00:00.000Z",
+        "id": 571
       },
       {
         "title": "Hopsihops",
-        "publishedAt": "2023-05-26T04:00:00.000Z"
+        "publishedAt": "2023-05-26T04:00:00.000Z",
+        "id": 562
       },
       {
         "title": "En mulig global nyhed",
-        "publishedAt": "2023-05-19T04:00:00.000Z"
+        "publishedAt": "2023-05-19T04:00:00.000Z",
+        "id": 554
       },
       {
         "title": "Sommerhuse, Blomstervand og Fremad",
-        "publishedAt": "2023-05-12T05:55:23.970Z"
+        "publishedAt": "2023-05-12T05:55:23.970Z",
+        "id": 545
       },
       {
         "title": "Hos mor",
-        "publishedAt": "2023-05-05T04:00:00.000Z"
+        "publishedAt": "2023-05-05T04:00:00.000Z",
+        "id": 536
       },
       {
         "title": "Den l\u00e6kreste fora\u030arsdag",
-        "publishedAt": "2023-04-28T04:00:00.000Z"
+        "publishedAt": "2023-04-28T04:00:00.000Z",
+        "id": 526
       },
       {
         "title": "Pikket p\u00e5 den fede m\u00e5de",
-        "publishedAt": "2023-04-21T04:00:00.000Z"
+        "publishedAt": "2023-04-21T04:00:00.000Z",
+        "id": 519
       },
       {
         "title": "En rigtig venneven",
-        "publishedAt": "2023-04-14T04:00:00.000Z"
+        "publishedAt": "2023-04-14T04:00:00.000Z",
+        "id": 513
       },
       {
         "title": "Fan\u00f8",
-        "publishedAt": "2023-04-07T04:00:00.000Z"
+        "publishedAt": "2023-04-07T04:00:00.000Z",
+        "id": 508
       },
       {
         "title": "Fly High",
-        "publishedAt": "2023-03-31T04:00:00.000Z"
+        "publishedAt": "2023-03-31T04:00:00.000Z",
+        "id": 500
       },
       {
         "title": "Barter",
-        "publishedAt": "2023-03-24T05:00:00.000Z"
+        "publishedAt": "2023-03-24T05:00:00.000Z",
+        "id": 492
       },
       {
         "title": "Oxy, opl\u00e6g og orgelsamler",
-        "publishedAt": "2023-03-17T06:00:00.000Z"
+        "publishedAt": "2023-03-17T06:00:00.000Z",
+        "id": 483
       },
       {
         "title": "Vikingeda\u030ab",
-        "publishedAt": "2023-03-10T05:00:00.000Z"
+        "publishedAt": "2023-03-10T05:00:00.000Z",
+        "id": 476
       },
       {
         "title": "Kartoffel\u00e6ggekagen",
-        "publishedAt": "2023-03-03T05:00:00.000Z"
+        "publishedAt": "2023-03-03T05:00:00.000Z",
+        "id": 468
       },
       {
         "title": "Et morgenprogram tager form",
-        "publishedAt": "2023-02-24T05:00:00.000Z"
+        "publishedAt": "2023-02-24T05:00:00.000Z",
+        "id": 461
       },
       {
         "title": "Skuldborg Fastelavn Festival",
-        "publishedAt": "2023-02-17T05:00:00.000Z"
+        "publishedAt": "2023-02-17T05:00:00.000Z",
+        "id": 455
       },
       {
         "title": "Hvem K.A.N.?",
-        "publishedAt": "2023-02-10T05:00:00.000Z"
+        "publishedAt": "2023-02-10T05:00:00.000Z",
+        "id": 449
       },
       {
         "title": "Ledelsesseminar",
-        "publishedAt": "2023-02-03T06:54:38.953Z"
+        "publishedAt": "2023-02-03T06:54:38.953Z",
+        "id": 428
       },
       {
         "title": "En taburet med tre ben",
-        "publishedAt": "2023-01-27T06:24:26.033Z"
+        "publishedAt": "2023-01-27T06:24:26.033Z",
+        "id": 416
       },
       {
         "title": "Klavs her, Klavs der, Klavs allevegne",
-        "publishedAt": "2023-01-20T06:34:33.703Z"
+        "publishedAt": "2023-01-20T06:34:33.703Z",
+        "id": 405
       },
       {
         "title": "Kvantus/Q1/Kvartalis",
-        "publishedAt": "2023-01-13T05:59:11.733Z"
+        "publishedAt": "2023-01-13T05:59:11.733Z",
+        "id": 391
       },
       {
         "title": "En Fyldt Tallerken",
-        "publishedAt": "2023-01-06T05:00:00.000Z"
+        "publishedAt": "2023-01-06T05:00:00.000Z",
+        "id": 386
       },
       {
         "title": "\u00c5ret der gik - live",
-        "publishedAt": "2022-12-30T13:00:00.000Z"
+        "publishedAt": "2022-12-30T13:00:00.000Z",
+        "id": 379
       },
       {
         "title": "\u00d8stens Vise",
-        "publishedAt": "2022-12-23T05:00:00.000Z"
+        "publishedAt": "2022-12-23T05:00:00.000Z",
+        "id": 365
       },
       {
         "title": "High Level Plus",
-        "publishedAt": "2022-12-16T05:00:00.000Z"
+        "publishedAt": "2022-12-16T05:00:00.000Z",
+        "id": 356
       },
       {
         "title": "Som Fugl F\u00f8niks",
-        "publishedAt": "2022-12-09T05:00:00.000Z"
+        "publishedAt": "2022-12-09T05:00:00.000Z",
+        "id": 346
       },
       {
         "title": "r8Dio g\u00e5r live live",
-        "publishedAt": "2022-12-05T07:45:55.057Z"
+        "publishedAt": "2022-12-05T07:45:55.057Z",
+        "id": 336
       },
       {
         "title": "\u00c5rets Nisseafbr\u00e6nding",
-        "publishedAt": "2022-12-02T05:00:00.000Z"
+        "publishedAt": "2022-12-02T05:00:00.000Z",
+        "id": 333
       },
       {
         "title": "Doorstep og breaking news",
-        "publishedAt": "2022-11-26T09:30:08.360Z"
+        "publishedAt": "2022-11-26T09:30:08.360Z",
+        "id": 327
       },
       {
         "title": "Gang i r8Dio",
-        "publishedAt": "2022-11-25T05:30:00.000Z"
+        "publishedAt": "2022-11-25T05:30:00.000Z",
+        "id": 324
       },
       {
         "title": "Det dufter i Stjernen",
-        "publishedAt": "2022-11-18T05:00:00.000Z"
+        "publishedAt": "2022-11-18T05:00:00.000Z",
+        "id": 321
       },
       {
         "title": "You talk, I talk!",
-        "publishedAt": "2022-11-11T05:00:00.000Z"
+        "publishedAt": "2022-11-11T05:00:00.000Z",
+        "id": 317
       },
       {
         "title": "Valgaften",
-        "publishedAt": "2022-11-04T05:30:00.000Z"
+        "publishedAt": "2022-11-04T05:30:00.000Z",
+        "id": 300
       },
       {
         "title": "\u00d8l, Meny og hornmusik",
-        "publishedAt": "2022-10-28T04:30:00.000Z"
+        "publishedAt": "2022-10-28T04:30:00.000Z",
+        "id": 295
       },
       {
         "title": "En kommode med to ben",
-        "publishedAt": "2022-10-21T04:53:21.793Z"
+        "publishedAt": "2022-10-21T04:53:21.793Z",
+        "id": 291
       },
       {
         "title": "Point Of No Return",
-        "publishedAt": "2022-10-14T06:30:19.507Z"
+        "publishedAt": "2022-10-14T06:30:19.507Z",
+        "id": 288
       },
       {
         "title": "Nye muligheder",
-        "publishedAt": "2022-10-07T06:43:08.690Z"
+        "publishedAt": "2022-10-07T06:43:08.690Z",
+        "id": 285
       },
       {
         "title": "Er det godt eller skidt?",
-        "publishedAt": "2022-09-30T02:00:00.000Z"
+        "publishedAt": "2022-09-30T02:00:00.000Z",
+        "id": 279
       },
       {
         "title": "Charmeoffensiv",
-        "publishedAt": "2022-09-23T06:53:59.120Z"
+        "publishedAt": "2022-09-23T06:53:59.120Z",
+        "id": 276
       },
       {
         "title": "Der er s\u00e5 meget at l\u00f8be fra",
-        "publishedAt": "2022-09-16T02:00:00.000Z"
+        "publishedAt": "2022-09-16T02:00:00.000Z",
+        "id": 272
       },
       {
         "title": "Fotoshoot",
-        "publishedAt": "2022-09-09T02:00:00.000Z"
+        "publishedAt": "2022-09-09T02:00:00.000Z",
+        "id": 263
       },
       {
         "title": "Work Life Balance",
-        "publishedAt": "2022-09-02T02:00:00.000Z"
+        "publishedAt": "2022-09-02T02:00:00.000Z",
+        "id": 259
       },
       {
         "title": "Stem p\u00e5 r8Dio - Bonusafsnit",
-        "publishedAt": "2022-08-30T20:36:52.703Z"
+        "publishedAt": "2022-08-30T20:36:52.703Z",
+        "id": 258
       },
       {
         "title": "Ugen derp\u00e5",
-        "publishedAt": "2022-08-26T02:00:00.000Z"
+        "publishedAt": "2022-08-26T02:00:00.000Z",
+        "id": 255
       },
       {
         "title": "Fazerval",
-        "publishedAt": "2022-08-19T07:26:24.887Z"
+        "publishedAt": "2022-08-19T07:26:24.887Z",
+        "id": 254
       },
       {
         "title": "Dejlige Divaer",
-        "publishedAt": "2022-08-12T02:00:00.000Z"
+        "publishedAt": "2022-08-12T02:00:00.000Z",
+        "id": 252
       },
       {
         "title": "Partly Pleasure",
-        "publishedAt": "2022-08-05T02:00:00.000Z"
+        "publishedAt": "2022-08-05T02:00:00.000Z",
+        "id": 251
       },
       {
         "title": "Sommerferie i gulvh\u00f8jde IV",
-        "publishedAt": "2022-07-29T02:00:00.000Z"
+        "publishedAt": "2022-07-29T02:00:00.000Z",
+        "id": 249
       },
       {
         "title": "Sommerferie i Gulvh\u00f8jde III",
-        "publishedAt": "2022-07-22T02:00:00.000Z"
+        "publishedAt": "2022-07-22T02:00:00.000Z",
+        "id": 246
       },
       {
         "title": "Sommerferie i gulvh\u00f8jde  II",
-        "publishedAt": "2022-07-15T02:00:00.000Z"
+        "publishedAt": "2022-07-15T02:00:00.000Z",
+        "id": 245
       },
       {
         "title": "Sommerferie i gulvh\u00f8jde I",
-        "publishedAt": "2022-07-08T02:00:00.000Z"
+        "publishedAt": "2022-07-08T02:00:00.000Z",
+        "id": 244
       },
       {
         "title": "To sm\u00f8rstemmer og en sikkerhedschef",
-        "publishedAt": "2022-07-01T02:00:00.000Z"
+        "publishedAt": "2022-07-01T02:00:00.000Z",
+        "id": 242
       },
       {
         "title": "B\u00e5ltalen",
-        "publishedAt": "2022-06-24T02:00:00.000Z"
+        "publishedAt": "2022-06-24T02:00:00.000Z",
+        "id": 238
       },
       {
         "title": "Kvinder og Kunst",
-        "publishedAt": "2022-06-17T02:00:00.000Z"
+        "publishedAt": "2022-06-17T02:00:00.000Z",
+        "id": 233
       },
       {
         "title": "1 ud af 10 id\u00e9er",
-        "publishedAt": "2022-06-10T02:00:00.000Z"
+        "publishedAt": "2022-06-10T02:00:00.000Z",
+        "id": 229
       },
       {
         "title": "Den Store Ambassade A\u030abning",
-        "publishedAt": "2022-06-03T02:00:00.000Z"
+        "publishedAt": "2022-06-03T02:00:00.000Z",
+        "id": 226
       },
       {
         "title": "Konstitueret Sm\u00f8rstemme",
-        "publishedAt": "2022-05-27T02:00:00.000Z"
+        "publishedAt": "2022-05-27T02:00:00.000Z",
+        "id": 223
       },
       {
         "title": "Radiofaderen og hans s\u00f8nner",
-        "publishedAt": "2022-05-20T02:00:00.000Z"
+        "publishedAt": "2022-05-20T02:00:00.000Z",
+        "id": 219
       },
       {
         "title": "MUS og Meyer",
-        "publishedAt": "2022-05-13T02:00:00.000Z"
+        "publishedAt": "2022-05-13T02:00:00.000Z",
+        "id": 216
       },
       {
         "title": "Radiomusen er tilbage",
-        "publishedAt": "2022-05-06T02:00:00.000Z"
+        "publishedAt": "2022-05-06T02:00:00.000Z",
+        "id": 211
       },
       {
         "title": "Next Level",
-        "publishedAt": "2022-04-29T02:00:00.000Z"
+        "publishedAt": "2022-04-29T02:00:00.000Z",
+        "id": 209
       },
       {
         "title": "Game Over",
-        "publishedAt": "2022-04-22T02:00:00.000Z"
+        "publishedAt": "2022-04-22T02:00:00.000Z",
+        "id": 206
       },
       {
         "title": "Flere sp\u00f8rgsm\u00e5l end svar",
-        "publishedAt": "2022-04-15T02:00:00.000Z"
+        "publishedAt": "2022-04-15T02:00:00.000Z",
+        "id": 189
       },
       {
         "title": "Hentet ind fra Mykonos",
-        "publishedAt": "2022-04-08T02:00:00.000Z"
+        "publishedAt": "2022-04-08T02:00:00.000Z",
+        "id": 185
       },
       {
         "title": "Var det det?",
-        "publishedAt": "2022-04-01T02:00:00.000Z"
+        "publishedAt": "2022-04-01T02:00:00.000Z",
+        "id": 182
       },
       {
         "title": "Taberdag",
-        "publishedAt": "2022-03-25T03:00:00.000Z"
+        "publishedAt": "2022-03-25T03:00:00.000Z",
+        "id": 179
       },
       {
         "title": "Hun & Hund imellem",
-        "publishedAt": "2022-03-18T03:00:00.000Z"
+        "publishedAt": "2022-03-18T03:00:00.000Z",
+        "id": 178
       },
       {
         "title": "Klavs\u2019 Kamp",
-        "publishedAt": "2022-03-11T03:00:00.000Z"
+        "publishedAt": "2022-03-11T03:00:00.000Z",
+        "id": 174
       },
       {
         "title": "De Gr\u00f8nne Hjelme",
-        "publishedAt": "2022-03-04T03:00:00.000Z"
+        "publishedAt": "2022-03-04T03:00:00.000Z",
+        "id": 170
       },
       {
         "title": "Tilbagefald",
-        "publishedAt": "2022-02-25T07:34:05.487Z"
+        "publishedAt": "2022-02-25T07:34:05.487Z",
+        "id": 168
       },
       {
         "title": "To polakker og et talenthold",
-        "publishedAt": "2022-02-18T03:00:00.000Z"
+        "publishedAt": "2022-02-18T03:00:00.000Z",
+        "id": 166
       },
       {
         "title": "Bugaboo, Ping Pong og en PA",
-        "publishedAt": "2022-02-10T03:00:00.000Z"
+        "publishedAt": "2022-02-10T03:00:00.000Z",
+        "id": 162
       },
       {
         "title": "En dag pa\u030a Hotel N\u00f8rres\u00f8",
-        "publishedAt": "2022-02-04T03:00:00.000Z"
+        "publishedAt": "2022-02-04T03:00:00.000Z",
+        "id": 156
       },
       {
         "title": "Det Store Kalenderm\u00f8de",
-        "publishedAt": "2022-01-28T08:14:58.987Z"
+        "publishedAt": "2022-01-28T08:14:58.987Z",
+        "id": 151
       },
       {
         "title": "Coke og k\u00e6rlighed",
-        "publishedAt": "2022-01-21T04:00:00.000Z"
+        "publishedAt": "2022-01-21T04:00:00.000Z",
+        "id": 147
       },
       {
         "title": "Masser af talent",
-        "publishedAt": "2022-01-14T04:00:00.000Z"
+        "publishedAt": "2022-01-14T04:00:00.000Z",
+        "id": 142
       },
       {
         "title": "El Gran Plan Anual",
-        "publishedAt": "2022-01-07T07:57:00.000Z"
+        "publishedAt": "2022-01-07T07:57:00.000Z",
+        "id": 138
       },
       {
         "title": "Den store festmiddag",
-        "publishedAt": "2021-12-31T06:00:00.000Z"
+        "publishedAt": "2021-12-31T06:00:00.000Z",
+        "id": 136
       },
       {
         "title": "Fra alle os",
-        "publishedAt": "2021-12-24T04:00:00.000Z"
+        "publishedAt": "2021-12-24T04:00:00.000Z",
+        "id": 135
       },
       {
         "title": "Hjemmebes\u00f8g",
-        "publishedAt": "2021-12-18T06:00:00.000Z"
+        "publishedAt": "2021-12-18T06:00:00.000Z",
+        "id": 133
       },
       {
         "title": "Klunketid",
-        "publishedAt": "2021-12-17T04:00:00.000Z"
+        "publishedAt": "2021-12-17T04:00:00.000Z",
+        "id": 132
       },
       {
         "title": "Creme og hall\u00f8j",
-        "publishedAt": "2021-12-10T03:00:00.000Z"
+        "publishedAt": "2021-12-10T03:00:00.000Z",
+        "id": 117
       },
       {
         "title": "Den a\u030arlige Nisseafbr\u00e6nding",
-        "publishedAt": "2021-12-03T03:00:00.000Z"
+        "publishedAt": "2021-12-03T03:00:00.000Z",
+        "id": 114
       },
       {
         "title": "At v\u00e6re en Skuldborger",
-        "publishedAt": "2021-11-26T03:00:00.000Z"
+        "publishedAt": "2021-11-26T03:00:00.000Z",
+        "id": 110
       },
       {
         "title": "Saunam\u00f8de",
-        "publishedAt": "2021-11-19T07:45:00.000Z"
+        "publishedAt": "2021-11-19T07:45:00.000Z",
+        "id": 107
       },
       {
         "title": "Kunsten at designe en guffer",
-        "publishedAt": "2021-11-12T03:00:00.000Z"
+        "publishedAt": "2021-11-12T03:00:00.000Z",
+        "id": 102
       },
       {
         "title": "Brainstorm, Brygmester og Body sds",
-        "publishedAt": "2021-11-05T03:00:00.000Z"
+        "publishedAt": "2021-11-05T03:00:00.000Z",
+        "id": 98
       },
       {
         "title": "Hamborg og Mavepine",
-        "publishedAt": "2021-10-28T23:34:25.000Z"
+        "publishedAt": "2021-10-28T23:34:25.000Z",
+        "id": 96
       },
       {
         "title": "Carpe Diem",
-        "publishedAt": "2021-10-22T02:00:00.000Z"
+        "publishedAt": "2021-10-22T02:00:00.000Z",
+        "id": 92
       },
       {
         "title": "Breinholt & Slik i Stjernen",
-        "publishedAt": "2021-10-15T05:56:16.000Z"
+        "publishedAt": "2021-10-15T05:56:16.000Z",
+        "id": 88
       },
       {
         "title": "Knas med gulvh\u00f8jden",
-        "publishedAt": "2021-10-08T02:00:00.000Z"
+        "publishedAt": "2021-10-08T02:00:00.000Z",
+        "id": 85
       },
       {
         "title": "App-Launch og fint bes\u00f8g",
-        "publishedAt": "2021-10-01T03:00:00.000Z"
+        "publishedAt": "2021-10-01T03:00:00.000Z",
+        "id": 84
       },
       {
         "title": "Eur8dioman",
-        "publishedAt": "2021-09-24T04:00:00.000Z"
+        "publishedAt": "2021-09-24T04:00:00.000Z",
+        "id": 77
       },
       {
         "title": "Duften af succes og nye retningslinier",
-        "publishedAt": "2021-09-17T03:00:00.000Z"
+        "publishedAt": "2021-09-17T03:00:00.000Z",
+        "id": 74
       },
       {
         "title": "Det store statusm\u00f8de",
-        "publishedAt": "2021-09-10T11:16:16.000Z"
+        "publishedAt": "2021-09-10T11:16:16.000Z",
+        "id": 73
       },
       {
         "title": "God Radio",
-        "publishedAt": "2021-09-03T02:00:00.000Z"
+        "publishedAt": "2021-09-03T02:00:00.000Z",
+        "id": 72
       },
       {
         "title": "Pa\u030a Med Arbejdst\u00f8jet",
-        "publishedAt": "2021-08-27T03:00:00.000Z"
+        "publishedAt": "2021-08-27T03:00:00.000Z",
+        "id": 71
       },
       {
         "title": "Persona Non Grata",
-        "publishedAt": "2021-08-20T12:36:00.000Z"
+        "publishedAt": "2021-08-20T12:36:00.000Z",
+        "id": 70
       },
       {
         "title": "Mos & Marker",
-        "publishedAt": "2021-08-18T17:46:00.000Z"
+        "publishedAt": "2021-08-18T17:46:00.000Z",
+        "id": 69
       },
       {
         "title": "Virus",
-        "publishedAt": "2021-08-13T13:41:26.000Z"
+        "publishedAt": "2021-08-13T13:41:26.000Z",
+        "id": 68
       },
       {
         "title": "Ny S\u00e6son",
-        "publishedAt": "2021-08-06T14:40:30.000Z"
+        "publishedAt": "2021-08-06T14:40:30.000Z",
+        "id": 67
       },
       {
         "title": "Romantisk getaway",
-        "publishedAt": "2021-07-30T09:08:12.000Z"
+        "publishedAt": "2021-07-30T09:08:12.000Z",
+        "id": 65
       },
       {
         "title": "En sommerdagsdr\u00f8m i Skuldborg",
-        "publishedAt": "2021-07-22T14:04:59.000Z"
+        "publishedAt": "2021-07-22T14:04:59.000Z",
+        "id": 64
       },
       {
         "title": "En dag som diplomat",
-        "publishedAt": "2021-07-16T04:00:00.000Z"
+        "publishedAt": "2021-07-16T04:00:00.000Z",
+        "id": 2
       },
       {
         "title": "A pregnant pause",
-        "publishedAt": "2021-07-09T10:00:14.000Z"
+        "publishedAt": "2021-07-09T10:00:14.000Z",
+        "id": 1
       },
       {
         "title": "Alle de poster",
-        "publishedAt": "2021-07-02T05:00:00.000Z"
+        "publishedAt": "2021-07-02T05:00:00.000Z",
+        "id": 3
       },
       {
         "title": "En mavepuster",
-        "publishedAt": "2021-06-25T09:30:00.000Z"
+        "publishedAt": "2021-06-25T09:30:00.000Z",
+        "id": 4
       },
       {
         "title": "Gammelt venskab ruster aldrig",
-        "publishedAt": "2021-06-18T06:53:42.000Z"
+        "publishedAt": "2021-06-18T06:53:42.000Z",
+        "id": 5
       },
       {
         "title": "Frem i lyset",
-        "publishedAt": "2021-06-11T10:05:10.000Z"
+        "publishedAt": "2021-06-11T10:05:10.000Z",
+        "id": 6
       },
       {
         "title": "Vamos a la Skuldborg",
-        "publishedAt": "2021-06-04T14:28:56.000Z"
+        "publishedAt": "2021-06-04T14:28:56.000Z",
+        "id": 7
       },
       {
         "title": "Nybrud",
-        "publishedAt": "2021-05-28T17:31:25.000Z"
+        "publishedAt": "2021-05-28T17:31:25.000Z",
+        "id": 8
       },
       {
         "title": "Vesterhavsbl\u00e6st og nye vinde i Skuldborg",
-        "publishedAt": "2021-05-21T17:18:05.000Z"
+        "publishedAt": "2021-05-21T17:18:05.000Z",
+        "id": 9
       },
       {
         "title": "Bonusafsnit - Spot p\u00e5 spot",
-        "publishedAt": "2021-05-18T18:21:38.000Z"
+        "publishedAt": "2021-05-18T18:21:38.000Z",
+        "id": 10
       },
       {
         "title": "Der sker ikke en skid",
-        "publishedAt": "2021-05-13T16:47:36.000Z"
+        "publishedAt": "2021-05-13T16:47:36.000Z",
+        "id": 11
       },
       {
         "title": "Klavs tager orlov",
-        "publishedAt": "2021-05-07T06:15:52.000Z"
+        "publishedAt": "2021-05-07T06:15:52.000Z",
+        "id": 12
       },
       {
         "title": "Et hus og en mand i forfald",
-        "publishedAt": "2021-05-01T06:00:43.000Z"
+        "publishedAt": "2021-05-01T06:00:43.000Z",
+        "id": 13
       },
       {
         "title": "Svinet og jalousi",
-        "publishedAt": "2021-04-23T04:24:46.000Z"
+        "publishedAt": "2021-04-23T04:24:46.000Z",
+        "id": 14
       },
       {
         "title": "Kompasm\u00f8de",
-        "publishedAt": "2021-04-16T10:12:22.000Z"
+        "publishedAt": "2021-04-16T10:12:22.000Z",
+        "id": 15
       },
       {
         "title": "Bonusafsnit: En global samarbejdspartner",
-        "publishedAt": "2021-04-15T09:53:18.000Z"
+        "publishedAt": "2021-04-15T09:53:18.000Z",
+        "id": 16
       },
       {
         "title": "En spildt frokost",
-        "publishedAt": "2021-04-09T08:56:48.000Z"
+        "publishedAt": "2021-04-09T08:56:48.000Z",
+        "id": 17
       },
       {
         "title": "Gr\u00e5d & God Selskabsledelse",
-        "publishedAt": "2021-04-01T17:32:29.000Z"
+        "publishedAt": "2021-04-01T17:32:29.000Z",
+        "id": 18
       },
       {
         "title": "Tillid over tid",
-        "publishedAt": "2021-03-26T06:32:27.000Z"
+        "publishedAt": "2021-03-26T06:32:27.000Z",
+        "id": 19
       },
       {
         "title": "Paps er pa\u030a!",
-        "publishedAt": "2021-03-19T08:42:22.000Z"
+        "publishedAt": "2021-03-19T08:42:22.000Z",
+        "id": 20
       },
       {
         "title": "En tur i mediem\u00f8llen",
-        "publishedAt": "2021-03-12T09:04:00.000Z"
+        "publishedAt": "2021-03-12T09:04:00.000Z",
+        "id": 21
       },
       {
         "title": "Coldstart",
-        "publishedAt": "2021-03-04T17:33:21.000Z"
+        "publishedAt": "2021-03-04T17:33:21.000Z",
+        "id": 22
       },
       {
         "title": "Sendeplansm\u00f8de - Vol 2",
-        "publishedAt": "2021-02-26T08:56:20.000Z"
+        "publishedAt": "2021-02-26T08:56:20.000Z",
+        "id": 23
       },
       {
         "title": "Sendeplansm\u00f8de - Vol. 1",
-        "publishedAt": "2021-02-19T18:44:09.000Z"
+        "publishedAt": "2021-02-19T18:44:09.000Z",
+        "id": 24
       },
       {
         "title": "KB vs. KB - Bonusafsnit",
-        "publishedAt": "2021-02-16T12:58:10.000Z"
+        "publishedAt": "2021-02-16T12:58:10.000Z",
+        "id": 25
       },
       {
         "title": "Solstra\u030aler",
-        "publishedAt": "2021-02-12T14:51:28.000Z"
+        "publishedAt": "2021-02-12T14:51:28.000Z",
+        "id": 26
       },
       {
         "title": "En Sur Citron",
-        "publishedAt": "2021-02-04T17:59:15.000Z"
+        "publishedAt": "2021-02-04T17:59:15.000Z",
+        "id": 27
       },
       {
         "title": "Twitter, T\u00f8rretumbler og Lille Per",
-        "publishedAt": "2021-01-28T19:43:23.000Z"
+        "publishedAt": "2021-01-28T19:43:23.000Z",
+        "id": 28
       },
       {
         "title": "Helt nede i IT-k\u00e6lderen",
-        "publishedAt": "2021-01-21T16:35:28.000Z"
+        "publishedAt": "2021-01-21T16:35:28.000Z",
+        "id": 29
       },
       {
         "title": "Chef & chef imellem",
-        "publishedAt": "2021-01-15T08:14:31.000Z"
+        "publishedAt": "2021-01-15T08:14:31.000Z",
+        "id": 30
       },
       {
         "title": "Vi hj\u00e6lper hinanden",
-        "publishedAt": "2021-01-08T07:52:23.000Z"
+        "publishedAt": "2021-01-08T07:52:23.000Z",
+        "id": 31
       },
       {
         "title": "Godt nyta\u030ar",
-        "publishedAt": "2020-12-30T21:01:29.000Z"
+        "publishedAt": "2020-12-30T21:01:29.000Z",
+        "id": 32
       },
       {
         "title": "Alene pa\u030a kontoret",
-        "publishedAt": "2020-12-26T21:37:42.000Z"
+        "publishedAt": "2020-12-26T21:37:42.000Z",
+        "id": 33
       },
       {
         "title": "Fandme ja",
-        "publishedAt": "2020-12-18T14:53:14.000Z"
+        "publishedAt": "2020-12-18T14:53:14.000Z",
+        "id": 34
       },
       {
         "title": "Topm\u00f8de",
-        "publishedAt": "2020-12-10T14:53:12.000Z"
+        "publishedAt": "2020-12-10T14:53:12.000Z",
+        "id": 35
       },
       {
         "title": "Et fr\u00f8 bliver sa\u030aet",
-        "publishedAt": "2020-12-04T13:25:54.000Z"
+        "publishedAt": "2020-12-04T13:25:54.000Z",
+        "id": 36
       },
       {
         "title": "Poesi og Panik",
-        "publishedAt": "2020-11-26T15:38:05.000Z"
+        "publishedAt": "2020-11-26T15:38:05.000Z",
+        "id": 37
       },
       {
         "title": "Musik, Quiz, Start!",
-        "publishedAt": "2020-11-20T19:53:00.000Z"
+        "publishedAt": "2020-11-20T19:53:00.000Z",
+        "id": 38
       },
       {
         "title": "Et A-navn og en \u00f8m l\u00e6g",
-        "publishedAt": "2020-11-13T11:59:00.000Z"
+        "publishedAt": "2020-11-13T11:59:00.000Z",
+        "id": 39
       },
       {
         "title": "EGO",
-        "publishedAt": "2020-11-06T09:16:56.000Z"
+        "publishedAt": "2020-11-06T09:16:56.000Z",
+        "id": 40
       },
       {
         "title": "Sm\u00f8r og honning",
-        "publishedAt": "2020-10-29T15:51:00.000Z"
+        "publishedAt": "2020-10-29T15:51:00.000Z",
+        "id": 41
       },
       {
         "title": "Bestyrelsesm\u00f8de og en stor nyhed",
-        "publishedAt": "2020-10-22T17:54:00.000Z"
+        "publishedAt": "2020-10-22T17:54:00.000Z",
+        "id": 42
       },
       {
         "title": "Besat og bl\u00e6rebet\u00e6ndelse",
-        "publishedAt": "2020-10-15T17:14:50.000Z"
+        "publishedAt": "2020-10-15T17:14:50.000Z",
+        "id": 43
       },
       {
         "title": "Sv\u00e6re Snakke",
-        "publishedAt": "2020-10-08T09:54:20.557Z"
+        "publishedAt": "2020-10-08T09:54:20.557Z",
+        "id": 44
       },
       {
         "title": "Stilhed f\u00f8r stormen",
-        "publishedAt": "2020-10-01T18:34:31.643Z"
+        "publishedAt": "2020-10-01T18:34:31.643Z",
+        "id": 45
       },
       {
         "title": "En historisk bytur",
-        "publishedAt": "2020-09-25T11:03:00.000Z"
+        "publishedAt": "2020-09-25T11:03:00.000Z",
+        "id": 46
       },
       {
         "title": "Sv\u00e6re tider kr\u00e6ver nye sider",
-        "publishedAt": "2020-09-17T10:45:55.020Z"
+        "publishedAt": "2020-09-17T10:45:55.020Z",
+        "id": 47
       },
       {
         "title": "Tekniske udfordringer",
-        "publishedAt": "2020-09-10T20:22:22.717Z"
+        "publishedAt": "2020-09-10T20:22:22.717Z",
+        "id": 48
       },
       {
         "title": "Fokus",
-        "publishedAt": "2020-09-04T08:12:18.590Z"
+        "publishedAt": "2020-09-04T08:12:18.590Z",
+        "id": 49
       },
       {
         "title": "Det syder og bobler",
-        "publishedAt": "2020-08-27T10:26:52.487Z"
+        "publishedAt": "2020-08-27T10:26:52.487Z",
+        "id": 50
       },
       {
         "title": "Det hele ramler lidt",
-        "publishedAt": "2020-08-20T13:27:53.413Z"
+        "publishedAt": "2020-08-20T13:27:53.413Z",
+        "id": 51
       },
       {
         "title": "H\u00e5rde forhandlinger",
-        "publishedAt": "2020-08-14T12:09:32.730Z"
+        "publishedAt": "2020-08-14T12:09:32.730Z",
+        "id": 52
       },
       {
         "title": "Er du Proud?",
-        "publishedAt": "2020-08-07T08:53:23.900Z"
+        "publishedAt": "2020-08-07T08:53:23.900Z",
+        "id": 53
       },
       {
         "title": "M\u00f8det med missen",
-        "publishedAt": "2020-07-30T05:45:25.513Z"
+        "publishedAt": "2020-07-30T05:45:25.513Z",
+        "id": 54
       },
       {
         "title": "Store Kasser",
-        "publishedAt": "2020-07-24T15:06:00.000Z"
+        "publishedAt": "2020-07-24T15:06:00.000Z",
+        "id": 55
       },
       {
         "title": "Teknik Teknik Teknik",
-        "publishedAt": "2020-07-17T10:21:00.000Z"
+        "publishedAt": "2020-07-17T10:21:00.000Z",
+        "id": 56
       },
       {
         "title": "Feng Shui",
-        "publishedAt": "2020-07-10T09:40:00.000Z"
+        "publishedAt": "2020-07-10T09:40:00.000Z",
+        "id": 57
       },
       {
         "title": "Hvem Vogter Her?",
-        "publishedAt": "2020-07-02T13:17:35.973Z"
+        "publishedAt": "2020-07-02T13:17:35.973Z",
+        "id": 58
       },
       {
         "title": "De 3 P'er",
-        "publishedAt": "2020-06-26T07:45:13.290Z"
+        "publishedAt": "2020-06-26T07:45:13.290Z",
+        "id": 59
       },
       {
         "title": "Morgensutterne",
-        "publishedAt": "2020-06-20T22:23:00.000Z"
+        "publishedAt": "2020-06-20T22:23:00.000Z",
+        "id": 60
       },
       {
         "title": "En radio i st\u00f8beskeen",
-        "publishedAt": "2020-06-02T14:33:00.000Z"
+        "publishedAt": "2020-06-02T14:33:00.000Z",
+        "id": 61
       }
     ]
   },
@@ -897,7 +1117,8 @@
     "episodes": [
       {
         "title": "Fra Nordsj\u00e6lland eller K\u00f8benhavn",
-        "publishedAt": "2024-06-19T04:00:00.000Z"
+        "publishedAt": "2024-06-19T04:00:00.000Z",
+        "id": 1062
       }
     ]
   },
@@ -910,23 +1131,28 @@
     "episodes": [
       {
         "title": "Tid, lykkepiller og hjernerystelse",
-        "publishedAt": "2024-06-13T04:00:00.000Z"
+        "publishedAt": "2024-06-13T04:00:00.000Z",
+        "id": 1054
       },
       {
         "title": "Klokken Thai er tid til k\u00e6rlighed",
-        "publishedAt": "2024-06-06T04:00:00.000Z"
+        "publishedAt": "2024-06-06T04:00:00.000Z",
+        "id": 1045
       },
       {
         "title": "100% N\u00e6stek\u00e6rligheds-TEK-r8dio",
-        "publishedAt": "2024-05-30T04:00:00.000Z"
+        "publishedAt": "2024-05-30T04:00:00.000Z",
+        "id": 1032
       },
       {
         "title": "Autonome urmagere",
-        "publishedAt": "2024-05-23T04:00:00.000Z"
+        "publishedAt": "2024-05-23T04:00:00.000Z",
+        "id": 1023
       },
       {
         "title": "Henrik Plenge Jacobsen - klokken er kosmisk!",
-        "publishedAt": "2024-05-17T04:00:00.000Z"
+        "publishedAt": "2024-05-17T04:00:00.000Z",
+        "id": 1016
       }
     ]
   },
@@ -939,27 +1165,33 @@
     "episodes": [
       {
         "title": "Russisk roulette med \u00e6rlighed",
-        "publishedAt": "2024-03-28T05:00:00.000Z"
+        "publishedAt": "2024-03-28T05:00:00.000Z",
+        "id": 962
       },
       {
         "title": "Strangers in the Night",
-        "publishedAt": "2024-03-21T05:00:00.000Z"
+        "publishedAt": "2024-03-21T05:00:00.000Z",
+        "id": 951
       },
       {
         "title": "De andres sexliv",
-        "publishedAt": "2024-03-14T05:00:00.000Z"
+        "publishedAt": "2024-03-14T05:00:00.000Z",
+        "id": 940
       },
       {
         "title": "Ring til Livslinien p\u00e5 70 201 201",
-        "publishedAt": "2024-03-07T05:00:00.000Z"
+        "publishedAt": "2024-03-07T05:00:00.000Z",
+        "id": 920
       },
       {
         "title": "Skam-safari og Breiviks altan",
-        "publishedAt": "2024-02-29T08:49:00.067Z"
+        "publishedAt": "2024-02-29T08:49:00.067Z",
+        "id": 909
       },
       {
         "title": "WAUW!",
-        "publishedAt": "2024-02-22T05:00:00.000Z"
+        "publishedAt": "2024-02-22T05:00:00.000Z",
+        "id": 898
       }
     ]
   },
@@ -972,55 +1204,68 @@
     "episodes": [
       {
         "title": "Christina Rosendahl",
-        "publishedAt": "2024-06-18T04:00:00.000Z"
+        "publishedAt": "2024-06-18T04:00:00.000Z",
+        "id": 1061
       },
       {
         "title": "Rasmus Bruun LIVE fra Heartland",
-        "publishedAt": "2024-06-13T16:36:14.703Z"
+        "publishedAt": "2024-06-13T16:36:14.703Z",
+        "id": 1055
       },
       {
         "title": "S\u00f8ren Ryge Petersen",
-        "publishedAt": "2024-06-04T04:00:00.000Z"
+        "publishedAt": "2024-06-04T04:00:00.000Z",
+        "id": 1042
       },
       {
         "title": "Jytte Vikkels\u00f8e",
-        "publishedAt": "2024-04-09T04:00:00.000Z"
+        "publishedAt": "2024-04-09T04:00:00.000Z",
+        "id": 976
       },
       {
         "title": "Nadine Levy Redzepi",
-        "publishedAt": "2024-04-02T04:00:00.000Z"
+        "publishedAt": "2024-04-02T04:00:00.000Z",
+        "id": 968
       },
       {
         "title": "Umut Sakarya",
-        "publishedAt": "2024-03-26T05:00:00.000Z"
+        "publishedAt": "2024-03-26T05:00:00.000Z",
+        "id": 959
       },
       {
         "title": "Chris Pedersen",
-        "publishedAt": "2024-03-19T05:00:00.000Z"
+        "publishedAt": "2024-03-19T05:00:00.000Z",
+        "id": 948
       },
       {
         "title": "Andrea Elisabeth Rudolph",
-        "publishedAt": "2024-03-12T05:00:00.000Z"
+        "publishedAt": "2024-03-12T05:00:00.000Z",
+        "id": 933
       },
       {
         "title": "Anders Morgenthaler",
-        "publishedAt": "2024-03-05T05:00:00.000Z"
+        "publishedAt": "2024-03-05T05:00:00.000Z",
+        "id": 918
       },
       {
         "title": "Lotte Tegner Freddie",
-        "publishedAt": "2024-02-27T05:00:00.000Z"
+        "publishedAt": "2024-02-27T05:00:00.000Z",
+        "id": 906
       },
       {
         "title": "Jesper Stein",
-        "publishedAt": "2024-02-20T05:00:00.000Z"
+        "publishedAt": "2024-02-20T05:00:00.000Z",
+        "id": 895
       },
       {
         "title": "Sharin Foo",
-        "publishedAt": "2024-02-13T05:00:00.000Z"
+        "publishedAt": "2024-02-13T05:00:00.000Z",
+        "id": 885
       },
       {
         "title": "Thomas Korsgaard",
-        "publishedAt": "2024-02-06T05:00:00.000Z"
+        "publishedAt": "2024-02-06T05:00:00.000Z",
+        "id": 873
       }
     ]
   },
@@ -1033,35 +1278,43 @@
     "episodes": [
       {
         "title": "Lykken sv\u00e6ver over efterskolen",
-        "publishedAt": "2024-06-10T10:00:00.000Z"
+        "publishedAt": "2024-06-10T10:00:00.000Z",
+        "id": 1051
       },
       {
         "title": "H\u00e6se sangstemmer og noget om pinsen",
-        "publishedAt": "2024-05-27T11:55:53.953Z"
+        "publishedAt": "2024-05-27T11:55:53.953Z",
+        "id": 1029
       },
       {
         "title": "K\u00e6rlighedssange p\u00e5 en gr\u00e5 mandag",
-        "publishedAt": "2024-05-07T12:25:25.283Z"
+        "publishedAt": "2024-05-07T12:25:25.283Z",
+        "id": 1006
       },
       {
         "title": "En god gang fransk eksistentialisme",
-        "publishedAt": "2024-04-22T12:43:48.477Z"
+        "publishedAt": "2024-04-22T12:43:48.477Z",
+        "id": 990
       },
       {
         "title": "Et dystert emne p\u00e5 en lys for\u00e5rs dag",
-        "publishedAt": "2024-04-08T14:21:03.600Z"
+        "publishedAt": "2024-04-08T14:21:03.600Z",
+        "id": 975
       },
       {
         "title": "L\u00f8gneren og kanonen",
-        "publishedAt": "2024-03-18T11:00:00.000Z"
+        "publishedAt": "2024-03-18T11:00:00.000Z",
+        "id": 947
       },
       {
         "title": "For\u00e5r i luften",
-        "publishedAt": "2024-03-04T11:00:00.000Z"
+        "publishedAt": "2024-03-04T11:00:00.000Z",
+        "id": 916
       },
       {
         "title": "Grundtvig og Kierkegaard",
-        "publishedAt": "2024-01-22T10:30:10.320Z"
+        "publishedAt": "2024-01-22T10:30:10.320Z",
+        "id": 849
       }
     ]
   },
@@ -1074,87 +1327,108 @@
     "episodes": [
       {
         "title": "Na\u030ar b\u00f8lgerne ga\u030ar h\u00f8jt",
-        "publishedAt": "2024-06-14T14:00:00.000Z"
+        "publishedAt": "2024-06-14T14:00:00.000Z",
+        "id": 1057
       },
       {
         "title": "Politik, tak!",
-        "publishedAt": "2024-06-07T14:15:00.000Z"
+        "publishedAt": "2024-06-07T14:15:00.000Z",
+        "id": 1047
       },
       {
         "title": "Den sorte svane",
-        "publishedAt": "2024-05-31T14:15:00.000Z"
+        "publishedAt": "2024-05-31T14:15:00.000Z",
+        "id": 1034
       },
       {
         "title": "Face/OFF",
-        "publishedAt": "2024-05-24T14:00:00.000Z"
+        "publishedAt": "2024-05-24T14:00:00.000Z",
+        "id": 1025
       },
       {
         "title": "Galla og gamle flammer",
-        "publishedAt": "2024-05-17T14:10:00.000Z"
+        "publishedAt": "2024-05-17T14:10:00.000Z",
+        "id": 1018
       },
       {
         "title": "Pallietter og powerbanks",
-        "publishedAt": "2024-05-14T15:00:00.000Z"
+        "publishedAt": "2024-05-14T15:00:00.000Z",
+        "id": 1014
       },
       {
         "title": "Haj med dig",
-        "publishedAt": "2024-05-03T14:15:00.000Z"
+        "publishedAt": "2024-05-03T14:15:00.000Z",
+        "id": 1001
       },
       {
         "title": "Den tredje erkendelse",
-        "publishedAt": "2024-04-26T14:15:00.000Z"
+        "publishedAt": "2024-04-26T14:15:00.000Z",
+        "id": 993
       },
       {
         "title": "B\u00e5l, brand og ballade",
-        "publishedAt": "2024-04-19T14:18:00.000Z"
+        "publishedAt": "2024-04-19T14:18:00.000Z",
+        "id": 986
       },
       {
         "title": "Mink mig her, mink mig der",
-        "publishedAt": "2024-04-12T14:10:00.000Z"
+        "publishedAt": "2024-04-12T14:10:00.000Z",
+        "id": 980
       },
       {
         "title": "Et dementi",
-        "publishedAt": "2024-04-05T14:00:00.000Z"
+        "publishedAt": "2024-04-05T14:00:00.000Z",
+        "id": 971
       },
       {
         "title": "Klavs Tyndfed",
-        "publishedAt": "2024-03-22T15:00:00.000Z"
+        "publishedAt": "2024-03-22T15:00:00.000Z",
+        "id": 953
       },
       {
         "title": "HVOR ER KATE?",
-        "publishedAt": "2024-03-15T15:00:00.000Z"
+        "publishedAt": "2024-03-15T15:00:00.000Z",
+        "id": 943
       },
       {
         "title": "Hvilken dag er din kampdag?",
-        "publishedAt": "2024-03-08T15:00:00.000Z"
+        "publishedAt": "2024-03-08T15:00:00.000Z",
+        "id": 924
       },
       {
         "title": "Heja Sverige",
-        "publishedAt": "2024-03-01T15:00:00.000Z"
+        "publishedAt": "2024-03-01T15:00:00.000Z",
+        "id": 911
       },
       {
         "title": "Hvor er min haveparasol?",
-        "publishedAt": "2024-02-23T15:00:00.000Z"
+        "publishedAt": "2024-02-23T15:00:00.000Z",
+        "id": 900
       },
       {
         "title": "Du skal ikke snakke s\u00e5dan om min mor",
-        "publishedAt": "2024-02-16T15:14:31.603Z"
+        "publishedAt": "2024-02-16T15:14:31.603Z",
+        "id": 890
       },
       {
         "title": "Du kan bare mute mig",
-        "publishedAt": "2024-02-09T16:15:16.867Z"
+        "publishedAt": "2024-02-09T16:15:16.867Z",
+        "id": 880
       },
       {
         "title": "Girl math og Euro Jackpot",
-        "publishedAt": "2024-02-02T15:18:00.000Z"
+        "publishedAt": "2024-02-02T15:18:00.000Z",
+        "id": 868
       },
       {
         "title": "Skrald",
-        "publishedAt": "2024-01-26T15:24:37.037Z"
+        "publishedAt": "2024-01-26T15:24:37.037Z",
+        "id": 858
       },
       {
         "title": "Royalt, royalt og mere royalt",
-        "publishedAt": "2024-01-19T15:35:00.000Z"
+        "publishedAt": "2024-01-19T15:35:00.000Z",
+        "id": 843
       }
     ]
   },
@@ -1167,47 +1441,58 @@
     "episodes": [
       {
         "title": "11. cigaret",
-        "publishedAt": "2024-03-20T05:00:00.000Z"
+        "publishedAt": "2024-03-20T05:00:00.000Z",
+        "id": 950
       },
       {
         "title": "10. cigaret",
-        "publishedAt": "2024-03-13T05:00:00.000Z"
+        "publishedAt": "2024-03-13T05:00:00.000Z",
+        "id": 936
       },
       {
         "title": "9. cigaret",
-        "publishedAt": "2024-03-06T05:00:00.000Z"
+        "publishedAt": "2024-03-06T05:00:00.000Z",
+        "id": 919
       },
       {
         "title": "8. cigaret",
-        "publishedAt": "2024-02-28T05:00:00.000Z"
+        "publishedAt": "2024-02-28T05:00:00.000Z",
+        "id": 907
       },
       {
         "title": "7. cigaret (King Size)",
-        "publishedAt": "2024-02-21T05:00:00.000Z"
+        "publishedAt": "2024-02-21T05:00:00.000Z",
+        "id": 897
       },
       {
         "title": "6. cigaret",
-        "publishedAt": "2024-02-14T05:00:00.000Z"
+        "publishedAt": "2024-02-14T05:00:00.000Z",
+        "id": 886
       },
       {
         "title": "5. cigaret",
-        "publishedAt": "2024-02-07T05:00:00.000Z"
+        "publishedAt": "2024-02-07T05:00:00.000Z",
+        "id": 874
       },
       {
         "title": "4. cigaret",
-        "publishedAt": "2024-01-31T15:20:00.000Z"
+        "publishedAt": "2024-01-31T15:20:00.000Z",
+        "id": 866
       },
       {
         "title": "3. cigaret",
-        "publishedAt": "2024-01-24T15:27:53.400Z"
+        "publishedAt": "2024-01-24T15:27:53.400Z",
+        "id": 854
       },
       {
         "title": "2. cigaret",
-        "publishedAt": "2024-01-17T15:43:42.727Z"
+        "publishedAt": "2024-01-17T15:43:42.727Z",
+        "id": 839
       },
       {
         "title": "1. cigaret",
-        "publishedAt": "2024-01-10T15:32:52.987Z"
+        "publishedAt": "2024-01-10T15:32:52.987Z",
+        "id": 825
       }
     ]
   },
@@ -1220,99 +1505,123 @@
     "episodes": [
       {
         "title": "Thomas Berg",
-        "publishedAt": "2024-06-15T04:00:00.000Z"
+        "publishedAt": "2024-06-15T04:00:00.000Z",
+        "id": 1058
       },
       {
         "title": "Kurt Nielsen",
-        "publishedAt": "2024-06-08T04:00:00.000Z"
+        "publishedAt": "2024-06-08T04:00:00.000Z",
+        "id": 1048
       },
       {
         "title": "Umut Sakarya",
-        "publishedAt": "2024-06-01T07:20:13.250Z"
+        "publishedAt": "2024-06-01T07:20:13.250Z",
+        "id": 1038
       },
       {
         "title": "Josefine Tugsen",
-        "publishedAt": "2024-05-25T04:00:00.000Z"
+        "publishedAt": "2024-05-25T04:00:00.000Z",
+        "id": 1026
       },
       {
         "title": "Thomas Guffi",
-        "publishedAt": "2024-05-18T04:00:00.000Z"
+        "publishedAt": "2024-05-18T04:00:00.000Z",
+        "id": 1019
       },
       {
         "title": "Jacob Haugaard",
-        "publishedAt": "2024-05-11T04:00:00.000Z"
+        "publishedAt": "2024-05-11T04:00:00.000Z",
+        "id": 1010
       },
       {
         "title": "Kristian Ditlev Jensen",
-        "publishedAt": "2024-05-04T04:00:00.000Z"
+        "publishedAt": "2024-05-04T04:00:00.000Z",
+        "id": 1002
       },
       {
         "title": "Patrick Simiglai",
-        "publishedAt": "2024-04-27T04:00:00.000Z"
+        "publishedAt": "2024-04-27T04:00:00.000Z",
+        "id": 994
       },
       {
         "title": "Stefan Pagels",
-        "publishedAt": "2024-04-20T04:00:00.000Z"
+        "publishedAt": "2024-04-20T04:00:00.000Z",
+        "id": 987
       },
       {
         "title": "Jesper Skibby",
-        "publishedAt": "2024-04-13T04:00:00.000Z"
+        "publishedAt": "2024-04-13T04:00:00.000Z",
+        "id": 981
       },
       {
         "title": "Thomas Warberg",
-        "publishedAt": "2024-04-06T04:00:00.000Z"
+        "publishedAt": "2024-04-06T04:00:00.000Z",
+        "id": 972
       },
       {
         "title": "Sigurd Bergan",
-        "publishedAt": "2024-03-30T05:00:00.000Z"
+        "publishedAt": "2024-03-30T05:00:00.000Z",
+        "id": 964
       },
       {
         "title": "Babar Siddiqi",
-        "publishedAt": "2024-03-23T05:00:00.000Z"
+        "publishedAt": "2024-03-23T05:00:00.000Z",
+        "id": 954
       },
       {
         "title": "Niels 'Niarn' Roos",
-        "publishedAt": "2024-03-16T05:00:00.000Z"
+        "publishedAt": "2024-03-16T05:00:00.000Z",
+        "id": 944
       },
       {
         "title": "Jesper Cubbin",
-        "publishedAt": "2024-03-09T05:00:00.000Z"
+        "publishedAt": "2024-03-09T05:00:00.000Z",
+        "id": 925
       },
       {
         "title": "Jes Busk",
-        "publishedAt": "2024-03-02T05:00:00.000Z"
+        "publishedAt": "2024-03-02T05:00:00.000Z",
+        "id": 912
       },
       {
         "title": "Jean Von Baden",
-        "publishedAt": "2024-02-24T05:00:00.000Z"
+        "publishedAt": "2024-02-24T05:00:00.000Z",
+        "id": 901
       },
       {
         "title": "S\u00f8ren E. Jensen",
-        "publishedAt": "2024-02-17T05:00:00.000Z"
+        "publishedAt": "2024-02-17T05:00:00.000Z",
+        "id": 891
       },
       {
         "title": "Bent Bundgaard",
-        "publishedAt": "2024-02-10T05:00:00.000Z"
+        "publishedAt": "2024-02-10T05:00:00.000Z",
+        "id": 881
       },
       {
         "title": "Allan Olsen",
-        "publishedAt": "2024-02-03T10:00:00.000Z"
+        "publishedAt": "2024-02-03T10:00:00.000Z",
+        "id": 869
       },
       {
         "title": "Mathilde Falch",
-        "publishedAt": "2024-01-27T10:00:22.770Z"
+        "publishedAt": "2024-01-27T10:00:22.770Z",
+        "id": 860
       },
       {
         "title": "Thomas Bo Larsen",
-        "publishedAt": "2024-01-20T10:03:58.550Z"
+        "publishedAt": "2024-01-20T10:03:58.550Z",
+        "id": 844
       },
       {
         "title": "Carsten Sand",
-        "publishedAt": "2024-01-13T10:05:35.123Z"
+        "publishedAt": "2024-01-13T10:05:35.123Z",
+        "id": 832
       },
       {
         "title": "Jes Dorph Petersen",
-        "publishedAt": "2024-01-06T15:57:00.000Z"
+        "publishedAt": "2024-01-06T15:57:00.000Z",
+        "id": 822
       }
     ]
   },
@@ -1325,27 +1634,33 @@
     "episodes": [
       {
         "title": "Flemming Rose",
-        "publishedAt": "2024-01-25T16:11:56.527Z"
+        "publishedAt": "2024-01-25T16:11:56.527Z",
+        "id": 856
       },
       {
         "title": "Jan \u00d8berg",
-        "publishedAt": "2024-01-18T15:56:49.723Z"
+        "publishedAt": "2024-01-18T15:56:49.723Z",
+        "id": 841
       },
       {
         "title": "Thorkild Kj\u00e6rgaard",
-        "publishedAt": "2024-01-11T15:58:50.113Z"
+        "publishedAt": "2024-01-11T15:58:50.113Z",
+        "id": 828
       },
       {
         "title": "Hans Mouritzen",
-        "publishedAt": "2024-01-04T15:51:54.023Z"
+        "publishedAt": "2024-01-04T15:51:54.023Z",
+        "id": 819
       },
       {
         "title": "Monica Papazu",
-        "publishedAt": "2023-12-28T16:06:04.637Z"
+        "publishedAt": "2023-12-28T16:06:04.637Z",
+        "id": 813
       },
       {
         "title": "Jens J\u00f8rgen Nielsen",
-        "publishedAt": "2023-12-21T15:58:40.787Z"
+        "publishedAt": "2023-12-21T15:58:40.787Z",
+        "id": 806
       }
     ]
   },
@@ -1358,51 +1673,63 @@
     "episodes": [
       {
         "title": "Ole Aakj\u00e6r",
-        "publishedAt": "2024-02-25T05:00:00.000Z"
+        "publishedAt": "2024-02-25T05:00:00.000Z",
+        "id": 903
       },
       {
         "title": "J\u00f8rgen Popp Petersen",
-        "publishedAt": "2024-02-19T05:00:00.000Z"
+        "publishedAt": "2024-02-19T05:00:00.000Z",
+        "id": 893
       },
       {
         "title": "J\u00f8rgen B\u00f8ytler",
-        "publishedAt": "2024-02-12T11:10:27.547Z"
+        "publishedAt": "2024-02-12T11:10:27.547Z",
+        "id": 884
       },
       {
         "title": "Anders Gerner Frost",
-        "publishedAt": "2024-01-29T15:32:00.000Z"
+        "publishedAt": "2024-01-29T15:32:00.000Z",
+        "id": 864
       },
       {
         "title": "Lasse Bekker",
-        "publishedAt": "2024-01-22T15:36:27.583Z"
+        "publishedAt": "2024-01-22T15:36:27.583Z",
+        "id": 850
       },
       {
         "title": "Sanne Brodersen",
-        "publishedAt": "2024-01-15T15:42:25.687Z"
+        "publishedAt": "2024-01-15T15:42:25.687Z",
+        "id": 836
       },
       {
         "title": "Ren\u00e9 S\u00f8gaard",
-        "publishedAt": "2024-01-08T15:19:28.257Z"
+        "publishedAt": "2024-01-08T15:19:28.257Z",
+        "id": 823
       },
       {
         "title": "Hans Rottb\u00f8ll",
-        "publishedAt": "2024-01-03T15:38:22.283Z"
+        "publishedAt": "2024-01-03T15:38:22.283Z",
+        "id": 818
       },
       {
         "title": "Leif Maibom",
-        "publishedAt": "2023-12-25T15:55:45.830Z"
+        "publishedAt": "2023-12-25T15:55:45.830Z",
+        "id": 811
       },
       {
         "title": "Keld Hansen",
-        "publishedAt": "2023-12-18T15:43:37.740Z"
+        "publishedAt": "2023-12-18T15:43:37.740Z",
+        "id": 801
       },
       {
         "title": "S\u00f8ren Sarup",
-        "publishedAt": "2023-12-11T15:36:59.230Z"
+        "publishedAt": "2023-12-11T15:36:59.230Z",
+        "id": 787
       },
       {
         "title": "Per B\u00f8dker Andersen",
-        "publishedAt": "2023-12-04T15:48:36.083Z"
+        "publishedAt": "2023-12-04T15:48:36.083Z",
+        "id": 772
       }
     ]
   },
@@ -1415,19 +1742,23 @@
     "episodes": [
       {
         "title": "22. december",
-        "publishedAt": "2023-12-22T16:01:18.990Z"
+        "publishedAt": "2023-12-22T16:01:18.990Z",
+        "id": 809
       },
       {
         "title": "15. december",
-        "publishedAt": "2023-12-15T15:35:26.090Z"
+        "publishedAt": "2023-12-15T15:35:26.090Z",
+        "id": 796
       },
       {
         "title": "8. december",
-        "publishedAt": "2023-12-08T15:57:28.223Z"
+        "publishedAt": "2023-12-08T15:57:28.223Z",
+        "id": 783
       },
       {
         "title": "1. december",
-        "publishedAt": "2023-12-01T16:27:06.453Z"
+        "publishedAt": "2023-12-01T16:27:06.453Z",
+        "id": 767
       }
     ]
   },
@@ -1440,67 +1771,83 @@
     "episodes": [
       {
         "title": "Med hjertet i h\u00e5nden\u2019 med Liv Helm",
-        "publishedAt": "2024-06-12T04:00:00.000Z"
+        "publishedAt": "2024-06-12T04:00:00.000Z",
+        "id": 1052
       },
       {
         "title": "'Mod midnatssolen\u2019 med Dy Plambeck",
-        "publishedAt": "2024-05-29T04:00:00.000Z"
+        "publishedAt": "2024-05-29T04:00:00.000Z",
+        "id": 1031
       },
       {
         "title": "\u2019Brystets biografi\u2019 med Mette Byriel-Thygesen",
-        "publishedAt": "2024-05-15T04:00:00.000Z"
+        "publishedAt": "2024-05-15T04:00:00.000Z",
+        "id": 1015
       },
       {
         "title": "Heste-special: \u2019Kirstens h\u00e6vn\u2019 og \u2019Hvad jeg ved om kvinder p\u00e5 heste\u2019",
-        "publishedAt": "2024-05-01T04:00:00.000Z"
+        "publishedAt": "2024-05-01T04:00:00.000Z",
+        "id": 997
       },
       {
         "title": "\u2019Varme h\u00e6nder\u2019 med Stine Askov",
-        "publishedAt": "2024-04-17T04:00:00.000Z"
+        "publishedAt": "2024-04-17T04:00:00.000Z",
+        "id": 984
       },
       {
         "title": "\u2019Djinn\u2019 med Elias Sadaq",
-        "publishedAt": "2024-04-03T04:00:00.000Z"
+        "publishedAt": "2024-04-03T04:00:00.000Z",
+        "id": 969
       },
       {
         "title": "P\u00e5 Krimimessen med Ole Christian Madsen, Lisa Holmfjord og Walther Rebernik",
-        "publishedAt": "2024-03-20T05:00:00.000Z"
+        "publishedAt": "2024-03-20T05:00:00.000Z",
+        "id": 949
       },
       {
         "title": "\u2019Generationen, der skal redde verden \u2013 med lidt hj\u00e6lp fra os andre\u2019 med Emilia van Hauen",
-        "publishedAt": "2024-02-21T05:00:00.000Z"
+        "publishedAt": "2024-02-21T05:00:00.000Z",
+        "id": 896
       },
       {
         "title": "'\u00d8velser i m\u00f8rke\u2019 med Naja Marie Aidt",
-        "publishedAt": "2024-02-07T05:00:00.000Z"
+        "publishedAt": "2024-02-07T05:00:00.000Z",
+        "id": 875
       },
       {
         "title": "\u2019UFO-Mysteriet\u2019 med Frederik Dirks Gottlieb",
-        "publishedAt": "2024-01-24T16:25:00.000Z"
+        "publishedAt": "2024-01-24T16:25:00.000Z",
+        "id": 855
       },
       {
         "title": "\u2019Jeg h\u00f8rer, hvad du siger\u2019 med Katrine Marie Guldager",
-        "publishedAt": "2024-01-10T16:30:00.000Z"
+        "publishedAt": "2024-01-10T16:30:00.000Z",
+        "id": 826
       },
       {
         "title": "\u2019Lysets v\u00e5ben\u2019 af Ken Follett med Camilla Boraghi og Line Kirsten Nikolajsen",
-        "publishedAt": "2023-12-22T13:05:00.000Z"
+        "publishedAt": "2023-12-22T13:05:00.000Z",
+        "id": 808
       },
       {
         "title": "\u2019Hundens bog\u2019 af Hella Joof og Ellen Hillings\u00f8 \u2013 med Line Knutzon og Anette R\u00f8pke",
-        "publishedAt": "2023-12-15T13:05:00.000Z"
+        "publishedAt": "2023-12-15T13:05:00.000Z",
+        "id": 795
       },
       {
         "title": "\u2019Den fantastiske bus\u2019 \u2013 Med Ida Dybdahl og Marianne Eskeb\u00e6k Larsen",
-        "publishedAt": "2023-12-08T13:00:00.000Z"
+        "publishedAt": "2023-12-08T13:00:00.000Z",
+        "id": 782
       },
       {
         "title": "Kristian Bang Foss om \u2019Manden der bar solen\u2019",
-        "publishedAt": "2023-12-01T13:15:00.000Z"
+        "publishedAt": "2023-12-01T13:15:00.000Z",
+        "id": 766
       },
       {
         "title": "'Dem der ikke tier' med Peter \u00d8vig og Oskar Plougmand",
-        "publishedAt": "2023-11-24T13:03:57.997Z"
+        "publishedAt": "2023-11-24T13:03:57.997Z",
+        "id": 757
       }
     ]
   },
@@ -1513,43 +1860,53 @@
     "episodes": [
       {
         "title": "Halfdanskere at Skibby Bio",
-        "publishedAt": "2024-01-30T20:02:52.453Z"
+        "publishedAt": "2024-01-30T20:02:52.453Z",
+        "id": 865
       },
       {
         "title": "The best buddy of Fyn",
-        "publishedAt": "2024-01-23T15:17:57.097Z"
+        "publishedAt": "2024-01-23T15:17:57.097Z",
+        "id": 851
       },
       {
         "title": "A cup of coffee for the Queen",
-        "publishedAt": "2024-01-16T15:24:37.707Z"
+        "publishedAt": "2024-01-16T15:24:37.707Z",
+        "id": 838
       },
       {
         "title": "Along the Inlet and Pond 2024",
-        "publishedAt": "2024-01-09T15:22:15.643Z"
+        "publishedAt": "2024-01-09T15:22:15.643Z",
+        "id": 824
       },
       {
         "title": "Who was Jesus?",
-        "publishedAt": "2023-12-19T12:26:27.193Z"
+        "publishedAt": "2023-12-19T12:26:27.193Z",
+        "id": 802
       },
       {
         "title": "Not just any car dealer",
-        "publishedAt": "2023-12-12T15:22:36.400Z"
+        "publishedAt": "2023-12-12T15:22:36.400Z",
+        "id": 789
       },
       {
         "title": "From Slangerup to Argentina",
-        "publishedAt": "2023-12-05T12:27:13.157Z"
+        "publishedAt": "2023-12-05T12:27:13.157Z",
+        "id": 773
       },
       {
         "title": "Gotta Catch 'Em All",
-        "publishedAt": "2023-11-28T12:27:21.820Z"
+        "publishedAt": "2023-11-28T12:27:21.820Z",
+        "id": 759
       },
       {
         "title": "The art of B\u00f8fsandwich",
-        "publishedAt": "2023-11-21T12:27:03.420Z"
+        "publishedAt": "2023-11-21T12:27:03.420Z",
+        "id": 751
       },
       {
         "title": "Grooming for a lifestyle",
-        "publishedAt": "2023-11-14T12:25:00.000Z"
+        "publishedAt": "2023-11-14T12:25:00.000Z",
+        "id": 745
       }
     ]
   },
@@ -1562,151 +1919,188 @@
     "episodes": [
       {
         "title": "Mod Bakkens Hvile 4: cyklisten og stalkeren",
-        "publishedAt": "2024-06-16T04:00:00.000Z"
+        "publishedAt": "2024-06-16T04:00:00.000Z",
+        "id": 1059
       },
       {
         "title": "Mod Bakkens Hvile 3: Bandagisten og Bj\u00e6lkehuset",
-        "publishedAt": "2024-06-09T04:00:00.000Z"
+        "publishedAt": "2024-06-09T04:00:00.000Z",
+        "id": 1049
       },
       {
         "title": "Mod Bakkens Hvile 2: David og Abdel",
-        "publishedAt": "2024-06-02T04:00:00.000Z"
+        "publishedAt": "2024-06-02T04:00:00.000Z",
+        "id": 1039
       },
       {
         "title": "Mod Bakkens Hvile 1: Bj\u00f8rnek\u00e6lderen",
-        "publishedAt": "2024-05-26T04:00:00.000Z"
+        "publishedAt": "2024-05-26T04:00:00.000Z",
+        "id": 1027
       },
       {
         "title": "Kirstens betragtninger",
-        "publishedAt": "2024-05-19T04:00:00.000Z"
+        "publishedAt": "2024-05-19T04:00:00.000Z",
+        "id": 1020
       },
       {
         "title": "Kirstens Tycho Brahes-dag",
-        "publishedAt": "2024-05-12T10:58:12.383Z"
+        "publishedAt": "2024-05-12T10:58:12.383Z",
+        "id": 1011
       },
       {
         "title": "En doven nikker",
-        "publishedAt": "2024-05-05T04:00:00.000Z"
+        "publishedAt": "2024-05-05T04:00:00.000Z",
+        "id": 1003
       },
       {
         "title": "Jeg har ADHD",
-        "publishedAt": "2024-04-28T04:00:00.000Z"
+        "publishedAt": "2024-04-28T04:00:00.000Z",
+        "id": 995
       },
       {
         "title": "'Mennesket er fra Afrika'",
-        "publishedAt": "2024-04-21T04:00:00.000Z"
+        "publishedAt": "2024-04-21T04:00:00.000Z",
+        "id": 988
       },
       {
         "title": "Oles nye autobil",
-        "publishedAt": "2024-04-14T04:00:00.000Z"
+        "publishedAt": "2024-04-14T04:00:00.000Z",
+        "id": 982
       },
       {
         "title": "Ulovlig, usjov satire",
-        "publishedAt": "2024-04-07T04:00:00.000Z"
+        "publishedAt": "2024-04-07T04:00:00.000Z",
+        "id": 973
       },
       {
         "title": "Alene i vildmarken",
-        "publishedAt": "2024-03-24T05:00:00.000Z"
+        "publishedAt": "2024-03-24T05:00:00.000Z",
+        "id": 955
       },
       {
         "title": "Kirsten rejser med Rasmus 10: En sort, hvid penis",
-        "publishedAt": "2024-03-13T18:00:00.000Z"
+        "publishedAt": "2024-03-13T18:00:00.000Z",
+        "id": 938
       },
       {
         "title": "Kirsten rejser med Rasmus 9: Herren er en guitar",
-        "publishedAt": "2024-03-13T12:00:00.000Z"
+        "publishedAt": "2024-03-13T12:00:00.000Z",
+        "id": 937
       },
       {
         "title": "Kirsten rejser med Rasmus 8: Hun blev aldrig f\u00e6rdig med sig selv",
-        "publishedAt": "2024-03-12T18:00:00.000Z"
+        "publishedAt": "2024-03-12T18:00:00.000Z",
+        "id": 935
       },
       {
         "title": "Kirsten rejser med Rasmus 7: Terninger",
-        "publishedAt": "2024-03-12T10:55:39.753Z"
+        "publishedAt": "2024-03-12T10:55:39.753Z",
+        "id": 934
       },
       {
         "title": "Kirsten rejser med Rasmus 6: Som en mor for dig",
-        "publishedAt": "2024-03-11T09:00:00.000Z"
+        "publishedAt": "2024-03-11T09:00:00.000Z",
+        "id": 932
       },
       {
         "title": "Kirsten rejser med Rasmus 5: Lyst til noget s\u00f8dt",
-        "publishedAt": "2024-03-10T12:54:03.157Z"
+        "publishedAt": "2024-03-10T12:54:03.157Z",
+        "id": 930
       },
       {
         "title": "Kirsten rejser med Rasmus 4: En 'passen p\u00e5'",
-        "publishedAt": "2024-03-09T12:55:00.000Z"
+        "publishedAt": "2024-03-09T12:55:00.000Z",
+        "id": 927
       },
       {
         "title": "Kirsten rejser med Rasmus 3: Muslinger",
-        "publishedAt": "2024-03-09T12:35:00.000Z"
+        "publishedAt": "2024-03-09T12:35:00.000Z",
+        "id": 926
       },
       {
         "title": "Kirsten rejser med Rasmus 2: Keep clam",
-        "publishedAt": "2024-03-08T09:00:00.000Z"
+        "publishedAt": "2024-03-08T09:00:00.000Z",
+        "id": 923
       },
       {
         "title": "Kirsten rejser med Rasmus 1: Au pair",
-        "publishedAt": "2024-03-07T07:00:00.000Z"
+        "publishedAt": "2024-03-07T07:00:00.000Z",
+        "id": 921
       },
       {
         "title": "Tekniske issues",
-        "publishedAt": "2024-03-03T05:00:00.000Z"
+        "publishedAt": "2024-03-03T05:00:00.000Z",
+        "id": 913
       },
       {
         "title": "Kirstens sm\u00e5borgerlige dag",
-        "publishedAt": "2024-02-25T16:02:48.350Z"
+        "publishedAt": "2024-02-25T16:02:48.350Z",
+        "id": 902
       },
       {
         "title": "Kunstig intelligens;  naturlig dumhed",
-        "publishedAt": "2024-02-18T14:28:15.720Z"
+        "publishedAt": "2024-02-18T14:28:15.720Z",
+        "id": 892
       },
       {
         "title": "Kirsten ringer ikke til Rasmus",
-        "publishedAt": "2024-02-08T05:00:00.000Z"
+        "publishedAt": "2024-02-08T05:00:00.000Z",
+        "id": 877
       },
       {
         "title": "Herskerteknik og pistacien\u00f8dder",
-        "publishedAt": "2024-02-04T12:26:34.793Z"
+        "publishedAt": "2024-02-04T12:26:34.793Z",
+        "id": 870
       },
       {
         "title": "Upopul\u00e6re principper",
-        "publishedAt": "2024-01-28T10:52:13.500Z"
+        "publishedAt": "2024-01-28T10:52:13.500Z",
+        "id": 861
       },
       {
         "title": "Verdensmesterskaberne i at have ret",
-        "publishedAt": "2024-01-21T11:10:57.570Z"
+        "publishedAt": "2024-01-21T11:10:57.570Z",
+        "id": 846
       },
       {
         "title": "Hvordan g\u00e5r det Madeira?",
-        "publishedAt": "2024-01-14T11:41:39.723Z"
+        "publishedAt": "2024-01-14T11:41:39.723Z",
+        "id": 834
       },
       {
         "title": "S\u00e5 gik der tid med det",
-        "publishedAt": "2024-01-06T10:33:24.517Z"
+        "publishedAt": "2024-01-06T10:33:24.517Z",
+        "id": 821
       },
       {
         "title": "Hva' siger du, Karsten Birgit?!",
-        "publishedAt": "2023-12-16T15:15:01.317Z"
+        "publishedAt": "2023-12-16T15:15:01.317Z",
+        "id": 798
       },
       {
         "title": "Goddamn respect",
-        "publishedAt": "2023-12-07T18:12:20.177Z"
+        "publishedAt": "2023-12-07T18:12:20.177Z",
+        "id": 779
       },
       {
         "title": "Her er koldt her i mineskakten",
-        "publishedAt": "2023-11-30T13:26:28.117Z"
+        "publishedAt": "2023-11-30T13:26:28.117Z",
+        "id": 763
       },
       {
         "title": "Det' skide lige meget",
-        "publishedAt": "2023-11-23T13:14:55.473Z"
+        "publishedAt": "2023-11-23T13:14:55.473Z",
+        "id": 754
       },
       {
         "title": "Sidder og f\u00e5r mig en BMO",
-        "publishedAt": "2023-11-18T10:04:09.230Z"
+        "publishedAt": "2023-11-18T10:04:09.230Z",
+        "id": 749
       },
       {
         "title": "Kirsten ringer til Rasmus",
-        "publishedAt": "2023-11-10T06:00:00.000Z"
+        "publishedAt": "2023-11-10T06:00:00.000Z",
+        "id": 742
       }
     ]
   },
@@ -1719,11 +2113,13 @@
     "episodes": [
       {
         "title": "Sagaen om r8Dio - anden del",
-        "publishedAt": "2023-09-25T13:34:26.000Z"
+        "publishedAt": "2023-09-25T13:34:26.000Z",
+        "id": 684
       },
       {
         "title": "Sagaen om r8Dio - f\u00f8rste del",
-        "publishedAt": "2023-09-25T13:32:19.000Z"
+        "publishedAt": "2023-09-25T13:32:19.000Z",
+        "id": 683
       }
     ]
   },
@@ -1736,87 +2132,108 @@
     "episodes": [
       {
         "title": "Hos Jon Pagh",
-        "publishedAt": "2024-06-05T19:00:00.000Z"
+        "publishedAt": "2024-06-05T19:00:00.000Z",
+        "id": 1044
       },
       {
         "title": "Hos Ditte Okman",
-        "publishedAt": "2024-05-22T07:00:00.000Z"
+        "publishedAt": "2024-05-22T07:00:00.000Z",
+        "id": 1022
       },
       {
         "title": "Opmarch - Matador # 6",
-        "publishedAt": "2024-05-08T19:00:00.000Z"
+        "publishedAt": "2024-05-08T19:00:00.000Z",
+        "id": 1007
       },
       {
         "title": "Den enes d\u00f8d - Matador # 5",
-        "publishedAt": "2024-04-24T19:00:00.000Z"
+        "publishedAt": "2024-04-24T19:00:00.000Z",
+        "id": 991
       },
       {
         "title": "Skyggetanten - Matador #4",
-        "publishedAt": "2024-04-10T19:00:00.000Z"
+        "publishedAt": "2024-04-10T19:00:00.000Z",
+        "id": 977
       },
       {
         "title": "Skiftedag -  Matador # 3",
-        "publishedAt": "2024-03-27T20:00:00.000Z"
+        "publishedAt": "2024-03-27T20:00:00.000Z",
+        "id": 961
       },
       {
         "title": "Genboen - Matador # 2",
-        "publishedAt": "2024-03-13T20:00:00.000Z"
+        "publishedAt": "2024-03-13T20:00:00.000Z",
+        "id": 939
       },
       {
         "title": "Den rejsende - Matador # 1",
-        "publishedAt": "2024-02-28T20:00:00.000Z"
+        "publishedAt": "2024-02-28T20:00:00.000Z",
+        "id": 908
       },
       {
         "title": "Afsnit 13 - Snedronningen",
-        "publishedAt": "2024-02-14T22:25:52.373Z"
+        "publishedAt": "2024-02-14T22:25:52.373Z",
+        "id": 887
       },
       {
         "title": "Afsnit 12 - Juleevangeliet",
-        "publishedAt": "2023-12-20T20:43:57.613Z"
+        "publishedAt": "2023-12-20T20:43:57.613Z",
+        "id": 804
       },
       {
         "title": "Afsnit 11 - Konen i muddergr\u00f8ften",
-        "publishedAt": "2023-12-06T20:46:39.633Z"
+        "publishedAt": "2023-12-06T20:46:39.633Z",
+        "id": 777
       },
       {
         "title": "Afsnit 10 - Langt ude i skoven",
-        "publishedAt": "2023-11-23T12:53:52.010Z"
+        "publishedAt": "2023-11-23T12:53:52.010Z",
+        "id": 753
       },
       {
         "title": "Afsnit 9 - Dyrene i Hakkebakkeskoven",
-        "publishedAt": "2023-11-08T20:54:42.000Z"
+        "publishedAt": "2023-11-08T20:54:42.000Z",
+        "id": 739
       },
       {
         "title": "Afsnit 8 - Lytterinddragelse ?",
-        "publishedAt": "2023-10-25T19:49:42.000Z"
+        "publishedAt": "2023-10-25T19:49:42.000Z",
+        "id": 723
       },
       {
         "title": "Afsnit 7 - Vedt\u00e6gterne for Tamsen",
-        "publishedAt": "2023-10-11T19:51:21.000Z"
+        "publishedAt": "2023-10-11T19:51:21.000Z",
+        "id": 706
       },
       {
         "title": "Afsnit 6 - Klods Hans",
-        "publishedAt": "2023-09-27T19:54:44.000Z"
+        "publishedAt": "2023-09-27T19:54:44.000Z",
+        "id": 687
       },
       {
         "title": "Afsnit 5 - Det er ganske vist",
-        "publishedAt": "2023-09-13T19:39:14.000Z"
+        "publishedAt": "2023-09-13T19:39:14.000Z",
+        "id": 668
       },
       {
         "title": "Afsnit 4 - Den standhaftige tinsoldat",
-        "publishedAt": "2023-08-30T20:04:30.000Z"
+        "publishedAt": "2023-08-30T20:04:30.000Z",
+        "id": 652
       },
       {
         "title": "Afsnit 3 - Kejserens nye kl\u00e6der",
-        "publishedAt": "2023-08-16T19:55:08.000Z"
+        "publishedAt": "2023-08-16T19:55:08.000Z",
+        "id": 643
       },
       {
         "title": "Afsnit 2 - Fyrt\u00f8jet",
-        "publishedAt": "2023-08-02T20:31:26.000Z"
+        "publishedAt": "2023-08-02T20:31:26.000Z",
+        "id": 634
       },
       {
         "title": "Afsnit 1 - Prinsessen p\u00e5 \u00e6rten",
-        "publishedAt": "2023-07-19T19:45:00.000Z"
+        "publishedAt": "2023-07-19T19:45:00.000Z",
+        "id": 625
       }
     ]
   },
@@ -1829,15 +2246,18 @@
     "episodes": [
       {
         "title": "Afsnit 4 - Live fra Meny Risskov",
-        "publishedAt": "2023-08-06T14:05:23.000Z"
+        "publishedAt": "2023-08-06T14:05:23.000Z",
+        "id": 637
       },
       {
         "title": "Afsnit 3 - Live fra Meny V\u00e6rl\u00f8se",
-        "publishedAt": "2023-07-30T13:05:09.000Z"
+        "publishedAt": "2023-07-30T13:05:09.000Z",
+        "id": 631
       },
       {
         "title": "Afsnit 2 - Live fra Meny R\u00f8dovre",
-        "publishedAt": "2023-07-16T15:41:16.190Z"
+        "publishedAt": "2023-07-16T15:41:16.190Z",
+        "id": 623
       }
     ]
   },
@@ -1850,19 +2270,23 @@
     "episodes": [
       {
         "title": "Afsnit 4 - En himmelsk suppe",
-        "publishedAt": "2023-06-30T04:00:00.000Z"
+        "publishedAt": "2023-06-30T04:00:00.000Z",
+        "id": 611
       },
       {
         "title": "Afsnit 3 - Babar Streisand og Chair",
-        "publishedAt": "2023-06-23T04:00:00.000Z"
+        "publishedAt": "2023-06-23T04:00:00.000Z",
+        "id": 599
       },
       {
         "title": "Afsnit 2 - En tur eller to p\u00e5 skadestuen",
-        "publishedAt": "2023-06-16T04:00:00.000Z"
+        "publishedAt": "2023-06-16T04:00:00.000Z",
+        "id": 590
       },
       {
         "title": "Afsnit 1 - Mors pakketips og en bager i flyet",
-        "publishedAt": "2023-06-09T04:00:00.000Z"
+        "publishedAt": "2023-06-09T04:00:00.000Z",
+        "id": 581
       }
     ]
   },
@@ -1875,43 +2299,53 @@
     "episodes": [
       {
         "title": "Det Royale Sp\u00f8rgeminut",
-        "publishedAt": "2024-03-26T05:00:00.000Z"
+        "publishedAt": "2024-03-26T05:00:00.000Z",
+        "id": 958
       },
       {
         "title": "Tronskiftet",
-        "publishedAt": "2024-02-27T05:00:00.000Z"
+        "publishedAt": "2024-02-27T05:00:00.000Z",
+        "id": 905
       },
       {
         "title": "Jul p\u00e5 slottet",
-        "publishedAt": "2024-01-23T15:46:16.053Z"
+        "publishedAt": "2024-01-23T15:46:16.053Z",
+        "id": 852
       },
       {
         "title": "Afsnit 7 - Kronprinsesse S\u00f8ges",
-        "publishedAt": "2023-11-28T13:02:22.210Z"
+        "publishedAt": "2023-11-28T13:02:22.210Z",
+        "id": 760
       },
       {
         "title": "Afsnit 6 - Tietgen Buret",
-        "publishedAt": "2023-10-31T13:21:17.740Z"
+        "publishedAt": "2023-10-31T13:21:17.740Z",
+        "id": 729
       },
       {
         "title": "Afsnit 5 - Enhedslistens fr\u00e6kke piger",
-        "publishedAt": "2023-09-26T12:27:27.000Z"
+        "publishedAt": "2023-09-26T12:27:27.000Z",
+        "id": 685
       },
       {
         "title": "Afsnit 4 - Den forslugne Amin",
-        "publishedAt": "2023-08-22T11:26:46.000Z"
+        "publishedAt": "2023-08-22T11:26:46.000Z",
+        "id": 646
       },
       {
         "title": "Afsnit 3 - Gaddafis f\u00f8dselsdag",
-        "publishedAt": "2023-07-25T11:32:55.663Z"
+        "publishedAt": "2023-07-25T11:32:55.663Z",
+        "id": 628
       },
       {
         "title": "Afsnit 2 - Ceausescus S\u00f8de Tand",
-        "publishedAt": "2023-06-27T12:36:33.647Z"
+        "publishedAt": "2023-06-27T12:36:33.647Z",
+        "id": 604
       },
       {
         "title": "Afsnit 1 - La'Kaj om det",
-        "publishedAt": "2023-05-23T11:30:00.000Z"
+        "publishedAt": "2023-05-23T11:30:00.000Z",
+        "id": 558
       }
     ]
   },
@@ -1924,111 +2358,138 @@
     "episodes": [
       {
         "title": "Et stort nyt\u00e5rsknald",
-        "publishedAt": "2023-12-27T13:19:39.273Z"
+        "publishedAt": "2023-12-27T13:19:39.273Z",
+        "id": 812
       },
       {
         "title": "Sex uden penetration",
-        "publishedAt": "2023-12-20T13:04:10.920Z"
+        "publishedAt": "2023-12-20T13:04:10.920Z",
+        "id": 803
       },
       {
         "title": "Undg\u00e5 skilsmissen i januar",
-        "publishedAt": "2023-12-13T13:23:23.307Z"
+        "publishedAt": "2023-12-13T13:23:23.307Z",
+        "id": 790
       },
       {
         "title": "Gaver til folket",
-        "publishedAt": "2023-12-06T13:55:17.573Z"
+        "publishedAt": "2023-12-06T13:55:17.573Z",
+        "id": 776
       },
       {
         "title": "F\u00e5 sex ud af julen",
-        "publishedAt": "2023-11-29T13:05:08.480Z"
+        "publishedAt": "2023-11-29T13:05:08.480Z",
+        "id": 761
       },
       {
         "title": "Dramaet i parforholdet",
-        "publishedAt": "2023-11-22T14:32:18.333Z"
+        "publishedAt": "2023-11-22T14:32:18.333Z",
+        "id": 752
       },
       {
         "title": "Sv\u00e6re relationer",
-        "publishedAt": "2023-11-15T14:08:04.343Z"
+        "publishedAt": "2023-11-15T14:08:04.343Z",
+        "id": 746
       },
       {
         "title": "Tidlig s\u00e6dafgang og oralsex",
-        "publishedAt": "2023-11-08T13:57:31.000Z"
+        "publishedAt": "2023-11-08T13:57:31.000Z",
+        "id": 738
       },
       {
         "title": "Krig",
-        "publishedAt": "2023-11-01T11:35:42.633Z"
+        "publishedAt": "2023-11-01T11:35:42.633Z",
+        "id": 731
       },
       {
         "title": "Samtykke i hamsterhjulet",
-        "publishedAt": "2023-10-25T10:37:30.627Z"
+        "publishedAt": "2023-10-25T10:37:30.627Z",
+        "id": 721
       },
       {
         "title": "Det bevidste parforhold",
-        "publishedAt": "2023-10-18T12:35:56.367Z"
+        "publishedAt": "2023-10-18T12:35:56.367Z",
+        "id": 714
       },
       {
         "title": "Vanesex",
-        "publishedAt": "2023-10-11T13:24:19.000Z"
+        "publishedAt": "2023-10-11T13:24:19.000Z",
+        "id": 705
       },
       {
         "title": "S\u00e5dan fjerner du skam",
-        "publishedAt": "2023-10-04T12:16:00.000Z"
+        "publishedAt": "2023-10-04T12:16:00.000Z",
+        "id": 696
       },
       {
         "title": "Aldersforskel",
-        "publishedAt": "2023-09-28T13:15:24.000Z"
+        "publishedAt": "2023-09-28T13:15:24.000Z",
+        "id": 688
       },
       {
         "title": "Winner Formular og den gode elsker",
-        "publishedAt": "2023-09-20T13:10:46.000Z"
+        "publishedAt": "2023-09-20T13:10:46.000Z",
+        "id": 676
       },
       {
         "title": "Vi skal dybt",
-        "publishedAt": "2023-09-12T13:03:54.000Z"
+        "publishedAt": "2023-09-12T13:03:54.000Z",
+        "id": 667
       },
       {
         "title": "Fra forelskelse til hverdag",
-        "publishedAt": "2023-09-06T12:19:16.000Z"
+        "publishedAt": "2023-09-06T12:19:16.000Z",
+        "id": 659
       },
       {
         "title": "Fetish og kinks",
-        "publishedAt": "2023-07-05T12:15:52.000Z"
+        "publishedAt": "2023-07-05T12:15:52.000Z",
+        "id": 614
       },
       {
         "title": "L\u00f8be efter m\u00f8nsteret",
-        "publishedAt": "2023-06-28T13:21:27.000Z"
+        "publishedAt": "2023-06-28T13:21:27.000Z",
+        "id": 607
       },
       {
         "title": "Dating",
-        "publishedAt": "2023-06-21T12:54:38.000Z"
+        "publishedAt": "2023-06-21T12:54:38.000Z",
+        "id": 596
       },
       {
         "title": "M\u00e6nd",
-        "publishedAt": "2023-06-14T12:25:19.000Z"
+        "publishedAt": "2023-06-14T12:25:19.000Z",
+        "id": 587
       },
       {
         "title": "Kvinder",
-        "publishedAt": "2023-06-07T12:50:26.000Z"
+        "publishedAt": "2023-06-07T12:50:26.000Z",
+        "id": 577
       },
       {
         "title": "Skyld og skam",
-        "publishedAt": "2023-05-31T13:24:20.000Z"
+        "publishedAt": "2023-05-31T13:24:20.000Z",
+        "id": 568
       },
       {
         "title": "Single",
-        "publishedAt": "2023-05-24T12:34:37.000Z"
+        "publishedAt": "2023-05-24T12:34:37.000Z",
+        "id": 560
       },
       {
         "title": "Forspil",
-        "publishedAt": "2023-05-17T13:20:00.000Z"
+        "publishedAt": "2023-05-17T13:20:00.000Z",
+        "id": 551
       },
       {
         "title": "S\u00e5dan f\u00e5r du mere sex",
-        "publishedAt": "2023-05-10T17:57:08.000Z"
+        "publishedAt": "2023-05-10T17:57:08.000Z",
+        "id": 543
       },
       {
         "title": "Dybe fantasier og gode orgasmer",
-        "publishedAt": "2023-05-03T12:30:00.000Z"
+        "publishedAt": "2023-05-03T12:30:00.000Z",
+        "id": 531
       }
     ]
   },
@@ -2041,207 +2502,258 @@
     "episodes": [
       {
         "title": "\u00c6rgerlige fodboldresultater",
-        "publishedAt": "2024-06-17T14:56:52.260Z"
+        "publishedAt": "2024-06-17T14:56:52.260Z",
+        "id": 1060
       },
       {
         "title": "Costa Kalundborg",
-        "publishedAt": "2024-06-10T06:44:29.810Z"
+        "publishedAt": "2024-06-10T06:44:29.810Z",
+        "id": 1050
       },
       {
         "title": "Den dejligste morgen meget l\u00e6nge",
-        "publishedAt": "2024-06-03T06:34:37.723Z"
+        "publishedAt": "2024-06-03T06:34:37.723Z",
+        "id": 1040
       },
       {
         "title": "Svanem\u00e6rket",
-        "publishedAt": "2024-05-27T06:47:54.097Z"
+        "publishedAt": "2024-05-27T06:47:54.097Z",
+        "id": 1028
       },
       {
         "title": "En forstuvet dr\u00f8bel",
-        "publishedAt": "2024-05-13T06:41:09.260Z"
+        "publishedAt": "2024-05-13T06:41:09.260Z",
+        "id": 1012
       },
       {
         "title": "Pip pip Galla",
-        "publishedAt": "2024-05-06T06:32:42.243Z"
+        "publishedAt": "2024-05-06T06:32:42.243Z",
+        "id": 1004
       },
       {
         "title": "Forundringens have",
-        "publishedAt": "2024-04-29T06:34:22.343Z"
+        "publishedAt": "2024-04-29T06:34:22.343Z",
+        "id": 996
       },
       {
         "title": "Det store f\u00f8dselsdagsafsnit",
-        "publishedAt": "2024-04-22T06:36:37.513Z"
+        "publishedAt": "2024-04-22T06:36:37.513Z",
+        "id": 989
       },
       {
         "title": "Wig Ashley",
-        "publishedAt": "2024-04-15T06:39:56.357Z"
+        "publishedAt": "2024-04-15T06:39:56.357Z",
+        "id": 983
       },
       {
         "title": "Ramadan-klippe-klister",
-        "publishedAt": "2024-04-08T06:37:44.610Z"
+        "publishedAt": "2024-04-08T06:37:44.610Z",
+        "id": 974
       },
       {
         "title": "P\u00e5skespecial",
-        "publishedAt": "2024-04-01T05:30:00.000Z"
+        "publishedAt": "2024-04-01T05:30:00.000Z",
+        "id": 966
       },
       {
         "title": "N\u00e5r blodet spr\u00f8jter",
-        "publishedAt": "2024-03-25T08:58:34.303Z"
+        "publishedAt": "2024-03-25T08:58:34.303Z",
+        "id": 957
       },
       {
         "title": "Sl\u00e5et ned af et rugbr\u00f8d",
-        "publishedAt": "2024-03-18T07:28:04.863Z"
+        "publishedAt": "2024-03-18T07:28:04.863Z",
+        "id": 946
       },
       {
         "title": "L\u00e5l\u00e5l\u00e5",
-        "publishedAt": "2024-03-11T07:31:06.613Z"
+        "publishedAt": "2024-03-11T07:31:06.613Z",
+        "id": 931
       },
       {
         "title": "Ligesom Timberlake",
-        "publishedAt": "2024-03-04T07:29:04.327Z"
+        "publishedAt": "2024-03-04T07:29:04.327Z",
+        "id": 915
       },
       {
         "title": "Alting er interessant",
-        "publishedAt": "2024-02-26T07:51:16.533Z"
+        "publishedAt": "2024-02-26T07:51:16.533Z",
+        "id": 904
       },
       {
         "title": "Vinterferie i Dinos legeland",
-        "publishedAt": "2024-02-19T07:50:01.697Z"
+        "publishedAt": "2024-02-19T07:50:01.697Z",
+        "id": 894
       },
       {
         "title": "Sexf\u00e6lde-P\u00f8lsetyv",
-        "publishedAt": "2024-02-12T07:38:42.483Z"
+        "publishedAt": "2024-02-12T07:38:42.483Z",
+        "id": 883
       },
       {
         "title": "Fastelavnsboller og Livets Gl\u00e6der",
-        "publishedAt": "2024-02-05T07:32:47.807Z"
+        "publishedAt": "2024-02-05T07:32:47.807Z",
+        "id": 871
       },
       {
         "title": "D\u00f8ren er lukket for evigt",
-        "publishedAt": "2024-01-29T07:29:10.453Z"
+        "publishedAt": "2024-01-29T07:29:10.453Z",
+        "id": 863
       },
       {
         "title": "D\u00f8ren lukker",
-        "publishedAt": "2024-01-22T07:33:42.207Z"
+        "publishedAt": "2024-01-22T07:33:42.207Z",
+        "id": 847
       },
       {
         "title": "Nyt\u00e5rsmorgensutter",
-        "publishedAt": "2024-01-01T07:05:15.040Z"
+        "publishedAt": "2024-01-01T07:05:15.040Z",
+        "id": 816
       },
       {
         "title": "Manken fra Marienlyst",
-        "publishedAt": "2023-12-18T07:42:50.183Z"
+        "publishedAt": "2023-12-18T07:42:50.183Z",
+        "id": 800
       },
       {
         "title": "Jydeko",
-        "publishedAt": "2023-12-11T07:20:22.163Z"
+        "publishedAt": "2023-12-11T07:20:22.163Z",
+        "id": 786
       },
       {
         "title": "R\u00f8de Allan & Perron Miti",
-        "publishedAt": "2023-12-04T09:11:39.923Z"
+        "publishedAt": "2023-12-04T09:11:39.923Z",
+        "id": 771
       },
       {
         "title": "Hjemvendt fra Slagelse",
-        "publishedAt": "2023-11-27T07:47:22.043Z"
+        "publishedAt": "2023-11-27T07:47:22.043Z",
+        "id": 758
       },
       {
         "title": "Roskildesyge og perlespelt",
-        "publishedAt": "2023-11-20T07:35:32.100Z"
+        "publishedAt": "2023-11-20T07:35:32.100Z",
+        "id": 750
       },
       {
         "title": "Kilimanjaro af bacon",
-        "publishedAt": "2023-11-13T07:47:26.743Z"
+        "publishedAt": "2023-11-13T07:47:26.743Z",
+        "id": 744
       },
       {
         "title": "panic room safe room /",
-        "publishedAt": "2023-11-06T08:22:00.867Z"
+        "publishedAt": "2023-11-06T08:22:00.867Z",
+        "id": 736
       },
       {
         "title": "Tyk dej",
-        "publishedAt": "2023-10-30T08:28:36.427Z"
+        "publishedAt": "2023-10-30T08:28:36.427Z",
+        "id": 728
       },
       {
         "title": "Daisy vejer 8 kilo",
-        "publishedAt": "2023-10-23T06:41:45.893Z"
+        "publishedAt": "2023-10-23T06:41:45.893Z",
+        "id": 719
       },
       {
         "title": "Klumper i fromagen",
-        "publishedAt": "2023-10-16T06:39:55.550Z"
+        "publishedAt": "2023-10-16T06:39:55.550Z",
+        "id": 712
       },
       {
         "title": "Coaching og chokolademousse",
-        "publishedAt": "2023-10-09T06:34:47.460Z"
+        "publishedAt": "2023-10-09T06:34:47.460Z",
+        "id": 702
       },
       {
         "title": "Bid i kartoflen",
-        "publishedAt": "2023-10-02T06:41:02.927Z"
+        "publishedAt": "2023-10-02T06:41:02.927Z",
+        "id": 693
       },
       {
         "title": "Forulykkede i pornofyldt kabinescooter",
-        "publishedAt": "2023-09-25T06:44:58.280Z"
+        "publishedAt": "2023-09-25T06:44:58.280Z",
+        "id": 681
       },
       {
         "title": "Kviksand",
-        "publishedAt": "2023-09-18T06:37:18.387Z"
+        "publishedAt": "2023-09-18T06:37:18.387Z",
+        "id": 673
       },
       {
         "title": "Stille hv\u00e6sen mellem blade som blegner",
-        "publishedAt": "2023-09-11T06:53:41.093Z"
+        "publishedAt": "2023-09-11T06:53:41.093Z",
+        "id": 664
       },
       {
         "title": "Hot Yoga og h\u00f8nsesalat",
-        "publishedAt": "2023-09-04T06:32:53.857Z"
+        "publishedAt": "2023-09-04T06:32:53.857Z",
+        "id": 656
       },
       {
         "title": "6 ud af 6",
-        "publishedAt": "2023-08-28T07:09:42.810Z"
+        "publishedAt": "2023-08-28T07:09:42.810Z",
+        "id": 650
       },
       {
         "title": "Sild i studiet",
-        "publishedAt": "2023-08-21T06:46:29.210Z"
+        "publishedAt": "2023-08-21T06:46:29.210Z",
+        "id": 645
       },
       {
         "title": "Helt br\u00e6ndt af",
-        "publishedAt": "2023-08-14T06:43:05.243Z"
+        "publishedAt": "2023-08-14T06:43:05.243Z",
+        "id": 641
       },
       {
         "title": "Ode an die Freude",
-        "publishedAt": "2023-06-26T06:57:22.947Z"
+        "publishedAt": "2023-06-26T06:57:22.947Z",
+        "id": 602
       },
       {
         "title": "En lysende enkrone",
-        "publishedAt": "2023-06-19T06:30:13.020Z"
+        "publishedAt": "2023-06-19T06:30:13.020Z",
+        "id": 592
       },
       {
         "title": "Hurra for Valdemar, Michael og kartoflen",
-        "publishedAt": "2023-06-12T06:25:30.733Z"
+        "publishedAt": "2023-06-12T06:25:30.733Z",
+        "id": 584
       },
       {
         "title": "Daddy dag",
-        "publishedAt": "2023-06-05T06:45:45.873Z"
+        "publishedAt": "2023-06-05T06:45:45.873Z",
+        "id": 573
       },
       {
         "title": "Lars\u00b4 og kirkens f\u00f8dselsdag",
-        "publishedAt": "2023-05-29T09:03:50.510Z"
+        "publishedAt": "2023-05-29T09:03:50.510Z",
+        "id": 566
       },
       {
         "title": "Sindbergs koldsk\u00e5l",
-        "publishedAt": "2023-05-22T06:32:32.777Z"
+        "publishedAt": "2023-05-22T06:32:32.777Z",
+        "id": 556
       },
       {
         "title": "M\u00e5nedals hyldestsang",
-        "publishedAt": "2023-05-15T06:56:58.337Z"
+        "publishedAt": "2023-05-15T06:56:58.337Z",
+        "id": 547
       },
       {
         "title": "Luk \u00f8jnene, og v\u00e6k kroppen",
-        "publishedAt": "2023-05-08T08:46:26.313Z"
+        "publishedAt": "2023-05-08T08:46:26.313Z",
+        "id": 538
       },
       {
         "title": "Op med knytn\u00e6ven",
-        "publishedAt": "2023-05-01T06:43:58.347Z"
+        "publishedAt": "2023-05-01T06:43:58.347Z",
+        "id": 527
       },
       {
         "title": "Danmark har f\u00e5et Morgensutterne p\u00e5",
-        "publishedAt": "2023-04-24T06:50:19.370Z"
+        "publishedAt": "2023-04-24T06:50:19.370Z",
+        "id": 521
       }
     ]
   },
@@ -2254,27 +2766,33 @@
     "episodes": [
       {
         "title": "Pressem\u00f8de ang\u00e5ende fake news",
-        "publishedAt": "2024-05-03T14:00:00.000Z"
+        "publishedAt": "2024-05-03T14:00:00.000Z",
+        "id": 1000
       },
       {
         "title": "Fazerval backstage II",
-        "publishedAt": "2023-08-05T13:43:25.417Z"
+        "publishedAt": "2023-08-05T13:43:25.417Z",
+        "id": 636
       },
       {
         "title": "Fazerval backstage",
-        "publishedAt": "2023-08-02T14:39:46.387Z"
+        "publishedAt": "2023-08-02T14:39:46.387Z",
+        "id": 633
       },
       {
         "title": "Nyheder fra ledelsen",
-        "publishedAt": "2023-05-26T14:52:57.637Z"
+        "publishedAt": "2023-05-26T14:52:57.637Z",
+        "id": 564
       },
       {
         "title": "Live fra Fan\u00f8 2",
-        "publishedAt": "2023-04-05T14:38:50.737Z"
+        "publishedAt": "2023-04-05T14:38:50.737Z",
+        "id": 506
       },
       {
         "title": "Live fra Fan\u00f8 1",
-        "publishedAt": "2023-04-04T14:21:25.347Z"
+        "publishedAt": "2023-04-04T14:21:25.347Z",
+        "id": 504
       }
     ]
   },
@@ -2287,111 +2805,138 @@
     "episodes": [
       {
         "title": "Peller Peter Jencel ser EM finale",
-        "publishedAt": "2024-01-28T19:43:29.313Z"
+        "publishedAt": "2024-01-28T19:43:29.313Z",
+        "id": 862
       },
       {
         "title": "Troels Malling ser EM semifinale",
-        "publishedAt": "2024-01-26T22:02:16.730Z"
+        "publishedAt": "2024-01-26T22:02:16.730Z",
+        "id": 859
       },
       {
         "title": "Anders Brink og Esben Dalgaard ser EM",
-        "publishedAt": "2024-01-23T19:37:07.380Z"
+        "publishedAt": "2024-01-23T19:37:07.380Z",
+        "id": 853
       },
       {
         "title": "Frederik Cilius ser EM",
-        "publishedAt": "2024-01-22T08:21:15.983Z"
+        "publishedAt": "2024-01-22T08:21:15.983Z",
+        "id": 848
       },
       {
         "title": "Niarn ser EM",
-        "publishedAt": "2024-01-20T17:37:34.317Z"
+        "publishedAt": "2024-01-20T17:37:34.317Z",
+        "id": 845
       },
       {
         "title": "Peter Lund Madsen ser EM",
-        "publishedAt": "2024-01-17T21:28:27.143Z"
+        "publishedAt": "2024-01-17T21:28:27.143Z",
+        "id": 840
       },
       {
         "title": "Anne Kirstine Cramon ser EM",
-        "publishedAt": "2024-01-15T23:51:11.250Z"
+        "publishedAt": "2024-01-15T23:51:11.250Z",
+        "id": 837
       },
       {
         "title": "Anna Grue ser EM",
-        "publishedAt": "2024-01-14T13:06:25.650Z"
+        "publishedAt": "2024-01-14T13:06:25.650Z",
+        "id": 835
       },
       {
         "title": "Sofie Jo Kaufmanas ser EM",
-        "publishedAt": "2024-01-11T22:35:59.533Z"
+        "publishedAt": "2024-01-11T22:35:59.533Z",
+        "id": 829
       },
       {
         "title": "S\u00f8ren Fauli og Christiane Vejl\u00f8 ser VM-bronzekamp",
-        "publishedAt": "2023-12-17T21:06:18.110Z"
+        "publishedAt": "2023-12-17T21:06:18.110Z",
+        "id": 799
       },
       {
         "title": "U$O ser VM-semifinale",
-        "publishedAt": "2023-12-15T19:46:07.293Z"
+        "publishedAt": "2023-12-15T19:46:07.293Z",
+        "id": 797
       },
       {
         "title": "Klavs Bundgaard og Skuldborgs l\u00e6ge, Pernille, ser VM-kvartfinale",
-        "publishedAt": "2023-12-14T11:06:08.270Z"
+        "publishedAt": "2023-12-14T11:06:08.270Z",
+        "id": 791
       },
       {
         "title": "Jesper Ole Feit ser VM",
-        "publishedAt": "2023-12-11T22:39:42.947Z"
+        "publishedAt": "2023-12-11T22:39:42.947Z",
+        "id": 788
       },
       {
         "title": "Henrik Qvortrup ser VM",
-        "publishedAt": "2023-12-10T00:26:21.350Z"
+        "publishedAt": "2023-12-10T00:26:21.350Z",
+        "id": 784
       },
       {
         "title": "Vibeke Manniche ser VM",
-        "publishedAt": "2023-12-07T22:21:46.217Z"
+        "publishedAt": "2023-12-07T22:21:46.217Z",
+        "id": 780
       },
       {
         "title": "Adrian Hughes ser VM",
-        "publishedAt": "2023-12-06T08:11:26.597Z"
+        "publishedAt": "2023-12-06T08:11:26.597Z",
+        "id": 775
       },
       {
         "title": "Ditte Okman ser VM",
-        "publishedAt": "2023-12-03T22:45:31.370Z"
+        "publishedAt": "2023-12-03T22:45:31.370Z",
+        "id": 770
       },
       {
         "title": "Esben Pretzmann ser VM",
-        "publishedAt": "2023-12-02T00:47:44.717Z"
+        "publishedAt": "2023-12-02T00:47:44.717Z",
+        "id": 769
       },
       {
         "title": "Peter Fr\u00f6din ser VM",
-        "publishedAt": "2023-01-29T23:00:05.217Z"
+        "publishedAt": "2023-01-29T23:00:05.217Z",
+        "id": 419
       },
       {
         "title": "Anders Lund Madsen ser VM",
-        "publishedAt": "2023-01-28T11:00:00.000Z"
+        "publishedAt": "2023-01-28T11:00:00.000Z",
+        "id": 418
       },
       {
         "title": "Ren\u00e9 Fredensborg ser VM",
-        "publishedAt": "2023-01-25T22:46:16.097Z"
+        "publishedAt": "2023-01-25T22:46:16.097Z",
+        "id": 412
       },
       {
         "title": "Oh Land ser VM",
-        "publishedAt": "2023-01-23T22:49:21.223Z"
+        "publishedAt": "2023-01-23T22:49:21.223Z",
+        "id": 409
       },
       {
         "title": "Anna Ingrisch og Martin Krasnik ser VM",
-        "publishedAt": "2023-01-21T22:49:48.637Z"
+        "publishedAt": "2023-01-21T22:49:48.637Z",
+        "id": 407
       },
       {
         "title": "Sofie Gr\u00e5b\u00f8l ser VM",
-        "publishedAt": "2023-01-19T23:01:28.557Z"
+        "publishedAt": "2023-01-19T23:01:28.557Z",
+        "id": 404
       },
       {
         "title": "Phillip Faber ser VM",
-        "publishedAt": "2023-01-17T22:36:57.630Z"
+        "publishedAt": "2023-01-17T22:36:57.630Z",
+        "id": 399
       },
       {
         "title": "Torben Steno ser VM",
-        "publishedAt": "2023-01-15T22:58:55.857Z"
+        "publishedAt": "2023-01-15T22:58:55.857Z",
+        "id": 396
       },
       {
         "title": "S\u00f8ren Fauli ser VM",
-        "publishedAt": "2023-01-13T23:22:00.657Z"
+        "publishedAt": "2023-01-13T23:22:00.657Z",
+        "id": 393
       }
     ]
   },
@@ -2404,19 +2949,23 @@
     "episodes": [
       {
         "title": "Afsnit 4 - \u00c5rsprojektet",
-        "publishedAt": "2022-12-29T13:30:00.000Z"
+        "publishedAt": "2022-12-29T13:30:00.000Z",
+        "id": 377
       },
       {
         "title": "Afsnit 3 - Det er noget v\u00e6rre noget det i Hamborg",
-        "publishedAt": "2022-12-29T13:30:00.000Z"
+        "publishedAt": "2022-12-29T13:30:00.000Z",
+        "id": 378
       },
       {
         "title": "Afsnit 2 - Befrielsen",
-        "publishedAt": "2022-12-29T13:30:00.000Z"
+        "publishedAt": "2022-12-29T13:30:00.000Z",
+        "id": 375
       },
       {
         "title": "Afsnit 1 - Aben Niels Peter",
-        "publishedAt": "2022-12-29T13:30:00.000Z"
+        "publishedAt": "2022-12-29T13:30:00.000Z",
+        "id": 376
       }
     ]
   },
@@ -2429,59 +2978,73 @@
     "episodes": [
       {
         "title": "Afsnit 14 - Limbo",
-        "publishedAt": "2023-03-23T13:50:00.000Z"
+        "publishedAt": "2023-03-23T13:50:00.000Z",
+        "id": 491
       },
       {
         "title": "Afsnit 13 - Ballerup",
-        "publishedAt": "2023-03-16T13:50:00.000Z"
+        "publishedAt": "2023-03-16T13:50:00.000Z",
+        "id": 481
       },
       {
         "title": "Afsnit 12 - Vejle by night",
-        "publishedAt": "2023-03-02T13:50:00.000Z"
+        "publishedAt": "2023-03-02T13:50:00.000Z",
+        "id": 467
       },
       {
         "title": "Afsnit 11 - Horsens",
-        "publishedAt": "2023-02-23T14:00:00.000Z"
+        "publishedAt": "2023-02-23T14:00:00.000Z",
+        "id": 460
       },
       {
         "title": "Afsnit 10 - Fredericia",
-        "publishedAt": "2023-02-16T15:00:00.000Z"
+        "publishedAt": "2023-02-16T15:00:00.000Z",
+        "id": 454
       },
       {
         "title": "Afsnit 9 - K\u00f8benhavn",
-        "publishedAt": "2023-02-09T15:00:00.000Z"
+        "publishedAt": "2023-02-09T15:00:00.000Z",
+        "id": 447
       },
       {
         "title": "Afsnit 8 - Aller\u00f8d/Liller\u00f8d",
-        "publishedAt": "2023-02-02T07:00:00.000Z"
+        "publishedAt": "2023-02-02T07:00:00.000Z",
+        "id": 425
       },
       {
         "title": "Afsnit 7 - Drag\u00f8r",
-        "publishedAt": "2023-01-26T07:00:00.000Z"
+        "publishedAt": "2023-01-26T07:00:00.000Z",
+        "id": 413
       },
       {
         "title": "Afsnit 6 - K\u00f8ge",
-        "publishedAt": "2023-01-19T07:00:00.000Z"
+        "publishedAt": "2023-01-19T07:00:00.000Z",
+        "id": 401
       },
       {
         "title": "Afsnit 5 - Birker\u00f8d",
-        "publishedAt": "2023-01-12T10:57:55.000Z"
+        "publishedAt": "2023-01-12T10:57:55.000Z",
+        "id": 389
       },
       {
         "title": "Afsnit 4 - Frederikssund",
-        "publishedAt": "2023-01-05T07:00:00.000Z"
+        "publishedAt": "2023-01-05T07:00:00.000Z",
+        "id": 384
       },
       {
         "title": "Afsnit 3 - Nyk\u00f8bing Sj\u00e6lland",
-        "publishedAt": "2022-12-28T13:00:00.000Z"
+        "publishedAt": "2022-12-28T13:00:00.000Z",
+        "id": 374
       },
       {
         "title": "Afsnit 2 - Greve",
-        "publishedAt": "2022-12-28T13:00:00.000Z"
+        "publishedAt": "2022-12-28T13:00:00.000Z",
+        "id": 373
       },
       {
         "title": "Afsnit 1 - M\u00e5l\u00f8v",
-        "publishedAt": "2022-12-14T07:00:00.000Z"
+        "publishedAt": "2022-12-14T07:00:00.000Z",
+        "id": 351
       }
     ]
   },
@@ -2494,19 +3057,23 @@
     "episodes": [
       {
         "title": "Afsnit 4 -  Evaluering med Morten Bruun",
-        "publishedAt": "2022-12-08T07:00:00.000Z"
+        "publishedAt": "2022-12-08T07:00:00.000Z",
+        "id": 343
       },
       {
         "title": "Afsnit 3 -  DK deroute",
-        "publishedAt": "2022-12-06T07:59:41.000Z"
+        "publishedAt": "2022-12-06T07:59:41.000Z",
+        "id": 339
       },
       {
         "title": "Afsnit 2 - Til pressem\u00f8de med Hjulmand og Jobbe",
-        "publishedAt": "2022-11-30T08:11:00.000Z"
+        "publishedAt": "2022-11-30T08:11:00.000Z",
+        "id": 330
       },
       {
         "title": "Afsnit 1 - En \"skidt\" start",
-        "publishedAt": "2022-11-30T08:10:00.000Z"
+        "publishedAt": "2022-11-30T08:10:00.000Z",
+        "id": 329
       }
     ]
   },
@@ -2519,63 +3086,78 @@
     "episodes": [
       {
         "title": "Det store interview",
-        "publishedAt": "2023-12-14T15:48:20.100Z"
+        "publishedAt": "2023-12-14T15:48:20.100Z",
+        "id": 793
       },
       {
         "title": "Hjernevaskelsen",
-        "publishedAt": "2023-12-07T15:47:57.750Z"
+        "publishedAt": "2023-12-07T15:47:57.750Z",
+        "id": 778
       },
       {
         "title": "Manageren",
-        "publishedAt": "2023-11-30T15:32:21.390Z"
+        "publishedAt": "2023-11-30T15:32:21.390Z",
+        "id": 764
       },
       {
         "title": "Guldh\u00f8jden",
-        "publishedAt": "2023-11-23T15:27:16.980Z"
+        "publishedAt": "2023-11-23T15:27:16.980Z",
+        "id": 755
       },
       {
         "title": "Gulddreng komplekset",
-        "publishedAt": "2023-11-16T12:32:43.450Z"
+        "publishedAt": "2023-11-16T12:32:43.450Z",
+        "id": 747
       },
       {
         "title": "Afsnit 10 - Det store interview",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 315
       },
       {
         "title": "Afsnit 9 - Odense",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 311
       },
       {
         "title": "Afsnit 8 - E\u0301n stor rodebutik",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 314
       },
       {
         "title": "Afsnit 7 - Slagelse",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 308
       },
       {
         "title": "Afsnit 6 - Skuldborg",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 307
       },
       {
         "title": "Afsnit 5 - A\u030arhus",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 306
       },
       {
         "title": "Afsnit 4 - Horsens",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 312
       },
       {
         "title": "Afsnit 3 - Releasefesten",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 313
       },
       {
         "title": "Afsnit 2 - \u00d8veren",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 309
       },
       {
         "title": "Afsnit 1 - Den gule ga\u030ard",
-        "publishedAt": "2022-11-11T03:00:00.000Z"
+        "publishedAt": "2022-11-11T03:00:00.000Z",
+        "id": 310
       }
     ]
   },
@@ -2588,135 +3170,168 @@
     "episodes": [
       {
         "title": "Afsnit 33 - Nyt\u00e5rsspecial med Rune Ingemann, John Frederiksen og Gertrud H\u00f8jlund",
-        "publishedAt": "2023-12-31T10:04:24.147Z"
+        "publishedAt": "2023-12-31T10:04:24.147Z",
+        "id": 815
       },
       {
         "title": "Afsnit 32 - Julespecial med Allan Sindberg, Per Madsen og Cecilie Beck",
-        "publishedAt": "2023-12-24T10:09:52.773Z"
+        "publishedAt": "2023-12-24T10:09:52.773Z",
+        "id": 810
       },
       {
         "title": "Afsnit 31 - Med  Ulrik Br\u00f8ndal, Henriette \u2018H\u00f8nse\u2019 Karlsen og Anne Kirstine Cramon",
-        "publishedAt": "2023-10-29T10:04:24.710Z"
+        "publishedAt": "2023-10-29T10:04:24.710Z",
+        "id": 727
       },
       {
         "title": "Afsnit 30 - Med Rasmus Botoft, Rune Ingemann og Sally Rosenkilde Bille",
-        "publishedAt": "2023-10-22T09:10:50.000Z"
+        "publishedAt": "2023-10-22T09:10:50.000Z",
+        "id": 718
       },
       {
         "title": "Afsnit 29 - Med Jesper-Ole Feit, Mikkel Klint Thorius og Anja Zophia Jackson Winter Jensen",
-        "publishedAt": "2023-10-15T09:03:44.000Z"
+        "publishedAt": "2023-10-15T09:03:44.000Z",
+        "id": 711
       },
       {
         "title": "Afsnit 28 - Med Randi Hansen, John Frederiksen og Kristian Henriksen",
-        "publishedAt": "2023-10-08T09:14:22.000Z"
+        "publishedAt": "2023-10-08T09:14:22.000Z",
+        "id": 700
       },
       {
         "title": "Afsnit 27 - Med Kirsten Birgit, Adrian Lloyd Hughes og Amalie Nielsen",
-        "publishedAt": "2023-10-01T09:03:34.000Z"
+        "publishedAt": "2023-10-01T09:03:34.000Z",
+        "id": 692
       },
       {
         "title": "Afsnit 26 - Med Natasja Crone, Allan Sindberg og Mickey Meny",
-        "publishedAt": "2023-07-29T09:14:28.000Z"
+        "publishedAt": "2023-07-29T09:14:28.000Z",
+        "id": 630
       },
       {
         "title": "Afsnit 25 - Med Joachim B. Olsen, Sally Rosenkilde Bille og Anja Zophia Jackson Winther Jensen",
-        "publishedAt": "2023-07-22T09:04:05.000Z"
+        "publishedAt": "2023-07-22T09:04:05.000Z",
+        "id": 627
       },
       {
         "title": "Afsnit 24 - Med Rosa Lund, Slava Bolshoy Chelovek og Mikkel Mohr",
-        "publishedAt": "2023-07-15T09:14:51.000Z"
+        "publishedAt": "2023-07-15T09:14:51.000Z",
+        "id": 622
       },
       {
         "title": "Afsnit 23 - Med Pernille Vermund, Klavs Bundgaard og Amalie Nielsen",
-        "publishedAt": "2023-07-08T09:19:52.000Z"
+        "publishedAt": "2023-07-08T09:19:52.000Z",
+        "id": 617
       },
       {
         "title": "Afsnit 22 - Med Berit Joy Hansen, Rune Ingemann og Anne Kirstine Cramon",
-        "publishedAt": "2023-07-01T09:20:24.000Z"
+        "publishedAt": "2023-07-01T09:20:24.000Z",
+        "id": 612
       },
       {
         "title": "Afsnit 21 - Live fra Onkel Dannys Plads",
-        "publishedAt": "2023-06-24T15:52:55.000Z"
+        "publishedAt": "2023-06-24T15:52:55.000Z",
+        "id": 601
       },
       {
         "title": "Afsnit 20 - Med Jon Pagh, Henriette \u2018H\u00f8nse\u2019 Karlsen og Mickey Meny",
-        "publishedAt": "2023-03-25T10:15:00.000Z"
+        "publishedAt": "2023-03-25T10:15:00.000Z",
+        "id": 494
       },
       {
         "title": "Afsnit 19 - Med Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm, S\u00f8ren Fauli og Ditte Okman",
-        "publishedAt": "2023-03-18T10:30:00.000Z"
+        "publishedAt": "2023-03-18T10:30:00.000Z",
+        "id": 484
       },
       {
         "title": "Afsnit 18 - Med Henrik Qvortrup, Sally Rosenkilde Bille og Rune Ingemann",
-        "publishedAt": "2023-03-11T10:20:00.000Z"
+        "publishedAt": "2023-03-11T10:20:00.000Z",
+        "id": 477
       },
       {
         "title": "Afsnit 17 -  Med Simon Gohr, Amalie Nielsen og Per Madsen",
-        "publishedAt": "2023-03-04T10:30:00.000Z"
+        "publishedAt": "2023-03-04T10:30:00.000Z",
+        "id": 469
       },
       {
         "title": "Afsnit 16 -  Med Randi Hansen, John Frederiksen og Erik Bille Belleur Brahe",
-        "publishedAt": "2023-02-25T10:30:00.000Z"
+        "publishedAt": "2023-02-25T10:30:00.000Z",
+        "id": 462
       },
       {
         "title": "Afsnit 15 -  Med Christine Feldthaus, Kevin Kloster Rantzau og Mads Skjern",
-        "publishedAt": "2023-02-18T10:20:00.000Z"
+        "publishedAt": "2023-02-18T10:20:00.000Z",
+        "id": 456
       },
       {
         "title": "Afsnit 14 -  Med Allan Sindberg, Anne Kirstine Cramon og Slava Bol\u2019Shoy Chelovek",
-        "publishedAt": "2023-02-11T10:30:00.000Z"
+        "publishedAt": "2023-02-11T10:30:00.000Z",
+        "id": 450
       },
       {
         "title": "Med Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm, Stine Agnete Skjold S\u00f8rensen og Chili Klaus",
-        "publishedAt": "2023-02-04T10:30:00.000Z"
+        "publishedAt": "2023-02-04T10:30:00.000Z",
+        "id": 429
       },
       {
         "title": "Med Torben Steno, Inge Ravnkj\u00e6r og Speaker Allan",
-        "publishedAt": "2023-01-28T10:30:00.000Z"
+        "publishedAt": "2023-01-28T10:30:00.000Z",
+        "id": 417
       },
       {
         "title": "Med Anja Zophia J. W. J, Lasse Spang Olsen og Kristoffer Lind",
-        "publishedAt": "2023-01-21T10:30:00.000Z"
+        "publishedAt": "2023-01-21T10:30:00.000Z",
+        "id": 406
       },
       {
         "title": "Med Sally Rosenkilde Bille, Ulrik Br\u00f8ndal og Kristian Henriksen",
-        "publishedAt": "2023-01-14T10:30:00.000Z"
+        "publishedAt": "2023-01-14T10:30:00.000Z",
+        "id": 394
       },
       {
         "title": "Med Laust Bundgaard, Henriette \u2018H\u00f8nse\u2019 Karlsen og Emil Liller",
-        "publishedAt": "2023-01-07T10:20:00.000Z"
+        "publishedAt": "2023-01-07T10:20:00.000Z",
+        "id": 387
       },
       {
         "title": "Med Rasmus Bruun, Anni F\u00f8nsby og Amalie Nielsen",
-        "publishedAt": "2022-12-31T13:00:00.000Z"
+        "publishedAt": "2022-12-31T13:00:00.000Z",
+        "id": 380
       },
       {
         "title": "Med Ditte Okman, Kevin Kloster Rantzau og John Frederiksen",
-        "publishedAt": "2022-12-24T13:30:00.000Z"
+        "publishedAt": "2022-12-24T13:30:00.000Z",
+        "id": 368
       },
       {
         "title": "Med Mickey Meny, Stine Agnete Skjold S\u00f8rensen og Mia Pedersen",
-        "publishedAt": "2022-12-17T10:00:00.000Z"
+        "publishedAt": "2022-12-17T10:00:00.000Z",
+        "id": 358
       },
       {
         "title": "Med Per Madsen, Randi Hansen og Rune Ingemann",
-        "publishedAt": "2022-12-10T10:15:00.000Z"
+        "publishedAt": "2022-12-10T10:15:00.000Z",
+        "id": 348
       },
       {
         "title": "Med Steen Langeberg, Sally Rosenkilde Bille og Speaker Allan",
-        "publishedAt": "2022-12-03T09:00:00.000Z"
+        "publishedAt": "2022-12-03T09:00:00.000Z",
+        "id": 335
       },
       {
         "title": "Med Klavs Bundgaard, Henriette \u2018H\u00f8nse\u2019 Karlsen og Reinhard Weibhauer",
-        "publishedAt": "2022-11-26T09:00:00.000Z"
+        "publishedAt": "2022-11-26T09:00:00.000Z",
+        "id": 326
       },
       {
         "title": "Med Allan Sindberg, John Frederiksen og Inge Ravnkj\u00e6r",
-        "publishedAt": "2022-11-12T10:13:00.563Z"
+        "publishedAt": "2022-11-12T10:13:00.563Z",
+        "id": 318
       },
       {
         "title": "Med Amalie Nielsen, Kristoffer Lind og Jonna Lukovic",
-        "publishedAt": "2022-10-29T08:00:00.000Z"
+        "publishedAt": "2022-10-29T08:00:00.000Z",
+        "id": 296
       }
     ]
   },
@@ -2729,75 +3344,93 @@
     "episodes": [
       {
         "title": "Afsnit 18 - P\u00e5 trip p\u00e5 Staden",
-        "publishedAt": "2023-06-29T12:48:39.000Z"
+        "publishedAt": "2023-06-29T12:48:39.000Z",
+        "id": 609
       },
       {
         "title": "Afsnit 17 - P\u00e5 trip p\u00e5 swanning og bridging",
-        "publishedAt": "2023-06-01T13:20:00.000Z"
+        "publishedAt": "2023-06-01T13:20:00.000Z",
+        "id": 570
       },
       {
         "title": "Afsnit 16 - P\u00e5 trip i Danmarks midtpunkt",
-        "publishedAt": "2023-05-18T13:00:00.000Z"
+        "publishedAt": "2023-05-18T13:00:00.000Z",
+        "id": 553
       },
       {
         "title": "Afsnit 15 - Afgang til Nyhavn og Goodie Beauty",
-        "publishedAt": "2023-05-04T13:25:00.000Z"
+        "publishedAt": "2023-05-04T13:25:00.000Z",
+        "id": 534
       },
       {
         "title": "Afsnit 14 - P\u00e5 trip p\u00e5 Fernis Friday",
-        "publishedAt": "2023-04-19T12:15:00.000Z"
+        "publishedAt": "2023-04-19T12:15:00.000Z",
+        "id": 517
       },
       {
         "title": "Afsnit 13 - P\u00e5 Trip in real live",
-        "publishedAt": "2023-04-05T13:00:00.000Z"
+        "publishedAt": "2023-04-05T13:00:00.000Z",
+        "id": 505
       },
       {
         "title": "Afsnit 12 - P\u00e5 Trip p\u00e5 New Horizons",
-        "publishedAt": "2023-03-21T14:00:00.000Z"
+        "publishedAt": "2023-03-21T14:00:00.000Z",
+        "id": 488
       },
       {
         "title": "Afsnit 11 - P\u00e5 skitrip",
-        "publishedAt": "2023-01-31T07:00:00.000Z"
+        "publishedAt": "2023-01-31T07:00:00.000Z",
+        "id": 421
       },
       {
         "title": "Afsnit 10 - P\u00e5 nyt\u00e5rstrip",
-        "publishedAt": "2022-12-27T14:00:00.000Z"
+        "publishedAt": "2022-12-27T14:00:00.000Z",
+        "id": 372
       },
       {
         "title": "Afsnit 9 - London",
-        "publishedAt": "2022-12-27T14:00:00.000Z"
+        "publishedAt": "2022-12-27T14:00:00.000Z",
+        "id": 371
       },
       {
         "title": "Afsnit 8 - P\u00e5 juletrip 2",
-        "publishedAt": "2022-12-27T14:00:00.000Z"
+        "publishedAt": "2022-12-27T14:00:00.000Z",
+        "id": 370
       },
       {
         "title": "Afsnit 7 - P\u00e5 juletrip 1",
-        "publishedAt": "2022-12-22T09:49:41.000Z"
+        "publishedAt": "2022-12-22T09:49:41.000Z",
+        "id": 363
       },
       {
         "title": "Afsnit 6 - Hurghada",
-        "publishedAt": "2022-09-15T07:00:00.000Z"
+        "publishedAt": "2022-09-15T07:00:00.000Z",
+        "id": 271
       },
       {
         "title": "Afsnit 5 - Korsika",
-        "publishedAt": "2022-09-15T07:00:00.000Z"
+        "publishedAt": "2022-09-15T07:00:00.000Z",
+        "id": 270
       },
       {
         "title": "Afsnit 4 - Ibiza",
-        "publishedAt": "2022-09-15T07:00:00.000Z"
+        "publishedAt": "2022-09-15T07:00:00.000Z",
+        "id": 269
       },
       {
         "title": "Afsnit 3 - Mallorca",
-        "publishedAt": "2022-09-15T07:00:00.000Z"
+        "publishedAt": "2022-09-15T07:00:00.000Z",
+        "id": 268
       },
       {
         "title": "Afsnit 2 - Barcelona",
-        "publishedAt": "2022-09-15T07:00:00.000Z"
+        "publishedAt": "2022-09-15T07:00:00.000Z",
+        "id": 267
       },
       {
         "title": "Afsnit 1 - Kreta",
-        "publishedAt": "2022-09-15T07:00:00.000Z"
+        "publishedAt": "2022-09-15T07:00:00.000Z",
+        "id": 266
       }
     ]
   },
@@ -2810,91 +3443,113 @@
     "episodes": [
       {
         "title": "International Dog Days 2:  Donna the poodle og de lange rosetters nat",
-        "publishedAt": "2024-04-02T04:00:00.000Z"
+        "publishedAt": "2024-04-02T04:00:00.000Z",
+        "id": 967
       },
       {
         "title": "International Dog Days 1: Juniorhandling og et h\u00e5rl\u00f8st hjerte",
-        "publishedAt": "2024-03-05T05:00:00.000Z"
+        "publishedAt": "2024-03-05T05:00:00.000Z",
+        "id": 917
       },
       {
         "title": "Hundefris\u00f8ren Freddy",
-        "publishedAt": "2024-02-06T05:00:00.000Z"
+        "publishedAt": "2024-02-06T05:00:00.000Z",
+        "id": 872
       },
       {
         "title": "Live Show DEL 2: Live Show",
-        "publishedAt": "2024-01-02T16:10:12.477Z"
+        "publishedAt": "2024-01-02T16:10:12.477Z",
+        "id": 817
       },
       {
         "title": "Live Show DEL 1: Backstage",
-        "publishedAt": "2023-12-05T12:52:24.963Z"
+        "publishedAt": "2023-12-05T12:52:24.963Z",
+        "id": 774
       },
       {
         "title": "Stemmen bag ber\u00f8mte hunde",
-        "publishedAt": "2023-11-07T12:33:09.373Z"
+        "publishedAt": "2023-11-07T12:33:09.373Z",
+        "id": 737
       },
       {
         "title": "Hund og humor",
-        "publishedAt": "2023-10-03T12:37:45.393Z"
+        "publishedAt": "2023-10-03T12:37:45.393Z",
+        "id": 695
       },
       {
         "title": "Undercover",
-        "publishedAt": "2023-09-05T11:38:35.633Z"
+        "publishedAt": "2023-09-05T11:38:35.633Z",
+        "id": 658
       },
       {
         "title": "Greyhoundl\u00f8b del 2: Amazing Tinkerbell",
-        "publishedAt": "2023-08-01T11:32:36.727Z"
+        "publishedAt": "2023-08-01T11:32:36.727Z",
+        "id": 632
       },
       {
         "title": "Greyhoundl\u00f8b del 1: Mangfoldighed, gl\u00e6de og sjov",
-        "publishedAt": "2023-07-06T11:42:58.020Z"
+        "publishedAt": "2023-07-06T11:42:58.020Z",
+        "id": 615
       },
       {
         "title": "En sand historie om Ruby",
-        "publishedAt": "2023-06-06T11:42:08.377Z"
+        "publishedAt": "2023-06-06T11:42:08.377Z",
+        "id": 575
       },
       {
         "title": "Hunden Tango",
-        "publishedAt": "2023-05-02T13:00:00.000Z"
+        "publishedAt": "2023-05-02T13:00:00.000Z",
+        "id": 530
       },
       {
         "title": "Terapihunden Fru Kristof",
-        "publishedAt": "2023-04-04T13:00:00.000Z"
+        "publishedAt": "2023-04-04T13:00:00.000Z",
+        "id": 503
       },
       {
         "title": "Zididada",
-        "publishedAt": "2023-03-07T13:50:00.000Z"
+        "publishedAt": "2023-03-07T13:50:00.000Z",
+        "id": 471
       },
       {
         "title": "I Lassies Fodspor",
-        "publishedAt": "2023-02-07T06:00:00.000Z"
+        "publishedAt": "2023-02-07T06:00:00.000Z",
+        "id": 442
       },
       {
         "title": "Skaterboi",
-        "publishedAt": "2023-01-03T09:13:46.720Z"
+        "publishedAt": "2023-01-03T09:13:46.720Z",
+        "id": 382
       },
       {
         "title": "Bes\u00f8gshund",
-        "publishedAt": "2022-12-06T07:00:00.000Z"
+        "publishedAt": "2022-12-06T07:00:00.000Z",
+        "id": 338
       },
       {
         "title": "Kald",
-        "publishedAt": "2022-11-01T07:00:00.000Z"
+        "publishedAt": "2022-11-01T07:00:00.000Z",
+        "id": 297
       },
       {
         "title": "VM i Sch\u00e6fer del 2: Nosework og forsvar",
-        "publishedAt": "2022-10-05T06:59:39.437Z"
+        "publishedAt": "2022-10-05T06:59:39.437Z",
+        "id": 283
       },
       {
         "title": "VM i Sch\u00e6fer del 1: Lydighed og Stand",
-        "publishedAt": "2022-10-04T07:41:14.460Z"
+        "publishedAt": "2022-10-04T07:41:14.460Z",
+        "id": 281
       },
       {
         "title": "Blindsmagning",
-        "publishedAt": "2022-09-06T05:00:00.000Z"
+        "publishedAt": "2022-09-06T05:00:00.000Z",
+        "id": 260
       },
       {
         "title": "Jagthund",
-        "publishedAt": "2022-08-02T03:00:00.000Z"
+        "publishedAt": "2022-08-02T03:00:00.000Z",
+        "id": 250
       }
     ]
   },
@@ -2907,19 +3562,23 @@
     "episodes": [
       {
         "title": "Afsnit 4 - Anne Kirstine Cramon",
-        "publishedAt": "2022-12-26T13:00:00.000Z"
+        "publishedAt": "2022-12-26T13:00:00.000Z",
+        "id": 369
       },
       {
         "title": "Afsnit 3 - Nanna Thoustrup",
-        "publishedAt": "2022-07-27T03:00:00.000Z"
+        "publishedAt": "2022-07-27T03:00:00.000Z",
+        "id": 248
       },
       {
         "title": "Afsnit 2 - Sussi la Cour",
-        "publishedAt": "2022-06-17T15:21:18.000Z"
+        "publishedAt": "2022-06-17T15:21:18.000Z",
+        "id": 235
       },
       {
         "title": "Afsnit 1 - Cecilie Beck",
-        "publishedAt": "2022-06-17T13:48:06.000Z"
+        "publishedAt": "2022-06-17T13:48:06.000Z",
+        "id": 234
       }
     ]
   },
@@ -2932,11 +3591,13 @@
     "episodes": [
       {
         "title": "Afsnit 2 - Barndommens gade",
-        "publishedAt": "2022-07-26T03:00:00.000Z"
+        "publishedAt": "2022-07-26T03:00:00.000Z",
+        "id": 247
       },
       {
         "title": "Afsnit 1 - Amar' er nr. 1",
-        "publishedAt": "2022-06-10T14:23:58.000Z"
+        "publishedAt": "2022-06-10T14:23:58.000Z",
+        "id": 230
       }
     ]
   },
@@ -2949,15 +3610,18 @@
     "episodes": [
       {
         "title": "Afsnit 3 - Fisher matches, s\u00e6t ild til fortiden",
-        "publishedAt": "2022-09-10T06:52:48.000Z"
+        "publishedAt": "2022-09-10T06:52:48.000Z",
+        "id": 264
       },
       {
         "title": "Afsnit 2 - Det er en aftale",
-        "publishedAt": "2022-08-27T07:32:17.000Z"
+        "publishedAt": "2022-08-27T07:32:17.000Z",
+        "id": 256
       },
       {
         "title": "Afsnit 1 - Virksomhedsbes\u00f8g",
-        "publishedAt": "2022-05-20T12:25:57.000Z"
+        "publishedAt": "2022-05-20T12:25:57.000Z",
+        "id": 220
       }
     ]
   },
@@ -2970,59 +3634,73 @@
     "episodes": [
       {
         "title": "Oliver Bjerrehuus",
-        "publishedAt": "2024-03-31T04:00:00.000Z"
+        "publishedAt": "2024-03-31T04:00:00.000Z",
+        "id": 965
       },
       {
         "title": "Oliver Zahle",
-        "publishedAt": "2024-03-24T05:00:00.000Z"
+        "publishedAt": "2024-03-24T05:00:00.000Z",
+        "id": 956
       },
       {
         "title": "Chief 1",
-        "publishedAt": "2024-03-17T14:36:14.017Z"
+        "publishedAt": "2024-03-17T14:36:14.017Z",
+        "id": 945
       },
       {
         "title": "Ren\u00e9 Fredensborg",
-        "publishedAt": "2024-03-10T05:00:00.000Z"
+        "publishedAt": "2024-03-10T05:00:00.000Z",
+        "id": 929
       },
       {
         "title": "Thomas Buch-Andersen",
-        "publishedAt": "2024-03-03T05:00:00.000Z"
+        "publishedAt": "2024-03-03T05:00:00.000Z",
+        "id": 914
       },
       {
         "title": "Adam Holm",
-        "publishedAt": "2023-02-15T13:15:00.000Z"
+        "publishedAt": "2023-02-15T13:15:00.000Z",
+        "id": 451
       },
       {
         "title": "Mek Pek",
-        "publishedAt": "2023-01-18T09:00:00.000Z"
+        "publishedAt": "2023-01-18T09:00:00.000Z",
+        "id": 400
       },
       {
         "title": "Peter Aalb\u00e6k Jensen",
-        "publishedAt": "2022-12-26T12:00:00.000Z"
+        "publishedAt": "2022-12-26T12:00:00.000Z",
+        "id": 362
       },
       {
         "title": "Brian Holm",
-        "publishedAt": "2022-12-13T07:00:00.000Z"
+        "publishedAt": "2022-12-13T07:00:00.000Z",
+        "id": 350
       },
       {
         "title": "Allan Olsen",
-        "publishedAt": "2022-09-21T10:54:23.307Z"
+        "publishedAt": "2022-09-21T10:54:23.307Z",
+        "id": 275
       },
       {
         "title": "Simon Emil Ammitzb\u00f8ll Bille",
-        "publishedAt": "2022-06-25T08:00:00.000Z"
+        "publishedAt": "2022-06-25T08:00:00.000Z",
+        "id": 239
       },
       {
         "title": "Claus Meyer",
-        "publishedAt": "2022-05-24T09:02:45.240Z"
+        "publishedAt": "2022-05-24T09:02:45.240Z",
+        "id": 222
       },
       {
         "title": "Ib Michael",
-        "publishedAt": "2022-02-04T11:01:27.613Z"
+        "publishedAt": "2022-02-04T11:01:27.613Z",
+        "id": 158
       },
       {
         "title": "Adrian Lloyd Hughes",
-        "publishedAt": "2022-02-04T10:52:00.000Z"
+        "publishedAt": "2022-02-04T10:52:00.000Z",
+        "id": 157
       }
     ]
   },
@@ -3035,67 +3713,83 @@
     "episodes": [
       {
         "title": "Almanak i festligheder",
-        "publishedAt": "2024-06-05T04:00:00.000Z"
+        "publishedAt": "2024-06-05T04:00:00.000Z",
+        "id": 1043
       },
       {
         "title": "Klimageneration-z har ordet",
-        "publishedAt": "2024-05-02T06:19:17.873Z"
+        "publishedAt": "2024-05-02T06:19:17.873Z",
+        "id": 998
       },
       {
         "title": "En debat, et digt, en dans",
-        "publishedAt": "2024-03-27T05:00:00.000Z"
+        "publishedAt": "2024-03-27T05:00:00.000Z",
+        "id": 960
       },
       {
         "title": "Med musik som fortegn",
-        "publishedAt": "2024-02-15T16:00:00.000Z"
+        "publishedAt": "2024-02-15T16:00:00.000Z",
+        "id": 888
       },
       {
         "title": "JuleProud",
-        "publishedAt": "2023-12-21T12:59:16.060Z"
+        "publishedAt": "2023-12-21T12:59:16.060Z",
+        "id": 805
       },
       {
         "title": "Autensitet og iderigdom",
-        "publishedAt": "2023-11-29T13:52:30.380Z"
+        "publishedAt": "2023-11-29T13:52:30.380Z",
+        "id": 762
       },
       {
         "title": "Lommepoesi og tre hurtige til ungdommen",
-        "publishedAt": "2023-11-02T14:04:26.920Z"
+        "publishedAt": "2023-11-02T14:04:26.920Z",
+        "id": 733
       },
       {
         "title": "F\u00e5 god hud, pak ordenligt, og start med at cykle",
-        "publishedAt": "2023-08-15T12:03:41.823Z"
+        "publishedAt": "2023-08-15T12:03:41.823Z",
+        "id": 642
       },
       {
         "title": "En sommer i regnens, Roskildes og en masse andre fede tings tegn",
-        "publishedAt": "2023-07-18T12:17:39.140Z"
+        "publishedAt": "2023-07-18T12:17:39.140Z",
+        "id": 624
       },
       {
         "title": "Bornholm, bold, mere bold og en statsmester i Constitution",
-        "publishedAt": "2023-06-19T13:20:00.213Z"
+        "publishedAt": "2023-06-19T13:20:00.213Z",
+        "id": 594
       },
       {
         "title": "Efterskole og El guitar",
-        "publishedAt": "2023-05-15T13:20:00.000Z"
+        "publishedAt": "2023-05-15T13:20:00.000Z",
+        "id": 548
       },
       {
         "title": "En halsstarrig ungdom",
-        "publishedAt": "2023-04-18T12:25:00.000Z"
+        "publishedAt": "2023-04-18T12:25:00.000Z",
+        "id": 516
       },
       {
         "title": "En Skuespiller pa\u030a Arbejde",
-        "publishedAt": "2022-09-17T07:00:00.000Z"
+        "publishedAt": "2022-09-17T07:00:00.000Z",
+        "id": 273
       },
       {
         "title": "Jeg Har Aldrig",
-        "publishedAt": "2022-03-09T10:54:03.527Z"
+        "publishedAt": "2022-03-09T10:54:03.527Z",
+        "id": 173
       },
       {
         "title": "Teatertr\u00e6ning",
-        "publishedAt": "2022-01-21T15:43:03.050Z"
+        "publishedAt": "2022-01-21T15:43:03.050Z",
+        "id": 148
       },
       {
         "title": "Pro gulvh\u00f8jde - anti cringe",
-        "publishedAt": "2021-12-09T14:57:54.827Z"
+        "publishedAt": "2021-12-09T14:57:54.827Z",
+        "id": 118
       }
     ]
   },
@@ -3108,675 +3802,843 @@
     "episodes": [
       {
         "title": "Afsnit 167 - Farvel liv, hall\u00f8j kniv",
-        "publishedAt": "2023-11-02T13:41:58.823Z"
+        "publishedAt": "2023-11-02T13:41:58.823Z",
+        "id": 732
       },
       {
         "title": "Afsnit 166 - Hurtig og god til at pege",
-        "publishedAt": "2023-10-31T13:28:26.290Z"
+        "publishedAt": "2023-10-31T13:28:26.290Z",
+        "id": 730
       },
       {
         "title": "Afsnit 165 - Skal jeg stikke dig?",
-        "publishedAt": "2023-10-27T12:34:52.983Z"
+        "publishedAt": "2023-10-27T12:34:52.983Z",
+        "id": 726
       },
       {
         "title": "Afsnit 164 - Jeg er ikke bitter",
-        "publishedAt": "2023-10-26T12:32:19.577Z"
+        "publishedAt": "2023-10-26T12:32:19.577Z",
+        "id": 724
       },
       {
         "title": "Afsnit 163 - En for alle, alle for en",
-        "publishedAt": "2023-10-25T12:40:04.007Z"
+        "publishedAt": "2023-10-25T12:40:04.007Z",
+        "id": 722
       },
       {
         "title": "Afsnit 162 - Hej, det er Jakob Ellemann",
-        "publishedAt": "2023-10-24T12:40:51.990Z"
+        "publishedAt": "2023-10-24T12:40:51.990Z",
+        "id": 720
       },
       {
         "title": "Afsnit 161 - Stormfondue og n\u00f8dgenerator",
-        "publishedAt": "2023-10-20T12:34:58.940Z"
+        "publishedAt": "2023-10-20T12:34:58.940Z",
+        "id": 717
       },
       {
         "title": "Afsnit 160 - Vanvittigt vejr",
-        "publishedAt": "2023-10-19T12:31:10.470Z"
+        "publishedAt": "2023-10-19T12:31:10.470Z",
+        "id": 715
       },
       {
         "title": "Afsnit 159 - Klynk, klynk, klynk",
-        "publishedAt": "2023-10-16T12:24:59.497Z"
+        "publishedAt": "2023-10-16T12:24:59.497Z",
+        "id": 713
       },
       {
         "title": "Afsnit 158 - Der er aldrig et 'men'",
-        "publishedAt": "2023-10-13T12:29:17.487Z"
+        "publishedAt": "2023-10-13T12:29:17.487Z",
+        "id": 710
       },
       {
         "title": "Afsnit 157 - Vi kender ikke det fulde billede",
-        "publishedAt": "2023-10-12T12:24:35.183Z"
+        "publishedAt": "2023-10-12T12:24:35.183Z",
+        "id": 707
       },
       {
         "title": "Afsnit 156 - Venindebog, ja eller nej?",
-        "publishedAt": "2023-10-10T12:32:09.117Z"
+        "publishedAt": "2023-10-10T12:32:09.117Z",
+        "id": 704
       },
       {
         "title": "Afsnit 155 - Body age",
-        "publishedAt": "2023-10-09T12:30:49.773Z"
+        "publishedAt": "2023-10-09T12:30:49.773Z",
+        "id": 703
       },
       {
         "title": "Afsnit 154 - HerningBDSMfyr",
-        "publishedAt": "2023-10-06T12:51:09.340Z"
+        "publishedAt": "2023-10-06T12:51:09.340Z",
+        "id": 699
       },
       {
         "title": "Afsnit 153 - It's Br\u00f8ndie bitch",
-        "publishedAt": "2023-10-05T12:36:14.777Z"
+        "publishedAt": "2023-10-05T12:36:14.777Z",
+        "id": 697
       },
       {
         "title": "Afsnit 152 - S\u00e5dan fanger man de unge",
-        "publishedAt": "2023-10-03T12:21:52.727Z"
+        "publishedAt": "2023-10-03T12:21:52.727Z",
+        "id": 694
       },
       {
         "title": "Afsnit 151 - Daim i vinduet",
-        "publishedAt": "2023-09-29T12:29:29.473Z"
+        "publishedAt": "2023-09-29T12:29:29.473Z",
+        "id": 691
       },
       {
         "title": "Afsnit 150 - Milf Cheese",
-        "publishedAt": "2023-09-28T16:41:49.347Z"
+        "publishedAt": "2023-09-28T16:41:49.347Z",
+        "id": 689
       },
       {
         "title": "Afsnit 149 - Hvad er et godt foto? Ja eller nej?",
-        "publishedAt": "2023-09-26T12:46:28.887Z"
+        "publishedAt": "2023-09-26T12:46:28.887Z",
+        "id": 686
       },
       {
         "title": "Afsnit 148 - Gode konservative dyder",
-        "publishedAt": "2023-09-25T12:39:33.323Z"
+        "publishedAt": "2023-09-25T12:39:33.323Z",
+        "id": 682
       },
       {
         "title": "Afsnit 147 - Jeg kom bare for at l\u00e6se",
-        "publishedAt": "2023-09-22T12:47:53.943Z"
+        "publishedAt": "2023-09-22T12:47:53.943Z",
+        "id": 679
       },
       {
         "title": "Afsnit 146 - En, to, t\u00e5",
-        "publishedAt": "2023-09-21T12:31:32.467Z"
+        "publishedAt": "2023-09-21T12:31:32.467Z",
+        "id": 678
       },
       {
         "title": "Afsnit 145 - It's me, Jan Grarup",
-        "publishedAt": "2023-09-20T12:33:29.617Z"
+        "publishedAt": "2023-09-20T12:33:29.617Z",
+        "id": 675
       },
       {
         "title": "Afsnit 144 - Tal med Gud",
-        "publishedAt": "2023-09-18T12:30:43.033Z"
+        "publishedAt": "2023-09-18T12:30:43.033Z",
+        "id": 674
       },
       {
         "title": "Afsnit 143 - Hvilken disneyfigur er jeg?",
-        "publishedAt": "2023-09-15T12:29:38.923Z"
+        "publishedAt": "2023-09-15T12:29:38.923Z",
+        "id": 672
       },
       {
         "title": "Afsnit 142 - Dennis Knudsen ved ikke en skid",
-        "publishedAt": "2023-09-14T12:47:07.837Z"
+        "publishedAt": "2023-09-14T12:47:07.837Z",
+        "id": 670
       },
       {
         "title": "Afsnit 141 - Bare sig undskyld",
-        "publishedAt": "2023-09-12T12:34:19.267Z"
+        "publishedAt": "2023-09-12T12:34:19.267Z",
+        "id": 666
       },
       {
         "title": "Afsnit 140 - Kirstendommen",
-        "publishedAt": "2023-09-11T12:40:15.540Z"
+        "publishedAt": "2023-09-11T12:40:15.540Z",
+        "id": 665
       },
       {
         "title": "Afsnit 139 - Det\u2019 fredag og Kirsten betaler",
-        "publishedAt": "2023-09-08T12:28:24.383Z"
+        "publishedAt": "2023-09-08T12:28:24.383Z",
+        "id": 662
       },
       {
         "title": "Afsnit 138 - Igenog igen og",
-        "publishedAt": "2023-09-07T12:37:57.903Z"
+        "publishedAt": "2023-09-07T12:37:57.903Z",
+        "id": 660
       },
       {
         "title": "Afsnit 137 - Er jeg et nul?",
-        "publishedAt": "2023-09-04T12:31:36.340Z"
+        "publishedAt": "2023-09-04T12:31:36.340Z",
+        "id": 657
       },
       {
         "title": "Afsnit 136 - Mr. Podcast",
-        "publishedAt": "2023-09-01T12:29:02.443Z"
+        "publishedAt": "2023-09-01T12:29:02.443Z",
+        "id": 655
       },
       {
         "title": "Afsnit 135 - Girl dinner og drikkeyoughurt",
-        "publishedAt": "2023-08-31T12:34:51.280Z"
+        "publishedAt": "2023-08-31T12:34:51.280Z",
+        "id": 653
       },
       {
         "title": "Afsnit 134 - S\u00e5\u2019 du for dum!",
-        "publishedAt": "2023-08-30T12:50:10.807Z"
+        "publishedAt": "2023-08-30T12:50:10.807Z",
+        "id": 651
       },
       {
         "title": "Afsnit 133 - Ikke for kritisk",
-        "publishedAt": "2023-08-25T12:30:46.827Z"
+        "publishedAt": "2023-08-25T12:30:46.827Z",
+        "id": 649
       },
       {
         "title": "Afsnit 132 - Den rigtige stol",
-        "publishedAt": "2023-08-23T12:35:54.273Z"
+        "publishedAt": "2023-08-23T12:35:54.273Z",
+        "id": 647
       },
       {
         "title": "Afsnit 131 - D\u00f8ren g\u00e5r op, og hvem kommer ind 2",
-        "publishedAt": "2023-06-29T12:32:27.893Z"
+        "publishedAt": "2023-06-29T12:32:27.893Z",
+        "id": 608
       },
       {
         "title": "Afsnit 130 - Anja icer",
-        "publishedAt": "2023-06-28T12:35:45.283Z"
+        "publishedAt": "2023-06-28T12:35:45.283Z",
+        "id": 606
       },
       {
         "title": "Afsnit 129 - En d\u00e5rlig nyhed",
-        "publishedAt": "2023-06-27T12:43:23.410Z"
+        "publishedAt": "2023-06-27T12:43:23.410Z",
+        "id": 605
       },
       {
         "title": "Afsnit 128 - Er en forbandelse et v\u00e5ben?",
-        "publishedAt": "2023-06-26T12:33:40.890Z"
+        "publishedAt": "2023-06-26T12:33:40.890Z",
+        "id": 603
       },
       {
         "title": "Afsnit 127 - Sigurds Slips og Spilopper",
-        "publishedAt": "2023-06-23T12:34:21.393Z"
+        "publishedAt": "2023-06-23T12:34:21.393Z",
+        "id": 600
       },
       {
         "title": "Afsnit 126 - Kritisk hver 7. gang",
-        "publishedAt": "2023-06-22T16:09:56.700Z"
+        "publishedAt": "2023-06-22T16:09:56.700Z",
+        "id": 597
       },
       {
         "title": "Afsnit 125 - Live fra f\u00e6ngslet",
-        "publishedAt": "2023-06-19T13:17:39.487Z"
+        "publishedAt": "2023-06-19T13:17:39.487Z",
+        "id": 593
       },
       {
         "title": "Afsnit 124 - 1\u20262\u2026tillid",
-        "publishedAt": "2023-06-16T12:59:31.170Z"
+        "publishedAt": "2023-06-16T12:59:31.170Z",
+        "id": 591
       },
       {
         "title": "Afsnit 123 - Den korte b\u00f8rner8Dioavis",
-        "publishedAt": "2023-06-15T12:51:09.750Z"
+        "publishedAt": "2023-06-15T12:51:09.750Z",
+        "id": 588
       },
       {
         "title": "Afsnit 122 - Det sp\u00f8ger p\u00e5 Folkem\u00f8det",
-        "publishedAt": "2023-06-13T12:56:10.207Z"
+        "publishedAt": "2023-06-13T12:56:10.207Z",
+        "id": 586
       },
       {
         "title": "Afsnit 121 - Tilbage til Radio Viggo",
-        "publishedAt": "2023-06-12T12:37:35.763Z"
+        "publishedAt": "2023-06-12T12:37:35.763Z",
+        "id": 585
       },
       {
         "title": "Afsnit 120 - Sviner eller trussel",
-        "publishedAt": "2023-06-09T12:40:02.313Z"
+        "publishedAt": "2023-06-09T12:40:02.313Z",
+        "id": 582
       },
       {
         "title": "Afsnit 119 - Othellot\u00e5",
-        "publishedAt": "2023-06-08T12:47:37.160Z"
+        "publishedAt": "2023-06-08T12:47:37.160Z",
+        "id": 579
       },
       {
         "title": "Afsnit 118 - 2,4 ton havregryn",
-        "publishedAt": "2023-06-05T12:59:55.307Z"
+        "publishedAt": "2023-06-05T12:59:55.307Z",
+        "id": 574
       },
       {
         "title": "Afsnit 117 - Troldeh\u00e6r eller haters?",
-        "publishedAt": "2023-06-02T13:20:50.040Z"
+        "publishedAt": "2023-06-02T13:20:50.040Z",
+        "id": 572
       },
       {
         "title": "Afsnit 116 - Deep cake I kassen",
-        "publishedAt": "2023-06-01T12:42:04.570Z"
+        "publishedAt": "2023-06-01T12:42:04.570Z",
+        "id": 569
       },
       {
         "title": "Afsnit 115 - St\u00e6rke k\u00e6ber",
-        "publishedAt": "2023-05-31T12:22:47.250Z"
+        "publishedAt": "2023-05-31T12:22:47.250Z",
+        "id": 567
       },
       {
         "title": "Afsnit 114 - Kaos og krokodillet\u00e5rer",
-        "publishedAt": "2023-05-26T13:15:19.850Z"
+        "publishedAt": "2023-05-26T13:15:19.850Z",
+        "id": 563
       },
       {
         "title": "Afsnit 113 - These boobs are made for walking",
-        "publishedAt": "2023-05-25T12:32:09.817Z"
+        "publishedAt": "2023-05-25T12:32:09.817Z",
+        "id": 561
       },
       {
         "title": "Afsnit 112 - Fl\u00e6skesv\u00e6rt overv\u00e6gtig",
-        "publishedAt": "2023-05-22T12:30:09.360Z"
+        "publishedAt": "2023-05-22T12:30:09.360Z",
+        "id": 557
       },
       {
         "title": "Afsnit 111 - Toasten er tilbage",
-        "publishedAt": "2023-05-19T13:00:12.563Z"
+        "publishedAt": "2023-05-19T13:00:12.563Z",
+        "id": 555
       },
       {
         "title": "Afsnit 110 - Kristi himmelFART",
-        "publishedAt": "2023-05-18T12:28:18.197Z"
+        "publishedAt": "2023-05-18T12:28:18.197Z",
+        "id": 552
       },
       {
         "title": "Afsnit 109 - The Window",
-        "publishedAt": "2023-05-17T12:38:08.493Z"
+        "publishedAt": "2023-05-17T12:38:08.493Z",
+        "id": 550
       },
       {
         "title": "Afsnit 108 - Bar r\u00f8v og nyheder",
-        "publishedAt": "2023-05-15T12:55:12.907Z"
+        "publishedAt": "2023-05-15T12:55:12.907Z",
+        "id": 549
       },
       {
         "title": "Afsnit 107 - Happy Labia Day",
-        "publishedAt": "2023-05-12T12:24:47.377Z"
+        "publishedAt": "2023-05-12T12:24:47.377Z",
+        "id": 546
       },
       {
         "title": "Afsnit 106 - Konfirmanden Tina",
-        "publishedAt": "2023-05-11T12:49:25.530Z"
+        "publishedAt": "2023-05-11T12:49:25.530Z",
+        "id": 544
       },
       {
         "title": "Afsnit 105 - En Mikkel Beha sommer",
-        "publishedAt": "2023-05-10T12:51:42.593Z"
+        "publishedAt": "2023-05-10T12:51:42.593Z",
+        "id": 541
       },
       {
         "title": "Afsnit 104 - S\u00f8ren Vesters bunker",
-        "publishedAt": "2023-05-08T12:35:57.863Z"
+        "publishedAt": "2023-05-08T12:35:57.863Z",
+        "id": 539
       },
       {
         "title": "Afsnit 103 - En rigtig Jesper Olsen",
-        "publishedAt": "2023-05-05T12:35:15.123Z"
+        "publishedAt": "2023-05-05T12:35:15.123Z",
+        "id": 537
       },
       {
         "title": "Afsnit 102 - Je suis Uncle Prawn",
-        "publishedAt": "2023-05-04T12:42:36.743Z"
+        "publishedAt": "2023-05-04T12:42:36.743Z",
+        "id": 533
       },
       {
         "title": "Afsnit 101 - Met Gala og modetips",
-        "publishedAt": "2023-05-02T12:50:22.963Z"
+        "publishedAt": "2023-05-02T12:50:22.963Z",
+        "id": 529
       },
       {
         "title": "Afsnit 100 - Hej med dig frk. fotomodel",
-        "publishedAt": "2023-05-01T12:38:25.127Z"
+        "publishedAt": "2023-05-01T12:38:25.127Z",
+        "id": 528
       },
       {
         "title": "Afsnit 99 - Hyundai manden",
-        "publishedAt": "2023-04-27T12:46:40.907Z"
+        "publishedAt": "2023-04-27T12:46:40.907Z",
+        "id": 525
       },
       {
         "title": "Afsnit 98 - ...s\u00f8d' sp\u00e6ndende og med en god' r\u00f8v",
-        "publishedAt": "2023-04-25T12:34:19.300Z"
+        "publishedAt": "2023-04-25T12:34:19.300Z",
+        "id": 524
       },
       {
         "title": "Afsnit 97 - Sig det, som det er",
-        "publishedAt": "2023-04-24T12:34:30.417Z"
+        "publishedAt": "2023-04-24T12:34:30.417Z",
+        "id": 522
       },
       {
         "title": "Afsnit 96 - Den fr\u00e6kke klovn",
-        "publishedAt": "2023-04-21T12:37:45.457Z"
+        "publishedAt": "2023-04-21T12:37:45.457Z",
+        "id": 520
       },
       {
         "title": "Afsnit 95 - Rigtig d\u00e5rlig kaffe",
-        "publishedAt": "2023-04-20T12:57:15.763Z"
+        "publishedAt": "2023-04-20T12:57:15.763Z",
+        "id": 518
       },
       {
         "title": "Afsnit 94 - Vinker med venstre",
-        "publishedAt": "2023-04-17T12:31:40.087Z"
+        "publishedAt": "2023-04-17T12:31:40.087Z",
+        "id": 515
       },
       {
         "title": "Afsnit 93 - No more Mr. nice guy",
-        "publishedAt": "2023-04-14T12:43:15.167Z"
+        "publishedAt": "2023-04-14T12:43:15.167Z",
+        "id": 514
       },
       {
         "title": "Afsnit 92 - Konstitueringsm\u00f8det",
-        "publishedAt": "2023-04-13T12:30:55.033Z"
+        "publishedAt": "2023-04-13T12:30:55.033Z",
+        "id": 512
       },
       {
         "title": "Afsnit 91 - En skummel plan, ik' \u00e5",
-        "publishedAt": "2023-04-12T12:36:56.797Z"
+        "publishedAt": "2023-04-12T12:36:56.797Z",
+        "id": 510
       },
       {
         "title": "Afsnit 90 - Sarahs spirituelle hj\u00f8rne",
-        "publishedAt": "2023-04-07T13:17:13.817Z"
+        "publishedAt": "2023-04-07T13:17:13.817Z",
+        "id": 509
       },
       {
         "title": "Afsnit 89 - Tre ting p\u00e5 en \u00f8de \u00f8",
-        "publishedAt": "2023-04-06T13:03:45.230Z"
+        "publishedAt": "2023-04-06T13:03:45.230Z",
+        "id": 507
       },
       {
         "title": "Afsnit 88 - Et lille barn, der sl\u00e5r",
-        "publishedAt": "2023-04-03T12:28:08.200Z"
+        "publishedAt": "2023-04-03T12:28:08.200Z",
+        "id": 502
       },
       {
         "title": "Afsnit 87 - Gonzi",
-        "publishedAt": "2023-03-31T12:43:57.613Z"
+        "publishedAt": "2023-03-31T12:43:57.613Z",
+        "id": 501
       },
       {
         "title": "Afsnit 86 - Tr\u00e8s Bien",
-        "publishedAt": "2023-03-30T12:39:42.370Z"
+        "publishedAt": "2023-03-30T12:39:42.370Z",
+        "id": 499
       },
       {
         "title": "Afsnit 85 - Hvor er g\u00e5rdsangeren henne?",
-        "publishedAt": "2023-03-29T12:56:17.233Z"
+        "publishedAt": "2023-03-29T12:56:17.233Z",
+        "id": 498
       },
       {
         "title": "Afsnit 84 - Sm\u00e5 25 \u00e5r",
-        "publishedAt": "2023-03-28T12:45:56.610Z"
+        "publishedAt": "2023-03-28T12:45:56.610Z",
+        "id": 497
       },
       {
         "title": "Afsnit 83 - En masse lort",
-        "publishedAt": "2023-03-27T13:01:14.753Z"
+        "publishedAt": "2023-03-27T13:01:14.753Z",
+        "id": 495
       },
       {
         "title": "Afsnit 82 - En grim mulat",
-        "publishedAt": "2023-03-24T14:00:21.313Z"
+        "publishedAt": "2023-03-24T14:00:21.313Z",
+        "id": 493
       },
       {
         "title": "Afsnit 81 - 1 million dollars",
-        "publishedAt": "2023-03-23T13:36:00.410Z"
+        "publishedAt": "2023-03-23T13:36:00.410Z",
+        "id": 490
       },
       {
         "title": "Afsnit 80 - Klar, parat, slade",
-        "publishedAt": "2023-03-22T13:59:00.123Z"
+        "publishedAt": "2023-03-22T13:59:00.123Z",
+        "id": 489
       },
       {
         "title": "Afsnit 79 - Journalist og influencer",
-        "publishedAt": "2023-03-21T13:48:11.487Z"
+        "publishedAt": "2023-03-21T13:48:11.487Z",
+        "id": 487
       },
       {
         "title": "Afsnit 78 - Det var bare en lille kniv",
-        "publishedAt": "2023-03-20T13:31:29.400Z"
+        "publishedAt": "2023-03-20T13:31:29.400Z",
+        "id": 486
       },
       {
         "title": "Afsnit 77 - Den danske Rachel",
-        "publishedAt": "2023-03-16T13:54:02.960Z"
+        "publishedAt": "2023-03-16T13:54:02.960Z",
+        "id": 482
       },
       {
         "title": "Afsnit 76 - D\u00f8ren g\u00e5r op, og hvem kommer ind",
-        "publishedAt": "2023-03-15T13:41:30.203Z"
+        "publishedAt": "2023-03-15T13:41:30.203Z",
+        "id": 480
       },
       {
         "title": "Afsnit 75 - Sidste nye tabu",
-        "publishedAt": "2023-03-14T13:40:06.187Z"
+        "publishedAt": "2023-03-14T13:40:06.187Z",
+        "id": 479
       },
       {
         "title": "Afsnit 74 - En ordentlig kin\u00f8jser",
-        "publishedAt": "2023-03-13T13:27:13.230Z"
+        "publishedAt": "2023-03-13T13:27:13.230Z",
+        "id": 478
       },
       {
         "title": "Afsnit 73 - Kim Novo",
-        "publishedAt": "2023-03-09T13:41:16.530Z"
+        "publishedAt": "2023-03-09T13:41:16.530Z",
+        "id": 475
       },
       {
         "title": "Afsnit 72 - Kampdag og strandskader",
-        "publishedAt": "2023-03-08T13:39:59.267Z"
+        "publishedAt": "2023-03-08T13:39:59.267Z",
+        "id": 473
       },
       {
         "title": "Afsnit 71 - Det absurde i det",
-        "publishedAt": "2023-03-07T15:11:11.403Z"
+        "publishedAt": "2023-03-07T15:11:11.403Z",
+        "id": 472
       },
       {
         "title": "Afsnit 70 - En mulig Cavling",
-        "publishedAt": "2023-03-06T13:25:15.243Z"
+        "publishedAt": "2023-03-06T13:25:15.243Z",
+        "id": 470
       },
       {
         "title": "Afsnit 69 - Skyld og skam",
-        "publishedAt": "2023-03-02T13:37:22.190Z"
+        "publishedAt": "2023-03-02T13:37:22.190Z",
+        "id": 466
       },
       {
         "title": "Afsnit 68.5 - Jamais vu",
-        "publishedAt": "2023-03-19T03:00:00.000Z"
+        "publishedAt": "2023-03-19T03:00:00.000Z",
+        "id": 485
       },
       {
         "title": "Afsnit 68 - Deja vu",
-        "publishedAt": "2023-03-01T13:42:57.687Z"
+        "publishedAt": "2023-03-01T13:42:57.687Z",
+        "id": 465
       },
       {
         "title": "Afsnit 67 - En finger i 'sneppan'",
-        "publishedAt": "2023-02-27T13:33:53.917Z"
+        "publishedAt": "2023-02-27T13:33:53.917Z",
+        "id": 463
       },
       {
         "title": "Afsnit 66 - Vagn er dum",
-        "publishedAt": "2023-02-23T14:01:42.563Z"
+        "publishedAt": "2023-02-23T14:01:42.563Z",
+        "id": 459
       },
       {
         "title": "Afsnit 65 - S\u00e5dan var det dengang",
-        "publishedAt": "2023-02-21T13:35:14.920Z"
+        "publishedAt": "2023-02-21T13:35:14.920Z",
+        "id": 458
       },
       {
         "title": "Afsnit 64 - Sm\u00e5 svin",
-        "publishedAt": "2023-02-20T13:34:52.573Z"
+        "publishedAt": "2023-02-20T13:34:52.573Z",
+        "id": 457
       },
       {
         "title": "Afsnit 63 - Lugtefranz",
-        "publishedAt": "2023-02-16T13:48:44.610Z"
+        "publishedAt": "2023-02-16T13:48:44.610Z",
+        "id": 453
       },
       {
         "title": "Afsnit 62 - Ingen Kalles Kaviar",
-        "publishedAt": "2023-02-13T13:42:41.800Z"
+        "publishedAt": "2023-02-13T13:42:41.800Z",
+        "id": 452
       },
       {
         "title": "Afsnit 61 - Ikke mere murbrok",
-        "publishedAt": "2023-02-09T13:35:27.907Z"
+        "publishedAt": "2023-02-09T13:35:27.907Z",
+        "id": 446
       },
       {
         "title": "Afsnit 60 - Lidt om Spidsspurven",
-        "publishedAt": "2023-02-08T13:55:24.787Z"
+        "publishedAt": "2023-02-08T13:55:24.787Z",
+        "id": 444
       },
       {
         "title": "Afsnit 59 - Det, brugerne vil have",
-        "publishedAt": "2023-02-07T13:32:13.337Z"
+        "publishedAt": "2023-02-07T13:32:13.337Z",
+        "id": 443
       },
       {
         "title": "Afsnit 58 - Sm\u00f8lfevand",
-        "publishedAt": "2023-02-06T13:41:52.673Z"
+        "publishedAt": "2023-02-06T13:41:52.673Z",
+        "id": 441
       },
       {
         "title": "Afsnit 57 - En kinky f\u00e6tter",
-        "publishedAt": "2023-02-02T13:32:33.243Z"
+        "publishedAt": "2023-02-02T13:32:33.243Z",
+        "id": 426
       },
       {
         "title": "Afsnit 56 - En dyster dag for detailhandlen",
-        "publishedAt": "2023-02-01T13:42:57.877Z"
+        "publishedAt": "2023-02-01T13:42:57.877Z",
+        "id": 424
       },
       {
         "title": "Afsnit 55 - Av mine bitzcoins",
-        "publishedAt": "2023-01-30T13:29:40.930Z"
+        "publishedAt": "2023-01-30T13:29:40.930Z",
+        "id": 420
       },
       {
         "title": "Afsnit 54 - Mike Tyson plakat s\u00e6lges",
-        "publishedAt": "2023-01-26T13:31:34.003Z"
+        "publishedAt": "2023-01-26T13:31:34.003Z",
+        "id": 414
       },
       {
         "title": "Afsnit 53 - How to start a demokratisk samtale",
-        "publishedAt": "2023-01-24T13:39:15.573Z"
+        "publishedAt": "2023-01-24T13:39:15.573Z",
+        "id": 411
       },
       {
         "title": "Afsnit 52 - Velkommen til nyhedsfamilien",
-        "publishedAt": "2023-01-23T13:43:50.717Z"
+        "publishedAt": "2023-01-23T13:43:50.717Z",
+        "id": 408
       },
       {
         "title": "Afsnit 51 - Den danske Andrew Tate",
-        "publishedAt": "2023-01-19T13:43:47.123Z"
+        "publishedAt": "2023-01-19T13:43:47.123Z",
+        "id": 402
       },
       {
         "title": "Afsnit 50 - Jesus Kristus live fra Folketinget",
-        "publishedAt": "2023-01-17T13:49:52.263Z"
+        "publishedAt": "2023-01-17T13:49:52.263Z",
+        "id": 398
       },
       {
         "title": "Afsnit 49 - Et plysset gevir",
-        "publishedAt": "2023-01-16T13:36:30.570Z"
+        "publishedAt": "2023-01-16T13:36:30.570Z",
+        "id": 397
       },
       {
         "title": "Afsnit 48 - Et godt Klaus Rothstein",
-        "publishedAt": "2023-01-13T13:43:21.113Z"
+        "publishedAt": "2023-01-13T13:43:21.113Z",
+        "id": 392
       },
       {
         "title": "Afsnit 47 - Anmeld det",
-        "publishedAt": "2023-01-12T13:50:10.247Z"
+        "publishedAt": "2023-01-12T13:50:10.247Z",
+        "id": 390
       },
       {
         "title": "Afsnit 46 - Asiaterblind",
-        "publishedAt": "2023-01-05T13:28:00.587Z"
+        "publishedAt": "2023-01-05T13:28:00.587Z",
+        "id": 385
       },
       {
         "title": "Afsnit 45 - Et v\u00e6rdigt punktum",
-        "publishedAt": "2022-12-21T13:01:30.383Z"
+        "publishedAt": "2022-12-21T13:01:30.383Z",
+        "id": 361
       },
       {
         "title": "Afsnit 44 - Det bliver i nyhedsfamilien",
-        "publishedAt": "2022-12-20T14:24:15.087Z"
+        "publishedAt": "2022-12-20T14:24:15.087Z",
+        "id": 360
       },
       {
         "title": "Afsnit 43 - Hvad med hvepsedronningen?",
-        "publishedAt": "2022-12-19T13:50:25.660Z"
+        "publishedAt": "2022-12-19T13:50:25.660Z",
+        "id": 359
       },
       {
         "title": "Afsnit 42 - The Mental Load",
-        "publishedAt": "2022-12-16T13:45:05.710Z"
+        "publishedAt": "2022-12-16T13:45:05.710Z",
+        "id": 357
       },
       {
         "title": "Afsnit 41 - Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm inviterer...",
-        "publishedAt": "2022-12-15T13:39:00.420Z"
+        "publishedAt": "2022-12-15T13:39:00.420Z",
+        "id": 354
       },
       {
         "title": "Afsnit 40 - Det er historisk!\u2122\ufe0f",
-        "publishedAt": "2022-12-14T13:33:39.520Z"
+        "publishedAt": "2022-12-14T13:33:39.520Z",
+        "id": 353
       },
       {
         "title": "Afsnit 39 - Den nye Benjamin",
-        "publishedAt": "2022-12-13T13:44:11.697Z"
+        "publishedAt": "2022-12-13T13:44:11.697Z",
+        "id": 352
       },
       {
         "title": "Afsnit 38 - Uffe bapper p\u00e5 piben",
-        "publishedAt": "2022-12-12T13:58:19.513Z"
+        "publishedAt": "2022-12-12T13:58:19.513Z",
+        "id": 349
       },
       {
         "title": "Afsnit 37 - New look",
-        "publishedAt": "2022-12-09T13:40:38.373Z"
+        "publishedAt": "2022-12-09T13:40:38.373Z",
+        "id": 347
       },
       {
         "title": "Afsnit 36 - Wokey dokey",
-        "publishedAt": "2022-12-08T13:43:16.000Z"
+        "publishedAt": "2022-12-08T13:43:16.000Z",
+        "id": 344
       },
       {
         "title": "Afsnit 35 - Mediedarlingens Fald",
-        "publishedAt": "2022-12-07T13:44:21.000Z"
+        "publishedAt": "2022-12-07T13:44:21.000Z",
+        "id": 342
       },
       {
         "title": "Afsnit 34 - Mimik ikke inkluderet",
-        "publishedAt": "2022-12-06T13:50:00.000Z"
+        "publishedAt": "2022-12-06T13:50:00.000Z",
+        "id": 340
       },
       {
         "title": "Afsnit 33 - Alexanderteknikken i K\u00f8dp\u00f8lsen",
-        "publishedAt": "2022-12-05T13:47:51.000Z"
+        "publishedAt": "2022-12-05T13:47:51.000Z",
+        "id": 337
       },
       {
         "title": "Afsnit 32 - Du kaster en meget lille skygge",
-        "publishedAt": "2022-12-02T13:38:49.000Z"
+        "publishedAt": "2022-12-02T13:38:49.000Z",
+        "id": 334
       },
       {
         "title": "Afsnit 31 - Nu har jeg ikke set det, men...",
-        "publishedAt": "2022-12-01T15:49:08.957Z"
+        "publishedAt": "2022-12-01T15:49:08.957Z",
+        "id": 332
       },
       {
         "title": "Afsnit 30 - Hvidsjulsbarometeret",
-        "publishedAt": "2022-11-28T13:32:00.000Z"
+        "publishedAt": "2022-11-28T13:32:00.000Z",
+        "id": 328
       },
       {
         "title": "Afsnit 29 - Det journalistiske otium",
-        "publishedAt": "2022-11-22T12:53:27.000Z"
+        "publishedAt": "2022-11-22T12:53:27.000Z",
+        "id": 322
       },
       {
         "title": "Afsnit 28 - I Qatar det",
-        "publishedAt": "2022-11-16T15:26:30.000Z"
+        "publishedAt": "2022-11-16T15:26:30.000Z",
+        "id": 320
       },
       {
         "title": "Afsnit 27 - Det bliver for gemacht",
-        "publishedAt": "2022-11-08T14:25:28.260Z"
+        "publishedAt": "2022-11-08T14:25:28.260Z",
+        "id": 301
       },
       {
         "title": "Afsnit 26 - Demokratiets festdag",
-        "publishedAt": "2022-11-01T12:09:27.240Z"
+        "publishedAt": "2022-11-01T12:09:27.240Z",
+        "id": 298
       },
       {
         "title": "Afsnit 25 - Ornepigen Bodil",
-        "publishedAt": "2022-10-24T10:34:34.860Z"
+        "publishedAt": "2022-10-24T10:34:34.860Z",
+        "id": 293
       },
       {
         "title": "Afsnit 24 - Vi er tilbage!",
-        "publishedAt": "2022-10-19T13:54:55.343Z"
+        "publishedAt": "2022-10-19T13:54:55.343Z",
+        "id": 290
       },
       {
         "title": "Afsnit 23 - Sommerferiefest",
-        "publishedAt": "2022-06-28T12:42:30.757Z"
+        "publishedAt": "2022-06-28T12:42:30.757Z",
+        "id": 240
       },
       {
         "title": "Afsnit 22 - Danske Inger",
-        "publishedAt": "2022-06-23T20:40:19.010Z"
+        "publishedAt": "2022-06-23T20:40:19.010Z",
+        "id": 237
       },
       {
         "title": "Afsnit 21 - De moderate",
-        "publishedAt": "2022-06-09T07:33:50.793Z"
+        "publishedAt": "2022-06-09T07:33:50.793Z",
+        "id": 228
       },
       {
         "title": "Afsnit 20 - V\u00e6rsgo, Allan",
-        "publishedAt": "2022-06-02T10:43:39.340Z"
+        "publishedAt": "2022-06-02T10:43:39.340Z",
+        "id": 225
       },
       {
         "title": "Afsnit 19 - Claus Hjort Frederiksen?",
-        "publishedAt": "2022-05-19T16:24:57.683Z"
+        "publishedAt": "2022-05-19T16:24:57.683Z",
+        "id": 218
       },
       {
         "title": "Afsnit 18 - Lemf\u00e6ldig omgang med sandheden",
-        "publishedAt": "2022-05-12T17:19:41.517Z"
+        "publishedAt": "2022-05-12T17:19:41.517Z",
+        "id": 215
       },
       {
         "title": "Afsnit 17 - Dagsordens\u00e6ttende",
-        "publishedAt": "2022-04-28T11:16:56.527Z"
+        "publishedAt": "2022-04-28T11:16:56.527Z",
+        "id": 208
       },
       {
         "title": "Afsnit 16 - T\u00f8mmerm\u00e6nd og juice",
-        "publishedAt": "2022-04-20T10:04:51.477Z"
+        "publishedAt": "2022-04-20T10:04:51.477Z",
+        "id": 191
       },
       {
         "title": "Afsnit 15 - Glassk\u00e5r i Kyiv",
-        "publishedAt": "2022-04-13T15:40:03.930Z"
+        "publishedAt": "2022-04-13T15:40:03.930Z",
+        "id": 187
       },
       {
         "title": "Afsnit 14 - En aftale med kaninerne",
-        "publishedAt": "2022-03-31T16:14:19.000Z"
+        "publishedAt": "2022-03-31T16:14:19.000Z",
+        "id": 183
       },
       {
         "title": "Afsnit 13 - Har du f\u00e5et b\u00e6r i dag?",
-        "publishedAt": "2022-03-16T08:43:56.000Z"
+        "publishedAt": "2022-03-16T08:43:56.000Z",
+        "id": 177
       },
       {
         "title": "Afsnit 12 - Hvor er Anja?",
-        "publishedAt": "2022-03-11T12:03:52.000Z"
+        "publishedAt": "2022-03-11T12:03:52.000Z",
+        "id": 175
       },
       {
         "title": "Afsnit 11 - Alt kan v\u00e6re tapas",
-        "publishedAt": "2022-02-23T15:53:41.000Z"
+        "publishedAt": "2022-02-23T15:53:41.000Z",
+        "id": 167
       },
       {
         "title": "Afsnit 10 - Et telt af denim",
-        "publishedAt": "2022-02-17T17:24:44.000Z"
+        "publishedAt": "2022-02-17T17:24:44.000Z",
+        "id": 165
       },
       {
         "title": "Afsnit 9 - Hvad er dit ghost?",
-        "publishedAt": "2022-02-10T12:34:59.000Z"
+        "publishedAt": "2022-02-10T12:34:59.000Z",
+        "id": 161
       },
       {
         "title": "Afsnit 8 - De tre huller",
-        "publishedAt": "2022-02-03T12:48:09.000Z"
+        "publishedAt": "2022-02-03T12:48:09.000Z",
+        "id": 155
       },
       {
         "title": "Afsnit 7 - Tilbud fra garagen",
-        "publishedAt": "2022-01-27T12:15:15.000Z"
+        "publishedAt": "2022-01-27T12:15:15.000Z",
+        "id": 150
       },
       {
         "title": "Afsnit 6 - Anjas far",
-        "publishedAt": "2022-01-20T16:28:00.000Z"
+        "publishedAt": "2022-01-20T16:28:00.000Z",
+        "id": 146
       },
       {
         "title": "Afsnit 5 - Ding Dong Dynamo",
-        "publishedAt": "2022-01-13T11:50:50.000Z"
+        "publishedAt": "2022-01-13T11:50:50.000Z",
+        "id": 141
       },
       {
         "title": "Afsnit 4 - S\u00f8d Asti",
-        "publishedAt": "2022-01-06T15:52:12.000Z"
+        "publishedAt": "2022-01-06T15:52:12.000Z",
+        "id": 137
       },
       {
         "title": "Afsnit 3 - Jeg skal have et l\u00e6ngere navn",
-        "publishedAt": "2021-12-16T15:19:00.000Z"
+        "publishedAt": "2021-12-16T15:19:00.000Z",
+        "id": 131
       },
       {
         "title": "Afsnit 2 - Rockability",
-        "publishedAt": "2021-12-09T18:04:00.000Z"
+        "publishedAt": "2021-12-09T18:04:00.000Z",
+        "id": 119
       },
       {
         "title": "Afsnit 1 - En dummy til Rasmus",
-        "publishedAt": "2021-12-03T12:58:00.000Z"
+        "publishedAt": "2021-12-03T12:58:00.000Z",
+        "id": 115
       }
     ]
   },
@@ -3789,19 +4651,23 @@
     "episodes": [
       {
         "title": "Afsnit 4 - Berlin",
-        "publishedAt": "2023-02-06T10:14:40.843Z"
+        "publishedAt": "2023-02-06T10:14:40.843Z",
+        "id": 440
       },
       {
         "title": "Afsnit 3 - Du\u0308sseldorf",
-        "publishedAt": "2022-01-29T08:00:00.000Z"
+        "publishedAt": "2022-01-29T08:00:00.000Z",
+        "id": 152
       },
       {
         "title": "Afsnit 2 - Hamburg del 2",
-        "publishedAt": "2021-11-12T11:26:00.000Z"
+        "publishedAt": "2021-11-12T11:26:00.000Z",
+        "id": 103
       },
       {
         "title": "Afsnit 1 - Hamburg del 1",
-        "publishedAt": "2021-11-05T12:34:04.603Z"
+        "publishedAt": "2021-11-05T12:34:04.603Z",
+        "id": 100
       }
     ]
   },
@@ -3814,207 +4680,258 @@
     "episodes": [
       {
         "title": "Afsnit 51 - Julefrokost og ny dummy",
-        "publishedAt": "2022-12-23T13:06:33.107Z"
+        "publishedAt": "2022-12-23T13:06:33.107Z",
+        "id": 367
       },
       {
         "title": "Afsnit 50 - Den ultimative juleaftensguide",
-        "publishedAt": "2022-12-15T16:30:07.653Z"
+        "publishedAt": "2022-12-15T16:30:07.653Z",
+        "id": 355
       },
       {
         "title": "Afsnit 49 - Julegaveindk\u00f8b i krisetid",
-        "publishedAt": "2022-12-08T16:14:38.490Z"
+        "publishedAt": "2022-12-08T16:14:38.490Z",
+        "id": 345
       },
       {
         "title": "Afsnit 48 - Et billigt kalenderlys",
-        "publishedAt": "2022-11-30T11:05:58.180Z"
+        "publishedAt": "2022-11-30T11:05:58.180Z",
+        "id": 331
       },
       {
         "title": "Afsnit 47 - Svensk Special",
-        "publishedAt": "2022-11-24T12:00:00.000Z"
+        "publishedAt": "2022-11-24T12:00:00.000Z",
+        "id": 323
       },
       {
         "title": "Afsnit 46 - Blackout special",
-        "publishedAt": "2022-11-15T12:57:06.287Z"
+        "publishedAt": "2022-11-15T12:57:06.287Z",
+        "id": 319
       },
       {
         "title": "Afsnit 45 - En billig Mortens aften",
-        "publishedAt": "2022-11-10T10:27:48.143Z"
+        "publishedAt": "2022-11-10T10:27:48.143Z",
+        "id": 316
       },
       {
         "title": "Afsnit 44 - En leg med termometret",
-        "publishedAt": "2022-11-03T10:22:13.980Z"
+        "publishedAt": "2022-11-03T10:22:13.980Z",
+        "id": 299
       },
       {
         "title": "Afsnit 43 - Kogetiden og syltes\u00e6sonen",
-        "publishedAt": "2022-10-18T12:20:02.693Z"
+        "publishedAt": "2022-10-18T12:20:02.693Z",
+        "id": 289
       },
       {
         "title": "Afsnit 42 - Gode r\u00e5d til den t\u00f8rreste bagdel",
-        "publishedAt": "2022-10-11T18:40:19.153Z"
+        "publishedAt": "2022-10-11T18:40:19.153Z",
+        "id": 286
       },
       {
         "title": "Afsnit 41 - Koldt er godt!",
-        "publishedAt": "2022-10-04T09:43:45.653Z"
+        "publishedAt": "2022-10-04T09:43:45.653Z",
+        "id": 282
       },
       {
         "title": "Afsnit 40 - \u2026og s\u00e5 p\u00e5 \u00e6blerov",
-        "publishedAt": "2022-09-28T06:29:11.743Z"
+        "publishedAt": "2022-09-28T06:29:11.743Z",
+        "id": 278
       },
       {
         "title": "Afsnit 39 - Skimmelsvamp vs. penge",
-        "publishedAt": "2022-09-20T05:24:05.543Z"
+        "publishedAt": "2022-09-20T05:24:05.543Z",
+        "id": 274
       },
       {
         "title": "Afsnit 38 - En varmebl\u00e6ser til kontoret",
-        "publishedAt": "2022-09-13T06:12:44.883Z"
+        "publishedAt": "2022-09-13T06:12:44.883Z",
+        "id": 265
       },
       {
         "title": "Afsnit 37 - D\u00e5semaden er tilbage",
-        "publishedAt": "2022-09-06T12:58:05.520Z"
+        "publishedAt": "2022-09-06T12:58:05.520Z",
+        "id": 261
       },
       {
         "title": "Afsnit 36 - Special: Tilbudsjagt helt til gr\u00e6nsen",
-        "publishedAt": "2022-08-27T07:43:23.100Z"
+        "publishedAt": "2022-08-27T07:43:23.100Z",
+        "id": 257
       },
       {
         "title": "Afsnit 35 - Hvilke p\u00f8lser skal p\u00e5 grillen?",
-        "publishedAt": "2022-06-29T17:21:51.280Z"
+        "publishedAt": "2022-06-29T17:21:51.280Z",
+        "id": 241
       },
       {
         "title": "Afsnit 34 - R\u00f8d og hvid bliver til ros\u00e9",
-        "publishedAt": "2022-06-21T08:42:22.847Z"
+        "publishedAt": "2022-06-21T08:42:22.847Z",
+        "id": 236
       },
       {
         "title": "Afsnit 33 - Pas p\u00e5 RTD maven",
-        "publishedAt": "2022-06-14T18:45:55.947Z"
+        "publishedAt": "2022-06-14T18:45:55.947Z",
+        "id": 231
       },
       {
         "title": "Afsnit 32 - Husk at vende dine \u00e6g",
-        "publishedAt": "2022-06-08T11:52:40.220Z"
+        "publishedAt": "2022-06-08T11:52:40.220Z",
+        "id": 227
       },
       {
         "title": "Afsnit 31 - Sur dej med smag af eddike",
-        "publishedAt": "2022-05-31T09:20:36.333Z"
+        "publishedAt": "2022-05-31T09:20:36.333Z",
+        "id": 224
       },
       {
         "title": "Afsnit 30 - Alle dem uden kummefrysere",
-        "publishedAt": "2022-05-24T08:51:47.317Z"
+        "publishedAt": "2022-05-24T08:51:47.317Z",
+        "id": 221
       },
       {
         "title": "Afsnit 29 - Huskokken Jonna",
-        "publishedAt": "2022-05-17T13:54:24.587Z"
+        "publishedAt": "2022-05-17T13:54:24.587Z",
+        "id": 217
       },
       {
         "title": "Afsnit 28 - Hvede du hvad der er p\u00e5 tilbud?",
-        "publishedAt": "2022-05-10T12:55:22.167Z"
+        "publishedAt": "2022-05-10T12:55:22.167Z",
+        "id": 214
       },
       {
         "title": "Afsnit 27 - Til dig med CVR-nummer",
-        "publishedAt": "2022-05-03T12:27:43.817Z"
+        "publishedAt": "2022-05-03T12:27:43.817Z",
+        "id": 210
       },
       {
         "title": "Afsnit 26 - Sidst p\u00e5 m\u00e5neden",
-        "publishedAt": "2022-04-26T13:52:01.113Z"
+        "publishedAt": "2022-04-26T13:52:01.113Z",
+        "id": 207
       },
       {
         "title": "Afsnit 25 - P\u00e5skeslik p\u00e5 tilbud",
-        "publishedAt": "2022-04-19T10:55:40.863Z"
+        "publishedAt": "2022-04-19T10:55:40.863Z",
+        "id": 190
       },
       {
         "title": "Afsnit 24 - Er der br\u00f8d i Frankrig?",
-        "publishedAt": "2022-04-12T09:38:33.247Z"
+        "publishedAt": "2022-04-12T09:38:33.247Z",
+        "id": 186
       },
       {
         "title": "Afsnit 23 - Leverdrenge",
-        "publishedAt": "2022-04-04T10:34:42.953Z"
+        "publishedAt": "2022-04-04T10:34:42.953Z",
+        "id": 184
       },
       {
         "title": "Afsnit 22 - Skrumpflation",
-        "publishedAt": "2022-03-28T14:06:52.767Z"
+        "publishedAt": "2022-03-28T14:06:52.767Z",
+        "id": 181
       },
       {
         "title": "Afsnit 21 - Tilbud til de sarte maver",
-        "publishedAt": "2022-03-14T20:07:32.420Z"
+        "publishedAt": "2022-03-14T20:07:32.420Z",
+        "id": 176
       },
       {
         "title": "Afsnit 20 - Den store hvedekrise",
-        "publishedAt": "2022-03-07T13:03:19.080Z"
+        "publishedAt": "2022-03-07T13:03:19.080Z",
+        "id": 172
       },
       {
         "title": "Afsnit 19 - Spise/strikke-pinde",
-        "publishedAt": "2022-02-28T13:35:23.647Z"
+        "publishedAt": "2022-02-28T13:35:23.647Z",
+        "id": 169
       },
       {
         "title": "Afsnit 18 - Chips, tips og garn",
-        "publishedAt": "2022-02-14T17:13:00.000Z"
+        "publishedAt": "2022-02-14T17:13:00.000Z",
+        "id": 163
       },
       {
         "title": "Afsnit 17 - Trusseindl\u00e6g, bind og tamponer",
-        "publishedAt": "2022-02-08T19:26:12.317Z"
+        "publishedAt": "2022-02-08T19:26:12.317Z",
+        "id": 159
       },
       {
         "title": "Afsnit 16 - Fastelavnsbolles\u00e6sonen",
-        "publishedAt": "2022-01-31T13:57:04.897Z"
+        "publishedAt": "2022-01-31T13:57:04.897Z",
+        "id": 153
       },
       {
         "title": "Afsnit 15 - Luksus-havregryn",
-        "publishedAt": "2022-01-25T07:03:12.923Z"
+        "publishedAt": "2022-01-25T07:03:12.923Z",
+        "id": 149
       },
       {
         "title": "Afsnit 14 - Kummefryseren",
-        "publishedAt": "2022-01-17T10:15:41.557Z"
+        "publishedAt": "2022-01-17T10:15:41.557Z",
+        "id": 144
       },
       {
         "title": "Afsnit 13 - Spidsk\u00e5lswrap",
-        "publishedAt": "2022-01-10T15:21:51.410Z"
+        "publishedAt": "2022-01-10T15:21:51.410Z",
+        "id": 140
       },
       {
         "title": "Afsnit 12 - Den helt store julespecial",
-        "publishedAt": "2021-12-20T14:14:43.047Z"
+        "publishedAt": "2021-12-20T14:14:43.047Z",
+        "id": 134
       },
       {
         "title": "Afsnit 11 - Fedtreducerede tarteletskaller",
-        "publishedAt": "2021-12-13T12:13:00.000Z"
+        "publishedAt": "2021-12-13T12:13:00.000Z",
+        "id": 129
       },
       {
         "title": "Afsnit 10 - Et bredt udvalg af l\u00f8g",
-        "publishedAt": "2021-12-06T15:05:45.917Z"
+        "publishedAt": "2021-12-06T15:05:45.917Z",
+        "id": 116
       },
       {
         "title": "Afsnit 9 - Maks 72 stk. pr. kunde",
-        "publishedAt": "2021-11-29T07:13:09.940Z"
+        "publishedAt": "2021-11-29T07:13:09.940Z",
+        "id": 112
       },
       {
         "title": "Afsnit 8 - P\u00e6rev\u00e6lling fra L\u00f8vbjerg",
-        "publishedAt": "2021-11-22T14:24:45.980Z"
+        "publishedAt": "2021-11-22T14:24:45.980Z",
+        "id": 109
       },
       {
         "title": "Afsnit 7 - Baileys med s",
-        "publishedAt": "2021-11-15T09:53:46.390Z"
+        "publishedAt": "2021-11-15T09:53:46.390Z",
+        "id": 104
       },
       {
         "title": "Afsnit 6 - Chips p\u00e5 radiatoren",
-        "publishedAt": "2021-11-08T14:52:00.000Z"
+        "publishedAt": "2021-11-08T14:52:00.000Z",
+        "id": 101
       },
       {
         "title": "Afsnit 5 - Service til turen",
-        "publishedAt": "2021-10-31T12:42:00.000Z"
+        "publishedAt": "2021-10-31T12:42:00.000Z",
+        "id": 97
       },
       {
         "title": "Afsnit 4 - Skolekridt fra Fazer",
-        "publishedAt": "2021-10-24T20:36:00.000Z"
+        "publishedAt": "2021-10-24T20:36:00.000Z",
+        "id": 93
       },
       {
         "title": "Afsnit 3 - Billig Brandert",
-        "publishedAt": "2021-10-17T13:01:00.000Z"
+        "publishedAt": "2021-10-17T13:01:00.000Z",
+        "id": 91
       },
       {
         "title": "Afsnit 2 - Sylt din sylte",
-        "publishedAt": "2021-10-10T21:15:00.420Z"
+        "publishedAt": "2021-10-10T21:15:00.420Z",
+        "id": 87
       },
       {
         "title": "Afsnit 1 - R\u00f8dvinspuden",
-        "publishedAt": "2021-09-29T20:05:00.000Z"
+        "publishedAt": "2021-09-29T20:05:00.000Z",
+        "id": 81
       }
     ]
   },
@@ -4027,51 +4944,63 @@
     "episodes": [
       {
         "title": "Afsnit 12 - Hirtshals",
-        "publishedAt": "2023-07-04T11:38:05.597Z"
+        "publishedAt": "2023-07-04T11:38:05.597Z",
+        "id": 613
       },
       {
         "title": "Afsnit 11 - Allinge",
-        "publishedAt": "2023-06-21T11:42:26.887Z"
+        "publishedAt": "2023-06-21T11:42:26.887Z",
+        "id": 595
       },
       {
         "title": "Afsnit 10 - Otterup",
-        "publishedAt": "2023-06-07T11:41:55.623Z"
+        "publishedAt": "2023-06-07T11:41:55.623Z",
+        "id": 576
       },
       {
         "title": "Afsnit 9 - Galten",
-        "publishedAt": "2023-05-24T11:51:06.690Z"
+        "publishedAt": "2023-05-24T11:51:06.690Z",
+        "id": 559
       },
       {
         "title": "Afsnit 8 - Dianalund",
-        "publishedAt": "2023-05-09T12:00:00.000Z"
+        "publishedAt": "2023-05-09T12:00:00.000Z",
+        "id": 540
       },
       {
         "title": "Afsnit 7 - Q&A p\u00e5 Storeb\u00e6ltsbroen",
-        "publishedAt": "2023-01-16T07:00:00.000Z"
+        "publishedAt": "2023-01-16T07:00:00.000Z",
+        "id": 395
       },
       {
         "title": "Afsnit 6 - Stege",
-        "publishedAt": "2022-06-15T17:08:12.230Z"
+        "publishedAt": "2022-06-15T17:08:12.230Z",
+        "id": 232
       },
       {
         "title": "Afsnit 5 - Aabybro",
-        "publishedAt": "2022-02-09T09:31:51.787Z"
+        "publishedAt": "2022-02-09T09:31:51.787Z",
+        "id": 160
       },
       {
         "title": "Afsnit 4 - Tisvilde",
-        "publishedAt": "2022-01-19T19:26:00.000Z"
+        "publishedAt": "2022-01-19T19:26:00.000Z",
+        "id": 145
       },
       {
         "title": "Afsnit 3 - Varde",
-        "publishedAt": "2021-11-05T11:59:44.560Z"
+        "publishedAt": "2021-11-05T11:59:44.560Z",
+        "id": 99
       },
       {
         "title": "Afsnit 2 - Ribe",
-        "publishedAt": "2021-10-25T12:10:05.730Z"
+        "publishedAt": "2021-10-25T12:10:05.730Z",
+        "id": 94
       },
       {
         "title": "Afsnit 1 - Middelfart",
-        "publishedAt": "2021-09-29T19:01:00.000Z"
+        "publishedAt": "2021-09-29T19:01:00.000Z",
+        "id": 79
       }
     ]
   },
@@ -4084,91 +5013,113 @@
     "episodes": [
       {
         "title": "H\u00f8jredrejet",
-        "publishedAt": "2024-03-10T05:00:00.000Z"
+        "publishedAt": "2024-03-10T05:00:00.000Z",
+        "id": 928
       },
       {
         "title": "Den Trojanske elefant",
-        "publishedAt": "2024-02-11T05:00:00.000Z"
+        "publishedAt": "2024-02-11T05:00:00.000Z",
+        "id": 882
       },
       {
         "title": "Chris X",
-        "publishedAt": "2024-01-14T09:21:24.887Z"
+        "publishedAt": "2024-01-14T09:21:24.887Z",
+        "id": 833
       },
       {
         "title": "Tove Top\u00f8rer",
-        "publishedAt": "2023-12-10T09:22:13.990Z"
+        "publishedAt": "2023-12-10T09:22:13.990Z",
+        "id": 785
       },
       {
         "title": "Himmlers s\u00e6d",
-        "publishedAt": "2023-11-12T09:26:53.040Z"
+        "publishedAt": "2023-11-12T09:26:53.040Z",
+        "id": 743
       },
       {
         "title": "Fre' p\u00e5 fyn",
-        "publishedAt": "2023-10-08T09:31:50.157Z"
+        "publishedAt": "2023-10-08T09:31:50.157Z",
+        "id": 701
       },
       {
         "title": "Spionballon over s\u00f8erne",
-        "publishedAt": "2023-09-10T08:21:21.743Z"
+        "publishedAt": "2023-09-10T08:21:21.743Z",
+        "id": 663
       },
       {
         "title": "Spurven",
-        "publishedAt": "2023-08-13T08:26:37.103Z"
+        "publishedAt": "2023-08-13T08:26:37.103Z",
+        "id": 640
       },
       {
         "title": "Jysk modstand",
-        "publishedAt": "2023-07-09T08:26:36.593Z"
+        "publishedAt": "2023-07-09T08:26:36.593Z",
+        "id": 618
       },
       {
         "title": "OL orgie i Berlin",
-        "publishedAt": "2023-06-11T11:00:00.000Z"
+        "publishedAt": "2023-06-11T11:00:00.000Z",
+        "id": 583
       },
       {
         "title": "4. maj",
-        "publishedAt": "2023-05-04T14:00:00.000Z"
+        "publishedAt": "2023-05-04T14:00:00.000Z",
+        "id": 532
       },
       {
         "title": "Nazij\u00e6gerens sidste tango",
-        "publishedAt": "2023-04-25T13:00:00.000Z"
+        "publishedAt": "2023-04-25T13:00:00.000Z",
+        "id": 523
       },
       {
         "title": "Regningen for Kaj Munk",
-        "publishedAt": "2023-03-28T12:14:51.243Z"
+        "publishedAt": "2023-03-28T12:14:51.243Z",
+        "id": 496
       },
       {
         "title": "G\u00f6rings Bageri",
-        "publishedAt": "2023-02-28T14:00:00.000Z"
+        "publishedAt": "2023-02-28T14:00:00.000Z",
+        "id": 464
       },
       {
         "title": "English House",
-        "publishedAt": "2023-01-24T07:00:00.000Z"
+        "publishedAt": "2023-01-24T07:00:00.000Z",
+        "id": 410
       },
       {
         "title": "Julespecial",
-        "publishedAt": "2022-12-24T13:00:00.000Z"
+        "publishedAt": "2022-12-24T13:00:00.000Z",
+        "id": 366
       },
       {
         "title": "F\u00f8rerens Stjerne",
-        "publishedAt": "2022-10-05T14:21:35.890Z"
+        "publishedAt": "2022-10-05T14:21:35.890Z",
+        "id": 284
       },
       {
         "title": "Korporal Schultz",
-        "publishedAt": "2022-03-28T09:41:43.527Z"
+        "publishedAt": "2022-03-28T09:41:43.527Z",
+        "id": 180
       },
       {
         "title": "Baronessen fra Berlin",
-        "publishedAt": "2022-02-02T10:14:27.510Z"
+        "publishedAt": "2022-02-02T10:14:27.510Z",
+        "id": 154
       },
       {
         "title": "G\u00f6rings b\u00f8rn",
-        "publishedAt": "2021-12-01T15:29:48.580Z"
+        "publishedAt": "2021-12-01T15:29:48.580Z",
+        "id": 113
       },
       {
         "title": "Paraplyholderen",
-        "publishedAt": "2021-10-28T14:16:09.087Z"
+        "publishedAt": "2021-10-28T14:16:09.087Z",
+        "id": 95
       },
       {
         "title": "Horst med strit\u00f8rene",
-        "publishedAt": "2021-09-29T18:45:00.000Z"
+        "publishedAt": "2021-09-29T18:45:00.000Z",
+        "id": 78
       }
     ]
   },
@@ -4181,115 +5132,143 @@
     "episodes": [
       {
         "title": "Overv\u00e5gning, del 1",
-        "publishedAt": "2024-06-13T04:00:00.000Z"
+        "publishedAt": "2024-06-13T04:00:00.000Z",
+        "id": 1053
       },
       {
         "title": "Her vogter vi",
-        "publishedAt": "2024-05-09T04:00:00.000Z"
+        "publishedAt": "2024-05-09T04:00:00.000Z",
+        "id": 1008
       },
       {
         "title": "P\u00e5 efteruddannelse hos Mark Svale 2. del",
-        "publishedAt": "2024-04-11T04:00:00.000Z"
+        "publishedAt": "2024-04-11T04:00:00.000Z",
+        "id": 978
       },
       {
         "title": "P\u00e5 efteruddannelse hos Mark Svale 1. del",
-        "publishedAt": "2024-03-14T05:00:00.000Z"
+        "publishedAt": "2024-03-14T05:00:00.000Z",
+        "id": 941
       },
       {
         "title": "Unboxing RM360 pro",
-        "publishedAt": "2024-02-08T05:00:00.000Z"
+        "publishedAt": "2024-02-08T05:00:00.000Z",
+        "id": 876
       },
       {
         "title": "Skovens M\u00fcsli",
-        "publishedAt": "2024-01-11T12:32:30.647Z"
+        "publishedAt": "2024-01-11T12:32:30.647Z",
+        "id": 827
       },
       {
         "title": "Honeytrap 2. del",
-        "publishedAt": "2023-12-14T12:26:52.810Z"
+        "publishedAt": "2023-12-14T12:26:52.810Z",
+        "id": 792
       },
       {
         "title": "Honeytrap 1. del",
-        "publishedAt": "2023-11-09T12:26:56.747Z"
+        "publishedAt": "2023-11-09T12:26:56.747Z",
+        "id": 740
       },
       {
         "title": "Choralschola og Spare Air",
-        "publishedAt": "2023-10-12T12:31:43.840Z"
+        "publishedAt": "2023-10-12T12:31:43.840Z",
+        "id": 708
       },
       {
         "title": "Sikkerhed inden befordring",
-        "publishedAt": "2023-09-14T12:27:10.517Z"
+        "publishedAt": "2023-09-14T12:27:10.517Z",
+        "id": 669
       },
       {
         "title": "MUS samtale",
-        "publishedAt": "2023-08-10T11:31:37.437Z"
+        "publishedAt": "2023-08-10T11:31:37.437Z",
+        "id": 638
       },
       {
         "title": "Et m\u00f8rkt kapitel",
-        "publishedAt": "2023-07-13T11:31:19.843Z"
+        "publishedAt": "2023-07-13T11:31:19.843Z",
+        "id": 620
       },
       {
         "title": "Fragvest 2. del",
-        "publishedAt": "2023-06-08T12:36:20.157Z"
+        "publishedAt": "2023-06-08T12:36:20.157Z",
+        "id": 578
       },
       {
         "title": "Fragvest 1. del",
-        "publishedAt": "2023-05-11T13:00:00.000Z"
+        "publishedAt": "2023-05-11T13:00:00.000Z",
+        "id": 542
       },
       {
         "title": "Tommy\u2019s Saferoom",
-        "publishedAt": "2023-04-13T13:21:00.000Z"
+        "publishedAt": "2023-04-13T13:21:00.000Z",
+        "id": 511
       },
       {
         "title": "Frihedsber\u00f8vet",
-        "publishedAt": "2023-03-09T14:00:00.000Z"
+        "publishedAt": "2023-03-09T14:00:00.000Z",
+        "id": 474
       },
       {
         "title": "Vildsvinehegnet 2. del",
-        "publishedAt": "2023-02-09T16:00:00.000Z"
+        "publishedAt": "2023-02-09T16:00:00.000Z",
+        "id": 445
       },
       {
         "title": "Vildsvinehegnet 1. del",
-        "publishedAt": "2023-01-12T07:00:00.000Z"
+        "publishedAt": "2023-01-12T07:00:00.000Z",
+        "id": 388
       },
       {
         "title": "Unboxing i Julepapir?",
-        "publishedAt": "2022-12-07T07:00:00.000Z"
+        "publishedAt": "2022-12-07T07:00:00.000Z",
+        "id": 341
       },
       {
         "title": "Pa\u030a overva\u030agning",
-        "publishedAt": "2022-11-10T06:00:00.000Z"
+        "publishedAt": "2022-11-10T06:00:00.000Z",
+        "id": 294
       },
       {
         "title": "Saferoom",
-        "publishedAt": "2022-10-13T07:57:33.807Z"
+        "publishedAt": "2022-10-13T07:57:33.807Z",
+        "id": 287
       },
       {
         "title": "Unboxing taser gun",
-        "publishedAt": "2022-09-08T12:00:00.000Z"
+        "publishedAt": "2022-09-08T12:00:00.000Z",
+        "id": 262
       },
       {
         "title": "Aarhus Bryghus",
-        "publishedAt": "2022-08-13T13:20:17.677Z"
+        "publishedAt": "2022-08-13T13:20:17.677Z",
+        "id": 253
       },
       {
         "title": "P\u00e5 bes\u00f8g hos Carlo del 2",
-        "publishedAt": "2022-07-06T10:30:00.000Z"
+        "publishedAt": "2022-07-06T10:30:00.000Z",
+        "id": 243
       },
       {
         "title": "P\u00e5 bes\u00f8g hos Carlo del 1",
-        "publishedAt": "2022-05-08T21:35:00.513Z"
+        "publishedAt": "2022-05-08T21:35:00.513Z",
+        "id": 213
       },
       {
         "title": "Grejfreak special",
-        "publishedAt": "2022-01-08T07:00:00.000Z"
+        "publishedAt": "2022-01-08T07:00:00.000Z",
+        "id": 139
       },
       {
         "title": "Pa\u030a Patrulje II",
-        "publishedAt": "2021-10-15T09:27:51.260Z"
+        "publishedAt": "2021-10-15T09:27:51.260Z",
+        "id": 89
       },
       {
         "title": "Pa\u030a Patrujle I",
-        "publishedAt": "2021-10-01T03:09:00.000Z"
+        "publishedAt": "2021-10-01T03:09:00.000Z",
+        "id": 76
       }
     ]
   },
@@ -4302,59 +5281,73 @@
     "episodes": [
       {
         "title": "Lille Sommerfugl",
-        "publishedAt": "2024-06-04T04:00:00.000Z"
+        "publishedAt": "2024-06-04T04:00:00.000Z",
+        "id": 1041
       },
       {
         "title": "Espehus Kro",
-        "publishedAt": "2024-05-28T04:00:00.000Z"
+        "publishedAt": "2024-05-28T04:00:00.000Z",
+        "id": 1030
       },
       {
         "title": "Destruktiv dag",
-        "publishedAt": "2024-05-21T05:56:35.720Z"
+        "publishedAt": "2024-05-21T05:56:35.720Z",
+        "id": 1021
       },
       {
         "title": "Tiden",
-        "publishedAt": "2024-05-14T04:00:00.000Z"
+        "publishedAt": "2024-05-14T04:00:00.000Z",
+        "id": 1013
       },
       {
         "title": "H\u00f8nen eller \u00e6gget",
-        "publishedAt": "2024-05-07T04:00:00.000Z"
+        "publishedAt": "2024-05-07T04:00:00.000Z",
+        "id": 1005
       },
       {
         "title": "Nye kyllinger",
-        "publishedAt": "2023-05-06T09:00:00.000Z"
+        "publishedAt": "2023-05-06T09:00:00.000Z",
+        "id": 535
       },
       {
         "title": "Vinterg\u00e6k og h\u00f8ns",
-        "publishedAt": "2023-02-09T17:00:00.000Z"
+        "publishedAt": "2023-02-09T17:00:00.000Z",
+        "id": 448
       },
       {
         "title": "Kyndelmisse",
-        "publishedAt": "2023-02-02T16:38:52.837Z"
+        "publishedAt": "2023-02-02T16:38:52.837Z",
+        "id": 427
       },
       {
         "title": "Stedsegr\u00f8nt",
-        "publishedAt": "2023-01-26T18:05:51.520Z"
+        "publishedAt": "2023-01-26T18:05:51.520Z",
+        "id": 415
       },
       {
         "title": "G\u00f8dning",
-        "publishedAt": "2023-01-19T15:33:48.217Z"
+        "publishedAt": "2023-01-19T15:33:48.217Z",
+        "id": 403
       },
       {
         "title": "Allans Gave",
-        "publishedAt": "2023-01-03T13:44:31.303Z"
+        "publishedAt": "2023-01-03T13:44:31.303Z",
+        "id": 383
       },
       {
         "title": "Snegl og regn i Skuldborg (LIVE)",
-        "publishedAt": "2023-01-02T15:53:53.530Z"
+        "publishedAt": "2023-01-02T15:53:53.530Z",
+        "id": 381
       },
       {
         "title": "Efter\u00e5r, sl\u00e5en og snaps",
-        "publishedAt": "2021-11-16T17:42:00.000Z"
+        "publishedAt": "2021-11-16T17:42:00.000Z",
+        "id": 106
       },
       {
         "title": "Sensommerdag",
-        "publishedAt": "2021-09-29T21:30:20.040Z"
+        "publishedAt": "2021-09-29T21:30:20.040Z",
+        "id": 82
       }
     ]
   },
@@ -4367,23 +5360,28 @@
     "episodes": [
       {
         "title": "Afsnit 5 - Kat i identitetskrise",
-        "publishedAt": "2022-05-07T09:23:30.520Z"
+        "publishedAt": "2022-05-07T09:23:30.520Z",
+        "id": 212
       },
       {
         "title": "Afsnit 4 - Mis med gigt",
-        "publishedAt": "2022-03-03T19:26:00.000Z"
+        "publishedAt": "2022-03-03T19:26:00.000Z",
+        "id": 171
       },
       {
         "title": "Afsnit 3 - Skilsmisser",
-        "publishedAt": "2022-01-15T07:00:00.000Z"
+        "publishedAt": "2022-01-15T07:00:00.000Z",
+        "id": 143
       },
       {
         "title": "Afsnit 2 - Hvad stiller man op med en pletskallet mis?",
-        "publishedAt": "2021-11-27T17:11:00.000Z"
+        "publishedAt": "2021-11-27T17:11:00.000Z",
+        "id": 111
       },
       {
         "title": "Afsnit 1 - Ra\u030at k\u00f8d og Katten Sam",
-        "publishedAt": "2021-09-29T19:59:00.000Z"
+        "publishedAt": "2021-09-29T19:59:00.000Z",
+        "id": 80
       }
     ]
   }
