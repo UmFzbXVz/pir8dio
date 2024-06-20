@@ -2131,6 +2131,11 @@
     "program_url": "https://r8dio.dk/program/puttetid",
     "episodes": [
       {
+        "title": "Hos en klovn",
+        "publishedAt": "2024-06-19T19:00:00.000Z",
+        "id": 1063
+      },
+      {
         "title": "Hos Jon Pagh",
         "publishedAt": "2024-06-05T19:00:00.000Z",
         "id": 1044
