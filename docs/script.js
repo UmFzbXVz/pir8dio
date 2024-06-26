@@ -121,16 +121,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const podcast = JSON.parse(localStorage.getItem('podcasts')).find(podcast => podcast.slug === slug);
     loadEpisodes(slug, podcast.episodes);
+    
+    const closeButton = modal.querySelector('.close');
+    if (closeButton) {
+      closeButton.addEventListener('click', () => {
+        closeModal();
+      });
+    }
   }
 
-  function markAllEpisodes(slug) {
-    const allCheckboxes = document.querySelectorAll(`#episodesList input[type="checkbox"]`);
-    allCheckboxes.forEach(checkbox => {
-      checkbox.checked = true;
-    });
-    updateEpisodeCount(slug);
-    filterPodcasts();
-  }
+function markAllEpisodes(slug) {
+  const allCheckboxes = document.querySelectorAll(`#episodesList input[type="checkbox"]`);
+  const allChecked = !Array.from(allCheckboxes).some(checkbox => !checkbox.checked);
+
+  allCheckboxes.forEach(checkbox => {
+    checkbox.checked = !allChecked;
+  });
+
+  updateEpisodeCount(slug);
+  filterPodcasts();
+}
 
   function closeModal() {
     const modal = document.getElementById('modalContainer');
