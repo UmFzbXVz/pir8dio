@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (existingMap.has(newPodcast.slug)) {
         const existingPodcast = existingMap.get(newPodcast.slug);
         const newEpisodes = newPodcast.episodes.filter(
-          newEpisode => !existingPodcast.episodes.some(existingEpisode => existingEpisode.title === newEpisode.title)
+          newEpisode => !existingPodcast.episodes.some(existingEpisode => existingEpisode.id === newEpisode.id)
         );
         existingPodcast.episodes = existingPodcast.episodes.concat(newEpisodes);
         existingPodcast.episodes.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
@@ -96,46 +96,41 @@ document.addEventListener("DOMContentLoaded", () => {
       podcastGrid.appendChild(podcastDiv);
 
       loadEpisodes(podcast.slug, podcast.episodes);
-      
-        const closeBtn = document.querySelector('.close');
-  closeBtn.addEventListener('click', () => {
-    closeModal();
-  });
     });
-    
+
     filterPodcasts();
   }
 
-function openModal(slug, title) {
-  const modal = document.getElementById('modalContainer');
-  const modalTitle = document.getElementById('modalTitle');
-  modalTitle.textContent = title;
-  modal.style.display = 'block';
+  function openModal(slug, title) {
+    const modal = document.getElementById('modalContainer');
+    const modalTitle = document.getElementById('modalTitle');
+    modalTitle.textContent = title;
+    modal.style.display = 'block';
 
-  const markAllButton = document.createElement('button');
-  markAllButton.id = 'markAllButton';
-  markAllButton.textContent = '✓';
-  markAllButton.addEventListener('click', () => {
-    markAllEpisodes(slug);
-  });
+    const markAllButton = document.createElement('button');
+    markAllButton.id = 'markAllButton';
+    markAllButton.textContent = '✓';
+    markAllButton.addEventListener('click', () => {
+      markAllEpisodes(slug);
+    });
 
-  const episodesListContainer = document.getElementById('episodesListContainer');
-  episodesListContainer.innerHTML = ''; // Clear previous content
-  episodesListContainer.appendChild(markAllButton);
-  episodesListContainer.appendChild(episodesList);
+    const episodesListContainer = document.getElementById('episodesListContainer');
+    episodesListContainer.innerHTML = '';
+    episodesListContainer.appendChild(markAllButton);
+    episodesListContainer.appendChild(episodesList);
 
-  const podcast = JSON.parse(localStorage.getItem('podcasts')).find(podcast => podcast.slug === slug);
-  loadEpisodes(slug, podcast.episodes);
-}
+    const podcast = JSON.parse(localStorage.getItem('podcasts')).find(podcast => podcast.slug === slug);
+    loadEpisodes(slug, podcast.episodes);
+  }
 
-function markAllEpisodes(slug) {
-  const allCheckboxes = document.querySelectorAll(`#episodesList input[type="checkbox"]`);
-  allCheckboxes.forEach(checkbox => {
-    checkbox.checked = true;
-  });
-  updateEpisodeCount(slug);
-  filterPodcasts();
-}
+  function markAllEpisodes(slug) {
+    const allCheckboxes = document.querySelectorAll(`#episodesList input[type="checkbox"]`);
+    allCheckboxes.forEach(checkbox => {
+      checkbox.checked = true;
+    });
+    updateEpisodeCount(slug);
+    filterPodcasts();
+  }
 
   function closeModal() {
     const modal = document.getElementById('modalContainer');
@@ -151,44 +146,44 @@ function markAllEpisodes(slug) {
     displayEpisodes(episodes, slug);
   }
 
- function displayEpisodes(episodes, slug) {
-  episodesList.innerHTML = '';
-  const markedEpisodes = JSON.parse(localStorage.getItem(`markedEpisodes-${slug}`)) || [];
-  episodes.forEach((episode, index) => {
-    const episodeDiv = document.createElement('div');
-    episodeDiv.className = 'episode';
+  function displayEpisodes(episodes, slug) {
+    episodesList.innerHTML = '';
+    const markedEpisodes = JSON.parse(localStorage.getItem(`markedEpisodes-${slug}`)) || [];
+    episodes.forEach((episode, index) => {
+      const episodeDiv = document.createElement('div');
+      episodeDiv.className = 'episode';
 
-    const episodeLabelDiv = document.createElement('div');
-    episodeLabelDiv.className = 'episode-label-div';
+      const episodeLabelDiv = document.createElement('div');
+      episodeLabelDiv.className = 'episode-label-div';
 
-    const checkbox = document.createElement('input');
-    checkbox.type = 'checkbox';
-    checkbox.id = `episode-${index}`;
-    checkbox.value = episode.title;
+      const checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
+      checkbox.id = `episode-${index}`;
+      checkbox.value = episode.id;
 
-    if (markedEpisodes.includes(episode.title)) {
-      checkbox.checked = true;
-    }
+      if (markedEpisodes.includes(episode.id.toString())) {
+        checkbox.checked = true;
+      }
 
-    const title = document.createElement('label');
-    title.textContent = episode.title;
-    title.setAttribute('for', `episode-${index}`);
+      const title = document.createElement('label');
+      title.textContent = episode.title;
+      title.setAttribute('for', `episode-${index}`);
 
-    episodeLabelDiv.appendChild(checkbox);
-    episodeLabelDiv.appendChild(title);
+      episodeLabelDiv.appendChild(checkbox);
+      episodeLabelDiv.appendChild(title);
 
-    episodeLabelDiv.addEventListener('click', () => {
-      checkbox.checked = !checkbox.checked;
-      updateEpisodeCount(slug);
-      filterPodcasts();
+      episodeLabelDiv.addEventListener('click', () => {
+        checkbox.checked = !checkbox.checked;
+        updateEpisodeCount(slug);
+        filterPodcasts();
+      });
+
+      episodeDiv.appendChild(episodeLabelDiv);
+      episodesList.appendChild(episodeDiv);
     });
 
-    episodeDiv.appendChild(episodeLabelDiv);
-    episodesList.appendChild(episodeDiv);
-  });
-  updateEpisodeCount(slug);
-}
-
+    updateEpisodeCount(slug);
+  }
 
   function updateEpisodeCount(slug) {
     const markedEpisodes = document.querySelectorAll(`#episodesList input:checked`);
@@ -238,8 +233,8 @@ function markAllEpisodes(slug) {
     allPodcasts.forEach(podcastDiv => {
       const slug = podcastDiv.dataset.slug;
       const markedEpisodes = JSON.parse(localStorage.getItem(`markedEpisodes-${slug}`)) || [];
-      markedEpisodes.forEach(episodeTitle => {
-        const checkbox = document.querySelector(`#episodesList input[value="${episodeTitle}"]`);
+      markedEpisodes.forEach(episodeId => {
+        const checkbox = document.querySelector(`#episodesList input[value="${episodeId}"]`);
         if (checkbox) {
           checkbox.checked = true;
         }
