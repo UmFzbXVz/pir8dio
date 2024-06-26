@@ -1114,6 +1114,40 @@
     ]
   },
   {
+    "title": "Mit livs sexferie",
+    "content": "Holdet bag Den Korte Radioavis tager p\u00e5 deres livs sexferie i Caribien.\n\nNyhedsredakt\u00f8r Rasmus Bruun er blevet bedt om at tilrettel\u00e6gge en r\u00e6kke dokumentarprogrammer om hvide kvinder, der tager p\u00e5 sexferie p\u00e5 Jamaica.\n\nDet vil hans sidekick, seniorkorrespondent Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm gerne hj\u00e6lpe ham med, og s\u00e5 tager det ene ligesom det andet\u2026 p\u00e5 en dybt foruroligende m\u00e5de, naturligvis.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/92defb37-919d-461e-aa39-b19b00868125/image.jpg?t=1719400702&size=Medium",
+    "slug": "mit-live-sexferie",
+    "program_url": "https://r8dio.dk/program/mit-live-sexferie",
+    "episodes": [
+      {
+        "title": "What happens in Jamaica stays in Jamaica",
+        "publishedAt": "2024-06-26T11:22:41.707Z",
+        "id": 1095
+      },
+      {
+        "title": "Rejsen til verdens r\u00f8vhul",
+        "publishedAt": "2024-06-26T11:22:47.750Z",
+        "id": 1093
+      },
+      {
+        "title": "My name is Birgit Schi\u00f8tz Kretz H\u00f8rsholm. Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm",
+        "publishedAt": "2024-06-26T11:22:55.170Z",
+        "id": 1094
+      },
+      {
+        "title": "One love. One big, black love",
+        "publishedAt": "2024-06-26T11:22:07.337Z",
+        "id": 1091
+      },
+      {
+        "title": "Lad Jamaica komme til bunds i Kirsten Birgit",
+        "publishedAt": "2024-06-26T11:22:28.670Z",
+        "id": 1092
+      }
+    ]
+  },
+  {
     "title": "Livets Vand",
     "content": "En klimakritisk og tragikomisk f\u00f8ljeton i 20 afsnit.\n\nTilflytteren Christian er den nye formand for bestyrelsen i det lille vandv\u00e6rk i landsbyen Tamstrup. Den tidligere formand, Erik, d\u00f8de desv\u00e6rre, s\u00e5 nu er Christian tr\u00e5dt til for at lede vandv\u00e6rket, som leverer vand til kun 26 husstande. Han er meget ambiti\u00f8s og s\u00f8s\u00e6tter straks en podcast om vandv\u00e6rket og bestyrelsens arbejde.\n\nProblemerne t\u00e5rner sig imidlertid op: Der er pesticider i vandet, der er blevet brugt for mange penge p\u00e5 fryns i bestyrelsen, og der er ogs\u00e5 blevet fundet spor af aff\u00f8ring i det ellers s\u00e5 vidt ber\u00f8mmede gode danske drikkevand.\u00a0",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/b110fab8-e07b-449a-8cfd-b19a00a83361/image.jpg?t=1719317349&size=Medium",
@@ -1230,12 +1264,12 @@
     "program_url": "https://r8dio.dk/program/dialeksikon",
     "episodes": [
       {
-        "title": "Vestjylland",
+        "title": "Det Vestjyske st\u00f8d",
         "publishedAt": "2024-06-26T04:00:00.000Z",
         "id": 1089
       },
       {
-        "title": "Fra Nordsj\u00e6lland eller K\u00f8benhavn",
+        "title": "Fra stenbroen til whiskyb\u00e6ltet",
         "publishedAt": "2024-06-19T04:00:00.000Z",
         "id": 1062
       }
@@ -2057,7 +2091,7 @@
         "id": 1066
       },
       {
-        "title": "Mod Bakkens Hvile 4: cyklisten og stalkeren",
+        "title": "Mod Bakkens Hvile 4: Cyklisten og stalkeren",
         "publishedAt": "2024-06-16T04:00:00.000Z",
         "id": 1059
       },
