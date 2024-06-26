@@ -1230,6 +1230,11 @@
     "program_url": "https://r8dio.dk/program/dialeksikon",
     "episodes": [
       {
+        "title": "Vestjylland",
+        "publishedAt": "2024-06-26T04:00:00.000Z",
+        "id": 1089
+      },
+      {
         "title": "Fra Nordsj\u00e6lland eller K\u00f8benhavn",
         "publishedAt": "2024-06-19T04:00:00.000Z",
         "id": 1062
@@ -1893,6 +1898,11 @@
     "slug": "bogstavelig-talt",
     "program_url": "https://r8dio.dk/program/bogstavelig-talt",
     "episodes": [
+      {
+        "title": "\u2018Demon Copperhead\u2019 med Marcus Rubin og Tonny Vorm",
+        "publishedAt": "2024-06-26T04:00:00.000Z",
+        "id": 1090
+      },
       {
         "title": "Med hjertet i h\u00e5nden\u2019 med Liv Helm",
         "publishedAt": "2024-06-12T04:00:00.000Z",
