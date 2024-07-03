@@ -1269,6 +1269,11 @@
     "program_url": "https://r8dio.dk/program/dialeksikon",
     "episodes": [
       {
+        "title": "Sinne m\u00e6 \u00e6 vinne (\u00c6 synnejysk program)",
+        "publishedAt": "2024-07-03T04:00:00.000Z",
+        "id": 1104
+      },
+      {
         "title": "Det Vestjyske st\u00f8d",
         "publishedAt": "2024-06-26T04:00:00.000Z",
         "id": 1089
@@ -3929,6 +3934,11 @@
     "slug": "proud",
     "program_url": "https://r8dio.dk/program/proud",
     "episodes": [
+      {
+        "title": "En efterskolehyldest",
+        "publishedAt": "2024-07-01T04:00:00.000Z",
+        "id": 1103
+      },
       {
         "title": "Almanak i festligheder",
         "publishedAt": "2024-06-05T04:00:00.000Z",
