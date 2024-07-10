@@ -1274,6 +1274,11 @@
     "program_url": "https://r8dio.dk/program/dialeksikon",
     "episodes": [
       {
+        "title": "Bornholm, Bornholm, Bornholm (del 1)",
+        "publishedAt": "2024-07-10T04:00:00.000Z",
+        "id": 1114
+      },
+      {
         "title": "Sinne m\u00e6 \u00e6 vinne (\u00c6 synnejysk program)",
         "publishedAt": "2024-07-03T04:00:00.000Z",
         "id": 1104
@@ -1977,6 +1982,11 @@
     "slug": "bogstavelig-talt",
     "program_url": "https://r8dio.dk/program/bogstavelig-talt",
     "episodes": [
+      {
+        "title": "Sommer-special med Rasmus Bruun og Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm",
+        "publishedAt": "2024-07-10T04:00:00.000Z",
+        "id": 1115
+      },
       {
         "title": "\u2018Demon Copperhead\u2019 med Marcus Rubin og Tonny Vorm",
         "publishedAt": "2024-06-26T04:00:00.000Z",
