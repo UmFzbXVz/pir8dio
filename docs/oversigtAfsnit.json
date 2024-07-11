@@ -1124,6 +1124,40 @@
     ]
   },
   {
+    "title": "Se Europa, og d\u00f8",
+    "content": "Fem rejseprogrammer med seniorkorrespondent Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm og nyhedsredakt\u00f8r pa\u030a Den Korte Radioavis, Rasmus Bruun.\n\nI erkendelse af at Europa er ved at falde fra hinanden, under presset fra str\u00f8mmen af flygtninge og migranter, har Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm besluttet sig for at vise sin h\u00e5rdt pr\u00f8vede unge proteg\u00e9 det gamle Europa, f\u00f8r det er for sent.\n\nDer skal s\u00e5ledes drikkes limoncello p\u00e5 Grand Hotel a Villa Feltrinelli ved Gardas\u00f8en, spises sachertorte i Wien og nydes presset andeskrog p\u00e5 restaurant Tour d'Argent i Paris, alt imens Europa braser sammen om \u00f8rene p\u00e5 dem.\n\nKristen Birgit Schi\u00f8tz Kretz H\u00f8rsholm og Rasmus Bruun",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/fcbe2649-358a-487e-a4e6-b1a900968665/image.jpg?t=1720662176&size=Medium",
+    "slug": "se-europa-og-d",
+    "program_url": "https://r8dio.dk/program/se-europa-og-d",
+    "episodes": [
+      {
+        "title": "Se Europa, og d\u00f8 - uge 31, 2016",
+        "publishedAt": "2024-07-11T02:00:20.917Z",
+        "id": 1120
+      },
+      {
+        "title": "Se Europa, og d\u00f8 - uge 30, 2016",
+        "publishedAt": "2024-07-11T01:58:06.947Z",
+        "id": 1119
+      },
+      {
+        "title": "Se Europa, og d\u00f8 uge 29, 2016",
+        "publishedAt": "2024-07-11T01:54:34.057Z",
+        "id": 1118
+      },
+      {
+        "title": "Se Europa, og d\u00f8 - uge 28, 2016",
+        "publishedAt": "2024-07-11T01:52:20.217Z",
+        "id": 1117
+      },
+      {
+        "title": "Se Europa, og d\u00f8 - uge 27, 2016",
+        "publishedAt": "2024-07-11T01:49:34.280Z",
+        "id": 1116
+      }
+    ]
+  },
+  {
     "title": "Mit livs sexferie",
     "content": "Holdet bag Den Korte Radioavis tager p\u00e5 deres livs sexferie i Caribien.\n\nNyhedsredakt\u00f8r Rasmus Bruun er blevet bedt om at tilrettel\u00e6gge en r\u00e6kke dokumentarprogrammer om hvide kvinder, der tager p\u00e5 sexferie p\u00e5 Jamaica.\n\nDet vil hans sidekick, seniorkorrespondent Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm gerne hj\u00e6lpe ham med, og s\u00e5 tager det ene ligesom det andet\u2026 p\u00e5 en dybt foruroligende m\u00e5de, naturligvis.",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/92defb37-919d-461e-aa39-b19b00868125/image.jpg?t=1719400702&size=Medium",
@@ -1302,6 +1336,11 @@
     "slug": "l-r-klokken-med-goodiepal",
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
+      {
+        "title": "Ragnhild May & J\u00f8rgen Rud g\u00e5r og Howl'er i fl\u00f8jte-t\u00f8j",
+        "publishedAt": "2024-07-11T04:00:00.000Z",
+        "id": 1122
+      },
       {
         "title": "Turen g\u00e5r mod fed-gr\u00f8n energi",
         "publishedAt": "2024-07-04T04:00:00.000Z",
@@ -5413,6 +5452,11 @@
     "slug": "her-vogter-jeg",
     "program_url": "https://r8dio.dk/program/her-vogter-jeg",
     "episodes": [
+      {
+        "title": "Overva\u030agning, del 2",
+        "publishedAt": "2024-07-11T04:00:00.000Z",
+        "id": 1121
+      },
       {
         "title": "Overv\u00e5gning, del 1",
         "publishedAt": "2024-06-13T04:00:00.000Z",
