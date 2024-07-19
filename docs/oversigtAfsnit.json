@@ -7,8 +7,13 @@
     "program_url": "https://r8dio.dk/program/undskyld-vi-roder",
     "episodes": [
       {
+        "title": "Hellerup ugen",
+        "publishedAt": "2024-07-19T04:00:00.000Z",
+        "id": 1170
+      },
+      {
         "title": "Medie hanekamp",
-        "publishedAt": "2024-07-12T04:00:00.000Z",
+        "publishedAt": "2024-07-19T04:00:00.000Z",
         "id": 1123
       },
       {
@@ -1129,12 +1134,213 @@
     ]
   },
   {
-    "title": "Pissefedt indhold p\u00e5 vej",
-    "content": "Du kan godt begynde at gl\u00e6de dig, k\u00e6re ven. Der er snart mere guf til dine \u00f8rer.",
-    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/03032b12-e6f4-4d21-a199-b1ae00b8fabd/image.jpg?t=1721042289&size=Medium",
+    "title": "K\u00f8benhavnermodellen",
+    "content": "Du kender \u00c5rhusmodellen? Alts\u00e5 modellen for, hvordan sociale myndigheder og politi kan hj\u00e6lpe til med at forebygge, at unge mennesker radikaliseres. Nu kommer s\u00e5 \u201dK\u00f8benhavnermodellen\u201d.\n\nDen g\u00e5r ud p\u00e5 at improteater-l\u00e6rerne Kasper Nielsen og Brian Lykke har f\u00e5et offentlig st\u00f8tte til et pilotprojekt, som skal unders\u00f8ge, om man kan forebygge, at unge mennesker radikaliseres eller havner i kriminalitet \u2013 ved ganske enkelt at tr\u00e6ne dem i at spille improteater.\n\nHenover syv uger f\u00f8lger Radio24syv projektet og er en flue p\u00e5 v\u00e6ggen, n\u00e5r Kasper Nielsen og Brian Lykke g\u00e5r i gang med at l\u00e6re eleverne Rahil, Muddi, Mo og Ali at kaste sig ud i halsbr\u00e6kkende improteater-\u00f8velser med navne som \u201dHa Ho Hi\u201d, \u201dBad Rap\u201d og \u201dEt-ordshistorier\u201d.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/03032b12-e6f4-4d21-a199-b1ae00b8fabd/image.jpg?t=1721319582&size=Medium",
     "slug": "k-benhavnermodellen",
     "program_url": "https://r8dio.dk/program/k-benhavnermodellen",
-    "episodes": []
+    "episodes": [
+      {
+        "title": "Afsnit 40: K\u00f8benhavnermodellen Highlights 27.  august 2016",
+        "publishedAt": "2024-07-19T01:10:06.397Z",
+        "id": 1169
+      },
+      {
+        "title": "Afsnit 39: K\u00f8benhavnermodellen 26. august 2016",
+        "publishedAt": "2024-07-19T01:08:32.843Z",
+        "id": 1168
+      },
+      {
+        "title": "Afsnit 38: K\u00f8benhavnermodellen 25.  august 2016",
+        "publishedAt": "2024-07-19T01:06:56.890Z",
+        "id": 1167
+      },
+      {
+        "title": "Afsnit 37: K\u00f8benhavnermodellen 24. august 2016",
+        "publishedAt": "2024-07-19T01:04:40.373Z",
+        "id": 1166
+      },
+      {
+        "title": "Afsnit 36: K\u00f8benhavnermodellen 23.  august 2016",
+        "publishedAt": "2024-07-19T01:02:53.767Z",
+        "id": 1165
+      },
+      {
+        "title": "Afsnit 35: K\u00f8benhavnermodellen 22. august 2016",
+        "publishedAt": "2024-07-19T01:00:59.413Z",
+        "id": 1164
+      },
+      {
+        "title": "Afsnit 34: K\u00f8benhavnermodellen highlights 20. august 2016",
+        "publishedAt": "2024-07-19T00:59:09.413Z",
+        "id": 1163
+      },
+      {
+        "title": "Afsnit 33: K\u00f8benhavnermodellen 19. august 2016",
+        "publishedAt": "2024-07-19T00:55:34.623Z",
+        "id": 1162
+      },
+      {
+        "title": "Afsnit 32: K\u00f8benhavnermodellen 18. august 2016",
+        "publishedAt": "2024-07-19T00:53:47.950Z",
+        "id": 1161
+      },
+      {
+        "title": "Afsnit 31: K\u00f8benhavnermodellen 17. august 2016",
+        "publishedAt": "2024-07-19T00:51:43.087Z",
+        "id": 1160
+      },
+      {
+        "title": "Afsnit 30: K\u00f8benhavnermodellen 16. august 2016",
+        "publishedAt": "2024-07-19T00:49:59.283Z",
+        "id": 1159
+      },
+      {
+        "title": "Afsnit 29: K\u00f8benhavnermodellen 15. august 2016",
+        "publishedAt": "2024-07-19T00:48:28.813Z",
+        "id": 1158
+      },
+      {
+        "title": "Afsnit 28: K\u00f8benhavnermodellen 12. august 2016",
+        "publishedAt": "2024-07-19T00:44:37.353Z",
+        "id": 1157
+      },
+      {
+        "title": "Afsnit 27: K\u00f8benhavnermodellen 11. august 2016",
+        "publishedAt": "2024-07-19T00:43:15.197Z",
+        "id": 1156
+      },
+      {
+        "title": "Afsnit 26: K\u00f8benhavnermodellen 10. august 2016",
+        "publishedAt": "2024-07-19T00:41:01.600Z",
+        "id": 1155
+      },
+      {
+        "title": "Afsnit 25: K\u00f8benhavnermodellen 9. august 2016",
+        "publishedAt": "2024-07-19T00:38:22.507Z",
+        "id": 1154
+      },
+      {
+        "title": "Afsnit 24: K\u00f8benhavnermodellen 8. august 2016",
+        "publishedAt": "2024-07-19T00:36:32.320Z",
+        "id": 1153
+      },
+      {
+        "title": "Afsnit 23: K\u00f8benhavnermodellen 5. august 2016",
+        "publishedAt": "2024-07-18T17:16:33.353Z",
+        "id": 1152
+      },
+      {
+        "title": "Afsnit 22: K\u00f8benhavnermodellen 4. august 2016",
+        "publishedAt": "2024-07-18T17:15:04.820Z",
+        "id": 1151
+      },
+      {
+        "title": "Afsnit 21: K\u00f8benhavnermodellen 3. august 2016",
+        "publishedAt": "2024-07-18T17:13:26.250Z",
+        "id": 1150
+      },
+      {
+        "title": "Afsnit 20: K\u00f8benhavnermodellen 2. august 2016",
+        "publishedAt": "2024-07-18T17:12:00.050Z",
+        "id": 1149
+      },
+      {
+        "title": "Afsnit 19: K\u00f8benhavnermodellen Highlights 2. august 2016",
+        "publishedAt": "2024-07-18T17:09:51.017Z",
+        "id": 1148
+      },
+      {
+        "title": "Afsnit 18: K\u00f8benhavnermodellen 1. august 2016",
+        "publishedAt": "2024-07-18T17:07:25.540Z",
+        "id": 1147
+      },
+      {
+        "title": "Afsnit 17: K\u00f8benhavnermodellen 29. juli 2016",
+        "publishedAt": "2024-07-18T17:05:29.333Z",
+        "id": 1146
+      },
+      {
+        "title": "Afsnit 16: K\u00f8benhavnermodellen 28. juli 2016",
+        "publishedAt": "2024-07-18T17:03:52.980Z",
+        "id": 1145
+      },
+      {
+        "title": "Afsnit 15: K\u00f8benhavnermodellen 27. juli 2016",
+        "publishedAt": "2024-07-18T17:02:24.163Z",
+        "id": 1144
+      },
+      {
+        "title": "Afsnit 14: K\u00f8benhavnermodellen 26. juli 2016",
+        "publishedAt": "2024-07-18T16:58:43.337Z",
+        "id": 1143
+      },
+      {
+        "title": "Afsnit 13: K\u00f8benhavnermodellen 26. juli 2016",
+        "publishedAt": "2024-07-18T16:56:56.480Z",
+        "id": 1142
+      },
+      {
+        "title": "Afsnit 12: K\u00f8benhavnermodellen 25. juli 2016",
+        "publishedAt": "2024-07-18T16:54:57.623Z",
+        "id": 1141
+      },
+      {
+        "title": "Afsnit 11: K\u00f8benhavnermodellen 22. juli 2016",
+        "publishedAt": "2024-07-18T16:53:14.210Z",
+        "id": 1140
+      },
+      {
+        "title": "Afsnit 10: K\u00f8benhavnermodellen 21. juli 2016",
+        "publishedAt": "2024-07-18T16:51:26.820Z",
+        "id": 1139
+      },
+      {
+        "title": "Afsnit 9: K\u00f8benhavnermodellen 20. juli 2016",
+        "publishedAt": "2024-07-18T16:49:38.537Z",
+        "id": 1138
+      },
+      {
+        "title": "Afsnit 8: K\u00f8benhavnermodellen 19. juli 2016",
+        "publishedAt": "2024-07-18T16:48:12.283Z",
+        "id": 1137
+      },
+      {
+        "title": "Afsnit 7: K\u00f8benhavnermodellen Highlights 19. juli 2016",
+        "publishedAt": "2024-07-18T16:46:34.033Z",
+        "id": 1136
+      },
+      {
+        "title": "Afsnit 6: K\u00f8benhavnermodellen 18. juli 2016",
+        "publishedAt": "2024-07-18T16:30:55.183Z",
+        "id": 1135
+      },
+      {
+        "title": "Afsnit 5: K\u00f8benhavnermodellen 15. juli 2016",
+        "publishedAt": "2024-07-18T16:28:31.183Z",
+        "id": 1134
+      },
+      {
+        "title": "Afsnit 4: K\u00f8benhavnermodellen 14. juli 2016",
+        "publishedAt": "2024-07-18T16:26:24.697Z",
+        "id": 1133
+      },
+      {
+        "title": "Afsnit 3: K\u00f8benhavnermodellen 13. juli 2016",
+        "publishedAt": "2024-07-18T16:23:01.987Z",
+        "id": 1132
+      },
+      {
+        "title": "Afsnit 2: K\u00f8benhavnermodellen 12. juli 2016",
+        "publishedAt": "2024-07-18T16:18:38.893Z",
+        "id": 1131
+      },
+      {
+        "title": "Afsnit 1: K\u00f8benhavnermodellen 11. juli 2016",
+        "publishedAt": "2024-07-18T16:14:16.697Z",
+        "id": 1130
+      }
+    ]
   },
   {
     "title": "Se Europa, og d\u00f8",
