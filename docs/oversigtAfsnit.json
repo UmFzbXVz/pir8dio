@@ -1541,6 +1541,11 @@
     "program_url": "https://r8dio.dk/program/dialeksikon",
     "episodes": [
       {
+        "title": "Vi smider dem ned af skr\u00e6nten",
+        "publishedAt": "2024-07-24T04:00:00.000Z",
+        "id": 1177
+      },
+      {
         "title": "Bornholm, Bornholm, Bornholm - del 2",
         "publishedAt": "2024-07-16T04:00:00.000Z",
         "id": 1127
@@ -2289,6 +2294,11 @@
     "slug": "bogstavelig-talt",
     "program_url": "https://r8dio.dk/program/bogstavelig-talt",
     "episodes": [
+      {
+        "title": "Sommer-special med Mads Br\u00fcgger",
+        "publishedAt": "2024-07-24T04:00:00.000Z",
+        "id": 1178
+      },
       {
         "title": "Sommer-special med Rasmus Bruun og Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm",
         "publishedAt": "2024-07-10T04:00:00.000Z",
