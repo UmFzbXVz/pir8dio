@@ -1134,6 +1134,20 @@
     ]
   },
   {
+    "title": "Mad fra bunden a'",
+    "content": "En sommerprogramserie med stjernebageren Mads Skjern som v\u00e6rt. Det er din chance for at h\u00f8re om og forst\u00e5 danske madskatte helt fra bunden \u00e1.\n\nSom medv\u00e6rt huserer allestedsn\u00e6rv\u00e6rende Allan Sindberg, og de to makkere har sp\u00e6ndende g\u00e6ster i Mads' lejlighed i Skuldborg downtown.\n\nProgrammet er lavet i samarbejde med Meny.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/4fb84180-d774-45d7-b239-b1b7014b3adb/image.jpg?t=1721851794&size=Medium",
+    "slug": "mad-fra-bunden-a",
+    "program_url": "https://r8dio.dk/program/mad-fra-bunden-a",
+    "episodes": [
+      {
+        "title": "Rabalderfest",
+        "publishedAt": "2024-07-25T04:00:00.000Z",
+        "id": 1180
+      }
+    ]
+  },
+  {
     "title": "Kom tilbage til Skuldborg",
     "content": "Er det l\u00e6nge siden, du har v\u00e6ret forbi Skuldborg, har du m\u00e5ske aldrig v\u00e6ret i Skuldborg, eller har du bare glemt alt det, du tidligere har oplevet i byen. S\u00e5 tag med et smut tilbage i tiden.\u00a0\n\nI 'Kom tilbage til Skuldborg' f\u00e5r du et samlet resum\u00e9 af alle de tidligere s\u00e6soner af 'Undskyld vi roder', s\u00e5 du kan du f\u00e5 styr p\u00e5 de vigtigste og mest afg\u00f8rende tidspunkter og h\u00e6ndelser.\u00a0",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/72ec497d-681c-4c16-a2fb-b1b200adf70b/image.jpg?t=1721386396&size=Medium",
@@ -1579,6 +1593,11 @@
     "slug": "l-r-klokken-med-goodiepal",
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
+      {
+        "title": "Giants standing on the shoulders of Mira Winding",
+        "publishedAt": "2024-07-25T04:00:00.000Z",
+        "id": 1181
+      },
       {
         "title": "Tid til krop, fugl og kande",
         "publishedAt": "2024-07-18T04:00:00.000Z",
@@ -5750,6 +5769,11 @@
     "slug": "her-vogter-jeg",
     "program_url": "https://r8dio.dk/program/her-vogter-jeg",
     "episodes": [
+      {
+        "title": "Civilister i sommerlandet",
+        "publishedAt": "2024-07-25T04:00:00.000Z",
+        "id": 1179
+      },
       {
         "title": "Overva\u030agning, del 2",
         "publishedAt": "2024-07-11T04:00:00.000Z",
