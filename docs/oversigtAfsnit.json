@@ -2043,6 +2043,11 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
+        "title": "Tiger Sennenwald",
+        "publishedAt": "2024-07-27T04:00:00.000Z",
+        "id": 1183
+      },
+      {
         "title": "Christina Mogensen",
         "publishedAt": "2024-07-20T04:00:00.000Z",
         "id": 1173
