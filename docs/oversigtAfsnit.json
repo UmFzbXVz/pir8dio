@@ -1139,6 +1139,90 @@
     ]
   },
   {
+    "title": "Den Korte Radioavis",
+    "content": "Den Korte Radioavis giver dig s\u00e5 korte og skarpe nyheder som overhovedet muligt, altsammen under sloganet \u201cklar, skarp, parat!\u201d. Programmet bev\u00e6rtes af seniorkorrespondent Kirsten Birgit Schi\u00f8tz Kretz H\u00f8rsholm, og med sig i studiet har hun nyhedsredakt\u00f8ren Rasmus Bruun.\nMed deadline hvert femtende minut vil de sammen arbejde m\u00e5lrettet, knaldhurtigt og kompromisl\u00f8st p\u00e5 at g\u00f8re nyhederne kortere og kortere, og skarpere og skarpere.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/0ac2b557-abbb-48ec-a94b-b1bc00b668df/image.jpg?t=1722260270&size=Medium",
+    "slug": "den-korte-radioavis-r8dio",
+    "program_url": "https://r8dio.dk/program/den-korte-radioavis-r8dio",
+    "episodes": [
+      {
+        "title": "Den Korte Radioavis 20. februar 2015",
+        "publishedAt": "2024-07-29T14:23:37.203Z",
+        "id": 1200
+      },
+      {
+        "title": "Den Korte Radioavis 19. februar 2015",
+        "publishedAt": "2024-07-29T14:20:55.377Z",
+        "id": 1199
+      },
+      {
+        "title": "Den Korte Radioavis 18. februar 2015",
+        "publishedAt": "2024-07-29T14:17:59.043Z",
+        "id": 1198
+      },
+      {
+        "title": "Den Korte Radioavis 17. februar 2015",
+        "publishedAt": "2024-07-29T14:14:42.070Z",
+        "id": 1197
+      },
+      {
+        "title": "Den Korte Radioavis 16. februar 2015",
+        "publishedAt": "2024-07-29T14:12:13.277Z",
+        "id": 1196
+      },
+      {
+        "title": "Den Korte Radioavis 13. februar 2015",
+        "publishedAt": "2024-07-29T14:06:45.027Z",
+        "id": 1195
+      },
+      {
+        "title": "Den Korte Radioavis 12. februar 2015",
+        "publishedAt": "2024-07-29T14:04:58.533Z",
+        "id": 1194
+      },
+      {
+        "title": "Den Korte Radioavis 11. februar 2015",
+        "publishedAt": "2024-07-29T14:02:25.383Z",
+        "id": 1193
+      },
+      {
+        "title": "Den Korte Radioavis 10. februar 2015",
+        "publishedAt": "2024-07-29T14:00:17.997Z",
+        "id": 1192
+      },
+      {
+        "title": "Den Korte Radioavis 9. februar 2015",
+        "publishedAt": "2024-07-29T13:57:51.827Z",
+        "id": 1191
+      },
+      {
+        "title": "Den Korte Radioavis 6. februar 2015",
+        "publishedAt": "2024-07-29T13:53:15.620Z",
+        "id": 1190
+      },
+      {
+        "title": "Den Korte Radioavis 5. februar 2015",
+        "publishedAt": "2024-07-29T13:51:41.367Z",
+        "id": 1189
+      },
+      {
+        "title": "Den Korte Radioavis 4. februar 2015",
+        "publishedAt": "2024-07-29T13:47:40.437Z",
+        "id": 1188
+      },
+      {
+        "title": "Den Korte Radioavis 3. februar 2015",
+        "publishedAt": "2024-07-29T13:45:38.513Z",
+        "id": 1187
+      },
+      {
+        "title": "Den Korte Radioavis 2. februar 2015",
+        "publishedAt": "2024-07-29T13:40:09.440Z",
+        "id": 1186
+      }
+    ]
+  },
+  {
     "title": "Mad fra bunden a'",
     "content": "En sommerprogramserie med stjernebageren Mads Skjern som v\u00e6rt. Det er din chance for at h\u00f8re om og forst\u00e5 danske madskatte helt fra bunden \u00e1.\n\nSom medv\u00e6rt huserer allestedsn\u00e6rv\u00e6rende Allan Sindberg, og de to makkere har sp\u00e6ndende g\u00e6ster i Mads' lejlighed i Skuldborg downtown.\n\nProgrammet er lavet i samarbejde med Meny.",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/4fb84180-d774-45d7-b239-b1b7014b3adb/image.jpg?t=1721851794&size=Medium",
@@ -1560,7 +1644,7 @@
     "program_url": "https://r8dio.dk/program/dialeksikon",
     "episodes": [
       {
-        "title": "Vi smider dem ned af skr\u00e6nten",
+        "title": "Vendelbom\u00e5l: Vi smider dem ned af skr\u00e6nten",
         "publishedAt": "2024-07-24T04:00:00.000Z",
         "id": 1177
       },
