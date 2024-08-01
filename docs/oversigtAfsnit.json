@@ -1460,6 +1460,11 @@
     "program_url": "https://r8dio.dk/program/mad-fra-bunden-a",
     "episodes": [
       {
+        "title": "En flyvende start",
+        "publishedAt": "2024-08-01T04:00:00.000Z",
+        "id": 1249
+      },
+      {
         "title": "Rabalderfest",
         "publishedAt": "2024-07-25T04:00:00.000Z",
         "id": 1180
@@ -1917,6 +1922,11 @@
     "slug": "l-r-klokken-med-goodiepal",
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
+      {
+        "title": "Furek\u00e5ben & de andre",
+        "publishedAt": "2024-08-01T04:00:00.000Z",
+        "id": 1250
+      },
       {
         "title": "Giants standing on the shoulders of Mira Winding",
         "publishedAt": "2024-07-25T04:00:00.000Z",
