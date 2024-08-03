@@ -2387,6 +2387,11 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
+        "title": "Cecilie Mouritsen",
+        "publishedAt": "2024-08-03T04:00:00.000Z",
+        "id": 1253
+      },
+      {
         "title": "Tiger Sennenwald",
         "publishedAt": "2024-07-27T04:00:00.000Z",
         "id": 1183
