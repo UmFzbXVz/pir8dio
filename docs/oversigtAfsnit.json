@@ -1157,7 +1157,7 @@
     "episodes": [
       {
         "title": "Den Korte Radioavis 29. april 2015",
-        "publishedAt": "2024-07-31T12:56:01.343Z",
+        "publishedAt": "2024-07-31T12:56:00.000Z",
         "id": 1248
       },
       {
@@ -3443,6 +3443,11 @@
     "slug": "morgensutterne",
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
+      {
+        "title": "Nogen har stadigt masser af ferie tilbage",
+        "publishedAt": "2024-08-05T06:34:39.750Z",
+        "id": 1254
+      },
       {
         "title": "Bak p\u00e5 kommando tricket",
         "publishedAt": "2024-07-29T06:23:32.490Z",
