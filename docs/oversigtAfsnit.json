@@ -1884,6 +1884,11 @@
     "program_url": "https://r8dio.dk/program/dialeksikon",
     "episodes": [
       {
+        "title": "Falster forever",
+        "publishedAt": "2024-08-07T04:00:00.000Z",
+        "id": 1256
+      },
+      {
         "title": "Fyn er fin",
         "publishedAt": "2024-07-31T04:00:00.000Z",
         "id": 1228
@@ -2677,6 +2682,11 @@
     "slug": "bogstavelig-talt",
     "program_url": "https://r8dio.dk/program/bogstavelig-talt",
     "episodes": [
+      {
+        "title": "Sommer-special: Kogeb\u00f8ger og madtrends med Marie Holm",
+        "publishedAt": "2024-08-07T04:00:00.000Z",
+        "id": 1257
+      },
       {
         "title": "Sommer-special med Mads Br\u00fcgger",
         "publishedAt": "2024-07-24T04:00:00.000Z",
