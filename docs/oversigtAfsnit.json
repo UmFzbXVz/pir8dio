@@ -7,8 +7,13 @@
     "program_url": "https://r8dio.dk/program/undskyld-vi-roder",
     "episodes": [
       {
+        "title": "Fernisering & Fru N\u00f8rres\u00f8 p\u00e5 mission",
+        "publishedAt": "2024-08-09T04:00:00.000Z",
+        "id": 1261
+      },
+      {
         "title": "Igang igen",
-        "publishedAt": "2024-08-02T04:00:00.000Z",
+        "publishedAt": "2024-08-09T04:00:00.000Z",
         "id": 1251
       },
       {
@@ -992,14 +997,14 @@
         "id": 31
       },
       {
-        "title": "Resum\u00e9; s\u00e6son 1",
-        "publishedAt": "2024-07-30T12:53:35.320Z",
-        "id": 1217
-      },
-      {
         "title": "Godt nyta\u030ar",
         "publishedAt": "2020-12-30T21:01:29.000Z",
         "id": 32
+      },
+      {
+        "title": "Resum\u00e9; s\u00e6son 1",
+        "publishedAt": "2024-07-30T12:53:35.320Z",
+        "id": 1217
       },
       {
         "title": "Alene pa\u030a kontoret",
