@@ -2871,6 +2871,11 @@
     "program_url": "https://r8dio.dk/program/kirsten-ringer-til-rasmus",
     "episodes": [
       {
+        "title": "En sommer i Danmark",
+        "publishedAt": "2024-08-11T04:00:00.000Z",
+        "id": 1263
+      },
+      {
         "title": "Mod Bakkens Hvile 7: Bakkens Hvile",
         "publishedAt": "2024-07-07T04:00:00.000Z",
         "id": 1110
