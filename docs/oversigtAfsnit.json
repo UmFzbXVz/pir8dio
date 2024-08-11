@@ -4192,6 +4192,11 @@
     "program_url": "https://r8dio.dk/program/sara-og-panelet",
     "episodes": [
       {
+        "title": "Med Lasse Rimmer, Lydia Kawalavski og Per Madsen",
+        "publishedAt": "2024-08-11T09:00:00.000Z",
+        "id": 1264
+      },
+      {
         "title": "Med Jesper Ole Feit, Allan Sindberg og Berit Joy Hansen",
         "publishedAt": "2024-07-28T09:00:00.000Z",
         "id": 1184
