@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const episodesList = document.getElementById('episodesList');
   const refreshButton = document.getElementById('refreshButton');
   const filterButton = document.getElementById('filterButton');
+  const resetButton = document.getElementById('resetButton');
   let filterActive = localStorage.getItem('filterActive') === 'true';
 
   const jsonFile = 'https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/oversigtAfsnit.json';
@@ -17,6 +18,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   refreshButton.addEventListener('click', () => {
     if (confirm('Vil du genopfriske afsnitlisterne?')) {
+      refreshPodcasts();
+    }
+  });
+  
+  resetButton.addEventListener('click', () => {
+    if (confirm('Er du sikker på, at du vil nulstille al tracking? Dette vil slette al lokal data.')) {
+      localStorage.clear();
       refreshPodcasts();
     }
   });
