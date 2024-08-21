@@ -27,7 +27,7 @@ body {
     align-items: flex-end;
 }
 
-#filterButton, #refreshButton {
+#filterButton, #refreshButton, #resetButton {
     background-color: transparent;
     border: none;
     padding: 10px;
@@ -39,9 +39,10 @@ body {
     justify-content: center;
 }
 
-#filterButton img, #refreshButton img {
+#filterButton img, #refreshButton img, #resetButton img {
     width: 20px;
     height: 20px;
+    border: 0;
 }
 
 .grid {
