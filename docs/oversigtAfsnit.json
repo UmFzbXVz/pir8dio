@@ -1475,6 +1475,11 @@
     "program_url": "https://r8dio.dk/program/mad-fra-bunden-a",
     "episodes": [
       {
+        "title": "Barnemad",
+        "publishedAt": "2024-08-22T04:00:00.000Z",
+        "id": 1276
+      },
+      {
         "title": "Armargeddon-mad",
         "publishedAt": "2024-08-15T04:00:00.000Z",
         "id": 1268
@@ -1952,6 +1957,11 @@
     "slug": "l-r-klokken-med-goodiepal",
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
+      {
+        "title": "Miss Le Bomb tr\u00e6kker stikket",
+        "publishedAt": "2024-08-22T04:00:00.000Z",
+        "id": 1277
+      },
       {
         "title": "S\u00e5 meget Jan Sneum at du aldrig kommer det til ende",
         "publishedAt": "2024-08-15T04:00:00.000Z",
