@@ -7,8 +7,13 @@
     "program_url": "https://r8dio.dk/program/undskyld-vi-roder",
     "episodes": [
       {
+        "title": "Noget har sat sig",
+        "publishedAt": "2024-08-23T04:00:00.000Z",
+        "id": 1318
+      },
+      {
         "title": "iiiiiiii",
-        "publishedAt": "2024-08-16T04:00:00.000Z",
+        "publishedAt": "2024-08-23T04:00:00.000Z",
         "id": 1270
       },
       {
@@ -1165,6 +1170,181 @@
     "slug": "den-korte-radioavis-r8dio",
     "program_url": "https://r8dio.dk/program/den-korte-radioavis-r8dio",
     "episodes": [
+      {
+        "title": "Den Korte Radioavis 26. juni 2015",
+        "publishedAt": "2024-08-22T21:49:23.413Z",
+        "id": 1317
+      },
+      {
+        "title": "Den Korte Radioavis 25. juni 2015",
+        "publishedAt": "2024-08-22T21:47:39.517Z",
+        "id": 1316
+      },
+      {
+        "title": "Den Korte Radioavis 24. juni 2015",
+        "publishedAt": "2024-08-22T21:45:40.427Z",
+        "id": 1315
+      },
+      {
+        "title": "Den Korte Radioavis 23. juni 2015",
+        "publishedAt": "2024-08-22T21:43:46.380Z",
+        "id": 1314
+      },
+      {
+        "title": "Den Korte Radioavis 22. juni 2015",
+        "publishedAt": "2024-08-22T21:41:42.930Z",
+        "id": 1313
+      },
+      {
+        "title": "Den Korte Radioavis 19. juni 2015",
+        "publishedAt": "2024-08-22T20:18:07.250Z",
+        "id": 1312
+      },
+      {
+        "title": "Den Korte Radioavis 18. juni 2015",
+        "publishedAt": "2024-08-22T20:16:14.690Z",
+        "id": 1311
+      },
+      {
+        "title": "Den Korte Radioavis 17. juni 2015",
+        "publishedAt": "2024-08-22T20:14:32.377Z",
+        "id": 1310
+      },
+      {
+        "title": "Den Korte Radioavis 16. juni 2015",
+        "publishedAt": "2024-08-22T20:12:52.013Z",
+        "id": 1309
+      },
+      {
+        "title": "Den Korte Radioavis 15. juni 2015",
+        "publishedAt": "2024-08-22T20:11:09.517Z",
+        "id": 1308
+      },
+      {
+        "title": "Den Korte Radioavis 12. juni 2015",
+        "publishedAt": "2024-08-22T20:09:07.750Z",
+        "id": 1307
+      },
+      {
+        "title": "Den Korte Radioavis 11. juni 2015",
+        "publishedAt": "2024-08-22T20:07:29.430Z",
+        "id": 1306
+      },
+      {
+        "title": "Den Korte Radioavis 10. juni 2015",
+        "publishedAt": "2024-08-22T20:05:15.933Z",
+        "id": 1305
+      },
+      {
+        "title": "Den Korte Radioavis 9. juni 2015",
+        "publishedAt": "2024-08-22T20:03:28.653Z",
+        "id": 1304
+      },
+      {
+        "title": "Den Korte Radioavis 8. juni 2015",
+        "publishedAt": "2024-08-22T20:01:15.837Z",
+        "id": 1303
+      },
+      {
+        "title": "Den Korte Radioavis 5. juni 2015",
+        "publishedAt": "2024-08-22T19:59:14.970Z",
+        "id": 1302
+      },
+      {
+        "title": "Den Korte Radioavis 4. juni 2015",
+        "publishedAt": "2024-08-22T19:57:17.787Z",
+        "id": 1301
+      },
+      {
+        "title": "Den Korte Radioavis 3. juni 2015",
+        "publishedAt": "2024-08-22T19:55:39.800Z",
+        "id": 1300
+      },
+      {
+        "title": "Den Korte Radioavis 2. juni 2015",
+        "publishedAt": "2024-08-22T19:53:44.303Z",
+        "id": 1299
+      },
+      {
+        "title": "Den Korte Radioavis 1. juni 2015",
+        "publishedAt": "2024-08-22T19:51:49.000Z",
+        "id": 1298
+      },
+      {
+        "title": "Den Korte Radioavis 29. maj 2015",
+        "publishedAt": "2024-08-22T19:50:11.200Z",
+        "id": 1297
+      },
+      {
+        "title": "Den Korte Radioavis 28. maj 2015",
+        "publishedAt": "2024-08-22T19:48:24.387Z",
+        "id": 1296
+      },
+      {
+        "title": "Den Korte Radioavis 27. maj 2015",
+        "publishedAt": "2024-08-22T19:46:21.113Z",
+        "id": 1295
+      },
+      {
+        "title": "Den Korte Radioavis 26. maj 2015",
+        "publishedAt": "2024-08-22T19:44:30.053Z",
+        "id": 1294
+      },
+      {
+        "title": "Den Korte Radioavis 22. maj 2015",
+        "publishedAt": "2024-08-22T19:42:46.427Z",
+        "id": 1293
+      },
+      {
+        "title": "Den Korte Radioavis 21. maj 2015",
+        "publishedAt": "2024-08-22T19:40:28.277Z",
+        "id": 1292
+      },
+      {
+        "title": "Den Korte Radioavis 20. maj 2015",
+        "publishedAt": "2024-08-22T19:38:46.087Z",
+        "id": 1291
+      },
+      {
+        "title": "Den Korte Radioavis 19. maj 2015",
+        "publishedAt": "2024-08-22T19:36:59.303Z",
+        "id": 1290
+      },
+      {
+        "title": "Den Korte Radioavis 18. maj 2015",
+        "publishedAt": "2024-08-22T19:35:16.010Z",
+        "id": 1289
+      },
+      {
+        "title": "Den Korte Radioavis 15. maj 2015",
+        "publishedAt": "2024-08-22T19:32:57.037Z",
+        "id": 1288
+      },
+      {
+        "title": "Den Korte Radioavis 13. maj 2015",
+        "publishedAt": "2024-08-22T19:27:48.677Z",
+        "id": 1287
+      },
+      {
+        "title": "Den Korte Radioavis 12. maj 2015",
+        "publishedAt": "2024-08-22T19:25:33.603Z",
+        "id": 1286
+      },
+      {
+        "title": "Den Korte Radioavis 11. maj 2015",
+        "publishedAt": "2024-08-22T19:23:53.950Z",
+        "id": 1285
+      },
+      {
+        "title": "Den Korte Radioavis 8. maj 2015",
+        "publishedAt": "2024-08-22T19:19:49.400Z",
+        "id": 1284
+      },
+      {
+        "title": "Den Korte Radioavis 7. maj 2015",
+        "publishedAt": "2024-08-22T19:17:07.523Z",
+        "id": 1283
+      },
       {
         "title": "Den Korte Radioavis 6. maj 2015",
         "publishedAt": "2024-08-22T15:01:22.203Z",
