@@ -2666,6 +2666,11 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
+        "title": "J\u00f8rn Aarup",
+        "publishedAt": "2024-08-24T04:00:00.000Z",
+        "id": 1320
+      },
+      {
         "title": "Jakob Tolstrup",
         "publishedAt": "2024-08-17T04:00:00.000Z",
         "id": 1272
