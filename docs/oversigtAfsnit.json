@@ -7,8 +7,13 @@
     "program_url": "https://r8dio.dk/program/undskyld-vi-roder",
     "episodes": [
       {
+        "title": "Nok er nok",
+        "publishedAt": "2024-08-30T04:00:00.000Z",
+        "id": 1352
+      },
+      {
         "title": "Noget har sat sig",
-        "publishedAt": "2024-08-23T04:00:00.000Z",
+        "publishedAt": "2024-08-30T04:00:00.000Z",
         "id": 1318
       },
       {
@@ -1304,6 +1309,11 @@
     "slug": "en-gonzo-skifter-spor",
     "program_url": "https://r8dio.dk/program/en-gonzo-skifter-spor",
     "episodes": [
+      {
+        "title": "Moradsets mentale load",
+        "publishedAt": "2024-08-30T04:00:00.000Z",
+        "id": 1351
+      },
       {
         "title": "Is the mango warm tonight?",
         "publishedAt": "2024-08-23T13:00:00.000Z",
