@@ -2820,6 +2820,11 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
+        "title": "Anders Gregersen",
+        "publishedAt": "2024-08-31T04:00:00.000Z",
+        "id": 1353
+      },
+      {
         "title": "J\u00f8rn Aarup",
         "publishedAt": "2024-08-24T04:00:00.000Z",
         "id": 1320
