@@ -7,8 +7,13 @@
     "program_url": "https://r8dio.dk/program/undskyld-vi-roder",
     "episodes": [
       {
+        "title": "Surprise",
+        "publishedAt": "2024-09-06T04:00:00.000Z",
+        "id": 1409
+      },
+      {
         "title": "Nok er nok",
-        "publishedAt": "2024-08-30T04:00:00.000Z",
+        "publishedAt": "2024-09-06T04:00:00.000Z",
         "id": 1352
       },
       {
