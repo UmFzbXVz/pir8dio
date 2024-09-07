@@ -1181,12 +1181,12 @@
     "program_url": "https://r8dio.dk/program/danser-med-hugorm",
     "episodes": [
       {
-        "title": "Afsnit 2 - En ha\u030and pa\u030a rattet",
+        "title": "En ha\u030and pa\u030a rattet (afsnit 2)",
         "publishedAt": "2024-09-07T04:01:00.000Z",
         "id": 1412
       },
       {
-        "title": "Afsnit 1 - Ik' tale, ik' h\u00f8re, ik' se",
+        "title": "Ik' tale, ik' h\u00f8re, ik' se (afsnit 1)",
         "publishedAt": "2024-09-07T04:00:00.000Z",
         "id": 1411
       }
@@ -3098,6 +3098,11 @@
     "slug": "vandvognen",
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
+      {
+        "title": "Rene Hammelsvang",
+        "publishedAt": "2024-09-06T20:54:22.143Z",
+        "id": 1410
+      },
       {
         "title": "Anders Gregersen",
         "publishedAt": "2024-08-31T04:00:00.000Z",
