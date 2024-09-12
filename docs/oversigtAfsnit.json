@@ -2605,6 +2605,11 @@
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
       {
+        "title": "Der er hun, den r\u00f8de fe",
+        "publishedAt": "2024-09-12T04:00:00.000Z",
+        "id": 1419
+      },
+      {
         "title": "Roskilde \u00c5r 2000",
         "publishedAt": "2024-09-05T04:00:00.000Z",
         "id": 1377
@@ -6980,6 +6985,11 @@
     "slug": "her-vogter-jeg",
     "program_url": "https://r8dio.dk/program/her-vogter-jeg",
     "episodes": [
+      {
+        "title": "Stealthmode",
+        "publishedAt": "2024-09-12T04:00:00.000Z",
+        "id": 1418
+      },
       {
         "title": "Hundeangst",
         "publishedAt": "2024-08-08T04:00:00.000Z",
