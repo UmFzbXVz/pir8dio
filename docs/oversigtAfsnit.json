@@ -1532,6 +1532,171 @@
     "program_url": "https://r8dio.dk/program/den-korte-radioavis-r8dio",
     "episodes": [
       {
+        "title": "Den Korte Radioavis 26. januar 2016",
+        "publishedAt": "2024-09-26T15:32:57.250Z",
+        "id": 1493
+      },
+      {
+        "title": "Den Korte Radioavis 24. december 2015",
+        "publishedAt": "2024-09-26T15:29:43.427Z",
+        "id": 1492
+      },
+      {
+        "title": "Den Korte Radioavis 23. december 2015",
+        "publishedAt": "2024-09-26T15:27:51.727Z",
+        "id": 1491
+      },
+      {
+        "title": "Den Korte Radioavis 22. december 2015",
+        "publishedAt": "2024-09-26T15:23:29.383Z",
+        "id": 1490
+      },
+      {
+        "title": "Den Korte Radioavis 21. december 2015",
+        "publishedAt": "2024-09-26T15:20:49.187Z",
+        "id": 1489
+      },
+      {
+        "title": "Den Korte Radioavis 18. december 2015",
+        "publishedAt": "2024-09-26T15:18:55.373Z",
+        "id": 1488
+      },
+      {
+        "title": "Den Korte Radioavis 17. december 2015",
+        "publishedAt": "2024-09-26T15:16:07.147Z",
+        "id": 1487
+      },
+      {
+        "title": "Den Korte Radioavis 16. december 2015",
+        "publishedAt": "2024-09-26T15:13:36.910Z",
+        "id": 1486
+      },
+      {
+        "title": "Den Korte Radioavis 15. december 2015",
+        "publishedAt": "2024-09-26T15:11:13.953Z",
+        "id": 1485
+      },
+      {
+        "title": "Den Korte Radioavis 14. december 2015",
+        "publishedAt": "2024-09-26T15:08:22.377Z",
+        "id": 1484
+      },
+      {
+        "title": "Den Korte Radioavis 11. december 2015",
+        "publishedAt": "2024-09-26T15:06:16.980Z",
+        "id": 1483
+      },
+      {
+        "title": "Den Korte Radioavis 10. december 2015",
+        "publishedAt": "2024-09-26T15:02:28.717Z",
+        "id": 1482
+      },
+      {
+        "title": "Den Korte Radioavis 9. december 2015",
+        "publishedAt": "2024-09-26T14:59:54.560Z",
+        "id": 1481
+      },
+      {
+        "title": "Den Korte Radioavis 8. december 2015",
+        "publishedAt": "2024-09-26T14:57:51.717Z",
+        "id": 1480
+      },
+      {
+        "title": "Den Korte Radioavis 7. december 2015",
+        "publishedAt": "2024-09-26T14:55:45.067Z",
+        "id": 1479
+      },
+      {
+        "title": "Den Korte Radioavis 4. december 2015",
+        "publishedAt": "2024-09-26T14:53:43.037Z",
+        "id": 1478
+      },
+      {
+        "title": "Den Korte Radioavis 3. december 2015",
+        "publishedAt": "2024-09-26T14:50:56.763Z",
+        "id": 1477
+      },
+      {
+        "title": "Den Korte Radioavis 2. december 2015",
+        "publishedAt": "2024-09-26T14:49:11.510Z",
+        "id": 1476
+      },
+      {
+        "title": "Den Korte Radioavis 1. december 2015",
+        "publishedAt": "2024-09-26T14:46:50.637Z",
+        "id": 1475
+      },
+      {
+        "title": "Den Korte Radioavis 30. november 2015",
+        "publishedAt": "2024-09-26T14:43:58.287Z",
+        "id": 1474
+      },
+      {
+        "title": "Den Korte Radioavis 27. november 2015",
+        "publishedAt": "2024-09-26T14:41:27.843Z",
+        "id": 1473
+      },
+      {
+        "title": "Den Korte Radioavis 26. november 2015",
+        "publishedAt": "2024-09-26T14:37:15.160Z",
+        "id": 1472
+      },
+      {
+        "title": "Den Korte Radioavis 25. november 2015",
+        "publishedAt": "2024-09-26T14:33:35.130Z",
+        "id": 1471
+      },
+      {
+        "title": "Den Korte Radioavis 24. november 2015",
+        "publishedAt": "2024-09-26T14:31:18.770Z",
+        "id": 1470
+      },
+      {
+        "title": "Den Korte Radioavis 23. november 2015",
+        "publishedAt": "2024-09-26T14:29:23.163Z",
+        "id": 1469
+      },
+      {
+        "title": "Den Korte Radioavis 20. november 2015",
+        "publishedAt": "2024-09-26T14:27:24.007Z",
+        "id": 1468
+      },
+      {
+        "title": "Den Korte Radioavis 19. november 2015",
+        "publishedAt": "2024-09-26T14:25:04.990Z",
+        "id": 1467
+      },
+      {
+        "title": "Den Korte Radioavis 18. november 2015",
+        "publishedAt": "2024-09-26T14:22:52.307Z",
+        "id": 1466
+      },
+      {
+        "title": "Den Korte Radioavis 17. november 2015",
+        "publishedAt": "2024-09-26T14:18:40.337Z",
+        "id": 1465
+      },
+      {
+        "title": "Den Korte Radioavis 16. november 2015",
+        "publishedAt": "2024-09-26T14:15:36.320Z",
+        "id": 1464
+      },
+      {
+        "title": "Den Korte Radioavis 13. november 2015",
+        "publishedAt": "2024-09-26T14:13:09.953Z",
+        "id": 1463
+      },
+      {
+        "title": "Den Korte Radioavis 12. november 2015",
+        "publishedAt": "2024-09-26T13:44:10.570Z",
+        "id": 1462
+      },
+      {
+        "title": "Den Korte Radioavis 11. november 2015",
+        "publishedAt": "2024-09-26T13:39:06.480Z",
+        "id": 1461
+      },
+      {
         "title": "Den Korte Radioavis 10. november 2015",
         "publishedAt": "2024-09-05T15:00:57.550Z",
         "id": 1408
@@ -2779,7 +2944,7 @@
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
       {
-        "title": "Think Therefore I AMBIENT",
+        "title": "I Think Therefore I AMBIENT",
         "publishedAt": "2024-09-26T04:00:00.000Z",
         "id": 1460
       },
