@@ -1508,6 +1508,11 @@
     "program_url": "https://r8dio.dk/program/en-gonzo-skifter-spor",
     "episodes": [
       {
+        "title": "The Bigger Man?",
+        "publishedAt": "2024-09-30T04:00:00.000Z",
+        "id": 1498
+      },
+      {
         "title": "The Big Why?",
         "publishedAt": "2024-09-23T04:00:00.000Z",
         "id": 1431
@@ -4609,6 +4614,11 @@
     "slug": "morgensutterne",
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
+      {
+        "title": "En ny praktikant ser dagens lys",
+        "publishedAt": "2024-09-30T06:41:45.843Z",
+        "id": 1499
+      },
       {
         "title": "5 stjernet god morgen middag hos ...",
         "publishedAt": "2024-09-23T06:32:52.207Z",
