@@ -1561,6 +1561,76 @@
     "program_url": "https://r8dio.dk/program/den-korte-radioavis-r8dio",
     "episodes": [
       {
+        "title": "Den Korte Radioavis 16. februar 2016",
+        "publishedAt": "2024-10-03T15:09:57.443Z",
+        "id": 1516
+      },
+      {
+        "title": "Den Korte Radioavis 15. februar 2016",
+        "publishedAt": "2024-10-03T15:04:55.030Z",
+        "id": 1515
+      },
+      {
+        "title": "Den Korte Radioavis 12. februar 2016",
+        "publishedAt": "2024-10-03T14:47:44.223Z",
+        "id": 1514
+      },
+      {
+        "title": "Den Korte Radioavis 11. februar 2016",
+        "publishedAt": "2024-10-03T14:45:22.653Z",
+        "id": 1513
+      },
+      {
+        "title": "Den Korte Radioavis 10. februar 2016",
+        "publishedAt": "2024-10-03T14:42:05.367Z",
+        "id": 1512
+      },
+      {
+        "title": "Den Korte Radioavis 9. februar 2016",
+        "publishedAt": "2024-10-03T14:39:35.373Z",
+        "id": 1511
+      },
+      {
+        "title": "Den Korte Radioavis 8. februar 2016",
+        "publishedAt": "2024-10-03T14:30:44.873Z",
+        "id": 1510
+      },
+      {
+        "title": "Den Korte Radioavis 5. februar 2016",
+        "publishedAt": "2024-10-03T14:28:33.257Z",
+        "id": 1509
+      },
+      {
+        "title": "Den Korte Radioavis 4. februar 2016",
+        "publishedAt": "2024-10-03T14:26:45.647Z",
+        "id": 1508
+      },
+      {
+        "title": "Den Korte Radioavis 3. februar 2016",
+        "publishedAt": "2024-10-03T14:21:20.640Z",
+        "id": 1507
+      },
+      {
+        "title": "Den Korte Radioavis 2. februar 2016",
+        "publishedAt": "2024-10-03T14:19:33.783Z",
+        "id": 1506
+      },
+      {
+        "title": "Den Korte Radioavis 1. februar 2016",
+        "publishedAt": "2024-10-03T14:17:34.250Z",
+        "id": 1505
+      },
+      {
+        "title": "Den Korte Radioavis 28. januar 2016",
+        "publishedAt": "2024-10-03T14:13:38.967Z",
+        "id": 1504
+      },
+      {
+        "title": "Den Korte Radioavis 27. januar 2016",
+        "publishedAt": "2024-10-03T14:11:22.710Z",
+        "id": 1503
+      },
+      {
         "title": "Den Korte Radioavis 26. januar 2016",
         "publishedAt": "2024-09-26T15:32:57.250Z",
         "id": 1493
