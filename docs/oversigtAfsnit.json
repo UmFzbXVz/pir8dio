@@ -1372,6 +1372,11 @@
     "program_url": "https://r8dio.dk/program/danser-med-hugorm",
     "episodes": [
       {
+        "title": "En batman i sorte jeans",
+        "publishedAt": "2024-10-12T04:00:00.000Z",
+        "id": 1562
+      },
+      {
         "title": "Det er dumt at virke alt for klog",
         "publishedAt": "2024-10-05T04:00:00.000Z",
         "id": 1519
@@ -3779,6 +3784,11 @@
     "slug": "vandvognen",
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
+      {
+        "title": "Michael Damgaard",
+        "publishedAt": "2024-10-12T04:00:00.000Z",
+        "id": 1563
+      },
       {
         "title": "Mike Gr\u00f8nne",
         "publishedAt": "2024-10-05T04:00:00.000Z",
