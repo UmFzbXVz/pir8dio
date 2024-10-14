@@ -1550,6 +1550,11 @@
     "program_url": "https://r8dio.dk/program/en-gonzo-skifter-spor",
     "episodes": [
       {
+        "title": "Shift happens - det dejligste sted?",
+        "publishedAt": "2024-10-14T04:00:00.000Z",
+        "id": 1565
+      },
+      {
         "title": "Alt er energi!",
         "publishedAt": "2024-10-07T04:00:00.000Z",
         "id": 1521
@@ -5085,6 +5090,11 @@
         "title": "N\u00e5r blodet spr\u00f8jter",
         "publishedAt": "2024-03-25T08:58:34.303Z",
         "id": 957
+      },
+      {
+        "title": "Nu kun 7 \u00e5rs ventetid",
+        "publishedAt": "2024-10-14T06:37:45.953Z",
+        "id": 1566
       },
       {
         "title": "Sl\u00e5et ned af et rugbr\u00f8d",
