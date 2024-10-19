@@ -1538,6 +1538,11 @@
     "program_url": "https://r8dio.dk/program/danser-med-hugorm",
     "episodes": [
       {
+        "title": "Du har lagt dig ned p\u00e5 Jorden",
+        "publishedAt": "2024-10-19T04:00:00.000Z",
+        "id": 1602
+      },
+      {
         "title": "En batman i sorte jeans",
         "publishedAt": "2024-10-12T04:00:00.000Z",
         "id": 1562
@@ -1563,12 +1568,12 @@
         "id": 1421
       },
       {
-        "title": "En ha\u030and pa\u030a rattet, afsnit 2",
+        "title": "En ha\u030and pa\u030a rattet",
         "publishedAt": "2024-09-07T04:01:00.000Z",
         "id": 1412
       },
       {
-        "title": "Ik' tale, ik' h\u00f8re, ik' se, afsnit 1",
+        "title": "Ik' tale, ik' h\u00f8re, ik' se",
         "publishedAt": "2024-09-07T04:00:00.000Z",
         "id": 1411
       }
@@ -3956,6 +3961,11 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
+        "title": "Ida Fabricius Bruun",
+        "publishedAt": "2024-10-19T04:00:00.000Z",
+        "id": 1603
+      },
+      {
         "title": "Michael Damgaard",
         "publishedAt": "2024-10-12T04:00:00.000Z",
         "id": 1563
@@ -5123,6 +5133,11 @@
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
       {
+        "title": "Nu kun 7 \u00e5rs ventetid",
+        "publishedAt": "2024-10-14T06:37:45.953Z",
+        "id": 1566
+      },
+      {
         "title": "En blandet vandhandel",
         "publishedAt": "2024-10-07T06:30:33.750Z",
         "id": 1522
@@ -5261,11 +5276,6 @@
         "title": "N\u00e5r blodet spr\u00f8jter",
         "publishedAt": "2024-03-25T08:58:34.303Z",
         "id": 957
-      },
-      {
-        "title": "Nu kun 7 \u00e5rs ventetid",
-        "publishedAt": "2024-10-14T06:37:45.953Z",
-        "id": 1566
       },
       {
         "title": "Sl\u00e5et ned af et rugbr\u00f8d",
