@@ -1721,6 +1721,11 @@
     "program_url": "https://r8dio.dk/program/en-gonzo-skifter-spor",
     "episodes": [
       {
+        "title": "Fremtiden, for fa\u2019en, Knud?",
+        "publishedAt": "2024-10-21T04:00:00.000Z",
+        "id": 1604
+      },
+      {
         "title": "Shift happens - det dejligste sted?",
         "publishedAt": "2024-10-14T04:00:00.000Z",
         "id": 1565
@@ -5132,6 +5137,11 @@
     "slug": "morgensutterne",
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
+      {
+        "title": "Skyd en skarv",
+        "publishedAt": "2024-10-21T06:36:35.603Z",
+        "id": 1605
+      },
       {
         "title": "Nu kun 7 \u00e5rs ventetid",
         "publishedAt": "2024-10-14T06:37:45.953Z",
