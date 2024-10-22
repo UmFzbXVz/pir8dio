@@ -1775,6 +1775,261 @@
     "program_url": "https://r8dio.dk/program/den-korte-radioavis-r8dio",
     "episodes": [
       {
+        "title": "Den Korte Radioavis 29. august 2016",
+        "publishedAt": "2024-10-22T15:18:45.033Z",
+        "id": 1656
+      },
+      {
+        "title": "Den Korte Radioavis 24. juni 2016",
+        "publishedAt": "2024-10-22T15:15:06.350Z",
+        "id": 1655
+      },
+      {
+        "title": "Den Korte Radioavis 23. juni 2016",
+        "publishedAt": "2024-10-22T15:12:24.250Z",
+        "id": 1654
+      },
+      {
+        "title": "Den Korte Radioavis 22. juni 2016",
+        "publishedAt": "2024-10-22T15:10:19.867Z",
+        "id": 1653
+      },
+      {
+        "title": "Den Korte Radioavis 21. juni 2016",
+        "publishedAt": "2024-10-22T15:07:24.383Z",
+        "id": 1652
+      },
+      {
+        "title": "Den Korte Radioavis 20. juni 2016",
+        "publishedAt": "2024-10-22T15:05:28.677Z",
+        "id": 1651
+      },
+      {
+        "title": "Den Korte Radioavis 17. juni 2016",
+        "publishedAt": "2024-10-22T15:02:27.327Z",
+        "id": 1650
+      },
+      {
+        "title": "Den Korte Radioavis 16. juni 2016",
+        "publishedAt": "2024-10-22T14:59:27.413Z",
+        "id": 1649
+      },
+      {
+        "title": "Den Korte Radioavis 15. juni 2016",
+        "publishedAt": "2024-10-22T14:57:07.423Z",
+        "id": 1648
+      },
+      {
+        "title": "Den Korte Radioavis 14. juni 2016",
+        "publishedAt": "2024-10-22T14:55:18.847Z",
+        "id": 1647
+      },
+      {
+        "title": "Den Korte Radioavis 13. juni 2016",
+        "publishedAt": "2024-10-22T14:51:32.757Z",
+        "id": 1646
+      },
+      {
+        "title": "Den Korte Radioavis 10. juni 2016",
+        "publishedAt": "2024-10-22T14:49:02.420Z",
+        "id": 1645
+      },
+      {
+        "title": "Den Korte Radioavis 9. juni 2016",
+        "publishedAt": "2024-10-22T14:47:09.203Z",
+        "id": 1644
+      },
+      {
+        "title": "Den Korte Radioavis 8. juni 2016",
+        "publishedAt": "2024-10-22T14:44:39.370Z",
+        "id": 1643
+      },
+      {
+        "title": "Den Korte Radioavis 7. juni 2016",
+        "publishedAt": "2024-10-22T14:39:59.727Z",
+        "id": 1642
+      },
+      {
+        "title": "Den Korte Radioavis 6. juni 2016",
+        "publishedAt": "2024-10-22T14:37:35.780Z",
+        "id": 1641
+      },
+      {
+        "title": "Den Korte Radioavis 3. juni 2016",
+        "publishedAt": "2024-10-22T14:35:04.063Z",
+        "id": 1640
+      },
+      {
+        "title": "Den Korte Radioavis 2. juni 2016",
+        "publishedAt": "2024-10-22T14:32:44.857Z",
+        "id": 1639
+      },
+      {
+        "title": "Den Korte Radioavis 1. juni 2016",
+        "publishedAt": "2024-10-22T14:29:30.953Z",
+        "id": 1638
+      },
+      {
+        "title": "Den Korte Radioavis 31. maj 2016",
+        "publishedAt": "2024-10-22T14:26:57.803Z",
+        "id": 1637
+      },
+      {
+        "title": "Den Korte Radioavis 30. maj 2016",
+        "publishedAt": "2024-10-22T14:25:03.027Z",
+        "id": 1636
+      },
+      {
+        "title": "Den Korte Radioavis 27. maj 2016",
+        "publishedAt": "2024-10-22T14:22:48.897Z",
+        "id": 1635
+      },
+      {
+        "title": "Den Korte Radioavis 26. maj 2016",
+        "publishedAt": "2024-10-22T14:19:54.153Z",
+        "id": 1634
+      },
+      {
+        "title": "Den Korte Radioavis 25. maj 2016",
+        "publishedAt": "2024-10-22T14:17:30.120Z",
+        "id": 1633
+      },
+      {
+        "title": "Den Korte Radioavis 24. maj 2016",
+        "publishedAt": "2024-10-22T14:13:52.723Z",
+        "id": 1632
+      },
+      {
+        "title": "Den Korte Radioavis 23. maj 2016",
+        "publishedAt": "2024-10-22T14:10:55.813Z",
+        "id": 1631
+      },
+      {
+        "title": "Den Korte Radioavis 20. maj 2016",
+        "publishedAt": "2024-10-22T14:07:17.847Z",
+        "id": 1630
+      },
+      {
+        "title": "Den Korte Radioavis 19. maj 2016",
+        "publishedAt": "2024-10-22T14:05:10.547Z",
+        "id": 1629
+      },
+      {
+        "title": "Den Korte Radioavis 18. maj 2016",
+        "publishedAt": "2024-10-22T14:02:46.960Z",
+        "id": 1628
+      },
+      {
+        "title": "Den Korte Radioavis 13. maj 2016",
+        "publishedAt": "2024-10-22T14:00:11.507Z",
+        "id": 1627
+      },
+      {
+        "title": "Den Korte Radioavis 12. maj 2016",
+        "publishedAt": "2024-10-22T13:57:52.377Z",
+        "id": 1626
+      },
+      {
+        "title": "Den Korte Radioavis 11. maj 2016",
+        "publishedAt": "2024-10-22T13:55:50.450Z",
+        "id": 1625
+      },
+      {
+        "title": "Den Korte Radioavis 10. maj 2016",
+        "publishedAt": "2024-10-22T13:53:24.677Z",
+        "id": 1624
+      },
+      {
+        "title": "Den Korte Radioavis 9. maj 2016",
+        "publishedAt": "2024-10-22T13:51:13.560Z",
+        "id": 1623
+      },
+      {
+        "title": "Den Korte Radioavis 5. maj 2016",
+        "publishedAt": "2024-10-22T13:48:35.393Z",
+        "id": 1622
+      },
+      {
+        "title": "Den Korte Radioavis 4. maj 2016",
+        "publishedAt": "2024-10-22T13:45:49.033Z",
+        "id": 1621
+      },
+      {
+        "title": "Den Korte Radioavis 3. maj 2016",
+        "publishedAt": "2024-10-22T13:43:18.027Z",
+        "id": 1620
+      },
+      {
+        "title": "Den Korte Radioavis 2. maj 2016",
+        "publishedAt": "2024-10-22T13:41:26.457Z",
+        "id": 1619
+      },
+      {
+        "title": "Den Korte Radioavis 29. april 2016",
+        "publishedAt": "2024-10-22T13:39:25.833Z",
+        "id": 1618
+      },
+      {
+        "title": "Den Korte Radioavis 28. april 2016",
+        "publishedAt": "2024-10-22T13:36:41.863Z",
+        "id": 1617
+      },
+      {
+        "title": "Den Korte Radioavis 27. april 2016",
+        "publishedAt": "2024-10-22T13:34:09.233Z",
+        "id": 1616
+      },
+      {
+        "title": "Den Korte Radioavis 26. april 2016",
+        "publishedAt": "2024-10-22T13:29:46.773Z",
+        "id": 1615
+      },
+      {
+        "title": "Den Korte Radioavis 25. april 2016",
+        "publishedAt": "2024-10-22T13:27:02.210Z",
+        "id": 1614
+      },
+      {
+        "title": "Den Korte Radioavis 21. april 2016",
+        "publishedAt": "2024-10-22T13:24:55.507Z",
+        "id": 1613
+      },
+      {
+        "title": "Den Korte Radioavis 20. april 2016",
+        "publishedAt": "2024-10-22T13:22:16.390Z",
+        "id": 1612
+      },
+      {
+        "title": "Den Korte Radioavis 19. april 2016",
+        "publishedAt": "2024-10-22T13:19:56.807Z",
+        "id": 1611
+      },
+      {
+        "title": "Den Korte Radioavis 18. april 2016",
+        "publishedAt": "2024-10-22T13:16:16.067Z",
+        "id": 1610
+      },
+      {
+        "title": "Den Korte Radioavis 15. april 2016",
+        "publishedAt": "2024-10-22T13:13:00.427Z",
+        "id": 1609
+      },
+      {
+        "title": "Den Korte Radioavis 14. april 2016",
+        "publishedAt": "2024-10-22T13:10:19.060Z",
+        "id": 1608
+      },
+      {
+        "title": "Den Korte Radioavis 13. april 2016",
+        "publishedAt": "2024-10-22T13:07:23.150Z",
+        "id": 1607
+      },
+      {
+        "title": "Den Korte Radioavis 12. april 2016",
+        "publishedAt": "2024-10-22T13:05:21.983Z",
+        "id": 1606
+      },
+      {
         "title": "Den Korte Radioavis 11. april 2016",
         "publishedAt": "2024-10-09T11:21:12.060Z",
         "id": 1559
