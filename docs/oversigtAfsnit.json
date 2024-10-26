@@ -1543,6 +1543,11 @@
     "program_url": "https://r8dio.dk/program/danser-med-hugorm",
     "episodes": [
       {
+        "title": "Det vigtige i at mennesket kan lege",
+        "publishedAt": "2024-10-26T04:00:00.000Z",
+        "id": 1658
+      },
+      {
         "title": "Du har lagt dig ned p\u00e5 Jorden",
         "publishedAt": "2024-10-19T04:00:00.000Z",
         "id": 1602
@@ -4225,6 +4230,11 @@
     "slug": "vandvognen",
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
+      {
+        "title": "Tine Spuur",
+        "publishedAt": "2024-10-26T04:00:00.000Z",
+        "id": 1659
+      },
       {
         "title": "Ida Fabricius Bruun",
         "publishedAt": "2024-10-19T04:00:00.000Z",
