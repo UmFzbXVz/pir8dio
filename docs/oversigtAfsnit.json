@@ -1548,6 +1548,11 @@
     "program_url": "https://r8dio.dk/program/danser-med-hugorm",
     "episodes": [
       {
+        "title": "Og du har spist din cornflakes 7.05",
+        "publishedAt": "2024-11-02T05:00:00.000Z",
+        "id": 1666
+      },
+      {
         "title": "Det vigtige i at mennesket kan lege",
         "publishedAt": "2024-10-26T04:00:00.000Z",
         "id": 1658
@@ -4240,6 +4245,11 @@
     "slug": "vandvognen",
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
+      {
+        "title": "Sabine Hersind",
+        "publishedAt": "2024-11-02T05:00:00.000Z",
+        "id": 1665
+      },
       {
         "title": "Tine Spuur",
         "publishedAt": "2024-10-26T04:00:00.000Z",
