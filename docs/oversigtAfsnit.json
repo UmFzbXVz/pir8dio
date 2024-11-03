@@ -4246,7 +4246,7 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
-        "title": "Sabine Hersind",
+        "title": "Sabine Herskind",
         "publishedAt": "2024-11-02T05:00:00.000Z",
         "id": 1665
       },
@@ -4779,6 +4779,11 @@
     "slug": "kirsten-ringer-til-rasmus",
     "program_url": "https://r8dio.dk/program/kirsten-ringer-til-rasmus",
     "episodes": [
+      {
+        "title": "JEG ER VRED!!!",
+        "publishedAt": "2024-11-03T05:00:00.000Z",
+        "id": 1667
+      },
       {
         "title": "Kirsten spiller golf med Simon",
         "publishedAt": "2024-10-27T05:00:00.000Z",
