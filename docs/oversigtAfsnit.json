@@ -1214,6 +1214,14 @@
     ]
   },
   {
+    "title": "Pissefedt indhold p\u00e5 vej",
+    "content": "Pissefedt indhold p\u00e5 vej til dig.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/74542836-0b50-4a48-9016-b21f00ea6036/image.jpg?t=1730816003&size=Medium",
+    "slug": "interne-affrer",
+    "program_url": "https://r8dio.dk/program/interne-affrer",
+    "episodes": []
+  },
+  {
     "title": "Antidemokratisk Festival ",
     "content": "En satirisk unders\u00f8gelse af demokratiets v\u00e6sen.\n\nRasmus Bruun og Frederik Cilius\n\nproduktion: Viktor Zeuthen",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/6ad54c63-5a53-4ce5-9a30-b20400c40b11/image.jpg?t=1728993691&size=Medium",
@@ -4591,6 +4599,11 @@
     "slug": "bogstavelig-talt",
     "program_url": "https://r8dio.dk/program/bogstavelig-talt",
     "episodes": [
+      {
+        "title": "Bogforum-special",
+        "publishedAt": "2024-11-06T05:00:00.000Z",
+        "id": 1670
+      },
       {
         "title": "\u2019Min Kim\u2019 med Eva Tind",
         "publishedAt": "2024-10-30T05:00:00.000Z",
