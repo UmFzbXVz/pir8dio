@@ -7,6 +7,11 @@
     "program_url": "https://r8dio.dk/program/undskyld-vi-roder",
     "episodes": [
       {
+        "title": "Bumse Daddy",
+        "publishedAt": "2024-11-08T05:00:00.000Z",
+        "id": 1724
+      },
+      {
         "title": "Nu med PA",
         "publishedAt": "2024-11-01T05:00:00.000Z",
         "id": 1664
@@ -1057,14 +1062,14 @@
         "id": 31
       },
       {
-        "title": "Godt nyta\u030ar",
-        "publishedAt": "2020-12-30T21:01:29.000Z",
-        "id": 32
-      },
-      {
         "title": "Resum\u00e9; s\u00e6son 1",
         "publishedAt": "2024-07-30T12:53:35.320Z",
         "id": 1217
+      },
+      {
+        "title": "Godt nyta\u030ar",
+        "publishedAt": "2020-12-30T21:01:29.000Z",
+        "id": 32
       },
       {
         "title": "Alene pa\u030a kontoret",
@@ -1214,12 +1219,268 @@
     ]
   },
   {
-    "title": "Pissefedt indhold p\u00e5 vej",
-    "content": "Pissefedt indhold p\u00e5 vej til dig.",
-    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/74542836-0b50-4a48-9016-b21f00ea6036/image.jpg?t=1730816003&size=Medium",
+    "title": "Interne Aff\u00e6rer",
+    "content": "Radio24syvs kanalchefer, Mikael Bertelsen & Mads Br\u00fcgger, evaluerer det, som er sendt og pr\u00e6senterer n\u00e6ste uges radio. Her svares ogs\u00e5 p\u00e5 henvendelser og klager fra lyttere.\n\nMed i studiet er deres assistent, Joy Fryd L. Larsen.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/74542836-0b50-4a48-9016-b21f00ea6036/image.jpg?t=1730989278&size=Medium",
     "slug": "interne-affrer",
     "program_url": "https://r8dio.dk/program/interne-affrer",
-    "episodes": []
+    "episodes": [
+      {
+        "title": "Interne Aff\u00e6rer uge 45, 2012",
+        "publishedAt": "2024-11-07T21:04:56.350Z",
+        "id": 1723
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 44, 2012",
+        "publishedAt": "2024-11-07T21:02:15.233Z",
+        "id": 1722
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 43, 2012",
+        "publishedAt": "2024-11-07T20:59:15.880Z",
+        "id": 1721
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 42, 2012",
+        "publishedAt": "2024-11-07T20:56:45.337Z",
+        "id": 1720
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 41, 2012",
+        "publishedAt": "2024-11-07T20:53:52.380Z",
+        "id": 1719
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 40, 2012",
+        "publishedAt": "2024-11-07T20:51:12.757Z",
+        "id": 1718
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 39, 2012",
+        "publishedAt": "2024-11-07T20:48:29.273Z",
+        "id": 1717
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 38, 2012",
+        "publishedAt": "2024-11-07T20:46:32.683Z",
+        "id": 1716
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 36, 2012",
+        "publishedAt": "2024-11-07T20:44:16.107Z",
+        "id": 1715
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 35, 2012",
+        "publishedAt": "2024-11-07T20:42:19.893Z",
+        "id": 1714
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 34, 2012",
+        "publishedAt": "2024-11-07T20:39:20.693Z",
+        "id": 1713
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 33, 2012",
+        "publishedAt": "2024-11-07T20:37:21.257Z",
+        "id": 1712
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 32, 2012",
+        "publishedAt": "2024-11-07T20:35:13.637Z",
+        "id": 1711
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 31, 2012",
+        "publishedAt": "2024-11-07T20:32:47.543Z",
+        "id": 1710
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 30, 2012",
+        "publishedAt": "2024-11-07T20:29:36.200Z",
+        "id": 1709
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 29, 2012",
+        "publishedAt": "2024-11-07T20:26:22.823Z",
+        "id": 1708
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 28, 2012",
+        "publishedAt": "2024-11-07T20:23:57.267Z",
+        "id": 1707
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 27, 2012",
+        "publishedAt": "2024-11-07T20:20:47.177Z",
+        "id": 1706
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 26, 2012",
+        "publishedAt": "2024-11-07T20:18:13.677Z",
+        "id": 1705
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 25, 2012",
+        "publishedAt": "2024-11-07T20:15:52.493Z",
+        "id": 1704
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 23, 2012",
+        "publishedAt": "2024-11-07T20:11:37.723Z",
+        "id": 1703
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 22, 2012",
+        "publishedAt": "2024-11-07T20:08:51.120Z",
+        "id": 1702
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 21, 2012",
+        "publishedAt": "2024-11-07T20:07:37.923Z",
+        "id": 1701
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 20, 2012",
+        "publishedAt": "2024-11-07T20:05:01.463Z",
+        "id": 1700
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 19, 2012",
+        "publishedAt": "2024-11-07T20:04:21.290Z",
+        "id": 1699
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 18, 2012",
+        "publishedAt": "2024-11-07T20:02:11.663Z",
+        "id": 1698
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 17, 2012",
+        "publishedAt": "2024-11-07T16:04:18.670Z",
+        "id": 1697
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 16, 2012",
+        "publishedAt": "2024-11-07T16:02:24.137Z",
+        "id": 1696
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 15, 2012",
+        "publishedAt": "2024-11-07T15:57:40.567Z",
+        "id": 1695
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 14, 2012",
+        "publishedAt": "2024-11-07T15:51:54.597Z",
+        "id": 1694
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 13, 2012",
+        "publishedAt": "2024-11-07T15:47:33.387Z",
+        "id": 1693
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 12, 2012",
+        "publishedAt": "2024-11-07T15:43:50.187Z",
+        "id": 1692
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 11, 2012",
+        "publishedAt": "2024-11-07T15:38:08.527Z",
+        "id": 1691
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 10, 2012",
+        "publishedAt": "2024-11-07T15:34:10.523Z",
+        "id": 1690
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 9, 2012",
+        "publishedAt": "2024-11-07T15:30:28.747Z",
+        "id": 1689
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 8, 2012",
+        "publishedAt": "2024-11-07T15:26:16.787Z",
+        "id": 1688
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 7, 2012",
+        "publishedAt": "2024-11-07T15:20:43.040Z",
+        "id": 1687
+      },
+      {
+        "title": "Interne Aff\u00e6rer uge 6, 2012",
+        "publishedAt": "2024-11-07T15:18:49.233Z",
+        "id": 1686
+      },
+      {
+        "title": "Interne Aff\u00e6rer 4. februar 2012",
+        "publishedAt": "2024-11-07T15:14:28.923Z",
+        "id": 1685
+      },
+      {
+        "title": "Interne Aff\u00e6rer 28. januar 2012",
+        "publishedAt": "2024-11-07T15:11:55.200Z",
+        "id": 1684
+      },
+      {
+        "title": "Interne Aff\u00e6rer 21. januar 2012",
+        "publishedAt": "2024-11-07T15:06:59.843Z",
+        "id": 1683
+      },
+      {
+        "title": "Interne Aff\u00e6rer 14. januar 2012",
+        "publishedAt": "2024-11-07T15:01:13.523Z",
+        "id": 1682
+      },
+      {
+        "title": "Interne Aff\u00e6rer 7. januar 2012",
+        "publishedAt": "2024-11-07T15:00:34.370Z",
+        "id": 1681
+      },
+      {
+        "title": "Interne Aff\u00e6rer 26. december 2011",
+        "publishedAt": "2024-11-07T14:54:42.030Z",
+        "id": 1680
+      },
+      {
+        "title": "Interne Aff\u00e6rer 17. december 2011",
+        "publishedAt": "2024-11-07T14:50:50.280Z",
+        "id": 1679
+      },
+      {
+        "title": "Interne Aff\u00e6rer 10. december 2011",
+        "publishedAt": "2024-11-07T14:45:37.193Z",
+        "id": 1678
+      },
+      {
+        "title": "Interne Aff\u00e6rer 3. december 2011",
+        "publishedAt": "2024-11-07T14:43:42.167Z",
+        "id": 1677
+      },
+      {
+        "title": "Interne Aff\u00e6rer 26. november 2011",
+        "publishedAt": "2024-11-07T14:38:36.987Z",
+        "id": 1676
+      },
+      {
+        "title": "Interne Aff\u00e6rer 19. november 2011",
+        "publishedAt": "2024-11-07T14:33:47.543Z",
+        "id": 1675
+      },
+      {
+        "title": "Interne Aff\u00e6rer 12. november 2011",
+        "publishedAt": "2024-11-07T14:31:48.493Z",
+        "id": 1674
+      },
+      {
+        "title": "Interne Aff\u00e6rer 5. november 2011",
+        "publishedAt": "2024-11-07T14:26:06.983Z",
+        "id": 1673
+      }
+    ]
   },
   {
     "title": "Antidemokratisk Festival ",
@@ -3724,7 +3985,7 @@
   },
   {
     "title": "L\u00e6r klokken med Goodiepal",
-    "content": "L\u00e6r klokken med Goodiepal. Programmet, der r\u00e6kker ud og fort\u00e6ller dig som lytter, \u2018what time it is\u2019.\n\nEt Skuldborgsk, landsd\u00e6kkende, personligt kulturprogram af den gamle kaliber.\u00a0\n\n24 afsnit - hverken mere eller mindre.\u00a0\n\nDen multiprisvindende Goodiepal er \u00e6reskunstner i Skuldborg hele 2024, og er, hvad H.C. Andersen er for Odense, Asger Jorn er for Silkeborg, og lyden er for Struer. Relokeret fra Velbasta\u00f0ur til Skuldborg er landets teknokriger klar til at give dig \u00e5rets hotteste kulturprogram om musik, mekanik og k\u00e6rlighedstaktik.\u00a0\n\nImod systemet siden Jesu tid.\n\nMere om Goodiepal:\n\nhttps://komponistbasen.dk/node/8812",
+    "content": "L\u00e6r klokken med Goodiepal. Programmet, der r\u00e6kker ud og fort\u00e6ller dig som lytter, \u2018what time it is\u2019.\n\nEt Skuldborgsk, landsd\u00e6kkende, personligt kulturprogram af den gamle kaliber.\u00a0\n\nUtroligt mange afsnit, der fort\u00e6ller dig alt det, klokken kan v\u00e6re.\u00a0\n\nDen multiprisvindende Goodiepal er \u00e6reskunstner i hele Skuldborg hele 2024 og er, hvad H.C. Andersen er for Odense, Asger Jorn er for Silkeborg, og lyden er for Struer. Relokeret fra Velbasta\u00f0ur til Skuldborg er landets teknokriger klar til at give dig \u00e5rets hotteste kulturprogram om musik, mekanik og k\u00e6rlighedstaktik.\u00a0\n\nImod systemet siden Jesu tid.",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/image.jpg?t=1715874048&size=Medium",
     "slug": "l-r-klokken-med-goodiepal",
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
