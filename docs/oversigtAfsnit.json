@@ -2079,6 +2079,256 @@
     "program_url": "https://r8dio.dk/program/den-korte-radioavis-r8dio",
     "episodes": [
       {
+        "title": "Den Korte Radioavis 28. november 2016",
+        "publishedAt": "2024-11-13T12:08:23.770Z",
+        "id": 1779
+      },
+      {
+        "title": "Den Korte Radioavis 25. november 2016",
+        "publishedAt": "2024-11-13T12:05:04.273Z",
+        "id": 1778
+      },
+      {
+        "title": "Den Korte Radioavis 24. november 2016",
+        "publishedAt": "2024-11-13T12:02:01.353Z",
+        "id": 1777
+      },
+      {
+        "title": "Den Korte Radioavis 23. november 2016",
+        "publishedAt": "2024-11-13T11:59:13.570Z",
+        "id": 1776
+      },
+      {
+        "title": "Den Korte Radioavis 22. november 2016",
+        "publishedAt": "2024-11-13T11:56:39.220Z",
+        "id": 1775
+      },
+      {
+        "title": "Den Korte Radioavis 21. november 2016",
+        "publishedAt": "2024-11-13T11:53:53.910Z",
+        "id": 1774
+      },
+      {
+        "title": "Den Korte Radioavis 18. november 2016",
+        "publishedAt": "2024-11-13T11:50:50.137Z",
+        "id": 1773
+      },
+      {
+        "title": "Den Korte Radioavis 17. november 2016",
+        "publishedAt": "2024-11-13T11:48:48.607Z",
+        "id": 1772
+      },
+      {
+        "title": "Den Korte Radioavis 16. november 2016",
+        "publishedAt": "2024-11-13T11:46:01.823Z",
+        "id": 1771
+      },
+      {
+        "title": "Den Korte Radioavis 15. november 2016",
+        "publishedAt": "2024-11-13T11:43:56.907Z",
+        "id": 1770
+      },
+      {
+        "title": "Den Korte Radioavis 14. november 2016",
+        "publishedAt": "2024-11-13T11:41:18.043Z",
+        "id": 1769
+      },
+      {
+        "title": "Den Korte Radioavis 11. november 2016",
+        "publishedAt": "2024-11-13T11:39:27.203Z",
+        "id": 1768
+      },
+      {
+        "title": "Den Korte Radioavis 10. november 2016",
+        "publishedAt": "2024-11-13T11:34:30.143Z",
+        "id": 1767
+      },
+      {
+        "title": "Den Korte Radioavis 9. november 2016",
+        "publishedAt": "2024-11-13T11:31:45.807Z",
+        "id": 1766
+      },
+      {
+        "title": "Den Korte Radioavis 8. november 2016",
+        "publishedAt": "2024-11-13T11:28:10.940Z",
+        "id": 1765
+      },
+      {
+        "title": "Den Korte Radioavis 07. november 2016",
+        "publishedAt": "2024-11-13T11:23:53.210Z",
+        "id": 1764
+      },
+      {
+        "title": "Den Korte Radioavis 17. oktober 2016",
+        "publishedAt": "2024-11-13T11:20:29.300Z",
+        "id": 1763
+      },
+      {
+        "title": "Den Korte Radioavis 14. oktober 2016",
+        "publishedAt": "2024-11-13T11:18:29.370Z",
+        "id": 1762
+      },
+      {
+        "title": "Den Korte Radioavis 13. oktober 2016",
+        "publishedAt": "2024-11-13T11:15:51.763Z",
+        "id": 1761
+      },
+      {
+        "title": "Den Korte Radioavis 12. oktober 2016",
+        "publishedAt": "2024-11-13T11:13:37.057Z",
+        "id": 1760
+      },
+      {
+        "title": "Den Korte Radioavis 11. Oktober 2016",
+        "publishedAt": "2024-11-13T11:08:52.480Z",
+        "id": 1759
+      },
+      {
+        "title": "Den Korte Radioavis 10. oktober 2016",
+        "publishedAt": "2024-11-13T11:05:34.433Z",
+        "id": 1758
+      },
+      {
+        "title": "Den Korte Radioavis 7. oktober 2016",
+        "publishedAt": "2024-11-13T11:01:06.087Z",
+        "id": 1757
+      },
+      {
+        "title": "Den Korte Radioavis 6. oktober 2016",
+        "publishedAt": "2024-11-13T10:58:37.113Z",
+        "id": 1756
+      },
+      {
+        "title": "Den Korte Radioavis 5. Oktober 2016",
+        "publishedAt": "2024-11-13T10:56:31.283Z",
+        "id": 1755
+      },
+      {
+        "title": "Den Korte Radioavis 4. oktober 2016",
+        "publishedAt": "2024-11-13T10:50:37.480Z",
+        "id": 1754
+      },
+      {
+        "title": "Den Korte Radioavis 3. oktober 2016",
+        "publishedAt": "2024-11-13T10:47:08.030Z",
+        "id": 1753
+      },
+      {
+        "title": "Den Korte Radioavis 30. september 2016",
+        "publishedAt": "2024-11-13T10:43:58.393Z",
+        "id": 1752
+      },
+      {
+        "title": "Den Korte Radioavis 29. september 2016",
+        "publishedAt": "2024-11-13T10:40:56.340Z",
+        "id": 1751
+      },
+      {
+        "title": "Den Korte Radioavis 28. september 2016",
+        "publishedAt": "2024-11-13T10:38:56.337Z",
+        "id": 1750
+      },
+      {
+        "title": "Den Korte Radioavis 27. september 2016",
+        "publishedAt": "2024-11-13T10:34:21.180Z",
+        "id": 1749
+      },
+      {
+        "title": "Den Korte Radioavis 26. september 2016",
+        "publishedAt": "2024-11-13T10:32:15.357Z",
+        "id": 1748
+      },
+      {
+        "title": "Den Korte Radioavis 23. september 2016",
+        "publishedAt": "2024-11-13T10:29:27.617Z",
+        "id": 1747
+      },
+      {
+        "title": "Den Korte Radioavis 22. september 2016",
+        "publishedAt": "2024-11-13T10:25:09.843Z",
+        "id": 1746
+      },
+      {
+        "title": "Den Korte Radioavis 21. september 2016",
+        "publishedAt": "2024-11-13T10:07:41.737Z",
+        "id": 1745
+      },
+      {
+        "title": "Den Korte Radioavis 20. september 2016",
+        "publishedAt": "2024-11-13T10:05:27.317Z",
+        "id": 1744
+      },
+      {
+        "title": "Den Korte Radioavis 19. september 2016",
+        "publishedAt": "2024-11-13T10:03:23.660Z",
+        "id": 1743
+      },
+      {
+        "title": "Den Korte Radioavis 16. september 2016",
+        "publishedAt": "2024-11-13T10:00:32.623Z",
+        "id": 1742
+      },
+      {
+        "title": "Den Korte Radioavis 15. september 2016",
+        "publishedAt": "2024-11-13T09:56:23.063Z",
+        "id": 1741
+      },
+      {
+        "title": "Den Korte Radioavis 14. september 2016",
+        "publishedAt": "2024-11-13T09:53:57.780Z",
+        "id": 1740
+      },
+      {
+        "title": "Den Korte Radioavis 12. september 2016",
+        "publishedAt": "2024-11-13T09:51:53.120Z",
+        "id": 1739
+      },
+      {
+        "title": "Den Korte Radioavis 9. september 2016",
+        "publishedAt": "2024-11-13T09:49:50.287Z",
+        "id": 1738
+      },
+      {
+        "title": "Den Korte Radioavis 8. september 2016",
+        "publishedAt": "2024-11-13T09:44:45.733Z",
+        "id": 1737
+      },
+      {
+        "title": "Den Korte Radioavis 7. september 2016",
+        "publishedAt": "2024-11-13T09:42:16.630Z",
+        "id": 1736
+      },
+      {
+        "title": "Den Korte Radioavis 6. september 2016",
+        "publishedAt": "2024-11-13T09:39:47.030Z",
+        "id": 1735
+      },
+      {
+        "title": "Den Korte Radioavis 5. september 2016",
+        "publishedAt": "2024-11-13T09:37:14.177Z",
+        "id": 1734
+      },
+      {
+        "title": "Den Korte Radioavis 2. september 2016",
+        "publishedAt": "2024-11-13T09:35:10.993Z",
+        "id": 1733
+      },
+      {
+        "title": "Den Korte Radioavis 1. september 2016",
+        "publishedAt": "2024-11-13T09:30:26.833Z",
+        "id": 1732
+      },
+      {
+        "title": "Den Korte Radioavis 31. august 2016",
+        "publishedAt": "2024-11-13T09:27:21.430Z",
+        "id": 1731
+      },
+      {
+        "title": "Den Korte Radioavis 30. august 2016",
+        "publishedAt": "2024-11-13T09:25:15.410Z",
+        "id": 1730
+      },
+      {
         "title": "Den Korte Radioavis 29. august 2016",
         "publishedAt": "2024-10-22T15:18:45.033Z",
         "id": 1656
