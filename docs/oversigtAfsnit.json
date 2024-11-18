@@ -2015,6 +2015,11 @@
     "program_url": "https://r8dio.dk/program/en-gonzo-skifter-spor",
     "episodes": [
       {
+        "title": "Papir og pis: Sandheden frem for alt?",
+        "publishedAt": "2024-11-18T05:44:47.473Z",
+        "id": 1786
+      },
+      {
         "title": "N\u00f8gleordet er fremdrift! (stop pikm\u00e5ling!)",
         "publishedAt": "2024-11-11T05:00:00.000Z",
         "id": 1727
@@ -6011,6 +6016,11 @@
     "slug": "morgensutterne",
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
+      {
+        "title": "De gode gamle dage",
+        "publishedAt": "2024-11-18T07:31:14.150Z",
+        "id": 1787
+      },
       {
         "title": "Kong Kurs",
         "publishedAt": "2024-11-14T07:34:57.170Z",
