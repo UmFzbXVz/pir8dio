@@ -1229,6 +1229,20 @@
     ]
   },
   {
+    "title": "Karateklubben",
+    "content": "Karateklubben i M\u00e5l\u00f8v skal vinde DM i karate. Koste, hvad det koste, vil. Kathrine er klubbens st\u00f8rste h\u00e5b og bedste k\u00e6mper, og har helt klart potentialet til at n\u00e5 hele vejen. Men man kommer ikke til toppen alene, hvorfor Ninna er med on board.\n\nSom pr\u00e6stationscoach-praktikant i Team Danmark vil hun bygge rejsen til guldet. Mens klubbens sensei har travlt i sin kr\u00e6mmerbod, vil Ninna lede Kathrine gennem rebranding, medieopm\u00e6rksomhed, m\u00f8de med branchen, kendte mennesker, og meget meget meget mere.\n\nI \u201cKarateklubben\u201d f\u00f8lger vi rejsen mod guldet. Vi bliver lukket ind i afkroge af det travle liv i lokalforeningen, hvor man aldrig har v\u00e6ret f\u00f8r, og bliver klogere p\u00e5, hvilke valg der er vigtige at tage i et forl\u00f8b med seri\u00f8s sport og ikke mindst coaching.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/4587264d-ff98-46b0-b9a2-b234009f9b33/image.jpg?t=1732634914&size=Medium",
+    "slug": "karateklubben",
+    "program_url": "https://r8dio.dk/program/karateklubben",
+    "episodes": [
+      {
+        "title": "En Sandwich i dojoen",
+        "publishedAt": "2024-11-27T05:00:00.000Z",
+        "id": 1849
+      }
+    ]
+  },
+  {
     "title": "Interne Aff\u00e6rer",
     "content": "Radio24syvs kanalchefer, Mikael Bertelsen & Mads Br\u00fcgger, evaluerer det, som er sendt og pr\u00e6senterer n\u00e6ste uges radio. Her svares ogs\u00e5 p\u00e5 henvendelser og klager fra lyttere.\n\nMed i studiet er deres assistent, Joy Fryd L. Larsen.",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/74542836-0b50-4a48-9016-b21f00ea6036/image.jpg?t=1730989278&size=Medium",
@@ -5430,6 +5444,11 @@
     "slug": "bogstavelig-talt",
     "program_url": "https://r8dio.dk/program/bogstavelig-talt",
     "episodes": [
+      {
+        "title": "Om \u00c9douard Louis med Lotte Folke Kaarsholm og Bodil Skovgaard Nielsen ",
+        "publishedAt": "2024-11-27T05:00:00.000Z",
+        "id": 1850
+      },
       {
         "title": "Bogforum-special",
         "publishedAt": "2024-11-06T05:00:00.000Z",
