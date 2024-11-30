@@ -5099,6 +5099,11 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
+        "title": "Louis Enderlein",
+        "publishedAt": "2024-11-30T05:00:00.000Z",
+        "id": 1855
+      },
+      {
         "title": "Tine Spuur II",
         "publishedAt": "2024-11-23T05:00:00.000Z",
         "id": 1843
