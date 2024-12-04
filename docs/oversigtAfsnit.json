@@ -1234,12 +1234,31 @@
     ]
   },
   {
+    "title": "Kaspers Vindm\u00f8ller",
+    "content": "Kasper Nielsen fra r8Dio er blevet ramt af den gr\u00f8nne dagsorden.\nKommune, stat og Vall\u00f8 stift har nemlig rottet sig sammen og vil opf\u00f8rer en k\u00e6mpe energipark 1,5 km fra Kaspers ejendom.\u00a0\n\nMed Journalist, Kristian Henriksen, som sin redakt\u00f8r og v\u00e6gter tager Kasper som en moderne Don Quixote til borgerm\u00f8der, taler med politikere, adelsfolk, borgere og godtfolk med en mission om b\u00e5de at k\u00e6mpe mod vindm\u00f8llerne samt forst\u00e5 de respektive parters bev\u00e6ggrunde.",
+    "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/a1f97cfe-fb84-486c-a2a8-b23b0108e5a0/image.jpg?t=1733241873&size=Medium",
+    "slug": "kaspers-vindmller",
+    "program_url": "https://r8dio.dk/program/kaspers-vindmller",
+    "episodes": [
+      {
+        "title": "En mand med en sag",
+        "publishedAt": "2024-12-03T19:00:00.000Z",
+        "id": 1861
+      }
+    ]
+  },
+  {
     "title": "Karateklubben",
     "content": "Karateklubben i M\u00e5l\u00f8v skal vinde DM i karate. Koste, hvad det koste, vil. Kathrine er klubbens st\u00f8rste h\u00e5b og bedste k\u00e6mper, og har helt klart potentialet til at n\u00e5 hele vejen. Men man kommer ikke til toppen alene, hvorfor Ninna er med on board.\n\nSom pr\u00e6stationscoach-praktikant i Team Danmark vil hun bygge rejsen til guldet. Mens klubbens sensei har travlt i sin kr\u00e6mmerbod, vil Ninna lede Kathrine gennem rebranding, medieopm\u00e6rksomhed, m\u00f8de med branchen, kendte mennesker, og meget meget meget mere.\n\nI \u201cKarateklubben\u201d f\u00f8lger vi rejsen mod guldet. Vi bliver lukket ind i afkroge af det travle liv i lokalforeningen, hvor man aldrig har v\u00e6ret f\u00f8r, og bliver klogere p\u00e5, hvilke valg der er vigtige at tage i et forl\u00f8b med seri\u00f8s sport og ikke mindst coaching.",
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/4587264d-ff98-46b0-b9a2-b234009f9b33/image.jpg?t=1732634914&size=Medium",
     "slug": "karateklubben",
     "program_url": "https://r8dio.dk/program/karateklubben",
     "episodes": [
+      {
+        "title": "En leg og et tr\u00e6kplaster",
+        "publishedAt": "2024-12-04T05:00:00.000Z",
+        "id": 1862
+      },
       {
         "title": "En Sandwich i dojoen",
         "publishedAt": "2024-11-27T05:00:00.000Z",
@@ -1687,6 +1706,11 @@
     "slug": "sagen-er-bf",
     "program_url": "https://r8dio.dk/program/sagen-er-bf",
     "episodes": [
+      {
+        "title": "Konspirationsteorier",
+        "publishedAt": "2024-12-04T05:00:00.000Z",
+        "id": 1863
+      },
       {
         "title": "Er Israel en illegitim stat?",
         "publishedAt": "2024-10-01T04:00:00.000Z",
