@@ -1246,6 +1246,11 @@
     "program_url": "https://r8dio.dk/program/kaspers-vindmller",
     "episodes": [
       {
+        "title": "Viceborgmesteren",
+        "publishedAt": "2024-12-10T05:00:00.000Z",
+        "id": 1872
+      },
+      {
         "title": "En mand med en sag",
         "publishedAt": "2024-12-03T19:00:00.000Z",
         "id": 1861
@@ -2067,6 +2072,11 @@
     "slug": "en-gonzo-skifter-spor",
     "program_url": "https://r8dio.dk/program/en-gonzo-skifter-spor",
     "episodes": [
+      {
+        "title": "En Gonzo forts\u00e6tter nedad samme spor/ OHIO-modellen? Del 2",
+        "publishedAt": "2024-12-10T05:00:00.000Z",
+        "id": 1873
+      },
       {
         "title": "En Gonzo forts\u00e6tter nedad samme spor/Den hemmelige masterplan? Del 1",
         "publishedAt": "2024-12-09T05:00:00.000Z",
@@ -4766,6 +4776,11 @@
     "slug": "ugen-der-blev-spist",
     "program_url": "https://r8dio.dk/program/ugen-der-blev-spist",
     "episodes": [
+      {
+        "title": "Bente Klarlund",
+        "publishedAt": "2024-12-10T05:00:00.000Z",
+        "id": 1874
+      },
       {
         "title": "S\u00f8s Egelind",
         "publishedAt": "2024-12-03T05:00:00.000Z",
