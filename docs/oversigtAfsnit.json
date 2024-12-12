@@ -4594,6 +4594,11 @@
     "program_url": "https://r8dio.dk/program/l-r-klokken-med-goodiepal",
     "episodes": [
       {
+        "title": "\u00c5rets lyd julekoncert & julekort fra Colchester",
+        "publishedAt": "2024-12-12T05:00:00.000Z",
+        "id": 1878
+      },
+      {
         "title": "Alle interviews fra 90\u2019erne nogensinde",
         "publishedAt": "2024-12-05T05:00:00.000Z",
         "id": 1864
@@ -5505,6 +5510,16 @@
     "program_url": "https://r8dio.dk/program/fredags-l-i-advent",
     "episodes": [
       {
+        "title": "6. december",
+        "publishedAt": "2024-12-06T15:40:09.647Z",
+        "id": 1867
+      },
+      {
+        "title": "29. november",
+        "publishedAt": "2024-11-29T16:01:31.970Z",
+        "id": 1854
+      },
+      {
         "title": "22. december",
         "publishedAt": "2023-12-22T16:01:18.990Z",
         "id": 809
@@ -5520,19 +5535,9 @@
         "id": 783
       },
       {
-        "title": "6. december",
-        "publishedAt": "2024-12-06T15:40:09.647Z",
-        "id": 1867
-      },
-      {
         "title": "1. december",
         "publishedAt": "2023-12-01T16:27:06.453Z",
         "id": 767
-      },
-      {
-        "title": "29. november",
-        "publishedAt": "2024-11-29T16:01:31.970Z",
-        "id": 1854
       }
     ]
   },
@@ -6439,6 +6444,11 @@
     "slug": "morgensutterne",
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
+      {
+        "title": "\u00d8nsker og anbefalinger",
+        "publishedAt": "2024-12-12T07:23:51.280Z",
+        "id": 1879
+      },
       {
         "title": "B\u00f8vl med teknik og rumkugler",
         "publishedAt": "2024-12-09T07:46:01.627Z",
@@ -9309,6 +9319,11 @@
     "slug": "her-vogter-jeg",
     "program_url": "https://r8dio.dk/program/her-vogter-jeg",
     "episodes": [
+      {
+        "title": "Fakta frem for F\u00f8lelser",
+        "publishedAt": "2024-12-12T05:00:00.000Z",
+        "id": 1877
+      },
       {
         "title": "Pineapple og Ahornblad",
         "publishedAt": "2024-11-14T05:00:00.000Z",
