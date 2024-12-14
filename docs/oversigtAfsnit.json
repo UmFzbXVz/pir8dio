@@ -5178,6 +5178,11 @@
     "program_url": "https://r8dio.dk/program/vandvognen",
     "episodes": [
       {
+        "title": "Jonas Kj\u00e6rsgaard",
+        "publishedAt": "2024-12-14T05:00:00.000Z",
+        "id": 1882
+      },
+      {
         "title": "Anox",
         "publishedAt": "2024-12-07T05:00:00.000Z",
         "id": 1868
@@ -5514,6 +5519,11 @@
     "slug": "fredags-l-i-advent",
     "program_url": "https://r8dio.dk/program/fredags-l-i-advent",
     "episodes": [
+      {
+        "title": "13. december",
+        "publishedAt": "2024-12-13T15:49:00.570Z",
+        "id": 1881
+      },
       {
         "title": "6. december",
         "publishedAt": "2024-12-06T15:40:09.647Z",
