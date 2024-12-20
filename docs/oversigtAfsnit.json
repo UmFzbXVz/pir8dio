@@ -5550,6 +5550,11 @@
     "program_url": "https://r8dio.dk/program/fredags-l-i-advent",
     "episodes": [
       {
+        "title": "20. december",
+        "publishedAt": "2024-12-20T15:33:43.483Z",
+        "id": 1892
+      },
+      {
         "title": "13. december",
         "publishedAt": "2024-12-13T15:49:00.570Z",
         "id": 1881
